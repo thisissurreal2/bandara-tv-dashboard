@@ -1,0 +1,15 @@
+# Local-only files: keep out of the (public) repository
+logs/
+__pycache__/
+*.pyc
+*.ps1
+*.backup*
+*.before-*
+index.blank-november.html
+bi_updater/update_log.txt
+bi_updater/*.backup.json
+bi_updater/*.download.json
+_site/
+
+private/
+.staticrypt.json

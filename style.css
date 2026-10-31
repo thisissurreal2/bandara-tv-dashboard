@@ -1,0 +1,978 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap');
+
+:root {
+  color-scheme: only light;
+  --blue: #347fa9;
+  --blue-dark: #245b7d;
+  --sky: #dff2fb;
+  --pale: #f2f9fd;
+  --white: #ffffff;
+  --text: #30495b;
+  --muted: #8198a8;
+  --line: #dceaf2;
+  --green: #4c9d80;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: #edf5fa;
+  color: var(--text);
+  font-family: 'DM Sans', Arial, sans-serif;
+}
+
+.dashboard {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(135deg, #ffffff, #eff8fc);
+}
+
+.header {
+  height: 13vh;
+  min-height: 82px;
+  padding: 0 4vw;
+  display: grid;
+  grid-template-columns: 1fr 1fr auto;
+  gap: 24px;
+  align-items: center;
+  background: white;
+  border-bottom: 1px solid var(--line);
+  box-shadow: 0 3px 14px #245b7d0b;
+  z-index: 2;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 13px;
+}
+
+.logo {
+  width: 48px;
+  height: 48px;
+  border: 2px solid #5aa5cc;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  color: var(--blue);
+  font-weight: 800;
+  font-size: 17px;
+}
+
+.brand h2 {
+  font-size: clamp(14px, 1.3vw, 22px);
+  margin: 0;
+  color: var(--blue-dark);
+  font-family: Manrope, sans-serif;
+}
+
+.brand p {
+  margin: 5px 0 0;
+  font-size: clamp(9px, .75vw, 12px);
+  color: #8ba7b9;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+}
+
+.page-heading {
+  text-align: center;
+  border-left: 1px solid var(--line);
+  padding-left: 20px;
+}
+
+.page-heading span {
+  font-size: clamp(9px, .7vw, 12px);
+  letter-spacing: .18em;
+  color: #7ca5bd;
+  font-weight: 700;
+}
+
+.page-heading h2 {
+  color: var(--blue-dark);
+  font-size: clamp(17px, 1.6vw, 27px);
+  margin: 5px 0 0;
+  font-family: Manrope, sans-serif;
+}
+
+.page-number, .label {
+  background: #eaf6fc;
+  border: 1px solid #d7eaf4;
+  color: #4e85a4;
+  padding: 10px 14px;
+  border-radius: 5px;
+  font-size: clamp(10px, .8vw, 13px);
+  font-weight: 800;
+  white-space: nowrap;
+}
+
+.pages {
+  position: relative;
+  flex: 1;
+  min-height: 0;
+}
+
+.page {
+  position: absolute;
+  inset: 0;
+  padding: 3vh 4vw 2.5vh;
+  display: flex;
+  flex-direction: column;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(8px);
+  transition: opacity .5s ease, transform .5s ease;
+}
+
+.page.active {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.section-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  margin-bottom: 2.5vh;
+}
+
+.section-heading h1 {
+  color: var(--blue-dark);
+  font: 800 clamp(27px, 2.5vw, 43px)/1.1 Manrope, sans-serif;
+  letter-spacing: -.04em;
+  margin: 0 0 8px;
+}
+
+.section-heading p {
+  color: #8299a9;
+  font-size: clamp(12px, .95vw, 16px);
+  margin: 0;
+}
+
+.two-columns {
+  flex: 1;
+  min-height: 0;
+  display: grid;
+  grid-template-columns: 1.5fr .9fr;
+  gap: 2vw;
+}
+
+.panel {
+  background: white;
+  border: 1px solid var(--line);
+  border-radius: 7px;
+  overflow: hidden;
+  box-shadow: 0 5px 20px #245b7d0b;
+  display: flex;
+  flex-direction: column;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: clamp(10px, .85vw, 14px);
+}
+
+thead { background: #dff1fa; color: #356d8e; }
+
+th, td {
+  padding: 1.6vh 1vw;
+  border-bottom: 1px solid #e7f0f5;
+  text-align: left;
+  white-space: nowrap;
+}
+
+th {
+  font-size: clamp(9px, .72vw, 12px);
+  letter-spacing: .04em;
+}
+
+td { color: #476579; }
+
+.source-note {
+  color: #8da2b0;
+  background: #f7fbfd;
+  padding: 12px 15px;
+  margin: auto 0 0;
+  border-top: 1px solid var(--line);
+  font-size: clamp(9px, .65vw, 11px);
+}
+
+.visual-card {
+  border-radius: 8px;
+  overflow: hidden;
+  position: relative;
+  background: linear-gradient(145deg, #9ed9ef, #3f8db7 58%, #225879);
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 26px;
+}
+
+.visual-card::before {
+  content: "";
+  position: absolute;
+  width: 75%;
+  aspect-ratio: 1;
+  border: 1px solid #ffffff55;
+  border-radius: 50%;
+  top: 8%;
+  right: -8%;
+  box-shadow: 0 0 0 18px #ffffff0c, 0 0 0 40px #ffffff0a;
+}
+
+.visual-caption { position: relative; z-index: 1; }
+
+.visual-caption span {
+  font-size: clamp(9px, .75vw, 12px);
+  letter-spacing: .16em;
+  font-weight: 800;
+  color: #d5f2ff;
+}
+
+.visual-caption h2 {
+  font: 800 clamp(27px, 2.7vw, 45px)/1.08 Manrope, sans-serif;
+  margin: 10px 0;
+}
+
+.visual-caption p {
+  font-size: clamp(11px, .9vw, 15px);
+  color: #e2f5fc;
+  margin: 0;
+}
+
+.big-symbol {
+  position: absolute;
+  top: 27%;
+  left: 9%;
+  color: #ffffff9c;
+  font: 800 clamp(38px, 5vw, 80px) Manrope, sans-serif;
+  letter-spacing: .08em;
+}
+
+.schedule-columns { grid-template-columns: 1.7fr .7fr; }
+
+.schedule-panel table th,
+.schedule-panel table td {
+  padding: 1.15vh .8vw;
+}
+
+.tag {
+  display: inline-block;
+  border-radius: 20px;
+  padding: 5px 8px;
+  font-size: clamp(9px, .65vw, 11px);
+  font-weight: 700;
+}
+
+.ground { background: #fff1c9; color: #99752a; }
+.simulator { background: #e0f2fb; color: #347fa9; }
+
+.aircraft-card {
+  background: linear-gradient(160deg, #b8e4f3, #579fc2 55%, #285f82);
+}
+
+.aircraft-icon {
+  position: absolute;
+  top: 20%;
+  left: 12%;
+  font-size: clamp(75px, 9vw, 145px);
+  color: #ffffffd9;
+  transform: rotate(-8deg);
+  text-shadow: 0 8px 20px #17476744;
+}
+
+.aircraft-card .visual-caption { margin-bottom: 8px; }
+
+.news-columns { grid-template-columns: 1.7fr 0.8fr; gap: 20px; }
+
+.news-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 0;
+}
+
+.news-card {
+  flex: 1;
+  min-height: 0;
+  background: white;
+  border: 1px solid var(--line);
+  border-left: 4px solid #66b4d6;
+  border-radius: 7px;
+  padding: 1.5vh 1.4vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  box-shadow: 0 4px 15px #245b7d08;
+}
+
+.category {
+  align-self: flex-start;
+  background: #e1f3fb;
+  color: #3983a8;
+  border-radius: 3px;
+  padding: 4px 7px;
+  font-size: clamp(9px, .65vw, 11px);
+  letter-spacing: .08em;
+  font-weight: 800;
+}
+
+.category.green { background: #e2f3eb; color: #47896f; }
+
+.news-card h3 {
+  font: 800 clamp(16px, 1.35vw, 23px)/1.2 Manrope, sans-serif;
+  color: #2c6385;
+  margin: 9px 0 6px;
+}
+
+.news-card p {
+  font-size: clamp(10px, .8vw, 13px);
+  line-height: 1.4;
+  color: #7c93a2;
+  margin: 0 0 7px;
+}
+
+.news-card small {
+  color: #9aadb9;
+  font-size: clamp(9px, .63vw, 10px);
+}
+
+.international-card {
+  background: linear-gradient(145deg, #83c8e1, #397fa7 55%, #173f61);
+}
+
+.globe-art {
+  position: absolute;
+  right: 12%;
+  top: 15%;
+  font-size: clamp(100px, 15vw, 220px);
+  color: #ffffff70;
+}
+
+.plane-art {
+  position: absolute;
+  right: 12%;
+  top: 35%;
+  font-size: clamp(65px, 8vw, 125px);
+  color: #ffffffdf;
+  transform: rotate(-12deg);
+}
+
+.indonesia-card {
+  background: linear-gradient(145deg, #d5eff9, #76bad5 50%, #2f7198);
+}
+
+.indonesia-flag {
+  position: absolute;
+  top: 22%;
+  right: 14%;
+  width: 36%;
+  aspect-ratio: 1.5;
+  box-shadow: 0 8px 20px #1c557433;
+  transform: rotate(-7deg);
+}
+
+.indonesia-flag span { display: block; height: 50%; }
+.indonesia-flag span:first-child { background: #ed5555; }
+.indonesia-flag span:last-child { background: white; }
+
+.island-art {
+  position: absolute;
+  top: 48%;
+  left: 12%;
+  color: #ffffff85;
+  font: 800 clamp(20px, 2.2vw, 36px) Manrope, sans-serif;
+  letter-spacing: .18em;
+}
+
+.footer {
+  height: 7.5vh;
+  min-height: 48px;
+  padding: 0 4vw;
+  display: grid;
+  grid-template-columns: 1fr 1.2fr 1fr;
+  gap: 16px;
+  align-items: center;
+  background: #f9fcfe;
+  border-top: 1px solid var(--line);
+  color: #8199a9;
+  z-index: 2;
+}
+
+.footer-clock, .footer-message, .footer-brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  white-space: nowrap;
+  font-size: clamp(9px, .7vw, 12px);
+}
+
+.footer-clock strong { color: #3b7496; font-size: clamp(12px, .95vw, 16px); }
+.footer-message { justify-content: center; }
+.footer-icon { color: #56a0c5; font-size: 19px; }
+.footer-brand { justify-content: flex-end; }
+.online-dot { width: 7px; height: 7px; background: #5bad8f; border-radius: 50%; }
+.footer-plane { color: #4b8eaf; font-size: 17px; }
+
+.progress-track { height: 3px; background: #d9eaf3; }
+#progress { height: 100%; width: 0; background: #54a8ce; }
+
+@media (max-width: 850px) {
+  .header { grid-template-columns: 1fr auto; gap: 10px; }
+  .page-heading { display: none; }
+  .two-columns, .schedule-columns, .news-columns { grid-template-columns: 1fr; }
+  .visual-card { display: none; }
+  .footer { grid-template-columns: 1fr auto; }
+  .footer-message { display: none; }
+  th, td { padding: 1vh .6vw; }
+}
+
+
+/* Fit the complete C-130H schedule on the TV */
+.schedule-panel table {
+  table-layout: fixed;
+  font-size: clamp(10px, 0.78vw, 13px);
+}
+
+.schedule-panel th,
+.schedule-panel td {
+  padding: 1vh 0.65vw;
+  white-space: normal;
+  overflow-wrap: break-word;
+}
+
+.schedule-panel th:nth-child(1),
+.schedule-panel td:nth-child(1) {
+  width: 19%;
+}
+
+.schedule-panel th:nth-child(2),
+.schedule-panel td:nth-child(2) {
+  width: 31%;
+}
+
+.schedule-panel th:nth-child(3),
+.schedule-panel td:nth-child(3) {
+  width: 25%;
+}
+
+.schedule-panel th:nth-child(4),
+.schedule-panel td:nth-child(4) {
+  width: 25%;
+}
+
+.schedule-panel .tag {
+  white-space: normal;
+  line-height: 1.2;
+  text-align: center;
+  padding: 4px 6px;
+}
+
+
+/* Official company logo in the header */
+.company-logo {
+  width: 125px;
+  height: 65px;
+  object-fit: contain;
+  object-position: center;
+  flex-shrink: 0;
+}
+
+/* Keep the company name aligned with the logo */
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.brand h2 {
+  white-space: nowrap;
+}
+
+
+/* C-130H photograph in the schedule panel */
+.aircraft-card {
+  position: relative;
+  overflow: hidden;
+  padding: 0;
+  background: #24465d;
+}
+
+.aircraft-photo {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.aircraft-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to top,
+    rgba(14, 39, 57, 0.94) 0%,
+    rgba(14, 39, 57, 0.35) 48%,
+    rgba(14, 39, 57, 0.02) 100%
+  );
+}
+
+.aircraft-card .visual-caption {
+  position: relative;
+  z-index: 1;
+  padding: 25px;
+  margin-top: auto;
+}
+
+.aircraft-card .visual-caption h2 {
+  color: #ffffff;
+}
+
+.aircraft-card .visual-caption p,
+.aircraft-card .visual-caption span {
+  color: #e0f5ff;
+}
+
+/* The photograph replaces the old aircraft icon */
+.aircraft-card .aircraft-icon {
+  display: none;
+}
+
+
+.slide-controls {
+  position: absolute;
+  right: 4vw;
+  bottom: 12px;
+  z-index: 5;
+  display: flex;
+  gap: 8px;
+}
+
+.slide-controls button {
+  border: 1px solid #c9e2ef;
+  border-radius: 5px;
+  background: #fff;
+  color: #356d8e;
+  padding: 9px 14px;
+  font: inherit;
+  font-size: 12px;
+  cursor: pointer;
+}
+
+.slide-controls button:hover {
+  background: #e5f5fc;
+}
+
+@media (max-width: 850px) {
+  .slide-controls {
+    right: 10px;
+    bottom: 5px;
+  }
+}
+
+.rate-upload {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.upload-button {
+  display: inline-block;
+  padding: 10px 16px;
+  background: #155da8;
+  color: #fff;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.upload-button:hover {
+  background: #10477f;
+}
+
+#rate-status {
+  font-size: 12px;
+  color: #64748b;
+}
+
+/* Additional market information — exchange-rate page only */
+.market-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 22px;
+  padding: 26px;
+  min-height: 100%;
+  box-sizing: border-box;
+}
+
+.market-info .visual-caption h2 {
+  margin-bottom: 8px;
+}
+
+.market-info-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.market-info-item {
+  display: flex;
+  align-items: center;
+  gap: 0;
+}
+
+.market-info-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 48px;
+  height: 48px;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.14);
+  color: #fff;
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.market-info-details {
+  flex: 1;
+  min-width: 0;
+}
+
+.market-info-label {
+  font-size: 13px;
+  opacity: 0.85;
+}
+
+.market-info-details strong {
+  font-size: 20px;
+  overflow-wrap: anywhere;
+}
+
+.market-info-details small {
+  font-size: 11px;
+  opacity: 0.75;
+}
+
+.market-info-note {
+  margin-top: auto;
+  font-size: 11px;
+  line-height: 1.6;
+  opacity: 0.75;
+}
+
+@media (max-width: 700px) {
+  .market-info {
+    padding: 18px;
+  }
+
+  .market-info-details strong {
+    font-size: 17px;
+  }
+}
+
+.currency-flag {
+  width: 30px;
+  height: 20px;
+  object-fit: cover;
+  border-radius: 3px;
+  vertical-align: middle;
+  margin-right: 8px;
+}
+
+.market-info-image {
+  width: 64px;
+  height: 64px;
+  object-fit: cover;
+  border-radius: 10px;
+  flex-shrink: 0;
+}
+
+.market-info {
+  background:
+    linear-gradient(rgba(8, 24, 45, 0.78), rgba(8, 24, 45, 0.88)),
+    url("images/dollar.png") center / cover no-repeat;
+  border-radius: 14px;
+  padding: 24px;
+  color: white;
+}
+
+/* Alternating market-rate / Bank Indonesia views inside the existing left panel */
+.rate-panel { min-height: 0; position: relative; }
+.rate-view {
+  display: none;
+  flex: 1;
+  min-height: 0;
+  flex-direction: column;
+  overflow: hidden;
+}
+.rate-view.active { display: flex; }
+.rate-view-heading {
+  padding: 18px 20px 12px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  border-bottom: 1px solid var(--line);
+  background: #fbfdff;
+}
+.rate-view-heading h2 {
+  margin: 0 0 4px;
+  font: 800 clamp(16px, 1.3vw, 22px)/1.15 Manrope, sans-serif;
+  color: var(--blue-dark);
+}
+.rate-view-heading p {
+  margin: 0;
+  color: var(--muted);
+  font-size: clamp(10px, .72vw, 12px);
+}
+.rate-badge {
+  border-radius: 4px;
+  padding: 7px 9px;
+  font-size: clamp(8px, .62vw, 10px);
+  letter-spacing: .06em;
+  font-weight: 800;
+  white-space: nowrap;
+}
+.live-badge { color: #236c9b; background: #e4f4fc; }
+.bi-badge { color: #34785d; background: #e5f5ec; }
+.live-rate-grid {
+  padding: 10px 16px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  min-height: 0;
+  overflow: auto;
+}
+.live-rate-item {
+  min-width: 0;
+  min-height: 76px;
+  border: 1px solid #e2edf4;
+  border-radius: 6px;
+  padding: 8px 10px 2px;
+  background: white;
+}
+.live-rate-item:first-child { grid-column: 1 / -1; }
+.live-rate-item > span {
+  display: block;
+  margin-bottom: 2px;
+  color: #4a7994;
+  font-size: clamp(10px, .78vw, 13px);
+  font-weight: 800;
+}
+.tradingview-rate { min-height: 42px; }
+.tradingview-rate .tradingview-widget-container,
+.tradingview-rate .tradingview-widget-container__widget { width: 100%; }
+.tradingview-rate iframe { max-width: 100%; }
+.live-source-note { margin-top: auto; }
+.bi-view .rate-upload { padding: 12px 16px 8px; margin: 0; }
+.bi-view .bi-table-wrap { min-height: 0; overflow: auto; }
+.bi-view table { font-size: clamp(9px, .78vw, 13px); }
+.bi-view th, .bi-view td { padding: 1.25vh .7vw; }
+.bi-view .source-note { flex-shrink: 0; }
+#rate-status { line-height: 1.35; }
+@media (max-width: 850px) {
+  .live-rate-grid { grid-template-columns: 1fr 1fr; }
+  .rate-view-heading { padding: 12px; }
+  .bi-view th, .bi-view td { padding: 8px 5px; white-space: normal; }
+}
+
+
+/* Manual switch controls for market and BI rates */
+.rate-heading-actions {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.rate-switch-button {
+  border: 1px solid #c6dce9;
+  border-radius: 5px;
+  background: #f2f8fc;
+  color: #174d70;
+  padding: 8px 10px;
+  font: 700 clamp(9px, .7vw, 12px)/1.2 Manrope, sans-serif;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background .15s ease, border-color .15s ease;
+}
+.rate-switch-button:hover,
+.rate-switch-button:focus-visible {
+  background: #e0f0fa;
+  border-color: #6ba5c5;
+  outline: none;
+}
+.rate-switch-button:focus-visible {
+  box-shadow: 0 0 0 3px rgba(54, 133, 177, .18);
+}
+@media (max-width: 600px) {
+  .rate-heading-actions { align-items: flex-end; flex-direction: column; }
+  .rate-switch-button { padding: 6px 8px; }
+}
+
+/* Give the news section more room */
+.news-columns {
+  grid-template-columns: 1.7fr 0.8fr !important;
+}
+
+
+
+
+/* Improve news readability */
+#national-news .news-card-content h3,
+#international-news .news-card-content h3 {
+  font-size: clamp(16px, 1.1vw, 21px);
+  line-height: 1.3;
+  margin: 4px 0 6px;
+}
+
+#national-news .news-card-content p,
+#international-news .news-card-content p {
+  font-size: clamp(11px, 0.8vw, 14px);
+  line-height: 1.45;
+}
+
+
+/* FINAL NEWS LAYOUT FIX — international + national */
+.news-columns {
+  grid-template-columns: minmax(0, 1.9fr) minmax(0, 0.6fr) !important;
+  gap: 16px !important;
+  min-width: 0 !important;
+}
+
+/* Keep every news card horizontal */
+#international-news .news-card,
+#national-news .news-card {
+  display: flex !important;
+  flex-direction: row !important;
+  align-items: flex-start !important;
+  gap: 14px !important;
+  min-width: 0 !important;
+  min-height: 150px !important;
+  height: auto !important;
+  padding: 12px 14px !important;
+  overflow: hidden !important;
+  box-sizing: border-box !important;
+}
+
+/* Stop national images from expanding across the cards */
+#international-news img.news-thumb,
+#national-news img.news-thumb,
+#international-news .news-thumb-placeholder,
+#national-news .news-thumb-placeholder {
+  display: block !important;
+  flex: 0 0 240px !important;
+  width: 240px !important;
+  min-width: 240px !important;
+  max-width: 240px !important;
+  height: 160px !important;
+  min-height: 160px !important;
+  max-height: 160px !important;
+  object-fit: cover !important;
+  margin: 0 !important;
+  border-radius: 7px !important;
+  box-sizing: border-box !important;
+}
+
+/* Give the text the remaining card width */
+#international-news .news-card-content,
+#national-news .news-card-content {
+  flex: 1 1 0 !important;
+  width: 0 !important;
+  min-width: 0 !important;
+  overflow: hidden !important;
+}
+
+#international-news .news-card-content h3,
+#national-news .news-card-content h3 {
+  overflow-wrap: break-word !important;
+  word-break: normal !important;
+}
+
+#international-news .news-card-content h3 a,
+#national-news .news-card-content h3 a {
+  color: #24527a !important;
+  text-decoration: none !important;
+}
+
+/* Keep both right-side panels within their smaller column */
+.international-card,
+.indonesia-card {
+  min-width: 0 !important;
+  overflow: hidden !important;
+}
+
+/* Responsive fallback */
+@media (max-width: 900px) {
+  .news-columns {
+    grid-template-columns: minmax(0, 1fr) !important;
+  }
+
+  .international-card,
+  .indonesia-card {
+    display: none !important;
+  }
+
+  #international-news img.news-thumb,
+  #national-news img.news-thumb,
+  #international-news .news-thumb-placeholder,
+  #national-news .news-thumb-placeholder {
+    flex-basis: 150px !important;
+    width: 150px !important;
+    min-width: 150px !important;
+    max-width: 150px !important;
+    height: 100px !important;
+    min-height: 100px !important;
+    max-height: 100px !important;
+  }
+}
+
+
+/* Blank-schedule placeholder row (C-130H page) */
+.schedule-panel .schedule-empty td {
+  text-align: center;
+  padding: 8vh 1vw;
+  font-size: clamp(14px, 1.2vw, 22px);
+  opacity: .75;
+}
+
+
+/* Month picker (C-130H page, top right) */
+.month-picker {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: #8299a9;
+  font-size: clamp(12px, .95vw, 16px);
+}
+
+.month-picker select {
+  appearance: auto;
+  background: #fff;
+  color: var(--blue-dark);
+  border: 1px solid #cfe0ea;
+  border-radius: 10px;
+  padding: 8px 12px;
+  font: 700 clamp(13px, 1.05vw, 18px) Manrope, sans-serif;
+  cursor: pointer;
+}
+
+.month-picker select:focus-visible {
+  outline: 2px solid var(--blue-dark);
+  outline-offset: 2px;
+}

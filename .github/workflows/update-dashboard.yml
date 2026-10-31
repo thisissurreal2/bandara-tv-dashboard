@@ -1,0 +1,58 @@
+name: Update and publish dashboard
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # every 15 minutes (GitHub may delay runs by a few minutes)
+  workflow_dispatch:          # lets you run it by hand from the Actions tab
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      # If a feed fails, the step is marked but the job continues and the
+      # previously committed news.json / latest_rates.json stay in place.
+      - name: Update news
+        run: python update_news.py
+        continue-on-error: true
+
+      - name: Update Bank Indonesia rates
+        run: python bi_updater/update_rates.py
+        continue-on-error: true
+
+      - name: Assemble site (only the files the TV page needs)
+        run: |
+          mkdir -p _site/bi_updater
+          cp index.html style.css script.js news.json _site/
+          cp -r images _site/images
+          cp bi_updater/latest_rates.json _site/bi_updater/
+          touch _site/.nojekyll
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
