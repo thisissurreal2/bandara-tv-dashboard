@@ -1,8 +1,7 @@
-
 import json
 import urllib.request
 import xml.etree.ElementTree as ET
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import urlencode
 
@@ -14,11 +13,16 @@ BI_URL = (
     "wskursbi.asmx/getSubKursLokal2"
 )
 
+# BI publishes by Jakarta date (UTC+7). GitHub's servers run on UTC,
+# so we calculate the date ourselves instead of using the server clock.
+JAKARTA = timezone(timedelta(hours=7))
 
-def fetch_sample():
-    from datetime import datetime
+# BI publishes no rates on weekends/holidays, so we look back this many days.
+MAX_DAYS_BACK = 7
 
-    params = urlencode({"tgl": datetime.now().strftime("%Y-%m-%d")})
+
+def fetch_rows_for(date_text):
+    params = urlencode({"tgl": date_text})
 
     request = urllib.request.Request(
         f"{BI_URL}?{params}",
@@ -54,9 +58,34 @@ def fetch_sample():
             "bi_id": get_value("lnk_subkurslokal"),
         })
 
+    return rows
+
+
+def fetch_sample():
+    today = datetime.now(JAKARTA).date()
+    rows = []
+    used_date = None
+
+    for days_back in range(MAX_DAYS_BACK + 1):
+        day = today - timedelta(days=days_back)
+        date_text = day.strftime("%Y-%m-%d")
+        rows = fetch_rows_for(date_text)
+
+        if rows:
+            used_date = date_text
+            if days_back:
+                print(
+                    f"No rates for {today}; "
+                    f"using the latest published rates from {date_text}."
+                )
+            break
+
+        print(f"No rates published for {date_text}, trying the day before...")
+
     if not rows:
         raise ValueError(
-            "No currency rows found. Check the BI service response."
+            f"No currency rows found for the last {MAX_DAYS_BACK + 1} days. "
+            "Check the BI service response."
         )
 
     result = {
@@ -70,7 +99,7 @@ def fetch_sample():
         encoding="utf-8",
     )
 
-    print(f"Saved {len(rows)} row(s) to: {OUTPUT_FILE}")
+    print(f"Saved {len(rows)} row(s) for {used_date} to: {OUTPUT_FILE}")
 
     for row in rows:
         print(

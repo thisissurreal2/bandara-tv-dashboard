@@ -848,7 +848,7 @@ function displayOilInIDR(oilUsdPerBarrel) {
     if (subtitle) subtitle.textContent = `${label} · Training Schedule`;
     if (caption) caption.textContent = `Simulator activities · ${label}`;
     if (note) note.textContent = hasData
-      ? `${label} · Schedules.`
+      ? `${label} · Schedule may change due to simulator serviceability and available slots.`
       : `${label} · Schedule not yet available.`;
   }
 

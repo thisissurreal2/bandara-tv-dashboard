@@ -976,3 +976,36 @@ td { color: #476579; }
   outline: 2px solid var(--blue-dark);
   outline-offset: 2px;
 }
+
+/* Allow long monthly training schedules to scroll without stretching the whole page. */
+.schedule-table-scroll {
+  flex: 1;
+  min-height: 0;
+  max-height: none;
+  overflow-y: auto;
+  overflow-x: hidden;
+  overscroll-behavior: contain;
+  scrollbar-width: thin;
+  scrollbar-color: #6fa8c7 rgba(217, 234, 243, 0.45);
+  border-radius: 8px;
+}
+
+.schedule-table-scroll::-webkit-scrollbar {
+  width: 9px;
+}
+
+.schedule-table-scroll::-webkit-scrollbar-track {
+  background: rgba(217, 234, 243, 0.45);
+  border-radius: 8px;
+}
+
+.schedule-table-scroll::-webkit-scrollbar-thumb {
+  background: #6fa8c7;
+  border-radius: 8px;
+}
+
+.schedule-panel table thead th {
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
