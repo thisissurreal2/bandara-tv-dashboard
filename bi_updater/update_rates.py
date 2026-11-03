@@ -61,26 +61,25 @@ def fetch_rows_for(date_text):
     return rows
 
 
-def fetch_sample():
-    today = datetime.now(JAKARTA).date()
-    rows = []
-    used_date = None
-
+def find_latest_rows(start_day):
+    """Walk back from start_day until BI has published rates."""
     for days_back in range(MAX_DAYS_BACK + 1):
-        day = today - timedelta(days=days_back)
+        day = start_day - timedelta(days=days_back)
         date_text = day.strftime("%Y-%m-%d")
         rows = fetch_rows_for(date_text)
 
         if rows:
-            used_date = date_text
-            if days_back:
-                print(
-                    f"No rates for {today}; "
-                    f"using the latest published rates from {date_text}."
-                )
-            break
+            return day, rows
 
         print(f"No rates published for {date_text}, trying the day before...")
+
+    return None, []
+
+
+def fetch_sample():
+    today = datetime.now(JAKARTA).date()
+
+    used_day, rows = find_latest_rows(today)
 
     if not rows:
         raise ValueError(
@@ -88,10 +87,34 @@ def fetch_sample():
             "Check the BI service response."
         )
 
+    if used_day != today:
+        print(
+            f"No rates for {today}; "
+            f"using the latest published rates from {used_day}."
+        )
+
+    # Also grab the previous published day, so the dashboard can show the
+    # change versus the day before. If this fails, the main rates still save.
+    previous = None
+    try:
+        previous_day, previous_rows = find_latest_rows(
+            used_day - timedelta(days=1)
+        )
+        if previous_rows:
+            previous = {
+                "date": previous_day.strftime("%Y-%m-%d"),
+                "rows": previous_rows,
+            }
+            print(f"Previous published day: {previous_day}")
+    except Exception as error:
+        print(f"Could not load the previous day ({error}); continuing.")
+
     result = {
         "source": "Bank Indonesia",
         "retrieved_at": datetime.now().astimezone().isoformat(),
+        "rates_date": used_day.strftime("%Y-%m-%d"),
         "rows": rows,
+        "previous": previous,
     }
 
     OUTPUT_FILE.write_text(
@@ -99,7 +122,7 @@ def fetch_sample():
         encoding="utf-8",
     )
 
-    print(f"Saved {len(rows)} row(s) for {used_date} to: {OUTPUT_FILE}")
+    print(f"Saved {len(rows)} row(s) for {used_day} to: {OUTPUT_FILE}")
 
     for row in rows:
         print(

@@ -230,6 +230,11 @@ function renderBIRates(rates, sourceLabel) {
     console.warn("Could not read previous BI rates:", error);
   }
 
+    // Prefer the previous business day from the updater over the browser's memory.
+  if (window.biPreviousFromFile) {
+    previousRates = window.biPreviousFromFile;
+  }
+  
   rateTable.innerHTML = currencyOrder
     .filter(code => rates[code])
     .map(code => {
@@ -317,6 +322,20 @@ async function loadBIRatesFromJSON() {
         buy: buy / nominal,
         sell: sell / nominal
       };
+    }
+
+        // Previous published day's rates, supplied by the updater.
+    window.biPreviousFromFile = null;
+    if (data.previous && Array.isArray(data.previous.rows)) {
+      const prev = {};
+      for (const row of data.previous.rows) {
+        const code = String(row.currency || "").trim().toUpperCase();
+        const nominal = Number(row.nominal);
+        const sell = Number(row.sell);
+        if (!currencyNames[code] || !(nominal > 0) || !Number.isFinite(sell)) continue;
+        prev[code] = { sell: sell / nominal };
+      }
+      if (Object.keys(prev).length) window.biPreviousFromFile = prev;
     }
 
     if (Object.keys(rates).length === 0) {
