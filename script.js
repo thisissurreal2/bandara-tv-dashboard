@@ -234,7 +234,7 @@ function renderBIRates(rates, sourceLabel) {
   if (window.biPreviousFromFile) {
     previousRates = window.biPreviousFromFile;
   }
-  
+
   rateTable.innerHTML = currencyOrder
     .filter(code => rates[code])
     .map(code => {
@@ -684,8 +684,8 @@ function displayOilInIDR(oilUsdPerBarrel) {
         ? `<img class="news-thumb" src="${imageUrl}" alt="" loading="eager" onerror="this.onerror=null;this.classList.add('news-thumb-placeholder');this.removeAttribute('src');this.setAttribute('aria-label','Gambar tidak tersedia');">`
         : `<div class="news-thumb news-thumb-placeholder" aria-hidden="true">BERITA</div>`;
       const category = container === internationalContainer
-          ? (index === 0 ? "LATEST" : index === 1 ? "AVIATION" : "NEWS")
-          : (index === 0 ? "TERBARU" : index === 1 ? "DIRGANTARA" : "BERITA");
+          ? (index === 0 ? "LATEST" : index === 1 ? "WORLD" : "NEWS")
+          : (index === 0 ? "TERBARU" : index === 1 ? "NASIONAL" : "BERITA");
       return `<article class="news-card news-card-with-image">
         ${image}
         <div class="news-card-content">
