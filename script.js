@@ -845,40 +845,367 @@ function displayOilInIDR(oilUsdPerBarrel) {
 })();
 
 
-/* C-130H schedule month picker: shows one month's table at a time. */
+/* PT Bandara monthly time-slot calendar + Google Sheets test integration.
+   Public JSONP endpoint is for dummy-data prototyping only. */
 (() => {
   const select = document.getElementById("schedule-month-select");
-  if (!select) return;
+  const board = document.getElementById("schedule");
+  if (!select || !board) return;
 
-  const tables = [...document.querySelectorAll("[data-month]")];
   const subtitle = document.getElementById("schedule-subtitle");
   const note = document.getElementById("schedule-note");
   const caption = document.getElementById("schedule-caption");
+  const totalEl = document.getElementById("schedule-total");
+  const simulatorEl = document.getElementById("schedule-simulator");
+  const groundEl = document.getElementById("schedule-ground");
+  const todayOperationsDate = document.getElementById("today-operations-date");
+  const todayOperationsList = document.getElementById("today-operations-list");
+  const SCHEDULE_API_URL = "https://script.google.com/macros/s/AKfycbxQyoIkxs0ez1QDaX-fdrFkiVpT-HaCTBJH5mKwc7oABKFyI0Awq5diGLWLbwLPkOxH/exec";
+  const monthNames = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli", "Agustus", "September", "Oktober", "November", "Desember"];
+  const monthShort = ["Jan", "Feb", "Mar", "Apr", "Mei", "Jun", "Jul", "Agu", "Sep", "Okt", "Nov", "Des"];
+  const weekdayShort = ["Min", "Sen", "Sel", "Rab", "Kam", "Jum", "Sab"];
+  const startYear = 2026, startMonth = 10, endYear = 2030, endMonth = 12;
+  const slots = [
+    { section: "Ground School", time: "10:00 - 14:00", key: "ground-10" },
+    { section: "Ground School", time: "14:00 - 18:00", key: "ground-14" },
+    { section: "Flight Simulator", time: "16:00 - 20:00", key: "sim-16" },
+    { section: "Flight Simulator", time: "20:00 - 24:00", key: "sim-20" }
+  ];
+  let requestToken = 0;
+  let lastJakartaDate = "";
+  let currentRows = [];
+  let lastMonthGestureAt = 0;
 
-  function showMonth(key) {
-    const option = [...select.options].find(o => o.value === key);
-    if (!option) return;
-    const label = option.textContent;
-    select.value = key;
+  // Compact calendar toolbar. The original month select remains the source of truth,
+  // but is visually replaced by simple month navigation controls.
+  const toolbar = document.createElement("div");
+  toolbar.className = "slot-calendar-toolbar";
+  toolbar.innerHTML = `
+    <button type="button" class="calendar-nav-button" data-month-step="-1" aria-label="Bulan sebelumnya">‹</button>
+    <div class="calendar-toolbar-center">
+      <strong class="calendar-current-month" id="calendar-current-month">October 2026</strong>
+      <span class="calendar-today-indicator" id="calendar-today-indicator"></span>
+    </div>
+    <button type="button" class="calendar-today-button">Hari ini</button>
+    <button type="button" class="calendar-nav-button" data-month-step="1" aria-label="Bulan berikutnya">›</button>`;
+  const panel = board.closest(".schedule-timeline-panel");
+  if (panel) panel.insertBefore(toolbar, board);
+  const monthTitle = toolbar.querySelector("#calendar-current-month");
+  const todayIndicator = toolbar.querySelector("#calendar-today-indicator");
 
-    tables.forEach(body => { body.hidden = body.dataset.month !== key; });
+  function navigateMonth(step) {
+    const index = [...select.options].findIndex(o => o.value === select.value);
+    const next = Math.max(0, Math.min(select.options.length - 1, index + step));
+    if (next !== index && select.options[next]) selectMonth(select.options[next].value);
+  }
+  toolbar.querySelectorAll("[data-month-step]").forEach(button => {
+    button.addEventListener("click", () => navigateMonth(Number(button.dataset.monthStep)));
+  });
+  toolbar.querySelector(".calendar-today-button").addEventListener("click", () => {
+    const t = jakartaParts();
+    const key = `${t.year}-${String(t.month).padStart(2,"0")}`;
+    const first = `${startYear}-${String(startMonth).padStart(2,"0")}`;
+    const last = `${endYear}-${String(endMonth).padStart(2,"0")}`;
+    selectMonth(key < first ? first : key > last ? last : key);
+  });
 
-    const hasData = tables.some(body => body.dataset.month === key && !body.querySelector(".schedule-empty"));
-    if (subtitle) subtitle.textContent = `${label} · Training Schedule`;
-    if (caption) caption.textContent = `Simulator activities · ${label}`;
-    if (note) note.textContent = hasData
-      ? `${label} · Schedule may change due to simulator serviceability and available slots.`
-      : `${label} · Schedule not yet available.`;
+  function handleMonthSwipe(delta) {
+    const now = Date.now();
+    if (now - lastMonthGestureAt < 650) return;
+    lastMonthGestureAt = now;
+    navigateMonth(delta);
+  }
+  let touchStart = null;
+  board.addEventListener("touchstart", event => {
+    const t = event.changedTouches && event.changedTouches[0];
+    if (t) touchStart = { x: t.clientX, y: t.clientY };
+  }, { passive: true });
+  board.addEventListener("touchend", event => {
+    if (!touchStart) return;
+    const t = event.changedTouches && event.changedTouches[0];
+    if (!t) return;
+    const dx = t.clientX - touchStart.x, dy = t.clientY - touchStart.y;
+    touchStart = null;
+    if (Math.abs(dx) > 55 && Math.abs(dx) > Math.abs(dy) * 1.25) handleMonthSwipe(dx < 0 ? 1 : -1);
+  }, { passive: true });
+  board.addEventListener("wheel", event => {
+    if (Math.abs(event.deltaX) > 28 && Math.abs(event.deltaX) > Math.abs(event.deltaY) * 1.15) {
+      event.preventDefault();
+      handleMonthSwipe(event.deltaX > 0 ? 1 : -1);
+    }
+  }, { passive: false });
+
+  function jakartaParts() {
+    const parts = new Intl.DateTimeFormat("en-CA", {
+      timeZone: "Asia/Jakarta", year: "numeric", month: "2-digit", day: "2-digit"
+    }).formatToParts(new Date());
+    const get = type => parts.find(p => p.type === type).value;
+    return { year: Number(get("year")), month: Number(get("month")), day: Number(get("day")), key: `${get("year")}-${get("month")}-${get("day")}` };
+  }
+  function monthLabel(key) {
+    const [y, m] = key.split("-").map(Number);
+    return `${monthNames[m - 1]} ${y}`;
+  }
+  function populateMonths() {
+    select.replaceChildren();
+    for (let y = startYear; y <= endYear; y++) {
+      const first = y === startYear ? startMonth : 1;
+      const last = y === endYear ? endMonth : 12;
+      for (let m = first; m <= last; m++) {
+        const key = `${y}-${String(m).padStart(2, "0")}`;
+        const option = document.createElement("option");
+        option.value = key; option.textContent = monthLabel(key); select.appendChild(option);
+      }
+    }
+  }
+  function setStatus(message) { if (note) note.textContent = message; }
+  function parseISO(value) {
+    const m = String(value || "").match(/^(\d{4})-(\d{2})-(\d{2})$/);
+    if (!m) return null;
+    return new Date(Date.UTC(Number(m[1]), Number(m[2]) - 1, Number(m[3])));
+  }
+  function isoDay(date) {
+    return `${date.getUTCFullYear()}-${String(date.getUTCMonth()+1).padStart(2,"0")}-${String(date.getUTCDate()).padStart(2,"0")}`;
+  }
+  function getSlot(item) {
+    const section = String(item.section || "").toLowerCase();
+    const time = String(item.time || "").replace(/[–—]/g,"-").replace(/\s/g,"");
+    if (section.includes("ground")) {
+      if (time === "10:00-14:00") return 0;
+      if (time === "14:00-18:00") return 1;
+    }
+    if (section.includes("simulator")) {
+      if (time === "16:00-20:00") return 2;
+      if (time === "20:00-24:00") return 3;
+    }
+    return -1;
+  }
+  // Keep booking colours consistent by training type. Customer names are not mapped
+  // to colours, so adding new operators never requires a code change.
+  function bookingColor(section) {
+    return String(section || "").toLowerCase().includes("ground") ? "#d9ad4e" : "#5b9fc7";
+  }
+  function makeCell(className, text) {
+    const el = document.createElement("div"); el.className = className;
+    if (text !== undefined) el.textContent = text;
+    return el;
+  }
+  function renderGrid(rows, key) {
+    board.replaceChildren();
+    const [year, month] = key.split("-").map(Number);
+    const days = new Date(Date.UTC(year, month, 0)).getUTCDate();
+    const today = jakartaParts();
+    const todayInMonth = today.year === year && today.month === month;
+
+    const scroller = makeCell("slot-calendar-scroll");
+    const grid = makeCell("slot-calendar");
+    grid.style.setProperty("--day-count", days);
+    const header = makeCell("slot-calendar-header");
+    header.style.setProperty("--day-count", days);
+    const corner = makeCell("slot-calendar-corner", "TRAINING SLOT / TIME");
+    header.appendChild(corner);
+    for (let day = 1; day <= days; day++) {
+      const date = new Date(Date.UTC(year, month - 1, day));
+      const isWeekend = date.getUTCDay() === 0 || date.getUTCDay() === 6;
+      const dateKey = isoDay(date);
+      const cell = makeCell(`slot-day-head${isWeekend ? " is-weekend" : ""}${todayInMonth && today.day === day ? " is-today" : ""}`);
+      const num = makeCell("slot-day-number", String(day));
+      const weekday = makeCell("slot-weekday", weekdayShort[date.getUTCDay()]);
+      cell.append(num, weekday);
+      if (todayInMonth && today.day === day) cell.title = "Hari ini · Waktu Jakarta";
+      header.appendChild(cell);
+    }
+    grid.appendChild(header);
+
+    const slotRows = slots.map((slot, slotIndex) => {
+      const row = makeCell(`slot-calendar-row slot-row-${slotIndex}`);
+      const label = makeCell("slot-row-label");
+      const section = makeCell("slot-section", slot.section);
+      const time = makeCell("slot-time", slot.time.replace(" - ", "–"));
+      label.append(section, time); row.appendChild(label);
+      const track = makeCell("slot-row-track");
+      track.style.setProperty("--day-count", days);
+      for (let day = 1; day <= days; day++) {
+        const date = new Date(Date.UTC(year, month - 1, day));
+        const weekend = date.getUTCDay() === 0 || date.getUTCDay() === 6;
+        const todayClass = todayInMonth && today.day === day ? " is-today" : "";
+        const dayBackground = makeCell(`slot-day-bg${weekend ? " is-weekend" : ""}${todayClass}`);
+        // Pin each background to its exact date column. Explicit placement prevents
+        // CSS Grid auto-placement from shifting weekend/today shading out of alignment.
+        dayBackground.style.gridColumn = `${day} / ${day + 1}`;
+        dayBackground.style.gridRow = "1 / -1";
+        track.appendChild(dayBackground);
+      }
+      row.appendChild(track); grid.appendChild(row);
+      return { row, track };
+    });
+
+    const events = rows.map(item => ({ item, slot: getSlot(item), start: parseISO(item.startDate), end: parseISO(item.endDate) }))
+      .filter(e => e.slot >= 0 && e.start && e.end && e.end >= e.start);
+    const monthStart = new Date(Date.UTC(year, month - 1, 1));
+    const monthEnd = new Date(Date.UTC(year, month - 1, days));
+    events.forEach(event => {
+      const start = event.start < monthStart ? monthStart : event.start;
+      const end = event.end > monthEnd ? monthEnd : event.end;
+      if (end < monthStart || start > monthEnd) return;
+      const startDay = start.getUTCDate();
+      const endDay = end.getUTCDate();
+      const chip = makeCell("slot-booking", event.item.activity || "Booking");
+      chip.style.backgroundColor = bookingColor(event.item.section);
+      chip.style.gridColumn = `${startDay} / ${endDay + 1}`;
+      chip.title = `${event.item.activity} · ${event.item.time} · ${event.item.section} · ${event.item.startDate} to ${event.item.endDate}`;
+      chip.setAttribute("aria-label", chip.title);
+      const lane = event.slot;
+      const rowTrack = slotRows[lane].track;
+      // Assign overlapping bookings to separate lanes within the same time-slot row.
+      const laneEvents = events.filter(other => other.slot === event.slot && other !== event && other.start <= event.end && other.end >= event.start);
+      let laneIndex = 0;
+      const occupied = new Set();
+      laneEvents.forEach(other => { if (other._lane !== undefined) occupied.add(other._lane); });
+      while (occupied.has(laneIndex)) laneIndex++;
+      event._lane = laneIndex;
+      chip.style.gridRow = String(laneIndex + 1);
+      chip.textContent = event.item.activity || "Booking";
+      const range = makeCell("slot-booking-time", event.item.time || "");
+      chip.appendChild(range);
+      rowTrack.appendChild(chip);
+    });
+
+    scroller.appendChild(grid); board.appendChild(scroller);
+    if (!rows.length) {
+      const empty = makeCell("schedule-empty", `Belum ada jadwal untuk ${monthLabel(key)}.`);
+      board.appendChild(empty);
+    } else {
+      const unmatched = rows.filter(r => getSlot(r) < 0);
+      if (unmatched.length) setStatus(`${monthLabel(key)} · ${rows.length} kegiatan · ${unmatched.length} kegiatan memiliki waktu/bagian yang tidak sesuai dengan empat slot.`);
+    }
+  }
+  function renderTodayOperations() {
+    if (!todayOperationsList || !todayOperationsDate) return;
+    const now = new Date();
+    const parts = new Intl.DateTimeFormat("en-CA", {
+      timeZone: "Asia/Jakarta", year: "numeric", month: "2-digit", day: "2-digit",
+      hour: "2-digit", minute: "2-digit", hourCycle: "h23"
+    }).formatToParts(now);
+    const value = type => parts.find(p => p.type === type).value;
+    const todayKey = `${value("year")}-${value("month")}-${value("day")}`;
+    const minutesNow = Number(value("hour")) * 60 + Number(value("minute"));
+    const displayDate = new Intl.DateTimeFormat("id-ID", {
+      timeZone: "Asia/Jakarta", weekday: "long", day: "numeric", month: "long", year: "numeric"
+    }).format(now);
+    todayOperationsDate.textContent = displayDate;
+
+    const selectedMonth = select.value;
+    if (selectedMonth !== todayKey.slice(0, 7)) {
+      todayOperationsList.innerHTML = "<p class='today-operations-empty'>Select the current month to view today's operations.</p>";
+      return;
+    }
+
+    const todays = currentRows.filter(item =>
+      String(item.startDate || "") <= todayKey && String(item.endDate || "") >= todayKey
+    ).map(item => {
+      const match = String(item.time || "").match(/(\d{1,2}):(\d{2})\s*[-–—]\s*(\d{1,2}):(\d{2})/);
+      let start = 0, end = 1440;
+      if (match) {
+        start = Number(match[1]) * 60 + Number(match[2]);
+        end = Number(match[3]) * 60 + Number(match[4]);
+        if (end === 1440 || end === 0) end = 1440;
+      }
+      const status = minutesNow < start ? "upcoming" : minutesNow < end ? "ongoing" : "completed";
+      return { item, start, end, status };
+    }).sort((a, b) => a.start - b.start);
+
+    if (!todays.length) {
+      todayOperationsList.innerHTML = '<p class="today-operations-empty">No operations scheduled for today.</p>';
+      return;
+    }
+
+    todayOperationsList.replaceChildren();
+    todays.forEach(({ item, start, end, status }) => {
+      const card = document.createElement("article");
+      card.className = `today-operation-card is-${status}`;
+      const top = document.createElement("div");
+      top.className = "today-operation-topline";
+      const name = document.createElement("strong");
+      name.className = "today-operation-name";
+      name.textContent = item.activity || "Operasi terjadwal";
+      const badge = document.createElement("span");
+      badge.className = `today-operation-status is-${status}`;
+      badge.textContent = {upcoming:"AKAN DATANG",ongoing:"BERLANGSUNG",completed:"SELESAI"}[status];
+      top.append(name, badge);
+      const details = document.createElement("div");
+      details.className = "today-operation-details";
+      const section = document.createElement("span");
+      section.textContent = item.section || "Pelatihan";
+      const time = document.createElement("span");
+      time.textContent = item.time || `${String(Math.floor(start / 60)).padStart(2,"0")}:00–${String(Math.floor(end / 60)).padStart(2,"0")}:00`;
+      details.append(section, time);
+      card.append(top, details);
+      todayOperationsList.appendChild(card);
+    });
   }
 
-  select.addEventListener("change", () => showMonth(select.value));
-
-  // Arrow keys / space on the dropdown must not flip the slideshow page.
+  function loadSelectedMonth() {
+    const key = select.value;
+    const token = ++requestToken;
+    setStatus(`Memuat ${monthLabel(key)} dari Google Sheets…`);
+    const callbackName = `bandaraScheduleCallback_${Date.now()}_${Math.floor(Math.random()*100000)}`;
+    const script = document.createElement("script"); let finished = false;
+    const timeout = setTimeout(() => finish(false, "Waktu permintaan jadwal habis. Periksa koneksi internet."), 15000);
+    function finish(ok, message) { if (finished) return; finished = true; clearTimeout(timeout); script.remove(); delete window[callbackName]; if (message) setStatus(message); }
+    window[callbackName] = payload => {
+      finish(true);
+      if (token !== requestToken) return;
+      if (!payload || payload.ok !== true || !Array.isArray(payload.rows)) { setStatus(payload && payload.error ? payload.error : "Jadwal tidak dapat dimuat."); return; }
+      currentRows = payload.rows; renderGrid(currentRows, key); renderTodayOperations();
+      const unmatched = currentRows.filter(r => getSlot(r) < 0).length;
+      if (!unmatched) setStatus(`${monthLabel(key)} · ${payload.rows.length} kegiatan · Diperbarui dari Google Sheets · Hari ini ditandai menurut waktu Jakarta`);
+    };
+    script.onerror = () => finish(false, "Tidak dapat terhubung ke Google Sheets. Silakan coba lagi.");
+    const sep = SCHEDULE_API_URL.includes("?") ? "&" : "?";
+    script.src = `${SCHEDULE_API_URL}${sep}month=${encodeURIComponent(key)}&callback=${callbackName}&_=${Date.now()}`;
+    document.head.appendChild(script);
+  }
+  function selectMonth(key) {
+    if (![...select.options].some(o => o.value === key)) return;
+    select.value = key;
+    const label = monthLabel(key);
+    if (monthTitle) monthTitle.textContent = label;
+    const todayNow = jakartaParts();
+    if (todayIndicator) {
+      const selectedIsToday = key === `${todayNow.year}-${String(todayNow.month).padStart(2,"0")}`;
+      todayIndicator.textContent = selectedIsToday ? `HARI INI · ${todayNow.day} ${monthShort[todayNow.month - 1]}` : "";
+      todayIndicator.classList.toggle("is-visible", selectedIsToday);
+    }
+    toolbar.querySelector('[data-month-step="-1"]').disabled = select.selectedIndex <= 0;
+    toolbar.querySelector('[data-month-step="1"]').disabled = select.selectedIndex >= select.options.length - 1;
+    if (subtitle) subtitle.textContent = `${label} · Monthly Time-slot Schedule`;
+    if (caption) caption.textContent = `Jadwal Ground School dan Flight Simulator · Waktu Jakarta`;
+    loadSelectedMonth();
+  }
+  function rolloverCheck() {
+    const today = jakartaParts();
+    if (today.key !== lastJakartaDate) {
+      lastJakartaDate = today.key;
+      const key = `${today.year}-${String(today.month).padStart(2,"0")}`;
+      if ([...select.options].some(o => o.value === key)) selectMonth(key);
+      else renderGrid(currentRows, select.value);
+    } else if (select.value === `${today.year}-${String(today.month).padStart(2,"0")}`) {
+      if (todayIndicator) {
+        todayIndicator.textContent = `HARI INI · ${today.day} ${monthShort[today.month - 1]}`;
+        todayIndicator.classList.add("is-visible");
+      }
+      renderGrid(currentRows, select.value);
+    }
+  }
+  populateMonths();
+  select.addEventListener("change", () => selectMonth(select.value));
   select.addEventListener("keydown", event => event.stopPropagation());
-
-  // Start on the current month (Jakarta time) if listed, otherwise the latest listed month.
-  const now = new Date(new Date().toLocaleString("en-US", { timeZone: "Asia/Jakarta" }));
-  const current = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, "0")}`;
-  const keys = [...select.options].map(o => o.value);
-  showMonth(keys.includes(current) ? current : keys[keys.length - 1]);
+  const today = jakartaParts(); lastJakartaDate = today.key;
+  const currentKey = `${today.year}-${String(today.month).padStart(2,"0")}`;
+  const firstKey = `${startYear}-${String(startMonth).padStart(2,"0")}`;
+  const lastKey = `${endYear}-${String(endMonth).padStart(2,"0")}`;
+  selectMonth(currentKey >= firstKey && currentKey <= lastKey ? currentKey : firstKey);
+  setInterval(loadSelectedMonth, 5 * 60 * 1000);
+  setInterval(() => { renderTodayOperations(); rolloverCheck(); }, 30 * 1000);
 })();
