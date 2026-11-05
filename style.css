@@ -1550,3 +1550,50 @@ td { color: #476579; }
     flex: 0 0 auto !important;
   }
 }
+
+
+/* Xiaomi TV — distribute available height across calendar rows */
+@media (min-width: 1400px) and (max-width: 1550px)
+       and (min-height: 800px) and (max-height: 870px) {
+
+  .slot-calendar-scroll {
+    display: flex !important;
+    flex-direction: column !important;
+    height: 100% !important;
+    min-height: 0 !important;
+    overflow: hidden !important;
+  }
+
+  .slot-calendar {
+    display: flex !important;
+    flex-direction: column !important;
+    flex: 1 1 auto !important;
+    height: 100% !important;
+    min-height: 0 !important;
+  }
+
+  /* Keep the date header at its normal height */
+  .slot-calendar-header {
+    flex: 0 0 36px !important;
+  }
+
+  /* Let all four time-slot rows share the remaining height */
+  .slot-calendar-row {
+    flex: 1 1 0 !important;
+    height: auto !important;
+    min-height: 65px !important;
+    max-height: none !important;
+  }
+
+  .slot-row-track {
+    height: 100% !important;
+    min-height: 0 !important;
+    max-height: none !important;
+    align-self: stretch !important;
+  }
+
+  .slot-day-bg {
+    height: 100% !important;
+    min-height: 0 !important;
+  }
+}
