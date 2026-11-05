@@ -1458,12 +1458,12 @@ td { color: #476579; }
     font-size: 11px !important;
   }
 
-  .slot-calendar-row,
-  .slot-row-track {
-    height: 62px !important;
-    min-height: 62px !important;
-    max-height: 62px !important;
-  }
+.slot-calendar-row,
+.slot-row-track {
+  height: 74px !important;
+  min-height: 74px !important;
+  max-height: 74px !important;
+}
 
   .slot-calendar-corner {
     font-size: 13px !important;
