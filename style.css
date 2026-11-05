@@ -399,7 +399,7 @@ td { color: #476579; }
   min-height: 48px;
   padding: 0 4vw;
   display: grid;
-  grid-template-columns: 1fr 1.2fr 1fr;
+  grid-template-columns: 1fr 1.2fr auto 1fr;
   gap: 16px;
   align-items: center;
   background: #f9fcfe;
@@ -550,12 +550,18 @@ td { color: #476579; }
 
 
 .slide-controls {
-  position: absolute;
-  right: 4vw;
-  bottom: 12px;
-  z-index: 5;
   display: flex;
-  gap: 8px;
+  align-items: center;
+  gap: 6px;
+}
+
+.footer-slide-controls {
+  position: static;
+  right: auto;
+  bottom: auto;
+  z-index: auto;
+  justify-self: center;
+  white-space: nowrap;
 }
 
 .slide-controls button {
@@ -771,7 +777,7 @@ td { color: #476579; }
   display: block;
   margin-bottom: 2px;
   color: #4a7994;
-  font-size: clamp(10px, .78vw, 13px);
+  font-size: clamp(12px, .88vw, 15px);
   font-weight: 800;
 }
 .tradingview-rate { min-height: 42px; }
@@ -1300,4 +1306,63 @@ td { color: #476579; }
 }
 @media (max-width: 900px) {
   .today-operations-list { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
+/* Operator colour legend beneath Today's Operations */
+.operation-colour-legend {
+  margin-top: 14px;
+  padding-top: 11px;
+  border-top: 1px solid #d9e8f0;
+}
+.operation-colour-legend-title {
+  margin-bottom: 9px;
+  color: #557d98;
+  font-size: clamp(10px, .78vw, 13px);
+  font-weight: 900;
+  letter-spacing: .07em;
+}
+.operation-colour-legend-items {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 9px 14px;
+}
+.operation-colour-legend-item {
+  display: flex;
+  align-items: center;
+  min-width: 0;
+  gap: 8px;
+}
+.operation-colour-swatch {
+  flex: 0 0 34px;
+  height: 27px;
+  border: 1px solid rgba(25, 45, 60, .25);
+  border-radius: 2px;
+}
+.operation-colour-label {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 4px;
+  min-width: 0;
+  color: #315f7d;
+  font-size: clamp(11px, .82vw, 14px);
+  line-height: 1.3;
+}
+.operation-colour-label strong { font-size: clamp(11px, .84vw, 14px); }
+.operation-colour-label strong::after { content: ":"; margin-left: 2px; }
+.operation-colour-label span { color: #557184; }
+
+/* Improved calendar readability on the office TV */
+.slot-calendar-corner { font-size: clamp(10px, .72vw, 13px) !important; }
+.slot-day-number { font-size: clamp(11px, .82vw, 15px) !important; }
+.slot-weekday { font-size: clamp(9px, .62vw, 11px) !important; }
+.slot-section { font-size: clamp(10px, .76vw, 13px) !important; }
+.slot-time { font-size: clamp(9px, .66vw, 12px) !important; }
+.slot-booking { font-size: clamp(9px, .72vw, 13px) !important; line-height: 1.12 !important; }
+.slot-booking-time { font-size: clamp(8px, .58vw, 10px) !important; }
+.today-operation-name { font-size: clamp(12px, .88vw, 15px); }
+.today-operation-details { font-size: clamp(10px, .7vw, 12px); }
+@media (max-width: 900px) {
+  .operation-colour-legend-items { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }

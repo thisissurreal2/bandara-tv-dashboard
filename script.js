@@ -103,7 +103,7 @@ document.getElementById("prev-slide")?.addEventListener("click", () => {
 
 document.getElementById("pause-slides")?.addEventListener("click", event => {
   slidesPaused = !slidesPaused;
-  event.currentTarget.textContent = slidesPaused ? "▶ Resume" : "Ⅱ Pause";
+  event.currentTarget.textContent = slidesPaused ? "▶ Lanjut" : "Ⅱ Jeda";
 });
 
 document.addEventListener("keydown", event => {
@@ -860,6 +860,7 @@ function displayOilInIDR(oilUsdPerBarrel) {
   const groundEl = document.getElementById("schedule-ground");
   const todayOperationsDate = document.getElementById("today-operations-date");
   const todayOperationsList = document.getElementById("today-operations-list");
+  const operationLegendMount = document.getElementById("operation-colour-legend-mount");
   const SCHEDULE_API_URL = "https://script.google.com/macros/s/AKfycbxQyoIkxs0ez1QDaX-fdrFkiVpT-HaCTBJH5mKwc7oABKFyI0Awq5diGLWLbwLPkOxH/exec";
   const monthNames = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli", "Agustus", "September", "Oktober", "November", "Desember"];
   const monthShort = ["Jan", "Feb", "Mar", "Apr", "Mei", "Jun", "Jul", "Agu", "Sep", "Okt", "Nov", "Des"];
@@ -980,53 +981,89 @@ function displayOilInIDR(oilUsdPerBarrel) {
     }
     return -1;
   }
-  // Fixed operator colours from the approved PT Bandara schedule legend.
-  // Match the operator prefix in the activity name (e.g. "RMAF 24", "PAF 05").
-  const OPERATION_COLORS = [
-    { code: "RMAF", name: "RMAF (Malaysia)", color: "#5D0E62" },
-    { code: "RSAF", name: "RSAF (Singapore)", color: "#F19E38" },
-    { code: "TAU", name: "TAU (TransAfrik)", color: "#344D20" },
-    { code: "RBAF", name: "RBAF (Bahrain)", color: "#7779ED" },
-    { code: "EAF", name: "EAF (Ethiopia)", color: "#80651D" },
-    { code: "UAEAF", name: "UAEAF (United Arab Emirates)", color: "#A5CE62" },
-    { code: "AIR FORCE HOLIDAY", name: "Air Force Holiday", color: "#B7CBE9" },
-    { code: "BAV", name: "Bar Aviation", color: "#E9827B" },
-    { code: "SLAF", name: "SLAF (Sri Lanka)", color: "#861B12" },
-    { code: "UAC", name: "UAC (Uganda Air Cargo)", color: "#C49C30" },
-    { code: "PKAF", name: "PkAF (Pakistan)", color: "#F6DDA0" },
-    { code: "SAAF", name: "SAAF (Saudi Arabia)", color: "#FFE7A0" },
-    { code: "RJAF", name: "RJAF (Jordan)", color: "#4C79D0" },
-    { code: "BAF", name: "BAF (Brasilia)", color: "#080A70" },
-    { code: "PAF", name: "PAF (Philippine)", color: "#FFF000" },
-    { code: "LAF", name: "LAF (Libyan Airforce)", color: "#64F23E" }
+  // Fixed operator colours from the official schedule legend.
+  const OPERATION_COLORS = {
+    RMAF: "#5D0E62",       // Malaysia
+    RSAF: "#F19E38",       // Singapore
+    TAU: "#3E5529",        // TransAfrik
+    RBAF: "#7B81F7",       // Bahrain
+    EAF: "#7B611C",        // Ethiopia
+    UAEAF: "#9FCE62",      // United Arab Emirates
+    "AIR FORCE HOLIDAY": "#B7C5E4",
+    "BAR AVIATION": "#EE857D",
+    SLAF: "#75140B",       // Sri Lanka
+    UAC: "#C49B33",        // Uganda Air Cargo
+    PKAF: "#A6A6A6",       // Pakistan
+    SAAF: "#FBE7A2",       // Saudi Arabia
+    RJAF: "#4B77D1",       // Jordan
+    BAF: "#000062",        // Brasilia
+    PAF: "#FFFF54",        // Philippine
+    LAF: "#75FB4C"         // Libyan Airforce
+  };
+  const OPERATION_LEGEND = [
+    ["RMAF", "Malaysia"], ["RSAF", "Singapore"],
+    ["TAU", "TransAfrik"], ["RBAF", "Bahrain"],
+    ["EAF", "Ethiopia"], ["UAEAF", "United Arab Emirates"],
+    ["Air Force Holiday", "Holiday"], ["Bar Aviation", "Bar Aviation"],
+    ["SLAF", "Sri Lanka"], ["UAC", "Uganda Air Cargo"],
+    ["PkAF", "Pakistan"], ["SAAF", "Saudi Arabia"],
+    ["RJAF", "Jordan"], ["BAF", "Brasilia"],
+    ["PAF", "Philippine"], ["LAF", "Libyan Airforce"]
   ];
-
-  function bookingColor(activity, section) {
-    const text = String(activity || "").trim().toUpperCase();
-    // Longer codes are checked first so UAEAF is not mistaken for EAF.
-    const match = OPERATION_COLORS
-      .slice()
-      .sort((a, b) => b.code.length - a.code.length)
-      .find(operator => text === operator.code || text.startsWith(operator.code + " ") || text.startsWith(operator.code + "(") || text.startsWith(operator.code + " ("));
-    if (match) return match.color;
-
-    // Preserve the previous fallback for activities not in the operator legend.
-    return String(section || "").toLowerCase().includes("ground") ? "#d9ad4e" : "#5b9fc7";
+  if (operationLegendMount) {
+    operationLegendMount.appendChild(renderOperationLegend());
   }
+  const LIGHT_OPERATION_COLORS = new Set(["#9FCE62", "#B7C5E4", "#A6A6A6", "#FBE7A2", "#FFFF54", "#75FB4C", "#F19E38"]);
 
+  function getOperationCode(activity) {
+    const name = String(activity || "").trim().toUpperCase();
+    // Bar Aviation is entered in the schedule as "BAV Initial".
+    if (/^BAV\b/.test(name) || name.includes("BAR AVIATION")) return "BAR AVIATION";
+    if (/^AIR FORCE HOLIDAY\b/.test(name)) return "AIR FORCE HOLIDAY";
+    const match = name.match(/^(RMAF|RSAF|TAU|RBAF|UAEAF|SLAF|UAC|PKAF|SAAF|RJAF|BAF|PAF|LAF|EAF)\b/);
+    return match ? match[1] : "";
+  }
+  function bookingColor(item) {
+    const code = getOperationCode(item && item.activity);
+    if (code && OPERATION_COLORS[code]) return OPERATION_COLORS[code];
+    return String(item && item.section || "").toLowerCase().includes("ground") ? "#d9ad4e" : "#5b9fc7";
+  }
+  // Shorten only single-day bookings. Multi-day bookings retain their full name.
+  // Colour detection and tooltips always use the original activity from the Sheet.
+  function calendarActivityLabel(activity, isSingleDay) {
+    const original = String(activity || "").trim();
+    if (!original || !isSingleDay) return original || "Booking";
+
+    const code = getOperationCode(original);
+    if (!code) return original;
+
+    const upper = original.toUpperCase();
+    let prefix = "";
+    if (code === "BAR AVIATION") prefix = upper.startsWith("BAV") ? "BAV" : "BAR AVIATION";
+    else if (code === "AIR FORCE HOLIDAY") prefix = "AIR FORCE HOLIDAY";
+    else prefix = code;
+
+    const remainder = original.slice(prefix.length).replace(/^[\s:–—-]+/, "").trim();
+    return remainder || original;
+  }
   function renderOperationLegend() {
     const legend = makeCell("operation-colour-legend");
-    legend.setAttribute("aria-label", "Legend warna operator");
-    OPERATION_COLORS.forEach(operator => {
-      const item = document.createElement("span");
-      item.className = "operation-colour-legend-item";
-      const swatch = document.createElement("i");
-      swatch.className = "operation-colour-swatch";
-      swatch.style.backgroundColor = operator.color;
-      const label = document.createElement("span");
-      label.textContent = operator.name;
+    const heading = makeCell("operation-colour-legend-title", "KETERANGAN WARNA OPERASI");
+    const items = makeCell("operation-colour-legend-items");
+    legend.append(heading, items);
+    OPERATION_LEGEND.forEach(([name, description]) => {
+      const item = makeCell("operation-colour-legend-item");
+      const swatch = makeCell("operation-colour-swatch");
+      const code = getOperationCode(name) || name.toUpperCase();
+      swatch.style.backgroundColor = OPERATION_COLORS[code] || "#999999";
+      const label = makeCell("operation-colour-label");
+      const strong = document.createElement("strong");
+      strong.textContent = name;
+      const detail = document.createElement("span");
+      detail.textContent = description;
+      label.append(strong, detail);
       item.append(swatch, label);
-      legend.appendChild(item);
+      items.appendChild(item);
     });
     return legend;
   }
@@ -1095,8 +1132,11 @@ function displayOilInIDR(oilUsdPerBarrel) {
       if (end < monthStart || start > monthEnd) return;
       const startDay = start.getUTCDate();
       const endDay = end.getUTCDate();
-      const chip = makeCell("slot-booking", event.item.activity || "Booking");
-      chip.style.backgroundColor = bookingColor(event.item.activity, event.item.section);
+      const isSingleDay = event.item.startDate === event.item.endDate;
+      const chip = makeCell("slot-booking", calendarActivityLabel(event.item.activity, isSingleDay));
+      const operationColour = bookingColor(event.item);
+      chip.style.backgroundColor = operationColour;
+      if (LIGHT_OPERATION_COLORS.has(operationColour.toUpperCase())) chip.style.color = "#263746";
       chip.style.gridColumn = `${startDay} / ${endDay + 1}`;
       chip.title = `${event.item.activity} · ${event.item.time} · ${event.item.section} · ${event.item.startDate} to ${event.item.endDate}`;
       chip.setAttribute("aria-label", chip.title);
@@ -1110,30 +1150,19 @@ function displayOilInIDR(oilUsdPerBarrel) {
       while (occupied.has(laneIndex)) laneIndex++;
       event._lane = laneIndex;
       chip.style.gridRow = String(laneIndex + 1);
-      chip.textContent = event.item.activity || "Booking";
-      const range = makeCell("slot-booking-time", event.item.time || "");
-      chip.appendChild(range);
+      // Do not display the time inside the booking chip; the row already identifies the slot.
+      // Keep the full activity and time in the tooltip for reference.
+      chip.textContent = calendarActivityLabel(event.item.activity, isSingleDay);
       rowTrack.appendChild(chip);
     });
 
-    scroller.appendChild(grid);
-    board.appendChild(scroller);
-    board.appendChild(renderOperationLegend());
-
+    scroller.appendChild(grid); board.appendChild(scroller);
     if (!rows.length) {
-      const empty = makeCell(
-        "schedule-empty",
-        `Belum ada jadwal untuk ${monthLabel(key)}.`
-      );
+      const empty = makeCell("schedule-empty", `Belum ada jadwal untuk ${monthLabel(key)}.`);
       board.appendChild(empty);
     } else {
       const unmatched = rows.filter(r => getSlot(r) < 0);
-
-      if (unmatched.length) {
-        setStatus(
-          `${monthLabel(key)} · ${rows.length} kegiatan · ${unmatched.length} kegiatan memiliki waktu/bagian yang tidak sesuai dengan empat slot.`
-        );
-      }
+      if (unmatched.length) setStatus(`${monthLabel(key)} · ${rows.length} kegiatan · ${unmatched.length} kegiatan memiliki waktu/bagian yang tidak sesuai dengan empat slot.`);
     }
   }
   function renderTodayOperations() {
