@@ -1367,46 +1367,97 @@ td { color: #476579; }
   .operation-colour-legend-items { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
 
-/* Xiaomi Android TV — larger, balanced schedule layout */
+
+/* Xiaomi Android TV — use the available screen height */
 @media (min-width: 1400px) and (max-width: 1550px)
        and (min-height: 800px) and (max-height: 870px) {
 
+  /* Keep the schedule page within the space above the footer */
   .page {
-    padding-top: 0 !important;
-    padding-bottom: 0 !important;
-    overflow: hidden !important;
-  }
-
-  .schedule-board {
-    height: 100% !important;
+    display: flex !important;
+    flex-direction: column !important;
     min-height: 0 !important;
     overflow: hidden !important;
-    gap: 0 !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
   }
 
-  /* Calendar toolbar and dates */
+  .schedule-board-heading {
+    flex: 0 0 auto !important;
+  }
+
+  /* Summary cards keep their natural size */
+  .schedule-board {
+    display: flex !important;
+    flex: 1 1 0 !important;
+    flex-direction: column !important;
+    height: auto !important;
+    min-height: 0 !important;
+    overflow: hidden !important;
+    gap: 8px !important;
+  }
+
+  .schedule-summary-grid {
+    flex: 0 0 auto !important;
+  }
+
+  /* Timeline takes all remaining height */
+  .schedule-timeline-panel {
+    display: flex !important;
+    flex: 1 1 0 !important;
+    flex-direction: column !important;
+    min-height: 0 !important;
+    height: auto !important;
+    overflow: hidden !important;
+    gap: 5px !important;
+  }
+
+  .schedule-timeline-header {
+    flex: 0 0 auto !important;
+  }
+
+  #schedule-note {
+    flex: 0 0 auto !important;
+  }
+
+  /* Calendar expands instead of keeping its automatic height */
+  #schedule.schedule-timeline {
+    display: flex !important;
+    flex: 1 1 0 !important;
+    flex-direction: column !important;
+    min-height: 0 !important;
+    height: auto !important;
+    overflow: hidden !important;
+  }
+
   .slot-calendar-toolbar {
-    flex: 0 0 36px !important;
-    padding: 0 8px 2px !important;
+    flex: 0 0 38px !important;
+    padding: 0 10px 2px !important;
   }
 
   .calendar-current-month {
-    font-size: 22px !important;
+    font-size: 23px !important;
+  }
+
+  .slot-calendar-scroll {
+    flex: 1 1 0 !important;
+    min-height: 0 !important;
+    height: auto !important;
+    overflow: auto !important;
   }
 
   .slot-day-head {
-    min-height: 34px !important;
+    min-height: 36px !important;
   }
 
   .slot-day-number {
-    font-size: 14px !important;
+    font-size: 15px !important;
   }
 
   .slot-weekday {
-    font-size: 10px !important;
+    font-size: 11px !important;
   }
 
-  /* Calendar rows */
   .slot-calendar-row,
   .slot-row-track {
     height: 62px !important;
@@ -1415,30 +1466,30 @@ td { color: #476579; }
   }
 
   .slot-calendar-corner {
-    font-size: 12px !important;
+    font-size: 13px !important;
   }
 
   .slot-section {
-    font-size: 12px !important;
+    font-size: 13px !important;
   }
 
   .slot-time {
-    font-size: 11px !important;
+    font-size: 12px !important;
   }
 
   .slot-booking {
-    font-size: 11px !important;
-    line-height: 1.15 !important;
+    font-size: 12px !important;
+    line-height: 1.2 !important;
   }
 
   .slot-booking-time {
-    font-size: 9px !important;
+    font-size: 10px !important;
   }
 
-  /* Today's Operations */
+  /* Today's Operations stays visible below the calendar */
   .today-operations {
     flex: 0 0 auto !important;
-    margin-top: 7px !important;
+    margin-top: 5px !important;
     padding: 8px 11px !important;
   }
 
@@ -1450,38 +1501,20 @@ td { color: #476579; }
     font-size: 19px !important;
   }
 
-  .today-operations-eyebrow {
-    margin-bottom: 2px !important;
-  }
-
   .today-operation-card {
     padding: 7px 9px !important;
   }
 
   .today-operation-name {
     font-size: 13px !important;
-    white-space: nowrap !important;
-    overflow: hidden !important;
-    text-overflow: ellipsis !important;
   }
 
   .today-operation-details {
-    display: flex !important;
-    flex-wrap: nowrap !important;
-    white-space: nowrap !important;
-    overflow: hidden !important;
     font-size: 11px !important;
     margin-top: 4px !important;
   }
 
-  .today-operation-details > * {
-    min-width: 0 !important;
-    overflow: hidden !important;
-    text-overflow: ellipsis !important;
-    white-space: nowrap !important;
-  }
-
-  /* Keterangan Warna Operasi */
+  /* Colour legend */
   .operation-colour-legend {
     flex: 0 0 auto !important;
     margin-top: 6px !important;
@@ -1489,7 +1522,7 @@ td { color: #476579; }
   }
 
   .operation-colour-legend-title {
-    font-size: 12px !important;
+    font-size: 13px !important;
     margin-bottom: 5px !important;
   }
 
@@ -1498,12 +1531,12 @@ td { color: #476579; }
   }
 
   .operation-colour-swatch {
-    flex-basis: 30px !important;
-    height: 20px !important;
+    flex-basis: 32px !important;
+    height: 22px !important;
   }
 
   .operation-colour-legend-item {
-    min-height: 22px !important;
+    min-height: 24px !important;
     gap: 6px !important;
   }
 
@@ -1511,5 +1544,9 @@ td { color: #476579; }
   .operation-colour-label strong {
     font-size: 12px !important;
     line-height: 1.2 !important;
+  }
+
+  .schedule-board-caption {
+    flex: 0 0 auto !important;
   }
 }
