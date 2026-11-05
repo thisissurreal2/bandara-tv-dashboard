@@ -1097,7 +1097,7 @@ function displayOilInIDR(oilUsdPerBarrel) {
 
     const selectedMonth = select.value;
     if (selectedMonth !== todayKey.slice(0, 7)) {
-      todayOperationsList.innerHTML = "<p class='today-operations-empty'>Select the current month to view today's operations.</p>";
+      todayOperationsList.innerHTML = "<p class='today-operations-empty'>Pilih bulan saat ini untuk melihat operasional hari ini.</p>";
       return;
     }
 
