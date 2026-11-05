@@ -123,7 +123,7 @@ document.addEventListener("keydown", event => {
 
     const pauseButton = document.getElementById("pause-slides");
     if (pauseButton) {
-      pauseButton.textContent = slidesPaused ? "▶ Resume" : "Ⅱ Pause";
+      pauseButton.textContent = slidesPaused ? "▶ Lanjut" : "Ⅱ Jeda";
     }
   }
 });
@@ -1030,21 +1030,10 @@ function displayOilInIDR(oilUsdPerBarrel) {
   }
   // Shorten only single-day bookings. Multi-day bookings retain their full name.
   // Colour detection and tooltips always use the original activity from the Sheet.
+  // Always display the full operation name, including single-day bookings.
   function calendarActivityLabel(activity, isSingleDay) {
     const original = String(activity || "").trim();
-    if (!original || !isSingleDay) return original || "Booking";
-
-    const code = getOperationCode(original);
-    if (!code) return original;
-
-    const upper = original.toUpperCase();
-    let prefix = "";
-    if (code === "BAR AVIATION") prefix = upper.startsWith("BAV") ? "BAV" : "BAR AVIATION";
-    else if (code === "AIR FORCE HOLIDAY") prefix = "AIR FORCE HOLIDAY";
-    else prefix = code;
-
-    const remainder = original.slice(prefix.length).replace(/^[\s:–—-]+/, "").trim();
-    return remainder || original;
+    return original || "Booking";
   }
   function renderOperationLegend() {
     const legend = makeCell("operation-colour-legend");
