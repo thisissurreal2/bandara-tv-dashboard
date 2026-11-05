@@ -1147,7 +1147,7 @@ function displayOilInIDR(oilUsdPerBarrel) {
 
     scroller.appendChild(grid); board.appendChild(scroller);
     if (!rows.length) {
-      const empty = makeCell("schedule-empty", `Belum ada jadwal untuk ${monthLabel(key)}.`);
+      const empty = makeCell("schedule-empty", `Belum ada jadwal`);
       board.appendChild(empty);
     } else {
       const unmatched = rows.filter(r => getSlot(r) < 0);
