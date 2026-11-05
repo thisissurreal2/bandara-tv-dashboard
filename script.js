@@ -980,10 +980,55 @@ function displayOilInIDR(oilUsdPerBarrel) {
     }
     return -1;
   }
-  // Keep booking colours consistent by training type. Customer names are not mapped
-  // to colours, so adding new operators never requires a code change.
-  function bookingColor(section) {
+  // Fixed operator colours from the approved PT Bandara schedule legend.
+  // Match the operator prefix in the activity name (e.g. "RMAF 24", "PAF 05").
+  const OPERATION_COLORS = [
+    { code: "RMAF", name: "RMAF (Malaysia)", color: "#5D0E62" },
+    { code: "RSAF", name: "RSAF (Singapore)", color: "#F19E38" },
+    { code: "TAU", name: "TAU (TransAfrik)", color: "#344D20" },
+    { code: "RBAF", name: "RBAF (Bahrain)", color: "#7779ED" },
+    { code: "EAF", name: "EAF (Ethiopia)", color: "#80651D" },
+    { code: "UAEAF", name: "UAEAF (United Arab Emirates)", color: "#A5CE62" },
+    { code: "AIR FORCE HOLIDAY", name: "Air Force Holiday", color: "#B7CBE9" },
+    { code: "BAR AVIATION", name: "Bar Aviation", color: "#E9827B" },
+    { code: "SLAF", name: "SLAF (Sri Lanka)", color: "#861B12" },
+    { code: "UAC", name: "UAC (Uganda Air Cargo)", color: "#C49C30" },
+    { code: "PKAF", name: "PkAF (Pakistan)", color: "#F6DDA0" },
+    { code: "SAAF", name: "SAAF (Saudi Arabia)", color: "#FFE7A0" },
+    { code: "RJAF", name: "RJAF (Jordan)", color: "#4C79D0" },
+    { code: "BAF", name: "BAF (Brasilia)", color: "#080A70" },
+    { code: "PAF", name: "PAF (Philippine)", color: "#FFF000" },
+    { code: "LAF", name: "LAF (Libyan Airforce)", color: "#64F23E" }
+  ];
+
+  function bookingColor(activity, section) {
+    const text = String(activity || "").trim().toUpperCase();
+    // Longer codes are checked first so UAEAF is not mistaken for EAF.
+    const match = OPERATION_COLORS
+      .slice()
+      .sort((a, b) => b.code.length - a.code.length)
+      .find(operator => text === operator.code || text.startsWith(operator.code + " ") || text.startsWith(operator.code + "(") || text.startsWith(operator.code + " ("));
+    if (match) return match.color;
+
+    // Preserve the previous fallback for activities not in the operator legend.
     return String(section || "").toLowerCase().includes("ground") ? "#d9ad4e" : "#5b9fc7";
+  }
+
+  function renderOperationLegend() {
+    const legend = makeCell("operation-colour-legend");
+    legend.setAttribute("aria-label", "Legend warna operator");
+    OPERATION_COLORS.forEach(operator => {
+      const item = document.createElement("span");
+      item.className = "operation-colour-legend-item";
+      const swatch = document.createElement("i");
+      swatch.className = "operation-colour-swatch";
+      swatch.style.backgroundColor = operator.color;
+      const label = document.createElement("span");
+      label.textContent = operator.name;
+      item.append(swatch, label);
+      legend.appendChild(item);
+    });
+    return legend;
   }
   function makeCell(className, text) {
     const el = document.createElement("div"); el.className = className;
@@ -1051,7 +1096,7 @@ function displayOilInIDR(oilUsdPerBarrel) {
       const startDay = start.getUTCDate();
       const endDay = end.getUTCDate();
       const chip = makeCell("slot-booking", event.item.activity || "Booking");
-      chip.style.backgroundColor = bookingColor(event.item.section);
+      chip.style.backgroundColor = bookingColor(event.item.activity, event.item.section);
       chip.style.gridColumn = `${startDay} / ${endDay + 1}`;
       chip.title = `${event.item.activity} · ${event.item.time} · ${event.item.section} · ${event.item.startDate} to ${event.item.endDate}`;
       chip.setAttribute("aria-label", chip.title);
@@ -1071,13 +1116,24 @@ function displayOilInIDR(oilUsdPerBarrel) {
       rowTrack.appendChild(chip);
     });
 
-    scroller.appendChild(grid); board.appendChild(scroller);
+    scroller.appendChild(grid);
+    board.appendChild(scroller);
+    board.appendChild(renderOperationLegend());
+
     if (!rows.length) {
-      const empty = makeCell("schedule-empty", `Belum ada jadwal untuk ${monthLabel(key)}.`);
+      const empty = makeCell(
+        "schedule-empty",
+        `Belum ada jadwal untuk ${monthLabel(key)}.`
+      );
       board.appendChild(empty);
     } else {
       const unmatched = rows.filter(r => getSlot(r) < 0);
-      if (unmatched.length) setStatus(`${monthLabel(key)} · ${rows.length} kegiatan · ${unmatched.length} kegiatan memiliki waktu/bagian yang tidak sesuai dengan empat slot.`);
+
+      if (unmatched.length) {
+        setStatus(
+          `${monthLabel(key)} · ${rows.length} kegiatan · ${unmatched.length} kegiatan memiliki waktu/bagian yang tidak sesuai dengan empat slot.`
+        );
+      }
     }
   }
   function renderTodayOperations() {
