@@ -990,7 +990,7 @@ function displayOilInIDR(oilUsdPerBarrel) {
     { code: "EAF", name: "EAF (Ethiopia)", color: "#80651D" },
     { code: "UAEAF", name: "UAEAF (United Arab Emirates)", color: "#A5CE62" },
     { code: "AIR FORCE HOLIDAY", name: "Air Force Holiday", color: "#B7CBE9" },
-    { code: "BAR AVIATION", name: "Bar Aviation", color: "#E9827B" },
+    { code: "BAV", name: "Bar Aviation", color: "#E9827B" },
     { code: "SLAF", name: "SLAF (Sri Lanka)", color: "#861B12" },
     { code: "UAC", name: "UAC (Uganda Air Cargo)", color: "#C49C30" },
     { code: "PKAF", name: "PkAF (Pakistan)", color: "#F6DDA0" },
