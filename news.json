@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-09T23:15:27.828020+00:00",
+  "updated_at": "2026-11-09T23:30:34.790763+00:00",
   "national": [
+    {
+      "title": "Alasan Giring, Raja Juli, Isyana Kompak Mundur dari PSI",
+      "summary": "Tiga kader utama PSI, Giring Ganesha, Raja Juli Antoni, dan Isyana Bagoes, mundur untuk fokus pada tugas di pemerintahan.",
+      "url": "https://www.cnnindonesia.com/nasional/20261109225744-32-1425177/alasan-giring-raja-juli-isyana-kompak-mundur-dari-psi",
+      "source": "CNN Indonesia",
+      "published": "2026-11-09T23:30:13+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2023/09/27/ketua-umum-partai-solidaritas-indonesia-psi-kaesang-pangarep-17_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Ancang-ancang Parpol Tentukan Nasib Gibran",
       "summary": "Partai politik mulai bersiap menentukan nasib Wakil Presiden Gibran pascaputusan MK dan MA. Partai dorong hak menyatakan pendapat terkait pemakzulan.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-09T23:03:33+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/06/16/wapres-gibran-rakabuming-raka-tangkapan-layar-1781611236683_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Kemenhaj Resmi Buka Pelunasan Biaya Haji Reguler Mulai Hari Ini",
-      "summary": "Kementerian Haji dan Umrah RI buka pelunasan Biaya Perjalanan Ibadah Haji 1448 H/2027 M mulai 10 November. Jemaah diimbau segera lunasi dan lapor.",
-      "url": "https://www.cnnindonesia.com/nasional/20261109204553-20-1425143/kemenhaj-resmi-buka-pelunasan-biaya-haji-reguler-mulai-hari-ini",
-      "source": "CNN Indonesia",
-      "published": "2026-11-09T23:00:42+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2024/06/20/perjalanan-ibadah-haji-3_169.jpeg?w=360&q=90"
     },
     {
       "title": "Man United pertimbangkan masa depan Michael Carrick",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – live",
-      "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization; president claims Hegseth both won and is winning war with Iran Republican Thomas Massie moves to force vote to impeach Pete Hegseth Sign up for US Breaking News email Democratic Congressman Hakeem Jeffries , currently the House minority leader who is poised to become new Speaker next year, told CBS News that the Trump administration will hold a closed-door congressional briefing today to discuss Jensen Huang’s affair with an alleged Chinese spy . Last week the Republican chairs of three key House committees also called on Huang to appear before lawmakers in a closed-door hearing on 18 November. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-09T23:02:28+00:00",
-      "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
+      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
+      "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
+      "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-09T23:28:53+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f13d/live/216524b0-dc7f-11f1-ba95-5f07efd49f42.jpg"
     },
     {
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "summary": "The US president said the FBI is now investigating the affair. He said he spoke with Jensen Huang and asked him about the affair.",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-09T23:01:32+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f6c/live/69536370-dc90-11f1-93e1-3b657b665bcf.jpg"
+      "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
+      "summary": "Elon Musk and other finance moguls defend Jensen Huang after he admitted to the affair in an email to employees Nvidia’s board needs to do some succession planning – sharpish Donald Trump , Elon Musk and prominent finance moguls have expressed their support for embattled Nvidia CEO Jensen Huang , as the head of the world’s most valuable chip company faces an internal investigation over a romantic relationship with an alleged Chinese spy. Trump said he has spoken to Huang on Monday as the scandal reverberated across Silicon Valley and the Nvidia CEO faced an internal investigation. Continue reading...",
+      "url": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk",
+      "source": "The Guardian",
+      "published": "2026-11-09T23:14:17+00:00",
+      "image": "https://i.guim.co.uk/img/media/63c3dc64507f47996bc06856081323764517277f/70_0_2056_1645/master/2056.jpg?width=140&quality=85&auto=format&fit=max&s=08fae72606a752db6b7d1434d2b8d7fa"
     },
     {
       "title": "Trump calls Iran war ‘effectively over’ after talks with Qatar PM",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af249716f78-1794263409.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
