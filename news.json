@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-09T16:30:35.681239+00:00",
+  "updated_at": "2026-11-09T16:45:28.032480+00:00",
   "national": [
+    {
+      "title": "Prabowo Terima Laporan Evaluasi Progres Setahun Pemulihan Pascabencana Sumatera",
+      "summary": "Presiden Prabowo memimpin rapat evaluasi penanganan bencana di Aceh, Sumut, dan Sumbar. Fokus pada rehabilitasi, rekonstruksi, dan antisipasi bencana susulan.",
+      "url": "https://news.detik.com/berita/d-8745814/prabowo-terima-laporan-evaluasi-progres-setahun-pemulihan-pascabencana-sumatera",
+      "source": "Detik",
+      "published": "2026-11-09T16:30:42+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/09/rapat-pascabencana-sumatera-1794241777056_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Mantan Wali Kota Depok Badrul Kamal Tutup Usia",
       "summary": "Kabar duka datang dari Depok, Jawa Barat. Mantan Wali Kota Depok Badrul Kamal meninggal dunia pada Senin (9/11).",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-09T16:25:14+00:00",
       "image": "https://akcdn.detik.net.id/visual/2020/12/12/ilustrasi-meninggal_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Pesan Sultan Najamudin di DPD Awards 2026: Jadilah Cahaya di Lingkungan Masing-masing",
-      "summary": "Ketua DPD RI Sultan Najamudin mengajak tokoh daerah jadi cahaya bagi masyarakat. DPD RI Awards 2026 menghargai inovator dan pelestari budaya lokal.",
-      "url": "https://news.detik.com/berita/d-8745798/pesan-sultan-najamudin-di-dpd-awards-2026-jadilah-cahaya-di-lingkungan-masing-masing",
-      "source": "Detik",
-      "published": "2026-11-09T16:12:19+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/09/potret-malam-puncak-dpd-ri-awards-2026-1794239738418_169.jpeg?w=360&q=90"
     },
     {
       "title": "Dirut Bulog: Stok beras Indonesia 4,5 juta ton tertinggi se-ASEAN",
@@ -28,28 +28,28 @@
   ],
   "international": [
     {
-      "title": "Russell Brand sentenced to more than 10 years for rape and sexual assault offences – latest updates",
-      "summary": "Disgraced comedian must serve two-thirds of the 10 years and six month sentence before he will be eligible for parole Russell Brand sentenced to more than 10 years in prison Proceedings are beginning now. Chief prosecutor Riel Karmy-Jones KC is up on her feet. She’ll be the first to deliver remarks. The sentencing has been pushed back as court staff attempt to rearrange the courtroom so one of the victims can be protected, PA reports. Continue reading...",
-      "url": "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-09T16:10:31+00:00",
-      "image": "https://i.guim.co.uk/img/media/2932dc867e0a4f6a2df2af502311f646fae12730/114_13_5339_4271/master/5339.jpg?width=140&quality=85&auto=format&fit=max&s=43be54778d4a160aa933c96b19fa46e5"
-    },
-    {
-      "title": "Nvidia shares slump amid investigation into CEO Jensen Huang",
-      "summary": "Huang admits infidelity, denies compromising Nvidia security as China spy inquiry shakes $4.5 trillion AI firm.",
-      "url": "https://www.aljazeera.com/economy/2026/11/9/nvidia-shares-slump-amid-investigation-into-ceo-jensen-huang?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-09T16:00:10+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af1dfe5-1794236389.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-      "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "title": "France accuses Iran of supermarket fridge hacking",
+      "summary": "The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up.",
+      "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-09T15:46:20+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg"
+      "published": "2026-11-09T16:42:39+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png"
+    },
+    {
+      "title": "Judo star Teddy Riner announces plan to run in France’s presidential election",
+      "summary": "Five-times Olympic champion says he is neither leftwing nor rightwing but would seek to ‘bring people together’ The French judo star and five-times Olympic gold medallist Teddy Riner has announced plans to run in next year’s presidential election, describing himself as someone neither leftwing nor rightwing but who would seek to “bring people together”. With more than five months before the April-May ballot to replace Emmanuel Macron, the race has been shaping up to be a showdown between political extremes. Polls point to a hollowing out of the political centre, suggesting that the anti-immigrant National Rally leader Marine Le Pen could be the frontrunner, with the radical-left leader Jean-Luc Mélenchon trailing behind. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/09/judo-star-teddy-riner-plan-france-presidential-election",
+      "source": "The Guardian",
+      "published": "2026-11-09T16:24:50+00:00",
+      "image": "https://i.guim.co.uk/img/media/cdf22028f2dc61c37365d0b51d5d0b48cbbc6b90/485_0_3528_2823/master/3528.jpg?width=140&quality=85&auto=format&fit=max&s=b4ea5be7a7927efe608c7a3ae70896fd"
+    },
+    {
+      "title": "Man uses excavator to destroy Chinese government building",
+      "summary": "A man has driven an excavator into a Chinese government affairs centre in Shaanxi",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/man-uses-excavator-to-destroy-chinese-government-building?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-09T16:15:04+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794240896.jpg?resize=1920%2C1080&quality=80"
     }
   ],
   "feed_warnings": []
