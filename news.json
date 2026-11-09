@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-09T08:15:28.139461+00:00",
+  "updated_at": "2026-11-09T08:30:32.856393+00:00",
   "national": [
     {
-      "title": "Pemerintah Cabut HGU 11 Perusahaan Terlibat Karhutla",
-      "summary": "Pemerintah mencabut Hak Guna Usaha (HGU) 11 perusahaan yang diduga menjadi penyebab kebakaran hutan dan lahan. Dari 11 perusahaan itu, ada yang dimiliki WNA.",
-      "url": "https://news.detik.com/berita/d-8745074/pemerintah-cabut-hgu-11-perusahaan-terlibat-karhutla",
+      "title": "Giring Keluar dari PSI!",
+      "summary": "Wamen Budaya, Giring Ganesha, mengumumkan dirinya keluar dari PSI.",
+      "url": "https://news.detik.com/berita/d-8745098/giring-keluar-dari-psi",
       "source": "Detik",
-      "published": "2026-11-09T08:10:40+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/09/konferensi-pers-di-kemenko-polkam-devidetikcom-1794208956859_169.jpeg?w=360&q=90"
+      "published": "2026-11-09T08:24:20+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2025/06/05/giring-ganesha-1749108228053_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "Peran Dinas LH DKI dalam Mendukung Inisiatif Pilah dan Olah Sampah",
+      "summary": "Kepala Dinas Lingkungan Hidup DKI Jakarta, Dudi Gardesi, mengungkapkan peran Dinas LH dalam mendukung inisiatif pilah dan olah sampah di DKI Jakarta.",
+      "url": "https://www.cnnindonesia.com/nasional/20261109151137-20-1425006/peran-dinas-lh-dki-dalam-mendukung-inisiatif-pilah-dan-olah-sampah",
+      "source": "CNN Indonesia",
+      "published": "2026-11-09T08:21:24+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/09/peran-dinas-lh-dki-untuk-dukung-inisiatif-pilah-olah-sampah-1794208822543_169.jpeg?w=360&q=90"
     },
     {
       "title": "Menaker sebut data penerima BSU masih proses verifikasi",
@@ -16,14 +24,6 @@
       "source": "ANTARA",
       "published": "2026-11-09T07:57:36+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/09/tempImagehmofWO.jpg"
-    },
-    {
-      "title": "Ragam Kesan Peserta Pilah Olah Sampah Heroes usai Ikut Penjurian Final",
-      "summary": "Peserta Pilah Olah Sampah Heroes Jakarta 2026 berbagi pengalaman usai penjurian final. Mereka menekankan pentingnya kolaborasi dan kepedulian terhadap sampah.",
-      "url": "https://www.cnnindonesia.com/nasional/20261109145057-20-1424996/ragam-kesan-peserta-pilah-olah-sampah-heroes-usai-ikut-penjurian-final",
-      "source": "CNN Indonesia",
-      "published": "2026-11-09T07:57:12+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/09/ragam-kesan-peserta-pilah-olah-sampah-heroes-jakarta-2026-usai-ikuti-penjurian-final-1794207274483_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
@@ -36,21 +36,25 @@
       "image": "https://i.guim.co.uk/img/media/d8c802e22e952ef416894c5d0a6ecca11d13b496/459_0_4582_3666/master/4582.jpg?width=140&quality=85&auto=format&fit=max&s=92a98b53493301af4a38acb36c24d9e4"
     },
     {
+      "title": "MotoGP: Bezzecchi denies Marquez world title as motorsport returns to Qatar",
+      "summary": "Aprilia's Marco Bezzecchi wins Qatar Grand Prix as Ducati's Marc Marquez finishes second.",
+      "url": "https://www.aljazeera.com/sports/2026/11/9/motogp-bezzecchi-denies-marquez-world-title-as-motorsport-returns-to-qatar?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-09T07:56:16+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261108__D6UK6R2__v1__HighRes__MotoPrixQatRacePodium-1794208633.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "Krakow shooting suspect has died in hospital, police say",
       "summary": "At least six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
       "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-09T07:26:09+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b131/live/b7c6ce50-dc06-11f1-b6f4-7b86d13131ad.jpg"
-    },
-    {
-      "title": "Which countries and industries emit the most greenhouse gases?",
-      "summary": "The US has emitted the most CO2 in history; China is now the biggest emitter. Here’s who is driving global emissions.",
-      "url": "https://www.aljazeera.com/news/2026/11/9/which-countries-and-industries-emit-the-most-greenhouse-gases?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-09T07:21:37+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/INTERACTIVE-COP-INDUSTRY-NOV9-2026-1794202492.png?resize=1200%2C630"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "ANTARA: ParseError",
+    "ANTARA: no fresh stories",
+    "ANTARA: keeping previous story"
+  ]
 }
