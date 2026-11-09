@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-09T07:45:30.186491+00:00",
+  "updated_at": "2026-11-09T08:00:45.294177+00:00",
   "national": [
     {
-      "title": "Djarot Ungkap Panda Nababan Sempat Bahas Putusan MK soal Gibran",
-      "summary": "Ketua DPP PDIP Djarot Saiful Hidayat mengungkapkan Panda Nababan sempat membahas putusan MK terkait ijazah pendidikan Wapres Gibran.",
-      "url": "https://www.cnnindonesia.com/nasional/20261109143029-20-1424972/djarot-ungkap-panda-nababan-sempat-bahas-putusan-mk-soal-gibran",
+      "title": "Ragam Kesan Peserta Pilah Olah Sampah Heroes usai Ikut Penjurian Final",
+      "summary": "Peserta Pilah Olah Sampah Heroes Jakarta 2026 berbagi pengalaman usai penjurian final. Mereka menekankan pentingnya kolaborasi dan kepedulian terhadap sampah.",
+      "url": "https://www.cnnindonesia.com/nasional/20261109145057-20-1424996/ragam-kesan-peserta-pilah-olah-sampah-heroes-usai-ikut-penjurian-final",
       "source": "CNN Indonesia",
-      "published": "2026-11-09T07:40:31+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/09/djarot-ungkap-panda-nababan-sempat-bahas-putusan-mk-soal-gibran-1794209405085_169.jpeg?w=360&q=90"
+      "published": "2026-11-09T07:57:12+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/09/ragam-kesan-peserta-pilah-olah-sampah-heroes-jakarta-2026-usai-ikuti-penjurian-final-1794207274483_169.jpeg?w=360&q=90"
     },
     {
       "title": "Pelaku Penembakan Massal di Polandia Tewas Saat Dirawat di RS",
@@ -52,5 +52,9 @@
       "image": "https://i.guim.co.uk/img/media/8ad529e476ab9f8aaa4b519c77862c07cc74a4d3/584_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=6649e00763035cd3304c1a0e12dfc6a9"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
