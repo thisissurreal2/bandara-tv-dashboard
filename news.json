@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-09T17:30:42.173949+00:00",
+  "updated_at": "2026-11-09T17:45:29.318938+00:00",
   "national": [
+    {
+      "title": "Wamenhan Hadiri Remembrance Day, Perkuat Diplomasi Pertahanan RI",
+      "summary": "Wamenhan Marsekal TNI Yusuf Jauhari hadir di upacara Remembrance Sunday di Jakarta, menghormati prajurit yang gugur dan memperkuat diplomasi.",
+      "url": "https://www.cnnindonesia.com/nasional/20261109214602-20-1425158/wamenhan-hadiri-remembrance-day-perkuat-diplomasi-pertahanan-ri",
+      "source": "CNN Indonesia",
+      "published": "2026-11-09T17:30:03+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/10/15/yusuf-jauhari-1792052005611_169.png?w=360&q=90"
+    },
     {
       "title": "Prabowo Perintahkan Normalisasi Sungai di Sumatera, Cegah Banjir Susulan",
       "summary": "Presiden Prabowo Subianto memerintahkan normalisasi sungai di Aceh, Sumut, dan Sumbar pascabencana.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-09T16:53:43+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/09/mendagri-tito-karnavian-usai-rapat-pemulihan-pascabencana-sumatera-1794242956549_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Mantan Wali Kota Depok Badrul Kamal Tutup Usia",
-      "summary": "Kabar duka datang dari Depok, Jawa Barat. Mantan Wali Kota Depok Badrul Kamal meninggal dunia pada Senin (9/11).",
-      "url": "https://www.cnnindonesia.com/nasional/20261109231658-20-1425178/mantan-wali-kota-depok-badrul-kamal-tutup-usia",
-      "source": "CNN Indonesia",
-      "published": "2026-11-09T16:25:14+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2020/12/12/ilustrasi-meninggal_169.jpeg?w=360&q=90"
     },
     {
       "title": "Dirut Bulog: Stok beras Indonesia 4,5 juta ton tertinggi se-ASEAN",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Trump attempts to cast doubt on Democrats’ midterm election victory, questioning early vote numbers and ballot machines – live",
-      "summary": "President questions result in social media post after initially suggesting he would accept Democratic landslide win Trump admits deportation policy was ‘too tough’ Sign up for US Breaking News email Democratic Congressman Hakeem Jeffries , currently the House minority leader who is poised to become new Speaker next year, told CBS News that the Trump administration will hold a closed-door congressional briefing today to discuss Jensen Huang’s affair with an alleged Chinese spy . Last week the Republican chairs of three key House committees also called on Huang to appear before lawmakers in a closed-door hearing on 18 November. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+      "title": "Burnham warns that NHS will ‘struggle’ to cope if consultants don’t resume talks over pay – as it happened",
+      "summary": "Hospital consultants are set to go on a two-day strike at the end of October Downing Street has insisted that the government remains committed to the principle of the zero emission vehicle (ZEV) mandate – while not denying today’s Guardian report saying interim targets to achieve it are set to be watered down. (See 9.26am .) Asked about the story at the daily lobby briefing, the PM’s spokesperson said: The government is fully behind the zero emission vehicle mandate, and no decisions have been taken yet. We’re sticking to our commitment, phasing out new cars that run only on petrol or diesel by 2030, every new car and van will be zero emission by 2035, and our legally binding net zero targets. None of that is changing. Continue reading...",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/09/polanski-greens-labour-andy-burnham-climate-crisis-ev-targets-uk-politics-latest-news",
       "source": "The Guardian",
-      "published": "2026-11-09T17:24:25+00:00",
-      "image": "https://i.guim.co.uk/img/media/504caf7a8beabc9cfbb463552ee9cf0ddc2dc130/468_0_5419_4335/master/5419.jpg?width=140&quality=85&auto=format&fit=max&s=9ab62ecdd8ff6faabb2959dfeb53c20d"
+      "published": "2026-11-09T17:31:36+00:00",
+      "image": "https://i.guim.co.uk/img/media/e661b9f921ffdd777b231a9de99cca1b4f9bee1e/1889_309_5046_4036/master/5046.jpg?width=140&quality=85&auto=format&fit=max&s=18bfdf610be38d2b39b7053f7307d843"
+    },
+    {
+      "title": "Israeli tourists spark outrage over video pushing tour guide into sea",
+      "summary": "A video of an Israeli tourist pushing a Sri Lankan tour guide off a boat has sparked outrage. Here is what we know.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/israeli-tourists-spark-outrage-over-video-pushing-tour-guide-into-sea?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-09T17:17:39+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794244612.jpg?resize=1920%2C1080&quality=80"
     },
     {
       "title": "Trump questions midterm elections integrity after previously accepting results",
@@ -42,15 +50,11 @@
       "source": "BBC",
       "published": "2026-11-09T17:16:42+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de62/live/5a7465d0-dc53-11f1-a869-656dc96bd12d.jpg"
-    },
-    {
-      "title": "Al Jazeera tries skateboarding at Youth Olympics",
-      "summary": "Al Jazeera tries skateboarding at Youth Olympics",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/al-jazeera-tries-skateboarding-at-youth-olympics?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-09T16:48:34+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/skateboarding-horizontal-thumb-1794242833.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
