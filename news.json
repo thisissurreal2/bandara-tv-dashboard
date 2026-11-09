@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T16:00:23.265215+00:00",
+  "updated_at": "2026-11-09T16:15:30.495408+00:00",
   "national": [
     {
       "title": "BMKG Lapor Prabowo Antisipasi Potensi Banjir-Longsor di Puncak Musim Hujan",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "More than 50,000 displaced by deadly Ethiopia border clashes",
-      "summary": "Families arrive in Kenya with little food or shelter as host communities struggle to cope.",
-      "url": "https://www.aljazeera.com/news/2026/11/9/more-than-50000-displaced-by-deadly-ethiopia-border-clashes?traffic_source=rss",
+      "title": "Nvidia shares slump amid investigation into CEO Jensen Huang",
+      "summary": "Huang admits infidelity, denies compromising Nvidia security as China spy inquiry shakes $4.5 trillion AI firm.",
+      "url": "https://www.aljazeera.com/economy/2026/11/9/nvidia-shares-slump-amid-investigation-into-ceo-jensen-huang?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-09T15:55:27+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/IMG-20261104-WA0022-1794236132.jpg?resize=1200%2C630"
+      "published": "2026-11-09T16:00:10+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af1dfe5-1794236389.jpg?resize=1920%2C1440"
     },
     {
-      "title": "Hardline Trump aide Stephen Miller takes over as White House chief of staff",
-      "summary": "Miller, known as the architect of Trump’s controversial immigration crackdown, is replacing Susie Wiles in new role US politics live – latest updates Stephen Miller, the architect of Donald Trump’s mass deportation policy and hardline crackdown on immigration, took up his new role as White House chief of staff on Monday. Miller, 41, began his new role serving as Trump’s right-hand man after Republicans suffered massive losses nationwide in the midterm elections. He was previously serving as a deputy chief of staff. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/09/stephen-miller-white-house-chief-of-staff",
+      "title": "Russell Brand sentenced to more than 10 years for rape and sexual assault offences – latest updates",
+      "summary": "Disgraced comedian must serve two-thirds of the 10 years and six month sentence before he will be eligible for parole Russell Brand sentenced to more than 10 years in prison Proceedings are beginning now. Chief prosecutor Riel Karmy-Jones KC is up on her feet. She’ll be the first to deliver remarks. The sentencing has been pushed back as court staff attempt to rearrange the courtroom so one of the victims can be protected, PA reports. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-09T15:53:44+00:00",
-      "image": "https://i.guim.co.uk/img/media/db4879733af20c35f81006235d81b932772ab199/670_308_2949_2359/master/2949.jpg?width=140&quality=85&auto=format&fit=max&s=166a930a8fbd8b3f8baaf32bcb2b2f09"
+      "published": "2026-11-09T15:57:16+00:00",
+      "image": "https://i.guim.co.uk/img/media/2932dc867e0a4f6a2df2af502311f646fae12730/114_13_5339_4271/master/5339.jpg?width=140&quality=85&auto=format&fit=max&s=43be54778d4a160aa933c96b19fa46e5"
     },
     {
       "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
