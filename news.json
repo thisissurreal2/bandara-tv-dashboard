@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-09T12:45:29.258510+00:00",
+  "updated_at": "2026-11-09T13:00:42.870714+00:00",
   "national": [
     {
-      "title": "Raja Juli Antoni mundur dari Sekjen PSI",
-      "summary": "Raja Juli Antoni mengundurkan diri dari jabatan Sekretaris Jenderal (Sekjen) Dewan Pimpinan Pusat (DPP) Partai ...",
-      "url": "https://www.antaranews.com/berita/5842227/raja-juli-antoni-mundur-dari-sekjen-psi",
-      "source": "ANTARA",
-      "published": "2026-11-09T12:24:25+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2025/09/26/pelantikan-pengurus-dpp-psi-periode-2025-2030-2631809.jpg"
+      "title": "Panda Nababan Akan Dimakamkan di Kampung Halaman Tapanuli Utara",
+      "summary": "Politikus senior PDIP Panda Nababan akan dimakamkan di pemakaman keluarga di Siborong-borong, Kabupaten Tapanuli Utara, Sumatera Utara pada Kamis (12/11).",
+      "url": "https://www.cnnindonesia.com/nasional/20261109193437-20-1425124/panda-nababan-akan-dimakamkan-di-kampung-halaman-tapanuli-utara",
+      "source": "CNN Indonesia",
+      "published": "2026-11-09T12:56:12+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/09/panda-nababan-1794195425995_169.png?w=360&q=90"
     },
     {
-      "title": "Pernyataan Lengkap Raja Juli Mundur dari PSI",
-      "summary": "Menteri Kehutanan Raja Juli Antoni mundur sebagai Sekjen PSI untuk fokus membantu Presiden Prabowo. Dia berkomitmen pada rehabilitasi hutan dan biodiversitas.",
-      "url": "https://www.cnnindonesia.com/nasional/20261109185849-32-1425109/pernyataan-lengkap-raja-juli-mundur-dari-psi",
-      "source": "CNN Indonesia",
-      "published": "2026-11-09T12:19:25+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2024/10/21/jajaran-kabinet-merah-putih-19_169.jpeg?w=360&q=90"
+      "title": "Alen Stajcic akan debut pada FIFA Matchday lawan Bhutan dan Lebanon",
+      "summary": "Pelatih Kepala Timnas Putri Indonesia Alen Stajcic akan memimpin timnya bertanding untuk pertama kalinya atau debut ...",
+      "url": "https://www.antaranews.com/berita/5842235/alen-stajcic-akan-debut-pada-fifa-matchday-lawan-bhutan-dan-lebanon",
+      "source": "ANTARA",
+      "published": "2026-11-09T12:27:06+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/09/3e7383e1-b3e3-4aa0-801c-c0a28726c28a.jpeg"
     },
     {
       "title": "Menjaga Benih Lobster untuk Masa Depan Ekonomi Biru",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Deportation policy ‘might have been too tough’, says Trump, as Miller starts chief of staff role – live",
+      "summary": "President’s acknowledgement appears at odds with his elevation of Stephen Miller, the architect of his hardline immigration policy Trump admits deportation policy was ‘too tough’ Sign up for US Breaking News email Don’t worry, cash-strapped Americans, “relief is on the way”, the senator Chuck Schumer promised last week in a press conference celebrating Democrats’ massive midterms win. Winning candidates promised to cut food and healthcare costs, rein in corporations ripping off consumers and workers, curb billionaire power and make the world’s biggest economy better serve the working class. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-09T12:54:33+00:00",
+      "image": "https://i.guim.co.uk/img/media/504caf7a8beabc9cfbb463552ee9cf0ddc2dc130/468_0_5419_4335/master/5419.jpg?width=140&quality=85&auto=format&fit=max&s=9ab62ecdd8ff6faabb2959dfeb53c20d"
+    },
+    {
       "title": "Nine foreigners caught allegedly trying to leave South Africa to fight in Ukraine",
       "summary": "Police declined to disclose their nationalities but said none of them lived in South Africa.",
       "url": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-09T12:33:24+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8c0/live/5d2b0080-dc36-11f1-95cf-a38331e6cb4b.jpg"
-    },
-    {
-      "title": "Prosecution calls for long jail term as Russell Brand is sentenced for rape and sexual assault – latest updates",
-      "summary": "Prosecuting barrister asks for a ‘category one’ sentencing length which ranges from 10 to 15 years Proceedings are beginning now. Chief prosecutor Riel Karmy-Jones KC is up on her feet. She’ll be the first to deliver remarks. The sentencing has been pushed back as court staff attempt to rearrange the courtroom so one of the victims can be protected, PA reports. Continue reading...",
-      "url": "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-09T12:26:22+00:00",
-      "image": "https://i.guim.co.uk/img/media/f0e10b04191082319bbd3f7199555e5030cffac1/46_0_3188_2551/master/3188.jpg?width=140&quality=85&auto=format&fit=max&s=3b2281da79a9d6f0ce33eab731c6160a"
     },
     {
       "title": "Partial collapse of Pakistan’s Tarbela dam causes flood water surge",
@@ -53,7 +53,7 @@
     }
   ],
   "feed_warnings": [
-    "Detik: TimeoutError",
+    "Detik: URLError",
     "Detik: no fresh stories",
     "Detik: keeping previous story"
   ]
