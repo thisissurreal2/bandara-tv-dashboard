@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-09T14:15:28.090473+00:00",
+  "updated_at": "2026-11-09T14:30:34.995539+00:00",
   "national": [
+    {
+      "title": "Anwar Sadad Mangkir Panggilan, KPK Jadwalkan Ulang Pekan Depan",
+      "summary": "KPK jadwalkan ulang pemanggilan Anwar Sadad dan Bagus Wahyudyono terkait dugaan korupsi dana hibah Pokmas Jatim. Keduanya tidak hadir dalam pemeriksaan.",
+      "url": "https://www.cnnindonesia.com/nasional/20261109190402-12-1425112/anwar-sadad-mangkir-panggilan-kpk-jadwalkan-ulang-pekan-depan",
+      "source": "CNN Indonesia",
+      "published": "2026-11-09T14:16:49+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2023/01/25/wakil-ketua-dprd-jatim-anwar-sadad_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Cerita Pemulung Terjebak di Gorong-gorong karena Selamatkan Si Meong",
       "summary": "Seorang pria terjebak dalam gorong-gorong di Kompleks Pemkab Tangerang, Kabupaten Tangerang. Pria tersebut ternyata pemulung yang baru saja mengevakuasi kucing.",
@@ -10,29 +18,21 @@
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/07/warga-di-tigaraksa-kabupaten-tangerang-dibuat-keheranan-karena-ada-pria-tiba-tiba-ditemukan-terjebak-di-dalam-gorong-gorong-do-1794051990414_169.gif?w=360&q=90"
     },
     {
-      "title": "Gus Ipul Beber Alasan Kakek Prabowo Diusulkan Jadi Pahlawan Nasional",
-      "summary": "Gus Ipul menyebut nama RM Margono Djojohadikusumo, kakek Prabowo diusulkan jadi pahlawan nasional karena jasa dan kontribusinya negara.",
-      "url": "https://www.cnnindonesia.com/nasional/20261109205127-20-1425145/gus-ipul-beber-alasan-kakek-prabowo-diusulkan-jadi-pahlawan-nasional",
-      "source": "CNN Indonesia",
-      "published": "2026-11-09T13:58:45+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/06/07/menteri-sosial-saifullah-yusuf-1780804555364_169.png?w=360&q=90"
-    },
-    {
-      "title": "Mendes minta jajaran Kemendes jadi penggerak pembangunan desa",
-      "summary": "Menteri Desa dan Pembangunan Daerah Tertinggal (Mendes PDT) Yandri Susanto meminta seluruh jajaran Kementerian Desa dan ...",
-      "url": "https://www.antaranews.com/berita/5842483/mendes-minta-jajaran-kemendes-jadi-penggerak-pembangunan-desa",
+      "title": "Mendagri: Rp12,34 triliun disalurkan ke daerah pascabencana Sumatra",
+      "summary": "Pemerintah pusat menyalurkan Rp12,34 triliun, termasuk tambahan transfer ke daerah (TKD), kepada pemerintah daerah di ...",
+      "url": "https://www.antaranews.com/berita/5842543/mendagri-rp1234-triliun-disalurkan-ke-daerah-pascabencana-sumatra",
       "source": "ANTARA",
-      "published": "2026-11-09T13:43:16+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/09/FotoGrid_20261109_203122376.jpg"
+      "published": "2026-11-09T14:03:03+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/09/1000469373.jpg"
     }
   ],
   "international": [
     {
-      "title": "Prosecution calls for long jail term as Russell Brand is sentenced for rape and sexual assault – latest updates",
+      "title": "Judge begins sentencing Russell Brand for rape and sexual assault as prosecution calls for long jail term – latest updates",
       "summary": "Prosecuting barrister asks for a ‘category one’ sentencing length which ranges from 10 to 15 years Proceedings are beginning now. Chief prosecutor Riel Karmy-Jones KC is up on her feet. She’ll be the first to deliver remarks. The sentencing has been pushed back as court staff attempt to rearrange the courtroom so one of the victims can be protected, PA reports. Continue reading...",
       "url": "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-09T14:09:55+00:00",
+      "published": "2026-11-09T14:10:06+00:00",
       "image": "https://i.guim.co.uk/img/media/db2ce7f0c0ff0af5e5eb6902720b89424f4bce10/62_0_5355_4284/master/5355.jpg?width=140&quality=85&auto=format&fit=max&s=6cc8eed262f7545b22224d9ca60fb24d"
     },
     {
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2597/live/27d57330-dc3a-11f1-95cf-a38331e6cb4b.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
