@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T19:30:43.868611+00:00",
+  "updated_at": "2026-11-09T19:45:31.717530+00:00",
   "national": [
     {
       "title": "Gegara Usaha Bangkrut, Pasutri di Blitar Produksi Video Porno",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Air pollution soars as fog traps emissions in England’s urban areas",
-      "summary": "Particles from fireworks and bonfires likely to have contributed to levels well above WHO’s daily guideline Air pollution soared to “very high” levels across urban parts of England on Monday as still, foggy weather kept emissions trapped after a weekend of fireworks and bonfires. Government monitoring showed 11 sites, mainly in London and Greater Manchester, reached the highest band on its 10-point index for particulate matter in the 24 hours to 10am. A further 27 sites recorded “high” levels across the capital, the north-west, the Midlands, Yorkshire and the east of England. Continue reading...",
-      "url": "https://www.theguardian.com/environment/2026/nov/09/air-pollution-soars-fog-traps-emissions-england-urban-areas",
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-09T19:39:33+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04a0/live/7de9a320-dc64-11f1-8fe6-5becaee5408f.jpg"
+    },
+    {
+      "title": "Republican Thomas Massie moves to force vote to impeach Pete Hegseth",
+      "summary": "US representative accuses defense secretary of illegally waging war without congressional authorization and abusing his powers US politics live – latest updates A Republican lawmaker has moved to force a vote to impeach Pete Hegseth, the US defense secretary, setting the stage for a showdown over one of the most divisive figures inside Donald Trump’s administration. Thomas Massie, of Kentucky, introduced eight articles of impeachment against Hegseth, accusing him of illegally waging war without congressional authorization and abusing his powers. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/09/pete-hegseth-impeachment-thomas-massie",
       "source": "The Guardian",
-      "published": "2026-11-09T19:13:59+00:00",
-      "image": "https://i.guim.co.uk/img/media/11c7669b90e9ed1725390c0e7b560318b560b1b8/274_0_1668_1334/master/1668.jpg?width=140&quality=85&auto=format&fit=max&s=37a1707e8e6e24cba5e58ff842cb302a"
+      "published": "2026-11-09T19:31:36+00:00",
+      "image": "https://i.guim.co.uk/img/media/127a943500d7d4f7af49820ae47362b8a04b6957/360_0_3600_2880/master/3600.jpg?width=140&quality=85&auto=format&fit=max&s=ea33a67ec8f76ec8c359cfc3fe32634a"
     },
     {
       "title": "US agencies unite to combat rogue drone threats nationwide",
@@ -42,15 +50,11 @@
       "source": "Al Jazeera",
       "published": "2026-11-09T19:07:56+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af2090e7f-1794246926.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
-      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-09T18:19:19+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04a0/live/7de9a320-dc64-11f1-8fe6-5becaee5408f.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
