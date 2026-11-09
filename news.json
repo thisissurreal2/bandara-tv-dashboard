@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T06:00:40.742967+00:00",
+  "updated_at": "2026-11-09T06:02:28.705336+00:00",
   "national": [
     {
       "title": "3 Pelempar Batu ke Bus Rombongan Suporter Persib di Semarang Ditangkap",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Fixing UK’s youth jobs crisis demands much more investment, TUC boss warns",
+      "summary": "Paul Nowak also calls on government to avoid arbitrary benefit cuts before much-anticipated Milburn report is published this week Fixing Britain’s youth jobs crisis will require ministers to drastically increase investment in employment support while avoiding arbitrary cuts to benefits, the head of the trade union movement has said. Before an important official report expected next week, the general secretary of the Trades Union Congress , Paul Nowak, said the government had a “once in a generation chance” to secure young people’s futures. Continue reading...",
+      "url": "https://www.theguardian.com/society/2026/nov/09/uk-young-people-job-work-employment-crisis-paul-nowak-milburn-review",
+      "source": "The Guardian",
+      "published": "2026-11-09T06:00:03+00:00",
+      "image": "https://i.guim.co.uk/img/media/8e775de151bb91396f2a85ea4cab2bc69dacdbd7/1001_0_5336_4269/master/5336.jpg?width=140&quality=85&auto=format&fit=max&s=52329e2e865a285b202873f54ff11410"
+    },
+    {
       "title": "Smog blankets New Delhi as Diwali firecrackers worsen air quality",
       "summary": "Air quality in Indian capital reaches severe levels, posing heightened health risks for more than 30 million residents.",
       "url": "https://www.aljazeera.com/news/2026/11/9/smog-blankets-new-delhi-as-diwali-firecrackers-worsen-air-quality?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-11-09T05:20:08+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af14ccebde5-1794198734.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Burnham’s homelessness pledge to ‘get everyone in for Christmas’ in jeopardy",
-      "summary": "Minister says Labour hoping to offer bed to every rough sleeper in England but cites chronic housing shortage Andy Burnham’s pledge to tackle rough sleeping by getting “everyone in for Christmas” is in jeopardy amid rising numbers of people on the streets and a severe housing shortage. Official figures show an increase of nearly 1,000 people sleeping rough in England between January and June, the latest month for which figures are available. Continue reading...",
-      "url": "https://www.theguardian.com/society/2026/nov/09/burnham-homelessness-pledge-rough-sleeping-england",
-      "source": "The Guardian",
-      "published": "2026-11-09T05:01:01+00:00",
-      "image": "https://i.guim.co.uk/img/media/d888efd72e09e940b6f42910402b901e7730cf18/651_0_6355_5084/master/6355.jpg?width=140&quality=85&auto=format&fit=max&s=b72892ff2f484960c932205aaa55aee4"
     },
     {
       "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d5/live/8cacf090-dbdf-11f1-b348-cb75a5659779.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
