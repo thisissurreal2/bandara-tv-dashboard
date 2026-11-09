@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-09T17:45:29.318938+00:00",
+  "updated_at": "2026-11-09T18:00:53.563002+00:00",
   "national": [
+    {
+      "title": "Prancis Tuduh Iran Retas Kulkas Supermarket Bikin Makanan Membusuk",
+      "summary": "Pemerintah Prancis tuduh Iran sebagai pelaku serangan siber yang merusak sistem pendingin supermarket, menyebabkan kerugian besar.",
+      "url": "https://news.detik.com/internasional/d-8745838/prancis-tuduh-iran-retas-kulkas-supermarket-bikin-makanan-membusuk",
+      "source": "Detik",
+      "published": "2026-11-09T17:33:35+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/05/29/ilustrasi-menyimpan-daging-kurban-di-kulkas-1780033342532_169.png?w=360&q=90"
+    },
     {
       "title": "Wamenhan Hadiri Remembrance Day, Perkuat Diplomasi Pertahanan RI",
       "summary": "Wamenhan Marsekal TNI Yusuf Jauhari hadir di upacara Remembrance Sunday di Jakarta, menghormati prajurit yang gugur dan memperkuat diplomasi.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-09T17:30:03+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/10/15/yusuf-jauhari-1792052005611_169.png?w=360&q=90"
-    },
-    {
-      "title": "Prabowo Perintahkan Normalisasi Sungai di Sumatera, Cegah Banjir Susulan",
-      "summary": "Presiden Prabowo Subianto memerintahkan normalisasi sungai di Aceh, Sumut, dan Sumbar pascabencana.",
-      "url": "https://news.detik.com/berita/d-8745833/prabowo-perintahkan-normalisasi-sungai-di-sumatera-cegah-banjir-susulan",
-      "source": "Detik",
-      "published": "2026-11-09T16:53:43+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/09/mendagri-tito-karnavian-usai-rapat-pemulihan-pascabencana-sumatera-1794242956549_169.jpeg?w=360&q=90"
     },
     {
       "title": "Dirut Bulog: Stok beras Indonesia 4,5 juta ton tertinggi se-ASEAN",
@@ -28,33 +28,29 @@
   ],
   "international": [
     {
-      "title": "Burnham warns that NHS will ‘struggle’ to cope if consultants don’t resume talks over pay – as it happened",
-      "summary": "Hospital consultants are set to go on a two-day strike at the end of October Downing Street has insisted that the government remains committed to the principle of the zero emission vehicle (ZEV) mandate – while not denying today’s Guardian report saying interim targets to achieve it are set to be watered down. (See 9.26am .) Asked about the story at the daily lobby briefing, the PM’s spokesperson said: The government is fully behind the zero emission vehicle mandate, and no decisions have been taken yet. We’re sticking to our commitment, phasing out new cars that run only on petrol or diesel by 2030, every new car and van will be zero emission by 2035, and our legally binding net zero targets. None of that is changing. Continue reading...",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/09/polanski-greens-labour-andy-burnham-climate-crisis-ev-targets-uk-politics-latest-news",
-      "source": "The Guardian",
-      "published": "2026-11-09T17:31:36+00:00",
-      "image": "https://i.guim.co.uk/img/media/e661b9f921ffdd777b231a9de99cca1b4f9bee1e/1889_309_5046_4036/master/5046.jpg?width=140&quality=85&auto=format&fit=max&s=18bfdf610be38d2b39b7053f7307d843"
-    },
-    {
-      "title": "Israeli tourists spark outrage over video pushing tour guide into sea",
-      "summary": "A video of an Israeli tourist pushing a Sri Lankan tour guide off a boat has sparked outrage. Here is what we know.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/israeli-tourists-spark-outrage-over-video-pushing-tour-guide-into-sea?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-09T17:17:39+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794244612.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
       "title": "Trump questions midterm elections integrity after previously accepting results",
       "summary": "Trump made the claims, without evidence, on Truth Social on Monday.",
       "url": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-09T17:16:42+00:00",
+      "published": "2026-11-09T17:47:29+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de62/live/5a7465d0-dc53-11f1-a869-656dc96bd12d.jpg"
+    },
+    {
+      "title": "France accelerates minimum wage hike in bid to quell protest",
+      "summary": "Unions slam the increase as insufficient, as the government seeks to defuse the unrest ahead of upcoming elections.",
+      "url": "https://www.aljazeera.com/news/2026/11/9/france-accelerates-minimum-wage-hike-in-bid-to-quell-protest?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-09T17:46:28+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af1d45965-1794233433.jpg?resize=1920%2C1440"
+    },
+    {
+      "title": "‘I know what it’s like to fight’- France’s most popular sportsman says he’s running for president",
+      "summary": "Five-times Olympic judo champion Teddy Riner says he is neither leftwing nor rightwing but would seek to ‘bring people together’ The French judo star and five-times Olympic gold medallist Teddy Riner has announced plans to run in next year’s presidential election, describing himself as someone neither leftwing nor rightwing but who would seek to “bring people together”. With more than five months before the April-May ballot to replace Emmanuel Macron, the race has been shaping up to be a showdown between political extremes. Polls point to a hollowing out of the political centre, suggesting that the anti-immigrant National Rally leader Marine Le Pen could be the frontrunner, with the radical-left leader Jean-Luc Mélenchon trailing behind. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/09/judo-star-teddy-riner-plan-france-presidential-election",
+      "source": "The Guardian",
+      "published": "2026-11-09T17:42:51+00:00",
+      "image": "https://i.guim.co.uk/img/media/cdf22028f2dc61c37365d0b51d5d0b48cbbc6b90/485_0_3528_2823/master/3528.jpg?width=140&quality=85&auto=format&fit=max&s=b4ea5be7a7927efe608c7a3ae70896fd"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
