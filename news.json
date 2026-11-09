@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-09T19:15:27.155359+00:00",
+  "updated_at": "2026-11-09T19:30:43.868611+00:00",
   "national": [
+    {
+      "title": "Gegara Usaha Bangkrut, Pasutri di Blitar Produksi Video Porno",
+      "summary": "Pasangan suami istri di Blitar memproduksi video pornografi, meraup Rp 20-30 juta per bulan. Polisi ungkap kasus setelah patroli siber.",
+      "url": "https://news.detik.com/berita/d-8745856/gegara-usaha-bangkrut-pasutri-di-blitar-produksi-video-porno",
+      "source": "Detik",
+      "published": "2026-11-09T19:07:40+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2022/01/03/gambar-ilustrasi-soal-video-viral-nan-mesum-danu-damarjatidetikcom_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Pemprov Papua Pegunungan Butuh TKD untuk Pembangunan",
       "summary": "Pemerintah Provinsi Papua Pegunungan meminta dana transfer ke daerah (TKD) maksimal untuk mendukung pembangunan, mengingat keterbatasan sumber dana lainnya.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-09T18:51:13+00:00",
       "image": "https://akcdn.detik.net.id/visual/2025/08/27/tambang-emas-ilegal-menggila-di-papua-1756276425790_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Pencuri Tusuk Siswi SMP di Kalbar hingga Tewas, Polisi Sempat Gelar Sayembara",
-      "summary": "Seorang siswi SMP ditemukan meninggal dengan 17 luka tusuk setelah ditusuk pencuri sepeda motor. Polisi telah menangkap dua pelaku dan menyelidiki kasus ini.",
-      "url": "https://news.detik.com/berita/d-8745839/pencuri-tusuk-siswi-smp-di-kalbar-hingga-tewas-polisi-sempat-gelar-sayembara",
-      "source": "Detik",
-      "published": "2026-11-09T18:18:21+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/06/kapolres-kubu-raya-akbp-rensa-sastika-aktadivia-ocsya-ade-cp-1793979939169_169.jpeg?w=360&q=90"
     },
     {
       "title": "Dirut Bulog: Stok beras Indonesia 4,5 juta ton tertinggi se-ASEAN",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Air pollution soars as fog traps emissions in England’s urban areas",
+      "summary": "Particles from fireworks and bonfires likely to have contributed to levels well above WHO’s daily guideline Air pollution soared to “very high” levels across urban parts of England on Monday as still, foggy weather kept emissions trapped after a weekend of fireworks and bonfires. Government monitoring showed 11 sites, mainly in London and Greater Manchester, reached the highest band on its 10-point index for particulate matter in the 24 hours to 10am. A further 27 sites recorded “high” levels across the capital, the north-west, the Midlands, Yorkshire and the east of England. Continue reading...",
+      "url": "https://www.theguardian.com/environment/2026/nov/09/air-pollution-soars-fog-traps-emissions-england-urban-areas",
+      "source": "The Guardian",
+      "published": "2026-11-09T19:13:59+00:00",
+      "image": "https://i.guim.co.uk/img/media/11c7669b90e9ed1725390c0e7b560318b560b1b8/274_0_1668_1334/master/1668.jpg?width=140&quality=85&auto=format&fit=max&s=37a1707e8e6e24cba5e58ff842cb302a"
+    },
+    {
       "title": "US agencies unite to combat rogue drone threats nationwide",
       "summary": "More than $40bn allocated by NATO for counter-drone technologies as US agencies ramp up measures against aerial threats.",
       "url": "https://www.aljazeera.com/news/2026/11/9/us-agencies-unite-to-combat-rogue-drone-threats-nationwide?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-11-09T19:07:56+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af2090e7f-1794246926.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Ohio State fraternity suspended after viral video shows two men on fire",
-      "summary": "The university and local police are conducting investigations into Sigma Alpha Epsilon and have placed them on interim suspension A fraternity at Ohio State University has been temporarily suspended while authorities investigate a video that appears to show two panicked men engulfed in flames. A video shared on social media shows one individual with his sweatpants on fire who then lunges at a second individual and tackles him to the ground. The second man’s clothing also catches fire, and they both roll on the ground while removing their clothes as several onlookers intervene. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/09/ohio-state-sae-fire-suspension",
-      "source": "The Guardian",
-      "published": "2026-11-09T19:03:45+00:00",
-      "image": "https://i.guim.co.uk/img/media/febc447abab343f6a8b3babe921f0b0574caee1b/671_0_6708_5369/master/6708.jpg?width=140&quality=85&auto=format&fit=max&s=bef72034cd68626a5a8f3bd6a93d76bf"
     },
     {
       "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04a0/live/7de9a320-dc64-11f1-8fe6-5becaee5408f.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: TimeoutError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
