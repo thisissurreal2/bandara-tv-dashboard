@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T19:00:43.585993+00:00",
+  "updated_at": "2026-11-09T19:15:27.155359+00:00",
   "national": [
     {
       "title": "Pemprov Papua Pegunungan Butuh TKD untuk Pembangunan",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "John Fetterman to be challenged for Senate seat by democratic socialist born in Gaza",
-      "summary": "Ahmed Moor, a Palestinian American, said he would run in a primary to be the Democratic nominee in 2028 US politics live – latest updates John Fetterman, the maverick Democratic senator who has provoked widespread anger by increasingly siding with Republicans, is to be challenged for his Pennsylvania seat by a democratic socialist candidate who is originally from Gaza. Ahmed Moor, a Palestinian American, said he would run in a primary to be the Democratic nominee in 2028, when Fetterman’s seat is up for re-election. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/09/john-fetterman-pennsylvania-ahmed-moor",
-      "source": "The Guardian",
-      "published": "2026-11-09T18:54:49+00:00",
-      "image": "https://i.guim.co.uk/img/media/b157f8745887344b5e044300b673ea6419e231bd/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=07935e0fdbe5d43d1b5a9a0cc5c40792"
+      "title": "US agencies unite to combat rogue drone threats nationwide",
+      "summary": "More than $40bn allocated by NATO for counter-drone technologies as US agencies ramp up measures against aerial threats.",
+      "url": "https://www.aljazeera.com/news/2026/11/9/us-agencies-unite-to-combat-rogue-drone-threats-nationwide?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-09T19:07:56+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af2090e7f-1794246926.jpg?resize=1920%2C1440"
     },
     {
-      "title": "Al Jazeera.net co-founder and cartoonist Shujaat Ali dies aged 54",
-      "summary": "Ali was an award-winning pioneer of animated political caricatures and Pakistan's first court artist.",
-      "url": "https://www.aljazeera.com/news/2026/11/9/al-jazeera-net-co-founder-and-cartoonist-shujaat-ali-dies-aged-54?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-09T18:50:29+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/65867-1794207691.jpg-1794239934.webp?resize=1200%2C675"
+      "title": "Ohio State fraternity suspended after viral video shows two men on fire",
+      "summary": "The university and local police are conducting investigations into Sigma Alpha Epsilon and have placed them on interim suspension A fraternity at Ohio State University has been temporarily suspended while authorities investigate a video that appears to show two panicked men engulfed in flames. A video shared on social media shows one individual with his sweatpants on fire who then lunges at a second individual and tackles him to the ground. The second man’s clothing also catches fire, and they both roll on the ground while removing their clothes as several onlookers intervene. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/09/ohio-state-sae-fire-suspension",
+      "source": "The Guardian",
+      "published": "2026-11-09T19:03:45+00:00",
+      "image": "https://i.guim.co.uk/img/media/febc447abab343f6a8b3babe921f0b0574caee1b/671_0_6708_5369/master/6708.jpg?width=140&quality=85&auto=format&fit=max&s=bef72034cd68626a5a8f3bd6a93d76bf"
     },
     {
       "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04a0/live/7de9a320-dc64-11f1-8fe6-5becaee5408f.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: TimeoutError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
