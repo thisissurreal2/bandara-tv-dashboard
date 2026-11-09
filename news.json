@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T19:45:31.717530+00:00",
+  "updated_at": "2026-11-09T20:00:44.045030+00:00",
   "national": [
     {
       "title": "Gegara Usaha Bangkrut, Pasutri di Blitar Produksi Video Porno",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
-      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+      "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+      "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-09T19:39:33+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04a0/live/7de9a320-dc64-11f1-8fe6-5becaee5408f.jpg"
+      "published": "2026-11-09T19:58:01+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f5c/live/7cc0b9e0-dc6c-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "Republican Thomas Massie moves to force vote to impeach Pete Hegseth",
-      "summary": "US representative accuses defense secretary of illegally waging war without congressional authorization and abusing his powers US politics live – latest updates A Republican lawmaker has moved to force a vote to impeach Pete Hegseth, the US defense secretary, setting the stage for a showdown over one of the most divisive figures inside Donald Trump’s administration. Thomas Massie, of Kentucky, introduced eight articles of impeachment against Hegseth, accusing him of illegally waging war without congressional authorization and abusing his powers. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/09/pete-hegseth-impeachment-thomas-massie",
+      "title": "Cyber-attack on French supermarket freezers has geopolitical context",
+      "summary": "‘Not particularly complex’ defrosting hack has been attributed to Iran, with presumption it is linked to others across Europe Iranian hackers like to send a message. In 2023 a state-backed group interrupted TV streaming services in the United Arab Emirates to broadcast a deepfake report on the war in Gaza. In the same year, hackers affiliated with Iran displayed the slogan “down with Israel” on the screens of water-control equipment made by an Israeli firm. Continue reading...",
+      "url": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe",
       "source": "The Guardian",
-      "published": "2026-11-09T19:31:36+00:00",
-      "image": "https://i.guim.co.uk/img/media/127a943500d7d4f7af49820ae47362b8a04b6957/360_0_3600_2880/master/3600.jpg?width=140&quality=85&auto=format&fit=max&s=ea33a67ec8f76ec8c359cfc3fe32634a"
+      "published": "2026-11-09T19:40:45+00:00",
+      "image": "https://i.guim.co.uk/img/media/67edbe777b6f2a03334e7acacf646cbcabb1144d/2_0_3540_2832/master/3540.jpg?width=140&quality=85&auto=format&fit=max&s=2fcee9639e9c08f65c05bf3be321dc9f"
     },
     {
       "title": "US agencies unite to combat rogue drone threats nationwide",
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af2090e7f-1794246926.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
