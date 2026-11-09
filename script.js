@@ -861,7 +861,24 @@ function displayOilInIDR(oilUsdPerBarrel) {
   const todayOperationsDate = document.getElementById("today-operations-date");
   const todayOperationsList = document.getElementById("today-operations-list");
   const operationLegendMount = document.getElementById("operation-colour-legend-mount");
-  const SCHEDULE_API_URL = "https://script.google.com/macros/s/AKfycbxQyoIkxs0ez1QDaX-fdrFkiVpT-HaCTBJH5mKwc7oABKFyI0Awq5diGLWLbwLPkOxH/exec";
+  const SCHEDULE_API_URL = "https://bandara-schedule-api.YOUR-SUBDOMAIN.workers.dev/schedule";
+  const TOKEN_STORAGE_KEY = "bandara_device_token";
+
+  // One-time device setup: open the dashboard URL ending in #dt=<token>.
+  // The token is saved in this browser only, then removed from the address bar.
+  function captureDeviceToken() {
+    try {
+      const found = location.hash.match(/(?:^#|&)dt=([A-Za-z0-9_-]{16,128})/);
+      if (found) {
+        localStorage.setItem(TOKEN_STORAGE_KEY, found[1]);
+        history.replaceState(null, "", location.pathname + location.search);
+      }
+    } catch (e) { /* storage blocked: the status line will say the device is not set up */ }
+  }
+  function getDeviceToken() {
+    try { return localStorage.getItem(TOKEN_STORAGE_KEY) || ""; } catch (e) { return ""; }
+  }
+  captureDeviceToken();
   const monthNames = ["Januari", "Februari", "Maret", "April", "Mei", "Juni", "Juli", "Agustus", "September", "Oktober", "November", "Desember"];
   const monthShort = ["Jan", "Feb", "Mar", "Apr", "Mei", "Jun", "Jul", "Agu", "Sep", "Okt", "Nov", "Des"];
   const weekdayShort = ["Min", "Sen", "Sel", "Rab", "Kam", "Jum", "Sab"];
@@ -1219,27 +1236,46 @@ function displayOilInIDR(oilUsdPerBarrel) {
     });
   }
 
-  function loadSelectedMonth() {
+    function loadSelectedMonth() {
     const key = select.value;
     const token = ++requestToken;
-    setStatus(`Memuat ${monthLabel(key)} dari Google Sheets…`);
-    const callbackName = `bandaraScheduleCallback_${Date.now()}_${Math.floor(Math.random()*100000)}`;
-    const script = document.createElement("script"); let finished = false;
-    const timeout = setTimeout(() => finish(false, "Waktu permintaan jadwal habis. Periksa koneksi internet."), 15000);
-    function finish(ok, message) { if (finished) return; finished = true; clearTimeout(timeout); script.remove(); delete window[callbackName]; if (message) setStatus(message); }
-    window[callbackName] = payload => {
-      finish(true);
-      if (token !== requestToken) return;
-      if (!payload || payload.ok !== true || !Array.isArray(payload.rows)) { setStatus(payload && payload.error ? payload.error : "Jadwal tidak dapat dimuat."); return; }
-      currentRows = payload.rows; renderGrid(currentRows, key); renderTodayOperations();
-      const unmatched = currentRows.filter(r => getSlot(r) < 0).length;
-      if (!unmatched) setStatus(`${monthLabel(key)} · ${payload.rows.length} kegiatan · Diperbarui dari Google Sheets · Hari ini ditandai menurut waktu Jakarta`);
-    };
-    script.onerror = () => finish(false, "Tidak dapat terhubung ke Google Sheets. Silakan coba lagi.");
-    const sep = SCHEDULE_API_URL.includes("?") ? "&" : "?";
-    script.src = `${SCHEDULE_API_URL}${sep}month=${encodeURIComponent(key)}&callback=${callbackName}&_=${Date.now()}`;
-    document.head.appendChild(script);
+    const deviceToken = getDeviceToken();
+    if (!deviceToken) {
+      setStatus("Perangkat ini belum diberi izin memuat jadwal. Hubungi admin IT.");
+      return;
+    }
+    setStatus(`Memuat ${monthLabel(key)}…`);
+    const controller = typeof AbortController === "function" ? new AbortController() : null;
+    const timeout = setTimeout(() => { if (controller) controller.abort(); }, 15000);
+    fetch(`${SCHEDULE_API_URL}?month=${encodeURIComponent(key)}`, {
+      headers: { "Authorization": `Bearer ${deviceToken}` },
+      cache: "no-store",
+      signal: controller ? controller.signal : undefined
+    })
+      .then(response => response.json().catch(() => null).then(payload => ({ status: response.status, payload })))
+      .then(({ status, payload }) => {
+        clearTimeout(timeout);
+        if (token !== requestToken) return;
+        if (status === 401) { setStatus("Akses ditolak. Token perangkat tidak valid atau sudah dicabut."); return; }
+        if (status === 404) {
+          currentRows = []; renderGrid(currentRows, key); renderTodayOperations();
+          setStatus(`${monthLabel(key)} · Jadwal belum tersedia`);
+          return;
+        }
+        if (!payload || payload.ok !== true || !Array.isArray(payload.rows)) {
+          setStatus(payload && payload.detail ? payload.detail : "Jadwal tidak dapat dimuat.");
+          return;
+        }
+        currentRows = payload.rows; renderGrid(currentRows, key); renderTodayOperations();
+        const unmatched = currentRows.filter(r => getSlot(r) < 0).length;
+        if (!unmatched) setStatus(`${monthLabel(key)} · ${payload.rows.length} kegiatan · Diperbarui dari Google Sheets · Hari ini ditandai menurut waktu Jakarta`);
+      })
+      .catch(() => {
+        clearTimeout(timeout);
+        if (token === requestToken) setStatus("Tidak dapat terhubung ke server jadwal. Silakan coba lagi.");
+      });
   }
+  
   function selectMonth(key) {
     if (![...select.options].some(o => o.value === key)) return;
     select.value = key;
