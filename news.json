@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-09T11:00:43.044991+00:00",
+  "updated_at": "2026-11-09T11:15:26.341218+00:00",
   "national": [
     {
-      "title": "Komitmen Pemkab Pati Dorong Sektor Bahari Raih Penghargaan CIA 2026",
-      "summary": "Penghargaan ini menegaskan upaya Pemkab Pati dalam membangun ekosistem ekonomi perikanan yang lebih terintegrasi, mulai dari sektor produksi hingga pemasaran.",
-      "url": "https://www.cnnindonesia.com/nasional/20261109173859-25-1425076/komitmen-pemkab-pati-dorong-sektor-bahari-raih-penghargaan-cia-2026",
+      "title": "Yayasan Pimpinan Iqdam Minta Dana Hibah Rp25 M, Ditolak Pemprov Jatim",
+      "summary": "Pemprov Jatim membenarkan ada proposal permohonan dana hibah dari yayasan Majelis Taklim pimpinan Gus Iqdam sebesar Rp25 miliar.",
+      "url": "https://www.cnnindonesia.com/nasional/20261109174317-12-1425080/yayasan-pimpinan-iqdam-minta-dana-hibah-rp25-m-ditolak-pemprov-jatim",
       "source": "CNN Indonesia",
-      "published": "2026-11-09T10:51:17+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/09/pemkab-pati-1794221169990_169.jpeg?w=360&q=90"
+      "published": "2026-11-09T11:09:35+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/04/24/sekda-jatim-adhy-karyono-1777032954535_169.jpeg?w=360&q=90"
     },
     {
       "title": "Polisi Sita Kapak hingga Bensin dari Penyerang Jemaah di Masjid Jaktim",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Russell Brand to be sentenced for rape and sexual assault today – latest updates",
+      "summary": "Disgraced comedian was convicted last week and was warned he faces a ‘signficant’ prison term Proceedings are beginning now. Chief prosecutor Riel Karmy-Jones KC is up on her feet. She’ll be the first to deliver remarks. The sentencing has been pushed back as court staff attempt to rearrange the courtroom so one of the victims can be protected, PA reports. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-09T11:10:01+00:00",
+      "image": "https://i.guim.co.uk/img/media/f0e10b04191082319bbd3f7199555e5030cffac1/46_0_3188_2551/master/3188.jpg?width=140&quality=85&auto=format&fit=max&s=3b2281da79a9d6f0ce33eab731c6160a"
+    },
+    {
       "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
       "summary": "The Atlantic crossing to Spain's Canary Islands remains dangerous for migrants seeking a better life",
       "url": "https://www.bbc.co.uk/news/articles/cv2d6dpge65go?at_medium=RSS&at_campaign=rss",
@@ -36,20 +44,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd49/live/784207a0-dc00-11f1-bbe0-3f3fc519e7d8.png"
     },
     {
-      "title": "Russell Brand to be sentenced for rape and sexual assault today – latest updates",
-      "summary": "Disgraced comedian was convicted last week and was warned he faces a ‘signficant’ prison term The sentencing has been pushed back as court staff attempt to rearrange the courtroom so one of the victims can be protected, PA reports. She will be reading her impact statement live in the courtroom. Continue reading...",
-      "url": "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-09T10:44:45+00:00",
-      "image": "https://i.guim.co.uk/img/media/f0e10b04191082319bbd3f7199555e5030cffac1/46_0_3188_2551/master/3188.jpg?width=140&quality=85&auto=format&fit=max&s=3b2281da79a9d6f0ce33eab731c6160a"
-    },
-    {
-      "title": "US deports Lebanese consul-general in Detroit over Hezbollah praise",
-      "summary": "US Secretary of State Marco Rubio has ordered Ibrahim Charara, Lebanon’s consul general in Detroit, to leave the country",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/us-deports-lebanese-consul-general-in-detroit-over-hezbollah-praise?traffic_source=rss",
+      "title": "Gaza authorities slam global ‘inaction’ after mudslide kills five people",
+      "summary": "Four children and a woman were killed after heavy rain caused a sandbank to collapse on their tent.",
+      "url": "https://www.aljazeera.com/news/2026/11/9/gaza-authorities-slam-global-inaction-after-mudslide-kills-five-people?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-09T10:35:53+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/wide-clean-1794220521.jpg?resize=1920%2C1080&quality=80"
+      "published": "2026-11-09T10:50:49+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af1a39dc6406-1794220957.jpg?resize=1920%2C1440"
     }
   ],
   "feed_warnings": [
