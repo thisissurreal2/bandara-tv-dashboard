@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-09T08:30:32.856393+00:00",
+  "updated_at": "2026-11-09T08:45:28.135507+00:00",
   "national": [
     {
-      "title": "Giring Keluar dari PSI!",
-      "summary": "Wamen Budaya, Giring Ganesha, mengumumkan dirinya keluar dari PSI.",
-      "url": "https://news.detik.com/berita/d-8745098/giring-keluar-dari-psi",
-      "source": "Detik",
-      "published": "2026-11-09T08:24:20+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2025/06/05/giring-ganesha-1749108228053_169.jpeg?w=360&q=90"
+      "title": "Wakil Menteri Kebudayaan Giring Ganesha Mundur dari PSI",
+      "summary": "Wakil Menteri Kebudayaan yang juga mantan vokalis band Nidji, Giring Ganesha, mundur dari Partai Solidaritas Indonesia (PSI).",
+      "url": "https://www.cnnindonesia.com/nasional/20261109153117-32-1425027/wakil-menteri-kebudayaan-giring-ganesha-mundur-dari-psi",
+      "source": "CNN Indonesia",
+      "published": "2026-11-09T08:42:15+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2024/10/15/anggota-dewan-pembina-psi-giring-ganesha_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Peran Dinas LH DKI dalam Mendukung Inisiatif Pilah dan Olah Sampah",
-      "summary": "Kepala Dinas Lingkungan Hidup DKI Jakarta, Dudi Gardesi, mengungkapkan peran Dinas LH dalam mendukung inisiatif pilah dan olah sampah di DKI Jakarta.",
-      "url": "https://www.cnnindonesia.com/nasional/20261109151137-20-1425006/peran-dinas-lh-dki-dalam-mendukung-inisiatif-pilah-dan-olah-sampah",
-      "source": "CNN Indonesia",
-      "published": "2026-11-09T08:21:24+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/09/peran-dinas-lh-dki-untuk-dukung-inisiatif-pilah-olah-sampah-1794208822543_169.jpeg?w=360&q=90"
+      "title": "Singgung Kasus Listyo Sigit, Megawati Ungkit Dulu Bilang 'Saya Disadap'",
+      "summary": "Megawati menanggapi kasus penyadapan ilegal terhadap Prabowo Subianto. Ia mengaku pernah disadap dan menyerukan keberanian untuk menyatakan kebenaran.",
+      "url": "https://news.detik.com/berita/d-8745131/singgung-kasus-listyo-sigit-megawati-ungkit-dulu-bilang-saya-disadap",
+      "source": "Detik",
+      "published": "2026-11-09T08:37:46+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/09/megawati-soekarnoputri-1794211487745_169.jpeg?w=360&q=90"
     },
     {
       "title": "Menaker sebut data penerima BSU masih proses verifikasi",
@@ -23,10 +23,18 @@
       "url": "https://www.antaranews.com/berita/5841391/menaker-sebut-data-penerima-bsu-masih-proses-verifikasi",
       "source": "ANTARA",
       "published": "2026-11-09T07:57:36+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/09/tempImagehmofWO.jpg"
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/09/tempImagehmofWO_1.jpg"
     }
   ],
   "international": [
+    {
+      "title": "Trump says his immigration policy ‘too tough’ for voters",
+      "summary": "Trump concedes some voters were unhappy with his administration's controversial deportation drive.",
+      "url": "https://www.aljazeera.com/news/2026/11/9/trump-says-his-immigration-policy-too-tough-for-voters?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-09T08:35:05+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261107__D6QA2BU__v1__HighRes__UsPoliticsTrump-1794202023.jpg?resize=1920%2C1440"
+    },
     {
       "title": "‘A global political awakening’: how gen Z protests are sweeping the world",
       "summary": "From Serbia to Bangladesh and India to France, young people are pushing back against authoritarianism and reshaping political landscapes In Brazil, they rallied online by the millions, sharing videos and spreading memes. In Serbia, they cycled across Europe and ran ultramarathons to make their voices heard. Both movements burst into international public view last month as they became central during election campaigns to the pushback against authoritarianism. What they also offered, however, was a window into a wider phenomenon playing out across the globe, as youth-led movements reshape political landscapes. Continue reading...",
@@ -34,14 +42,6 @@
       "source": "The Guardian",
       "published": "2026-11-09T08:04:44+00:00",
       "image": "https://i.guim.co.uk/img/media/d8c802e22e952ef416894c5d0a6ecca11d13b496/459_0_4582_3666/master/4582.jpg?width=140&quality=85&auto=format&fit=max&s=92a98b53493301af4a38acb36c24d9e4"
-    },
-    {
-      "title": "MotoGP: Bezzecchi denies Marquez world title as motorsport returns to Qatar",
-      "summary": "Aprilia's Marco Bezzecchi wins Qatar Grand Prix as Ducati's Marc Marquez finishes second.",
-      "url": "https://www.aljazeera.com/sports/2026/11/9/motogp-bezzecchi-denies-marquez-world-title-as-motorsport-returns-to-qatar?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-09T07:56:16+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261108__D6UK6R2__v1__HighRes__MotoPrixQatRacePodium-1794208633.jpg?resize=1920%2C1440"
     },
     {
       "title": "Krakow shooting suspect has died in hospital, police say",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b131/live/b7c6ce50-dc06-11f1-b6f4-7b86d13131ad.jpg"
     }
   ],
-  "feed_warnings": [
-    "ANTARA: ParseError",
-    "ANTARA: no fresh stories",
-    "ANTARA: keeping previous story"
-  ]
+  "feed_warnings": []
 }
