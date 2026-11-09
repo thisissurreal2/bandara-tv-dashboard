@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-09T05:15:26.423778+00:00",
+  "updated_at": "2026-11-09T05:30:33.947692+00:00",
   "national": [
     {
-      "title": "Said Abdullah Apresiasi Reformasi Bursa Saham",
-      "summary": "Ketua Banggar DPR, Said Abdullah, apresiasi reformasi OJK dan BEI untuk perkuat tata kelola pasar modal dan pulihkan kepercayaan investor.",
-      "url": "https://www.cnnindonesia.com/nasional/20261109120935-633-1424886/said-abdullah-apresiasi-reformasi-bursa-saham",
-      "source": "CNN Indonesia",
-      "published": "2026-11-09T05:11:18+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/06/09/arsip-istimewa-1780992005758_169.jpeg?w=360&q=90"
+      "title": "KPK Panggil Anwar Sadad Tersangka Kasus Dana Hibah Pokmas Jatim",
+      "summary": "KPK memanggil Anggota DPR Anwar Sadad. Dia dipanggil sebagai tersangka dalam kasus dugaan suap dana hibah Pokmas Jawa Timur tahun anggaran 2019-2022.",
+      "url": "https://news.detik.com/berita/d-8744706/kpk-panggil-anwar-sadad-tersangka-kasus-dana-hibah-pokmas-jatim",
+      "source": "Detik",
+      "published": "2026-11-09T05:26:05+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2023/08/26/wakil-ketua-dprd-jatim-anwar-sadad_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Habiburokhman Duga Ada Sosok Besar di Balik Penyadapan Presiden: Harus Dibuka",
-      "summary": "Ketua Komisi III DPR RI, Habiburokhman, menduga ada sosok besar di balik penyadapan ilegal terhadap Presiden Prabowo. Dia mendesak pengusutan tuntas kasus ini.",
-      "url": "https://news.detik.com/berita/d-8744593/habiburokhman-duga-ada-sosok-besar-di-balik-penyadapan-presiden-harus-dibuka",
-      "source": "Detik",
-      "published": "2026-11-09T04:37:47+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/09/habiburokhman-1794199047441_169.jpeg?w=360&q=90"
+      "title": "Dasco Akui Ada Usulan Fraksi soal Tindak Lanjut Polemik Gibran",
+      "summary": "Wakil Ketua DPR Sufmi Dasco Ahmad mengaku pihaknya banyak menerima usulan untuk menindaklanjuti polemik ijazah Wakil Presiden Gibran Rakabuming.",
+      "url": "https://www.cnnindonesia.com/nasional/20261109121613-32-1424894/dasco-akui-ada-usulan-fraksi-soal-tindak-lanjut-polemik-gibran",
+      "source": "CNN Indonesia",
+      "published": "2026-11-09T05:20:53+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/10/07/rapat-penetapan-bpih-2027-1791374386465_169.jpeg?w=360&q=90"
     },
     {
       "title": "Menko Pangan bersama Bulog salurkan bantuan pangan di Medan",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Turkiye pushes electrification top of climate agenda as COP31 set to open",
-      "summary": "Ankara aims to make electricity account for 35 percent of global energy demand by 2035.",
-      "url": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-09T05:02:19+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af1270c717e-1794189068.jpg?resize=1920%2C1440"
-    },
-    {
       "title": "Burnham’s homelessness pledge to ‘get everyone in for Christmas’ in jeopardy",
       "summary": "Minister says Labour hoping to offer bed to every rough sleeper in England but cites chronic housing shortage Andy Burnham’s pledge to tackle rough sleeping by getting “everyone in for Christmas” is in jeopardy amid rising numbers of people on the streets and a severe housing shortage. Official figures show an increase of nearly 1,000 people sleeping rough in England between January and June, the latest month for which figures are available. Continue reading...",
       "url": "https://www.theguardian.com/society/2026/nov/09/burnham-homelessness-pledge-rough-sleeping-england",
       "source": "The Guardian",
       "published": "2026-11-09T05:01:01+00:00",
       "image": "https://i.guim.co.uk/img/media/d888efd72e09e940b6f42910402b901e7730cf18/651_0_6355_5084/master/6355.jpg?width=140&quality=85&auto=format&fit=max&s=b72892ff2f484960c932205aaa55aee4"
+    },
+    {
+      "title": "Pope tells Argentina’s Milei leaders should know limits of power",
+      "summary": "Pope Leo XIV urged Argentina to protect democracy during an address alongside President Javier Milei.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/pope-tells-argentinas-milei-leaders-should-know-limits-of-power?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-09T04:52:34+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794199945.jpg?resize=1918%2C1080&quality=80"
     },
     {
       "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d5/live/8cacf090-dbdf-11f1-b348-cb75a5659779.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: TimeoutError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
