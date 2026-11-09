@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T11:30:37.881136+00:00",
+  "updated_at": "2026-11-09T11:45:28.757671+00:00",
   "national": [
     {
       "title": "Komnas HAM: Luka Korban Tewas di Pidie Diduga Kuat Akibat Proyektil",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Russell Brand to be sentenced for rape and sexual assault today – latest updates",
+      "summary": "Disgraced comedian was convicted last week and was warned he faces a ‘signficant’ prison term Proceedings are beginning now. Chief prosecutor Riel Karmy-Jones KC is up on her feet. She’ll be the first to deliver remarks. The sentencing has been pushed back as court staff attempt to rearrange the courtroom so one of the victims can be protected, PA reports. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-09T11:29:57+00:00",
+      "image": "https://i.guim.co.uk/img/media/f0e10b04191082319bbd3f7199555e5030cffac1/46_0_3188_2551/master/3188.jpg?width=140&quality=85&auto=format&fit=max&s=3b2281da79a9d6f0ce33eab731c6160a"
+    },
+    {
       "title": "Paraguay former president’s mansion raided in ongoing investigation",
       "summary": "A hidden vault was found in Paraguay's former president's mansion amid ongoing banking scandal investigation.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/paraguay-former-presidents-mansion-raided-in-ongoing-investigation?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-11-09T11:19:45+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794223145.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "title": "Russell Brand to be sentenced for rape and sexual assault today – latest updates",
-      "summary": "Disgraced comedian was convicted last week and was warned he faces a ‘signficant’ prison term Proceedings are beginning now. Chief prosecutor Riel Karmy-Jones KC is up on her feet. She’ll be the first to deliver remarks. The sentencing has been pushed back as court staff attempt to rearrange the courtroom so one of the victims can be protected, PA reports. Continue reading...",
-      "url": "https://www.theguardian.com/uk-news/live/2026/nov/09/russell-brand-sentencing-rape-sexual-assault-live-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-09T11:15:01+00:00",
-      "image": "https://i.guim.co.uk/img/media/f0e10b04191082319bbd3f7199555e5030cffac1/46_0_3188_2551/master/3188.jpg?width=140&quality=85&auto=format&fit=max&s=3b2281da79a9d6f0ce33eab731c6160a"
     },
     {
       "title": "At least 34 dead after Europe-bound migrant boat sinks off Senegal",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd49/live/784207a0-dc00-11f1-bbe0-3f3fc519e7d8.png"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
