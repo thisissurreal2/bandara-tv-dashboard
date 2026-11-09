@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T20:45:28.875357+00:00",
+  "updated_at": "2026-11-09T21:00:46.150282+00:00",
   "national": [
     {
       "title": "Kru Heli Karhutla Jatuh di Sungai Barito Dimakamkan di Tangerang",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
+      "title": "Pete Hegseth faces impeachment effort as Republican lawmaker moves to force vote – US politics live",
+      "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization Republican Thomas Massie moves to force vote to impeach Pete Hegseth Sign up for US Breaking News email Democratic Congressman Hakeem Jeffries , currently the House minority leader who is poised to become new Speaker next year, told CBS News that the Trump administration will hold a closed-door congressional briefing today to discuss Jensen Huang’s affair with an alleged Chinese spy . Last week the Republican chairs of three key House committees also called on Huang to appear before lawmakers in a closed-door hearing on 18 November. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-09T20:52:19+00:00",
+      "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
+    },
+    {
+      "title": "Cyprus rivals agree new crossings across island’s dividing line",
+      "summary": "The island has been split since 1974, when Turkiye invaded and seized the northern part after a coup by the Greeks.",
+      "url": "https://www.aljazeera.com/news/2026/11/9/cyprus-rivals-agree-new-crossings-across-islands-dividing-line?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-09T20:50:20+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af21da861-1794252200.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "Turkey steel factory blast kills at least 17 people",
       "summary": "Eyewitnesses say the explosion shook the ground, with one believing an earthquake had hit near the Habas Demir Celik plant in Aliaga.",
       "url": "https://www.bbc.co.uk/news/articles/cq2d6d5z9y5jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-09T20:42:04+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5625/live/fd460940-dc61-11f1-8fe6-5becaee5408f.jpg"
-    },
-    {
-      "title": "Pete Hegseth faces impeachment effort as Republican lawmaker moves to force vote – US politics live",
-      "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization Republican Thomas Massie moves to force vote to impeach Pete Hegseth Sign up for US Breaking News email Democratic Congressman Hakeem Jeffries , currently the House minority leader who is poised to become new Speaker next year, told CBS News that the Trump administration will hold a closed-door congressional briefing today to discuss Jensen Huang’s affair with an alleged Chinese spy . Last week the Republican chairs of three key House committees also called on Huang to appear before lawmakers in a closed-door hearing on 18 November. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-09T20:31:26+00:00",
-      "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
-    },
-    {
-      "title": "Deadly explosion at Iron and steel plant in Turkiye",
-      "summary": "Deadly explosion at Iron and steel plant in Turkiye",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/deadly-explosion-at-iron-and-steel-plant-in-turkiye?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-09T20:19:18+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/turkiye-explosion-horizontal-thumb-1794255460.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
