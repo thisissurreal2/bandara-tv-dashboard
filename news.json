@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-09T21:30:36.772428+00:00",
+  "updated_at": "2026-11-09T21:45:33.189712+00:00",
   "national": [
+    {
+      "title": "Menkes: RI Masuk 3 Besar Negara dengan Bencana Tertinggi Dunia",
+      "summary": "Menkes Budi Gunadi Sadikin menyatakan Indonesia termasuk tiga besar negara dengan bencana tertinggi. Pemerintah perlu antisipasi dan perkuat penanganan bencana.",
+      "url": "https://www.cnnindonesia.com/nasional/20261109160404-20-1425038/menkes-ri-masuk-3-besar-negara-dengan-bencana-tertinggi-dunia",
+      "source": "CNN Indonesia",
+      "published": "2026-11-09T21:30:02+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/08/14/rapbn-nota-keuangan-anggaran-1786713842459_169.png?w=360&q=90"
+    },
     {
       "title": "Kapal Pembawa Imigran di Senegal Tenggelam, 39 Orang Tewas",
       "summary": "Kapal imigran tenggelam di lepas pantai Senegal, menewaskan 39 orang. Menteri Dalam Negeri menyerukan kesadaran untuk mencegah migrasi berbahaya.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-09T21:07:05+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2022/05/28/ilustrasi-kapal-tenggelam_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Kru Heli Karhutla Jatuh di Sungai Barito Dimakamkan di Tangerang",
-      "summary": "Suasana haru menyelimuti pemakaman Yayan Supyansuri, kru helikopter karhutla yang meninggal. Keluarga dan masyarakat merasa kehilangan sosok baik hati ini.",
-      "url": "https://www.cnnindonesia.com/nasional/20261109175841-20-1425083/kru-heli-karhutla-jatuh-di-sungai-barito-dimakamkan-di-tangerang",
-      "source": "CNN Indonesia",
-      "published": "2026-11-09T20:00:40+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/09/evakuasi-korban-jatuhnya-heli-pemadam-karhutla-1794197856982_169.jpeg?w=360&q=90"
     },
     {
       "title": "Dirut Bulog: Stok beras Indonesia 4,5 juta ton tertinggi se-ASEAN",
@@ -28,29 +28,36 @@
   ],
   "international": [
     {
+      "title": "Pete Hegseth faces impeachment effort as Republican lawmaker moves to force vote – US politics live",
+      "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization Republican Thomas Massie moves to force vote to impeach Pete Hegseth Sign up for US Breaking News email Democratic Congressman Hakeem Jeffries , currently the House minority leader who is poised to become new Speaker next year, told CBS News that the Trump administration will hold a closed-door congressional briefing today to discuss Jensen Huang’s affair with an alleged Chinese spy . Last week the Republican chairs of three key House committees also called on Huang to appear before lawmakers in a closed-door hearing on 18 November. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-09T21:37:14+00:00",
+      "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
+    },
+    {
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process.",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-09T21:37:02+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0303/live/c8a877f0-dc7e-11f1-93e1-3b657b665bcf.png"
+    },
+    {
       "title": "COP31 opens amid energy crisis as activists demand climate action",
       "summary": "COP31 has opened in Turkiye amid war-driven energy disruptions and a renewed reliance on fossil fuels.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/cop31-opens-amid-energy-crisis-as-activists-demand-climate-action?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-11-09T21:18:25+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794259045.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "title": "Judge denies motion to dismiss Lindsay Clancy's murder case - media reports",
-      "summary": "The ruling means prosecutors can pursue the case, meaning they could reduce charges in a potential second trial or dismiss them altogether.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-09T21:14:52+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f13d/live/216524b0-dc7f-11f1-ba95-5f07efd49f42.jpg"
-    },
-    {
-      "title": "Pete Hegseth faces impeachment effort as Republican lawmaker moves to force vote – US politics live",
-      "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization Republican Thomas Massie moves to force vote to impeach Pete Hegseth Sign up for US Breaking News email Democratic Congressman Hakeem Jeffries , currently the House minority leader who is poised to become new Speaker next year, told CBS News that the Trump administration will hold a closed-door congressional briefing today to discuss Jensen Huang’s affair with an alleged Chinese spy . Last week the Republican chairs of three key House committees also called on Huang to appear before lawmakers in a closed-door hearing on 18 November. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-09T21:14:22+00:00",
-      "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "ANTARA: TimeoutError",
+    "ANTARA: no fresh stories",
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "ANTARA: keeping previous story",
+    "Detik: keeping previous story"
+  ]
 }
