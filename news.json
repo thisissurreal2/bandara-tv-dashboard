@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-09T06:45:26.621769+00:00",
+  "updated_at": "2026-11-09T07:00:39.696314+00:00",
   "national": [
+    {
+      "title": "Dasco Ungkap Prabowo dan 10 eks Kapolri Turut Bahas Kasus Penyadapan",
+      "summary": "Wakil Ketua DPR Sufmi Dasco menyatakan pertemuan 10 eks Kapolri dengan Presiden Prabowo Subianto turut membahas kasus penyadapan yang menjerat Listyo Sigit",
+      "url": "https://www.cnnindonesia.com/nasional/20261109133812-32-1424937/dasco-ungkap-prabowo-dan-10-eks-kapolri-turut-bahas-kasus-penyadapan",
+      "source": "CNN Indonesia",
+      "published": "2026-11-09T06:48:03+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/09/presiden-ri-prabowo-subianto-mengadakan-pertemuan-dengan-sepuluh-mantan-kapolri-di-kediamannya-di-hambalang-bogor-jawa-barat-m-1794200248869_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Pemerintah Bentuk Tim Tuntaskan 13 Kasus HAM Berat, Dipimpin Otto Hasibuan",
       "summary": "Pemerintah membentuk kelompok kerja atau Pokja untuk menangani 13 kasus dugaan pelanggaran HAM berat.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-09T06:39:19+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/09/konferensi-pers-di-kemenko-kumham-imipas-shonyadetikcom-1794206343902_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Pesan Kendali Politik di Pertemuan Prabowo dan 10 Eks Kapolri",
-      "summary": "Pertemuan Presiden Prabowo dengan 10 mantan Kapolri di Hambalang dinilai mengirim pesan tentang kendali politik dan otoritas negara di tengah isu penyadapan.",
-      "url": "https://www.cnnindonesia.com/nasional/20261109125529-32-1424914/pesan-kendali-politik-di-pertemuan-prabowo-dan-10-eks-kapolri",
-      "source": "CNN Indonesia",
-      "published": "2026-11-09T06:16:49+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/09/presiden-ri-prabowo-subianto-mengadakan-pertemuan-dengan-sepuluh-mantan-kapolri-di-kediamannya-di-hambalang-bogor-jawa-barat-m-1794200248869_169.jpeg?w=360&q=90"
     },
     {
       "title": "Menko Pangan bersama Bulog salurkan bantuan pangan di Medan",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
+      "title": "Krakow shooting suspect has died in hospital, police say",
+      "summary": "At least six people were killed in the shooting and a dozen more were injured.",
+      "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-09T06:50:09+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b131/live/b7c6ce50-dc06-11f1-b6f4-7b86d13131ad.jpg"
+    },
+    {
+      "title": "Why we disrupted Annalena Baerbock’s award speech",
+      "summary": "The former German foreign minister is no proponent of peace and justice. No award can wipe out her disastrous record.",
+      "url": "https://www.aljazeera.com/opinions/2026/11/9/why-we-disrupted-annalena-baerbocks-award-speech?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-09T06:49:55+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af16cb568e8a-1794206901.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "Kraków shooting suspect who killed six has died, say police in Poland",
       "summary": "Terrorism investigation was opened after a 24-year-old opened fire in a market square on the weekend A gunman suspected of killing six people in Kraków has died in hospital, police in Poland said early on Monday. The suspect had been wounded in a shootout with police and had been in critical condition in hospital. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead",
       "source": "The Guardian",
       "published": "2026-11-09T06:32:55+00:00",
       "image": "https://i.guim.co.uk/img/media/e6df24358fac6a2a36dc949a42d57487dba7a831/625_142_4761_3809/master/4761.jpg?width=140&quality=85&auto=format&fit=max&s=7b8822fce95230606ec2627044c663a6"
-    },
-    {
-      "title": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal",
-      "summary": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy.",
-      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-09T06:01:52+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "Smog blankets New Delhi as Diwali firecrackers worsen air quality",
-      "summary": "Air quality in Indian capital reaches severe levels, posing heightened health risks for more than 30 million residents.",
-      "url": "https://www.aljazeera.com/news/2026/11/9/smog-blankets-new-delhi-as-diwali-firecrackers-worsen-air-quality?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-09T05:20:08+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af14ccebde5-1794198734.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
