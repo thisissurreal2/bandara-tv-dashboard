@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T22:15:29.974071+00:00",
+  "updated_at": "2026-11-09T22:30:40.653361+00:00",
   "national": [
     {
       "title": "Anak 17 Tahun Dijadikan PSK di Boyolali, Dipaksa Layani 10 Orang Semalam",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – live",
+      "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization; president claims Hegseth both won and is winning war with Iran Republican Thomas Massie moves to force vote to impeach Pete Hegseth Sign up for US Breaking News email Democratic Congressman Hakeem Jeffries , currently the House minority leader who is poised to become new Speaker next year, told CBS News that the Trump administration will hold a closed-door congressional briefing today to discuss Jensen Huang’s affair with an alleged Chinese spy . Last week the Republican chairs of three key House committees also called on Huang to appear before lawmakers in a closed-door hearing on 18 November. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-09T22:23:01+00:00",
+      "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
+    },
+    {
       "title": "Judge denies motion to dismiss Lindsay Clancy's murder case",
       "summary": "The ruling means the case can move forward, possibly with reduced charges in a new trial.",
       "url": "https://www.bbc.co.uk/news/articles/ck1l3le7q29vo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-09T22:08:04+00:00",
+      "published": "2026-11-09T22:17:23+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f13d/live/216524b0-dc7f-11f1-ba95-5f07efd49f42.jpg"
-    },
-    {
-      "title": "Pete Hegseth faces impeachment effort as Republican lawmaker moves to force vote – US politics live",
-      "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization Republican Thomas Massie moves to force vote to impeach Pete Hegseth Sign up for US Breaking News email Democratic Congressman Hakeem Jeffries , currently the House minority leader who is poised to become new Speaker next year, told CBS News that the Trump administration will hold a closed-door congressional briefing today to discuss Jensen Huang’s affair with an alleged Chinese spy . Last week the Republican chairs of three key House committees also called on Huang to appear before lawmakers in a closed-door hearing on 18 November. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-09T22:05:49+00:00",
-      "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
     },
     {
       "title": "COP31 opens amid energy crisis as activists demand climate action",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794259045.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
