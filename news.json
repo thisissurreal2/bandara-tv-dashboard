@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-09T06:15:27.448990+00:00",
+  "updated_at": "2026-11-09T06:30:36.255457+00:00",
   "national": [
     {
-      "title": "Ajukan Praperadilan, Junaedi Saibih Tuntut Ganti Rugi Rp100 Miliar",
-      "summary": "Advokat Junaedi Saibih mendaftarkan permohonan Praperadilan ke PN Jakarta Pusat untuk menuntut ganti kerugian dan pemulihan nama baik.",
-      "url": "https://www.cnnindonesia.com/nasional/20261109124720-12-1424907/ajukan-praperadilan-junaedi-saibih-tuntut-ganti-rugi-rp100-miliar",
+      "title": "Pesan Kendali Politik di Pertemuan Prabowo dan 10 Eks Kapolri",
+      "summary": "Pertemuan Presiden Prabowo dengan 10 mantan Kapolri di Hambalang dinilai mengirim pesan tentang kendali politik dan otoritas negara di tengah isu penyadapan.",
+      "url": "https://www.cnnindonesia.com/nasional/20261109125529-32-1424914/pesan-kendali-politik-di-pertemuan-prabowo-dan-10-eks-kapolri",
       "source": "CNN Indonesia",
-      "published": "2026-11-09T06:09:08+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/03/04/junaedi-saibih-divonis-bebas-dari-kasus-suap-1772604906099_169.jpeg?w=360&q=90"
+      "published": "2026-11-09T06:16:49+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/09/presiden-ri-prabowo-subianto-mengadakan-pertemuan-dengan-sepuluh-mantan-kapolri-di-kediamannya-di-hambalang-bogor-jawa-barat-m-1794200248869_169.jpeg?w=360&q=90"
     },
     {
-      "title": "3 Pelempar Batu ke Bus Rombongan Suporter Persib di Semarang Ditangkap",
-      "summary": "Polisi menangkap tiga orang yang diduga terlibat pelemparan batu ke bus suporter Persib Bandung di Semarang, Jawa Tengah. Tiga pelaku tersebut masih diperiksa",
-      "url": "https://news.detik.com/berita/d-8744759/3-pelempar-batu-ke-bus-rombongan-suporter-persib-di-semarang-ditangkap",
+      "title": "Sosok 3 Kandidat Inovator Pendidikan Nonformal DPD RI Awards 2026",
+      "summary": "DPD RI Awards 2026 segera umumkan pemenang kategori Inovator Pendidikan Nonformal. Tiga kandidat unggulan siap bersaing dalam acara puncak di Jakarta.",
+      "url": "https://news.detik.com/berita/d-8744777/sosok-3-kandidat-inovator-pendidikan-nonformal-dpd-ri-awards-2026",
       "source": "Detik",
-      "published": "2026-11-09T06:00:15+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/09/bus-suporter-persib-bandung-dilempari-batu-di-jalan-gombel-lama-kecamatan-banyumanik-kota-semarang-minggu-8112026-malam-1794196303407_169.jpeg?w=360&q=90"
+      "published": "2026-11-09T06:16:21+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/13/3-besar-inovator-pendidikan-nonformal-dpd-ri-awards-2026-1791880264808_169.jpeg?w=360&q=90"
     },
     {
       "title": "Menko Pangan bersama Bulog salurkan bantuan pangan di Medan",
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af14ccebde5-1794198734.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: TimeoutError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
