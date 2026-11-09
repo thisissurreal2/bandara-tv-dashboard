@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-09T06:02:28.705336+00:00",
+  "updated_at": "2026-11-09T06:15:27.448990+00:00",
   "national": [
+    {
+      "title": "Ajukan Praperadilan, Junaedi Saibih Tuntut Ganti Rugi Rp100 Miliar",
+      "summary": "Advokat Junaedi Saibih mendaftarkan permohonan Praperadilan ke PN Jakarta Pusat untuk menuntut ganti kerugian dan pemulihan nama baik.",
+      "url": "https://www.cnnindonesia.com/nasional/20261109124720-12-1424907/ajukan-praperadilan-junaedi-saibih-tuntut-ganti-rugi-rp100-miliar",
+      "source": "CNN Indonesia",
+      "published": "2026-11-09T06:09:08+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/03/04/junaedi-saibih-divonis-bebas-dari-kasus-suap-1772604906099_169.jpeg?w=360&q=90"
+    },
     {
       "title": "3 Pelempar Batu ke Bus Rombongan Suporter Persib di Semarang Ditangkap",
       "summary": "Polisi menangkap tiga orang yang diduga terlibat pelemparan batu ke bus suporter Persib Bandung di Semarang, Jawa Tengah. Tiga pelaku tersebut masih diperiksa",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-09T06:00:15+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/09/bus-suporter-persib-bandung-dilempari-batu-di-jalan-gombel-lama-kecamatan-banyumanik-kota-semarang-minggu-8112026-malam-1794196303407_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "DPR Proses Putusan MA soal Suket SMA Wapres Gibran Besok",
-      "summary": "DPR RI akan memproses usulan tindak lanjut putusan MA yang membatalkan surat keterangan (suket) penyetaraan ijazah Gibran pada esok hari.",
-      "url": "https://www.cnnindonesia.com/nasional/20261109124253-32-1424905/dpr-proses-putusan-ma-soal-suket-sma-wapres-gibran-besok",
-      "source": "CNN Indonesia",
-      "published": "2026-11-09T05:52:56+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2024/10/21/wakil-presiden-gibran-rakabuming-raka_169.jpeg?w=360&q=90"
     },
     {
       "title": "Menko Pangan bersama Bulog salurkan bantuan pangan di Medan",
@@ -27,6 +27,14 @@
     }
   ],
   "international": [
+    {
+      "title": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal",
+      "summary": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy.",
+      "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-09T06:01:52+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg"
+    },
     {
       "title": "Fixing UK’s youth jobs crisis demands much more investment, TUC boss warns",
       "summary": "Paul Nowak also calls on government to avoid arbitrary benefit cuts before much-anticipated Milburn report is published this week Fixing Britain’s youth jobs crisis will require ministers to drastically increase investment in employment support while avoiding arbitrary cuts to benefits, the head of the trade union movement has said. Before an important official report expected next week, the general secretary of the Trades Union Congress , Paul Nowak, said the government had a “once in a generation chance” to secure young people’s futures. Continue reading...",
@@ -42,18 +50,10 @@
       "source": "Al Jazeera",
       "published": "2026-11-09T05:20:08+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af14ccebde5-1794198734.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
-      "summary": "Two US fishermen say they spotted the man treading water around 20 miles (32km) off the Californian coast.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-09T02:50:13+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d5/live/8cacf090-dbdf-11f1-b348-cb75a5659779.jpg"
     }
   ],
   "feed_warnings": [
-    "Detik: URLError",
+    "Detik: TimeoutError",
     "Detik: no fresh stories",
     "Detik: keeping previous story"
   ]
