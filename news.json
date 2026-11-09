@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-09T05:00:41.423893+00:00",
+  "updated_at": "2026-11-09T05:15:26.423778+00:00",
   "national": [
+    {
+      "title": "Said Abdullah Apresiasi Reformasi Bursa Saham",
+      "summary": "Ketua Banggar DPR, Said Abdullah, apresiasi reformasi OJK dan BEI untuk perkuat tata kelola pasar modal dan pulihkan kepercayaan investor.",
+      "url": "https://www.cnnindonesia.com/nasional/20261109120935-633-1424886/said-abdullah-apresiasi-reformasi-bursa-saham",
+      "source": "CNN Indonesia",
+      "published": "2026-11-09T05:11:18+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/06/09/arsip-istimewa-1780992005758_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Habiburokhman Duga Ada Sosok Besar di Balik Penyadapan Presiden: Harus Dibuka",
       "summary": "Ketua Komisi III DPR RI, Habiburokhman, menduga ada sosok besar di balik penyadapan ilegal terhadap Presiden Prabowo. Dia mendesak pengusutan tuntas kasus ini.",
@@ -16,32 +24,24 @@
       "source": "ANTARA",
       "published": "2026-11-09T04:32:15+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/09/IMG-20261109-WA0043-1.jpg"
-    },
-    {
-      "title": "Kemenag Sesalkan Penyerangan Tiga Jemaah Masjid di Jaktim",
-      "summary": "Kemenag menyesalkan penyerangan terhadap 3 jemaah di masjid Pondok Kelapa, Jakarta Timur. Mereka mengajak masyarakat percayakan penanganan kasus kepada polisi.",
-      "url": "https://www.cnnindonesia.com/nasional/20261109111801-12-1424868/kemenag-sesalkan-penyerangan-tiga-jemaah-masjid-di-jaktim",
-      "source": "CNN Indonesia",
-      "published": "2026-11-09T04:32:11+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/09/penjagaan-lokasi-penganiayaan-di-masjid-darul-maarif-1794198548779_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
     {
-      "title": "Asian stock markets climb after earlier tech rout",
-      "summary": "Markets rebound after tech rout triggered by Democrats' sweeping victory in US midterm elections.",
-      "url": "https://www.aljazeera.com/economy/2026/11/9/asian-stock-markets-climb-after-earlier-tech-rout?traffic_source=rss",
+      "title": "Turkiye pushes electrification top of climate agenda as COP31 set to open",
+      "summary": "Ankara aims to make electricity account for 35 percent of global energy demand by 2035.",
+      "url": "https://www.aljazeera.com/news/2026/11/9/turkiye-pushes-electrification-top-of-climate-agenda-as-cop31-set-to-open?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-09T04:03:02+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260615__B73N9NQ__v1__MidRes__JapanEconomyStocks-1794187121_2f3992-1794191621.jpg?resize=1200%2C630&quality=80"
+      "published": "2026-11-09T05:02:19+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af1270c717e-1794189068.jpg?resize=1920%2C1440"
     },
     {
-      "title": "Trump tells 60 Minutes that deportation policy was ‘too tough’",
-      "summary": "President makes unusual acknowledgement that one of the defining policies of his second administration had become a political liability Donald Trump has admitted that his deportation policy was “too tough” and has offered to strike an immigration deal with Democrats in a concession following the Republicans’ disastrous defeat in the midterm elections. In an interview on the CBS network’s 60 Minutes broadcast on Sunday, the president acknowledged that the aggressive crackdown had hurt him politically and said he was open to an arrangement to allow some undocumented immigrants to remain in the US. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/09/trump-tells-60-minutes-deportation-policy-too-tough-ice-immigration",
+      "title": "Burnham’s homelessness pledge to ‘get everyone in for Christmas’ in jeopardy",
+      "summary": "Minister says Labour hoping to offer bed to every rough sleeper in England but cites chronic housing shortage Andy Burnham’s pledge to tackle rough sleeping by getting “everyone in for Christmas” is in jeopardy amid rising numbers of people on the streets and a severe housing shortage. Official figures show an increase of nearly 1,000 people sleeping rough in England between January and June, the latest month for which figures are available. Continue reading...",
+      "url": "https://www.theguardian.com/society/2026/nov/09/burnham-homelessness-pledge-rough-sleeping-england",
       "source": "The Guardian",
-      "published": "2026-11-09T03:59:31+00:00",
-      "image": "https://i.guim.co.uk/img/media/d2da9c964ff03b1b8443aa38f9c263277095235f/342_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=9ae8ba5f3541258c3c8258fbdbdcf373"
+      "published": "2026-11-09T05:01:01+00:00",
+      "image": "https://i.guim.co.uk/img/media/d888efd72e09e940b6f42910402b901e7730cf18/651_0_6355_5084/master/6355.jpg?width=140&quality=85&auto=format&fit=max&s=b72892ff2f484960c932205aaa55aee4"
     },
     {
       "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d5/live/8cacf090-dbdf-11f1-b348-cb75a5659779.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: TimeoutError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
