@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-09T06:30:36.255457+00:00",
+  "updated_at": "2026-11-09T06:45:26.621769+00:00",
   "national": [
+    {
+      "title": "Pemerintah Bentuk Tim Tuntaskan 13 Kasus HAM Berat, Dipimpin Otto Hasibuan",
+      "summary": "Pemerintah membentuk kelompok kerja atau Pokja untuk menangani 13 kasus dugaan pelanggaran HAM berat.",
+      "url": "https://news.detik.com/berita/d-8744817/pemerintah-bentuk-tim-tuntaskan-13-kasus-ham-berat-dipimpin-otto-hasibuan",
+      "source": "Detik",
+      "published": "2026-11-09T06:39:19+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/09/konferensi-pers-di-kemenko-kumham-imipas-shonyadetikcom-1794206343902_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Pesan Kendali Politik di Pertemuan Prabowo dan 10 Eks Kapolri",
       "summary": "Pertemuan Presiden Prabowo dengan 10 mantan Kapolri di Hambalang dinilai mengirim pesan tentang kendali politik dan otoritas negara di tengah isu penyadapan.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-09T06:16:49+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/09/presiden-ri-prabowo-subianto-mengadakan-pertemuan-dengan-sepuluh-mantan-kapolri-di-kediamannya-di-hambalang-bogor-jawa-barat-m-1794200248869_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Sosok 3 Kandidat Inovator Pendidikan Nonformal DPD RI Awards 2026",
-      "summary": "DPD RI Awards 2026 segera umumkan pemenang kategori Inovator Pendidikan Nonformal. Tiga kandidat unggulan siap bersaing dalam acara puncak di Jakarta.",
-      "url": "https://news.detik.com/berita/d-8744777/sosok-3-kandidat-inovator-pendidikan-nonformal-dpd-ri-awards-2026",
-      "source": "Detik",
-      "published": "2026-11-09T06:16:21+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/13/3-besar-inovator-pendidikan-nonformal-dpd-ri-awards-2026-1791880264808_169.jpeg?w=360&q=90"
     },
     {
       "title": "Menko Pangan bersama Bulog salurkan bantuan pangan di Medan",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Kraków shooting suspect who killed six has died, say police in Poland",
+      "summary": "Terrorism investigation was opened after a 24-year-old opened fire in a market square on the weekend A gunman suspected of killing six people in Kraków has died in hospital, police in Poland said early on Monday. The suspect had been wounded in a shootout with police and had been in critical condition in hospital. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/09/krakow-shooting-suspected-gunman-dead",
+      "source": "The Guardian",
+      "published": "2026-11-09T06:32:55+00:00",
+      "image": "https://i.guim.co.uk/img/media/e6df24358fac6a2a36dc949a42d57487dba7a831/625_142_4761_3809/master/4761.jpg?width=140&quality=85&auto=format&fit=max&s=7b8822fce95230606ec2627044c663a6"
+    },
+    {
       "title": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal",
       "summary": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy.",
       "url": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-09T06:01:52+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2521/live/6ba67640-dc03-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "Fixing UK’s youth jobs crisis demands much more investment, TUC boss warns",
-      "summary": "Paul Nowak also calls on government to avoid arbitrary benefit cuts before much-anticipated Milburn report is published this week Fixing Britain’s youth jobs crisis will require ministers to drastically increase investment in employment support while avoiding arbitrary cuts to benefits, the head of the trade union movement has said. Before an important official report expected next week, the general secretary of the Trades Union Congress , Paul Nowak, said the government had a “once in a generation chance” to secure young people’s futures. Continue reading...",
-      "url": "https://www.theguardian.com/society/2026/nov/09/uk-young-people-job-work-employment-crisis-paul-nowak-milburn-review",
-      "source": "The Guardian",
-      "published": "2026-11-09T06:00:03+00:00",
-      "image": "https://i.guim.co.uk/img/media/8e775de151bb91396f2a85ea4cab2bc69dacdbd7/1001_0_5336_4269/master/5336.jpg?width=140&quality=85&auto=format&fit=max&s=52329e2e865a285b202873f54ff11410"
     },
     {
       "title": "Smog blankets New Delhi as Diwali firecrackers worsen air quality",
