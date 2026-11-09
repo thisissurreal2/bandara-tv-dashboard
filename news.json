@@ -1,35 +1,35 @@
 {
-  "updated_at": "2026-11-09T09:15:27.934614+00:00",
+  "updated_at": "2026-11-09T09:30:34.283611+00:00",
   "national": [
     {
-      "title": "Megawati Minta Pelaku Penyadapan Prabowo Dihukum Berat",
-      "summary": "Megawati Soekarnoputri mendesak hukuman berat bagi pelaku penyadapan Presiden Prabowo. Ia menyoroti pelanggaran nilai Pancasila.",
-      "url": "https://www.cnnindonesia.com/nasional/20261109154159-32-1425029/megawati-minta-pelaku-penyadapan-prabowo-dihukum-berat",
-      "source": "CNN Indonesia",
-      "published": "2026-11-09T09:11:32+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/09/megawati-mengaku-ikut-kena-sadap-listyo-sigit-1794212855443_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Tito soal 10 Eks Kapolri Bertemu Prabowo: Presiden Jelaskan Kebocoran Negara",
-      "summary": "Prabowo Subianto bertemu dengan 10 mantan Kapolri. Mendagri sekaligus eks Kapolri Tito Karnavian mengatakan dalam pertemuan Prabowo bicara soal kebocoran negara",
-      "url": "https://news.detik.com/berita/d-8745160/tito-soal-10-eks-kapolri-bertemu-prabowo-presiden-jelaskan-kebocoran-negara",
+      "title": "Doli Golkar Sebut Wapres Gibran Bisa Mundur atau Dimakzulkan",
+      "summary": "Waketum Golkar Ahmad Doli menjelaskan kemungkinan penggantian Wakil Presiden Gibran terkait polemik ijazah. DPR akan tindak lanjuti putusan MA usai masa reses.",
+      "url": "https://news.detik.com/berita/d-8745235/doli-golkar-sebut-wapres-gibran-bisa-mundur-atau-dimakzulkan",
       "source": "Detik",
-      "published": "2026-11-09T08:53:19+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/05/tito-karnavian-1793865942543_169.jpeg?w=360&q=90"
+      "published": "2026-11-09T09:26:10+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/09/waketum-partai-golkar-ahmad-doli-kurnia-1794216302141_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Marak serangan siber global, Airlangga minta bank perkuat keamanan",
-      "summary": "Menteri Koordinator Bidang Perekonomian Airlangga Hartarto meminta perbankan untuk memperkuat lapis keamanan siber ...",
-      "url": "https://www.antaranews.com/berita/5841499/marak-serangan-siber-global-airlangga-minta-bank-perkuat-keamanan",
+      "title": "Gempa M5,9 guncang lepas pantai timur Jepang, getaran terasa di Tokyo",
+      "summary": "Gempa bumi berkekuatan magnitudo 5,9 mengguncang lepas pantai timur Jepang, Senin, dengan getaran yang terasa hingga ke ...",
+      "url": "https://www.antaranews.com/berita/5841675/gempa-m59-guncang-lepas-pantai-timur-jepang-getaran-terasa-di-tokyo",
       "source": "ANTARA",
-      "published": "2026-11-09T08:42:17+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/09/tempImageV4mtrP.jpg"
+      "published": "2026-11-09T09:22:14+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/08/23/ilustrasi-gempa-3.jpg"
+    },
+    {
+      "title": "Kata-kata Giring Ganesha Mundur dari PSI",
+      "summary": "Wakil Menteri Kebudayaan Giring Ganesha memutuskan mundur dari keanggotannya sebagai kader Partai Solidaritas Indonesia (PSI).",
+      "url": "https://www.cnnindonesia.com/nasional/20261109155128-36-1425031/kata-kata-giring-ganesha-mundur-dari-psi",
+      "source": "CNN Indonesia",
+      "published": "2026-11-09T09:15:20+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/09/thumbnail-video-1794214413034_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
     {
       "title": "French police officers face trial over beating of black man not wearing mask during Covid",
-      "summary": "Assault on Michel Zecler in 2020 is rare case of police brutality reaching court, at time of heightened tensions Three French police officers are to go on trial over the beating of a black music producer who they say was not wearing a face mask during the Covid pandemic, in a rare case of police brutality reaching court. The assault on Michel Zecler, now 47, triggered fresh outrage in France over police violence, which victims and researchers say is systemic but authorities and law enforcement unions claim is limited to isolated cases. Continue reading...",
+      "summary": "Assault on Michel Zecler in 2020 is rare case of police brutality reaching court, at time of heightened tensions Three French police officers are to go on trial over the beating of a black music producer who they say was not wearing a face mask during the Covid pandemic, in a rare case of police brutality reaching court. The assault on Michel Zecler, now 47, triggered outrage in France over police violence, which victims and researchers say is systemic but authorities and law enforcement unions claim is limited to isolated cases. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/nov/09/french-police-officers-face-trial-over-beating-of-black-man-not-wearing-mask-during-covid",
       "source": "The Guardian",
       "published": "2026-11-09T09:09:01+00:00",
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261008__D2P379Y__v1__HighRes__UsImmigrationIce-1-1794214475.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
