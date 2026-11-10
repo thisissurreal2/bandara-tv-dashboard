@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T00:09:00.815823+00:00",
+  "updated_at": "2026-11-10T00:15:31.573482+00:00",
   "national": [
     {
       "title": "Niat Selamatkan Bumi, Penggunaan AI Malah Ancam Kelestarian Alam",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+      "summary": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
+      "url": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-09T23:59:50+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg"
+      "published": "2026-11-10T00:14:03+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9349/live/97006970-dc5a-11f1-a701-fddedf244c16.jpg"
     },
     {
       "title": "Iran war live: Trump says war ‘effectively over’, Iran demands ‘surrender’",
@@ -52,5 +52,9 @@
       "image": "https://i.guim.co.uk/img/media/bc7caafb8648ba5cb0214720e2ca54df25bdf9bb/410_0_4079_3265/master/4079.jpg?width=140&quality=85&auto=format&fit=max&s=adb14d4d1e838ab623d49177b95f5c84"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
