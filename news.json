@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-10T12:15:32.550273+00:00",
+  "updated_at": "2026-11-10T12:30:38.358713+00:00",
   "national": [
+    {
+      "title": "Polisi di Medan Dicopot dari Jabatan UsaiViral Pakai Vape Narkoba",
+      "summary": "Video viral menunjukkan Brigadir IS dari Polrestabes Medan menggunakan vape berisi narkotika alias pod getar.",
+      "url": "https://www.cnnindonesia.com/nasional/20261110183301-12-1425562/polisi-di-medan-dicopot-dari-jabatan-usaiviral-pakai-vape-narkoba",
+      "source": "CNN Indonesia",
+      "published": "2026-11-10T12:20:47+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2023/05/30/ilustrasi-penangkapan-4_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Waka DPR Jelaskan Mekanisme Hak Menyatakan Pendapat Terkait Gibran",
       "summary": "Waka DPR Saan Mustopa menjelaskan mekanisme Hak Menyatakan Pendapat terkait polemik ijazah Gibran. 50 anggota DPR sudah menandatangani usulan tersebut.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-10T12:10:11+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/10/saan-mustopa-1794310899057_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Gubernur Jabar Berharap Porprov Beri Dampak ke Pedagang hingga Ojol",
-      "summary": "Gubernur Dedi Mulyadi dorong Porprov Jabar XV 2026 untuk tingkatkan ekonomi masyarakat kecil, beri manfaat pelaku usaha lokal dan sportivitas atlet.",
-      "url": "https://www.cnnindonesia.com/nasional/20261110183655-25-1425560/gubernur-jabar-berharap-porprov-beri-dampak-ke-pedagang-hingga-ojol",
-      "source": "CNN Indonesia",
-      "published": "2026-11-10T12:01:08+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2017/10/24/56d842bc-e861-4e90-a48f-db7628afa060_169.jpg?w=360&q=90"
     },
     {
       "title": "Prabowo anugerahkan gelar pahlawan nasional untuk Kiai Modjo",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Ohio State suspends fraternity after video shows two people on fire",
-      "summary": "A video showing two men engulfed in fire as spectators laugh has prompted Ohio State University to suspend a fraternity.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/ohio-state-suspends-fraternity-after-video-shows-two-people-on-fire?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-10T12:07:13+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/WIDE-THUMB-OHIO-STATE-FIRE-VIDEO-1794312390.png?resize=1920%2C1080&quality=80"
-    },
-    {
       "title": "Russia launched deadly Ukraine attacks hours before start of Abu Dhabi talks – Europe live",
-      "summary": "US-led talks in Abu Dhabi are first substantive negotiations in months focusing on ending the conflict which has raged for more than four years US officials seek ‘final end’ to Russia-Ukraine war as talks begin In other news, Portugal will shut schools and non-esesential public services on Wednesday, with Storm Charles expected to bring torrential rain and heavy winds to parts of the country. “All those who can should stay at home,” the country’s interior minister Luis Neves told a press conference on Tuesday, warning people to stay away from coastal areas and to work from home where possible. Continue reading...",
+      "summary": "US-led talks in Abu Dhabi are first substantive negotiations in months focusing on ending the conflict which has raged for more than four years US officials seek ‘final end’ to Russia-Ukraine war as talks begin The EU has said it stands ready “to come with a swift and united response” after France blamed Iran for a spate of cyber-attacks on supermarket freezers and chillers that caused millions of euros of damage. Speaking to journalists on Monday, French foreign minister Jean-Noël Barrot said “ Europe-wide sanctions ” would be imposed against those responsible as he announced that France believed that Iran’s Revolutionary Guards were “responsible for this attack” . We acknowledge that France has attributed these (cyber-attacks) to Iran. Pending discussions with member states, we as (the) European Union, we stand ready to come with a swift and united response . We as the EU, we have consistently called on all states to refrain from malicious behaviour in the cyberspace . And we will continue to address such malicious behavior, making use of all the tools that we have also under the EU cyber diplomacy toolbox, including sanctions. Continue reading...",
       "url": "https://www.theguardian.com/world/live/2026/nov/10/ukraine-russia-war-us-talks-abu-dhabi-europe-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-10T12:03:49+00:00",
+      "published": "2026-11-10T12:19:05+00:00",
       "image": "https://i.guim.co.uk/img/media/107e559a07afa91b8a10b4e3226ef062b4051e0e/63_0_1706_1365/master/1706.jpg?width=140&quality=85&auto=format&fit=max&s=77ca63dc298bd7c55a13748902e04061"
+    },
+    {
+      "title": "GCC agrees to set up advanced military command headquarters in Kuwait",
+      "summary": "Gulf leaders emphasised the need to strengthen defence coordination to confront present and future regional challenges.",
+      "url": "https://www.aljazeera.com/news/2026/11/10/gcc-agrees-to-set-up-advanced-military-command-headquarters-in-kuwait?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-10T12:09:54+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP17279213604591-1-1794308573.jpg?resize=1920%2C1440"
     },
     {
       "title": "Police officer dies and another injured after backpack explosion in Oviedo",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/612d/live/a358da40-dcfa-11f1-9ef0-4b5930e2f80e.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
