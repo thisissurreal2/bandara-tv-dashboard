@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-10T04:00:40.793106+00:00",
+  "updated_at": "2026-11-10T04:15:27.883284+00:00",
   "national": [
+    {
+      "title": "Rapat Paripurna DPR, Puan Singgung Kasus Penyadapan Ilegal ke Prabowo",
+      "summary": "Ketua DPR RI Puan Maharani menyinggung kasus dugaan penyadapan ilegal terhadap Presiden Prabowo Subianto dalam pidatonya di agenda Rapat Paripurna DPR.",
+      "url": "https://www.cnnindonesia.com/nasional/20261110104104-32-1425293/rapat-paripurna-dpr-puan-singgung-kasus-penyadapan-ilegal-ke-prabowo",
+      "source": "CNN Indonesia",
+      "published": "2026-11-10T04:04:33+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/08/14/sidang-paripurna-pembukaan-masa-persidangan-i-dpr-1786694598161_169.png?w=360&q=90"
+    },
     {
       "title": "Polda Metro Utamakan Keselamatan Massa hingga Jurnalis saat Aksi di Jakarta",
       "summary": "Polda Metro Jaya siap mengawal 74 aksi penyampaian pendapat di Jakarta hari ini. Pihaknya menjamin keselamatan peserta, jurnalis, dan masyarakat.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-10T03:54:35+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/10/kabid-humas-polda-metro-jaya-kombes-budi-hermanto-1794275111138_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Gajah Limbung, Tiga Kadernya Lebih Pilih Prabowo ketimbang Jokowi",
-      "summary": "Tiga kader PSI, termasuk Giring Ganesha, mundur dari partai di tengah kencangnya isu pemakzulan Wapres Gibran, Ijazah Jokowi, dan penyadapan.",
-      "url": "https://www.cnnindonesia.com/nasional/20261110102505-32-1425279/di-balik-mundurnya-3-kader-psi-belitan-masalah-geng-solo",
-      "source": "CNN Indonesia",
-      "published": "2026-11-10T03:52:56+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2024/07/29/presiden-mengendarai-motor-susuri-tol-ikn-3_169.jpeg?w=360&q=90"
     },
     {
       "title": "Pramono kaji rencana pengangkatan PPPK paruh waktu di DKI",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says more US attacks on Iran 'highly unlikely'",
+      "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation in the Middle East change.",
+      "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-10T03:58:13+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg"
+      "published": "2026-11-10T04:09:16+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6017/live/b94816e0-dca5-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "One Nation dumps Victorian election candidate who praised Adolf Hitler as ‘GOAT’",
-      "summary": "Party disendorses Preston candidate Franco Guardiani after social media posts emerge One Nation Victoria has disendorsed a candidate whose private social media account described Adolf Hitler as the “GOAT” and claimed that “importing Islam is making pedophilia legal”. In a now deleted social media post, the party’s candidate for Preston, Franco Guardiani, commented on a social media post on X asking people to: “Describe Hitler in one word? Be brutally honest”. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/10/one-nation-dumps-franco-guardiani-praised-hitler-victoria-elections-ntwnfb",
+      "title": "Todd Russell, Beaconsfield mine collapse survivor, dies aged 54 due to illness",
+      "summary": "Tasmanian premier leads tributes for Russell, who earlier this month returned home to ‘see out his days’ Get our breaking news email , free app or daily news podcast Beaconsfield mine collapse survivor Todd Russell has died aged 54 after recently announcing deteriorating health. The Tasmanian premier, Jeremy Rockliff, led the tributes on Tuesday morning, saying his thoughts were with Russell’s loved ones. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54",
       "source": "The Guardian",
-      "published": "2026-11-10T03:33:55+00:00",
-      "image": "https://i.guim.co.uk/img/media/ffd2084856240a692fa1884c87559b8ff08d3986/329_0_3288_2631/master/3288.jpg?width=140&quality=85&auto=format&fit=max&s=7961765fc52974fa23d75a5acda4119f"
+      "published": "2026-11-10T03:47:33+00:00",
+      "image": "https://i.guim.co.uk/img/media/9b143c92c9a4ed57fdb4fed5bd631a8251922862/0_0_2257_1806/master/2257.jpg?width=140&quality=85&auto=format&fit=max&s=ee792f71608cbef7e8f8257b3b1cd16a"
     },
     {
       "title": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26287636573938-1794279573.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
