@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T23:15:28.469565+00:00",
+  "updated_at": "2026-11-10T23:30:34.502673+00:00",
   "national": [
     {
       "title": "Polisi Tangkap Dua Orang Diduga Bawa Molotov Picu Ricuh Demo Surabaya",
@@ -29,10 +29,10 @@
   "international": [
     {
       "title": "House blocks effort from Republican lawmaker to impeach Pete Hegseth – US politics live",
-      "summary": "Republicans secure majority of votes to send articles introduced by Thomas Massie to committee, meaning it won’t face a full vote on chamber floor Sign up for the US Breaking News email During his press conference, Hegseth was resolute that the articles of impeachment are baseless, and that all attacks were carried out legally. “As for the articles themselves, Iran, the cartels, Maduro, Yemen, everyone was a lawful operation ordered by the commander-in-chief, then ordered by myself, notified to Congress and executed by American warriors who did their jobs,” he said. “We destroyed terror regimes’ capabilities. We sank the boats carrying poison into our communities. We put a narco dictator in handcuffs. These are not high crimes. This is the job, and it’s the job well done.” Continue reading...",
+      "summary": "Republicans secure majority of votes to send articles introduced by Thomas Massie to committee, meaning it won’t face a full vote on chamber floor House Republicans block effort to impeach Pentagon chief Pete Hegseth Sign up for the US Breaking News email During his press conference, Hegseth was resolute that the articles of impeachment are baseless, and that all attacks were carried out legally. “As for the articles themselves, Iran, the cartels, Maduro, Yemen, everyone was a lawful operation ordered by the commander-in-chief, then ordered by myself, notified to Congress and executed by American warriors who did their jobs,” he said. “We destroyed terror regimes’ capabilities. We sank the boats carrying poison into our communities. We put a narco dictator in handcuffs. These are not high crimes. This is the job, and it’s the job well done.” Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-10T23:09:07+00:00",
+      "published": "2026-11-10T23:12:42+00:00",
       "image": "https://i.guim.co.uk/img/media/6013012caf6ed453d5e395041349213f8c956b3e/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e7d4130bc9c714dc4fc68a7771e0f2a1"
     },
     {
@@ -53,7 +53,7 @@
     }
   ],
   "feed_warnings": [
-    "Detik: TimeoutError",
+    "Detik: URLError",
     "Detik: no fresh stories",
     "Detik: keeping previous story"
   ]
