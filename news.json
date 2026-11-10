@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T20:00:46.468864+00:00",
+  "updated_at": "2026-11-10T20:15:30.168374+00:00",
   "national": [
     {
       "title": "Polisi Usut Pelajar SMP Keroyok Siswa SD di Batam dan Unggah ke IG",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Parents sue to stop Washington state trans sports ban that could require ‘invasive’ genital exams",
-      "summary": "Voters adopted extreme policy requiring medical sex verification for all girls who want to play team sports Parents of student athletes in Washington state have sued to block a ballot initiative banning transgender girls from women’s sports teams, calling the measure discriminatory and warning it would lead to “invasive” genital examinations for female athletes. Last week, voters in the solidly Democratic state passed Initiative 638 , a major setback for LGBTQ+ rights amid the “blue wave” of the US midterm elections. Nebraska, Colorado and Arizona adopted similar anti-trans sports bans, though advocates say Washington state’s policy is particularly extreme due to its medical sex verification requirement for all girls who want to play team sports. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/10/washington-trans-sports-ban-lawsuit",
+      "title": "Thomas Markle, father of Meghan, cut off his ankle monitor, DoJ says",
+      "summary": "Estranged father of Duchess of Sussex was arrested for keeping child sexual abuse material in storage units in California The 82-year-old estranged father of Meghan, the Duchess of Sussex, cut an electronic monitoring device off his ankle, just days after his arrest for keeping child sexual abuse material in storage units in California, authorities said on Tuesday. Thomas Markle was in custody awaiting a hearing in federal court in Tampa, Florida, first assistant US attorney Bill Essayli said. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/thomas-markle-ankle-monitor",
       "source": "The Guardian",
-      "published": "2026-11-10T19:49:49+00:00",
-      "image": "https://i.guim.co.uk/img/media/caec218d14cbe88d565a401da9681346ae52dcc0/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=2c32c131114ba0c18a6931e8e67b7685"
+      "published": "2026-11-10T20:08:10+00:00",
+      "image": "https://i.guim.co.uk/img/media/f9cfec4c1e00591a43dd167e340d0109f7c8ff90/432_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=2d8a9602c72b78e256430ffca4ad58ef"
     },
     {
       "title": "Rubio says no need for major combat operations against Iran",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b27/live/31eee220-dd2a-11f1-ab46-9fae224bbf6f.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
