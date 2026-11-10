@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-10T14:00:44.086960+00:00",
+  "updated_at": "2026-11-10T14:15:35.144398+00:00",
   "national": [
     {
-      "title": "Polri Resmi Pecat Irjen Ahrie Sonta Buntut Kasus Penyadapan Prabowo",
-      "summary": "Polri memecat Irjen Ahrie Sonta akibat pelanggaran kode etik terkait penyadapan Presiden Prabowo. Sidang etik juga menetapkan tersangka lain dalam kasus ini.",
-      "url": "https://www.cnnindonesia.com/nasional/20261110203455-12-1425619/polri-resmi-pecat-irjen-ahrie-sonta-buntut-kasus-penyadapan-prabowo",
+      "title": "Hasil Sidang Etik, Ahrie Sonta Terbukti Sadap Prabowo Secara Ilegal",
+      "summary": "Eks Kadiv Hukum Polri Irjen Ahrie Sonta dinyatakan terbukti melanggar Kode Etik karena telah melakukan penyadapan secara ilegal.",
+      "url": "https://www.cnnindonesia.com/nasional/20261110210358-12-1425635/hasil-sidang-etik-ahrie-sonta-terbukti-sadap-prabowo-secara-ilegal",
       "source": "CNN Indonesia",
-      "published": "2026-11-10T13:56:52+00:00",
+      "published": "2026-11-10T14:08:23+00:00",
       "image": "https://akcdn.detik.net.id/visual/2024/10/23/kombes-ahrie-sonta-nasution_169.jpeg?w=360&q=90"
     },
     {
@@ -28,28 +28,28 @@
   ],
   "international": [
     {
-      "title": "Pete Hegseth dismisses Republican’s impeachment effort against him as ‘a political spectacle’ – US politics live",
-      "summary": "Trump’s defense secretary calls impeachment effort from congressman Thomas Massie ‘a personal manifesto driven by ego’ as he faces scrutiny for prolonged Iran war Sign up for the US Breaking News email During his press conference, Hegseth was resolute that the articles of impeachment are baseless, and that all attacks were carried out legally. “As for the articles themselves, Iran, the cartels, Maduro, Yemen, everyone was a lawful operation ordered by the commander-in-chief, then ordered by myself, notified to Congress and executed by American warriors who did their jobs,” he said. “We destroyed terror regimes’ capabilities. We sank the boats carrying poison into our communities. We put a narco dictator in handcuffs. These are not high crimes. This is the job, and it’s the job well done.” Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-10T13:49:48+00:00",
-      "image": "https://i.guim.co.uk/img/media/cfacb3a0788280a626230564a0712ec43525aabe/125_0_3405_2724/master/3405.jpg?width=140&quality=85&auto=format&fit=max&s=a6ae2819abc9fc3420e67ed2eddb24e8"
-    },
-    {
       "title": "Anthropic heads for $1.3 trillion valuation in major stock market listing",
       "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
       "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-10T13:45:36+00:00",
+      "published": "2026-11-10T14:04:22+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Attacks escalate between Saudi-led forces and Yemen’s Iran-backed Houthis",
-      "summary": "Saudi Arabia says it intercepted missiles fired by the Iran-backed Houthis in Yemen as attacks between them escalate.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/attacks-escalate-between-saudi-led-forces-and-yemens-iran-backed-houthis?traffic_source=rss",
+      "title": "Meta’s AI age-check goes global: Can it protect teens?",
+      "summary": "The tech giant rolls out age-detection tool for Instagram and Facebook, but experts doubt whether it can help protect teens.",
+      "url": "https://www.aljazeera.com/news/2026/11/10/metas-ai-age-check-goes-global-can-it-protect-teens?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-10T13:39:22+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794317873.jpg?resize=1920%2C1080&quality=80"
+      "published": "2026-11-10T13:58:37+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-04T165726Z_1266988763_RC2B6OA5BEOF_RTRMADP_3_META-BONDS-EUROPE-1794305365.jpg?resize=1920%2C1440"
+    },
+    {
+      "title": "Cop31 live: host Turkey celebrates new oilfields as climate summit enters second day",
+      "summary": "UN climate summit prepares to host world leaders from more than 90 countries as scientists find global carbon emissions flatlined this year We’ve just heard from Patricia Espinosa , the former UN climate boss (succeeded by Simon Stiell) and now we are hearing from former US secretary of state and climate ambassador, John Kerry. Kerry has congratulated Brazil for keeping the fossil fuel transition issue alive, and the room has erupted in cheers. Continue reading...",
+      "url": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-10T13:57:35+00:00",
+      "image": "https://i.guim.co.uk/img/media/b93d3307e0484de02281c9b34fd73467568202f1/207_0_4813_3853/master/4813.jpg?width=140&quality=85&auto=format&fit=max&s=caaf93fbfed72c6a09a562b53404bd87"
     }
   ],
   "feed_warnings": [
