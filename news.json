@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-10T08:15:28.344521+00:00",
+  "updated_at": "2026-11-10T08:30:37.103981+00:00",
   "national": [
+    {
+      "title": "Gibran Ajukan Pengunduran Diri ke Prabowo",
+      "summary": "Gibran Rakabuming Raka berniat mundur dari jabatan Wapres RI setelah tekanan politik terkait putusan MA dan MK mengenai ijazahnya.",
+      "url": "https://www.cnnindonesia.com/nasional/20261109144457-32-1424988/gibran-ajukan-pengunduran-diri-ke-prabowo",
+      "source": "CNN Indonesia",
+      "published": "2026-11-10T08:18:33+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/09/01/wapres-gibran-kukuhkan-paskibraka-2026-1788246075176_169.jpeg?w=360&q=90"
+    },
     {
       "title": "BSSN ungkap mitigasi Indonesia hadapi jutaan serangan siber",
       "summary": "Badan Siber dan Sandi Negara (BSSN) mengungkapkan mitigasi yang telah diambil pihaknya untuk menyiapkan Indonesia siaga ...",
       "url": "https://www.antaranews.com/berita/5843919/bssn-ungkap-mitigasi-indonesia-hadapi-jutaan-serangan-siber",
       "source": "ANTARA",
       "published": "2026-11-10T08:10:54+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2024/06/28/pexels-photo-5380664.jpeg"
-    },
-    {
-      "title": "FOTO: Geliat Pemakzulan Gibran Muncul di Sidang Paripurna DPR",
-      "summary": "Usulan Hak Menyatakan Pendapat terkait Gibran menguat di DPR, hawa dorongan pilihan dimakzulkan atau mundur pun mengemuka di sidang paripurna.",
-      "url": "https://www.cnnindonesia.com/nasional/20261110140655-34-1425396/foto-geliat-pemakzulan-gibran-muncul-di-sidang-paripurna-dpr",
-      "source": "CNN Indonesia",
-      "published": "2026-11-10T08:06:34+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/10/rapat-paripurna-pembukaan-masa-sidang-1794294205007_169.jpeg?w=360&q=90"
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/10/AFP_20261021_D3ZF3G3_v4_MidRes_TopshotGermanyWorldCybercrimeComputersCyberSecur.jpg"
     },
     {
       "title": "Eks Ketua BPK Jadi Ahli Kubu Yaqut: Keuntungan Travel Haji Bukan Kerugian Negara",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
-      "summary": "Kyiv, Washington and Moscow are all sending delegation to the United Arab Emirates for the first trilateral talks since February.",
-      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-10T07:58:07+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d4a/live/c60a1ad0-dc88-11f1-851a-19e868620cad.jpg"
+      "published": "2026-11-10T08:23:21+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/123a/live/434e87b0-dcd9-11f1-a701-fddedf244c16.png"
+    },
+    {
+      "title": "US moves aircraft from second UK base over ‘threat from Iran’",
+      "summary": "Two refuelling tankers and several other aircraft diverted from RAF Mildenhall airbase ​to other locations, WSJ reports.",
+      "url": "https://www.aljazeera.com/news/2026/11/10/us-moves-aircraft-from-second-uk-base-over-threat-from-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-10T08:08:24+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-09-27T143211Z_1434666184_RC2QRNA6CNYL_RTRMADP_3_BRITAIN-USA-FAIRFORD-LAKENHEATH-1794297297.jpg?resize=1920%2C1440"
     },
     {
       "title": "Cop31 live: slight drop in fossil fuel emissions revealed as conference enters second day",
@@ -42,15 +50,11 @@
       "source": "The Guardian",
       "published": "2026-11-10T07:57:12+00:00",
       "image": "https://i.guim.co.uk/img/media/b93d3307e0484de02281c9b34fd73467568202f1/207_0_4813_3853/master/4813.jpg?width=140&quality=85&auto=format&fit=max&s=caaf93fbfed72c6a09a562b53404bd87"
-    },
-    {
-      "title": "Australia tightens AI oversight rules after OpenAI government breach",
-      "summary": "The decision comes after ​an OpenAI agent breached ​an Australian government website in June.",
-      "url": "https://www.aljazeera.com/news/2026/11/10/australia-tightens-ai-oversight-rules-after-openai-government-breach?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-10T07:05:11+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af2b199a6-1794290073.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
