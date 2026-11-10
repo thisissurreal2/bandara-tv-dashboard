@@ -133,8 +133,6 @@ document.addEventListener("keydown", event => {
 // BANK INDONESIA EXCHANGE RATES
 // Supports automatic JSON loading and manual Excel upload.
 // ============================================================
-
-const uploadInput = document.getElementById("bi-excel-upload");
 const rateTable = document.getElementById("rates");
 const rateStatus = document.getElementById("rate-status");
 
@@ -370,105 +368,8 @@ async function loadBIRatesFromJSON() {
 
       rateStatus.textContent = lastRatesSignature
       ? `Gagal memperbarui kurs (${error.message}). Menampilkan data sebelumnya.`
-      : `JSON gagal dimuat: ${error.message}. Silakan unggah Excel BI.`;
+         : `JSON gagal dimuat: ${error.message}.`;
   }
-}
-
-
-// Import rates from the existing BI Excel upload control.
-async function importBIRates(file) {
-  if (!window.XLSX) {
-    throw new Error(
-      "Excel library belum dimuat. Periksa koneksi internet."
-    );
-  }
-
-  const buffer = await file.arrayBuffer();
-  const workbook = XLSX.read(buffer, { type: "array" });
-  const sheet = workbook.Sheets[workbook.SheetNames[0]];
-
-  const rows = XLSX.utils.sheet_to_json(sheet, {
-    header: 1,
-    defval: ""
-  });
-
-  const headerIndex = rows.findIndex(row =>
-    row.some(cell => String(cell).trim() === "Mata Uang") &&
-    row.some(cell => String(cell).trim() === "Kurs Jual") &&
-    row.some(cell => String(cell).trim() === "Kurs Beli")
-  );
-
-  if (headerIndex === -1) {
-    throw new Error(
-      "Kolom Mata Uang, Kurs Jual, dan Kurs Beli tidak ditemukan."
-    );
-  }
-
-  const headers = rows[headerIndex].map(cell => String(cell).trim());
-  const codeCol = headers.indexOf("Mata Uang");
-  const valueCol = headers.indexOf("Nilai");
-  const sellCol = headers.indexOf("Kurs Jual");
-  const buyCol = headers.indexOf("Kurs Beli");
-
-  const rates = {};
-
-  for (const row of rows.slice(headerIndex + 1)) {
-    const code = String(row[codeCol] || "").trim().toUpperCase();
-
-    if (!currencyNames[code]) continue;
-
-    const unit = parseBIValue(row[valueCol]);
-    const sell = parseBIValue(row[sellCol]);
-    const buy = parseBIValue(row[buyCol]);
-
-    if (
-      !(unit > 0) ||
-      !Number.isFinite(sell) ||
-      !Number.isFinite(buy)
-    ) {
-      continue;
-    }
-
-    const divisor = code === "JPY" ? 100 : unit;
-
-    rates[code] = {
-      unit: 1,
-      sell: sell / divisor,
-      buy: buy / divisor
-    };
-  }
-
-  if (Object.keys(rates).length === 0) {
-    throw new Error("Tidak ada data kurs yang valid di file.");
-  }
-
-  renderBIRates(
-    rates,
-    `Excel · ${new Date().toLocaleString("id-ID")}`
-  );
-}
-
-
-// Keep the existing manual Excel upload available as a fallback.
-if (uploadInput) {
-  uploadInput.addEventListener("change", async event => {
-    const file = event.target.files[0];
-    if (!file) return;
-
-    try {
-      rateStatus.textContent = "Membaca file Excel...";
-      await importBIRates(file);
-    } catch (error) {
-      console.error(error);
-
-      if (rateStatus) {
-        rateStatus.textContent = `Gagal: ${error.message}`;
-      }
-    }
-
-    // Allows selecting the same file again later.
-    event.target.value = "";
-  });
 }
 
 
@@ -861,7 +762,7 @@ function displayOilInIDR(oilUsdPerBarrel) {
   const todayOperationsDate = document.getElementById("today-operations-date");
   const todayOperationsList = document.getElementById("today-operations-list");
   const operationLegendMount = document.getElementById("operation-colour-legend-mount");
-  const SCHEDULE_API_URL = "https://bandara-schedule-api.YOUR-SUBDOMAIN.workers.dev/schedule";
+  const SCHEDULE_API_URL = "https://bandara-schedule-api.daniel-dev-test.workers.dev/schedule";
   const TOKEN_STORAGE_KEY = "bandara_device_token";
 
   // One-time device setup: open the dashboard URL ending in #dt=<token>.

@@ -13,3 +13,14 @@ _site/
 
 private/
 .staticrypt.json
+worker/.wrangler/
+worker/node_modules/
+*service-account*.json
+*-key.json
+tokens*.txt
+
+worker/
+apps_script*.gs
+*service-account*.json
+*-key.json
+tokens*.txt
