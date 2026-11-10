@@ -1155,6 +1155,13 @@ function displayOilInIDR(oilUsdPerBarrel) {
     })
       .then(response => response.json().catch(() => null).then(payload => ({ status: response.status, payload })))
       .then(({ status, payload }) => {
+        console.log("SCHEDULE DEBUG:", {
+          status,
+          ok: payload?.ok,
+          month: payload?.month,
+          rows: payload?.rows?.length,
+          payload
+        });
         clearTimeout(timeout);
         if (token !== requestToken) return;
         if (status === 401) { setStatus("Akses ditolak. Token perangkat tidak valid atau sudah dicabut."); return; }
