@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T07:28:54.010958+00:00",
+  "updated_at": "2026-11-10T07:30:36.049092+00:00",
   "national": [
     {
       "title": "Profil Komjen Syahar Diantono yang Ditarik Kapolri dari Penugasan KSP",
@@ -10,20 +10,20 @@
       "image": "https://akcdn.detik.net.id/visual/2026/02/26/kabareskrim-polri-komjen-syahar-diantono-1772106468878_169.jpeg?w=360&q=90"
     },
     {
+      "title": "Lapas Kotabaru Latih Napi Jadi Kader Kesehatan: Ingatkan Kebersihan-Hidup Sehat",
+      "summary": "Lapas Kotabaru mengampanyekan kebersihan dengan melibatkan napi sebagai kader kesehatan. Mereka diajarkan menjaga kesehatan dan kebersihan lingkungan.",
+      "url": "https://news.detik.com/berita/d-8746603/lapas-kotabaru-latih-napi-jadi-kader-kesehatan-ingatkan-kebersihan-hidup-sehat",
+      "source": "Detik",
+      "published": "2026-11-10T07:21:25+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/10/kepala-lapas-kotabaru-imam-sapto-riadi-1794295129199_169.jpeg?w=360&q=90"
+    },
+    {
       "title": "Internet gratis permudah warga Pulau Untung Jawa akses informasi dan pendidikan",
       "summary": "Layanan internet gratis JakWifi dari Dinas Komunikasi, Informatika dan Statistik (Kominfotik) DKI Jakarta, ...",
       "url": "https://www.antaranews.com/berita/5843723/internet-gratis-permudah-warga-pulau-untung-jawa-akses-informasi-dan-pendidikan",
       "source": "ANTARA",
       "published": "2026-11-10T06:43:43+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/10/IMG_6089.jpeg"
-    },
-    {
-      "title": "Apa Itu Hak Menyatakan Pendapat? Kini Diusulkan Terkait Wapres Gibran",
-      "summary": "Aturan terkait Hak Menyatakan Pendapat ini diatur dalam UU hingga Tata Tertib DPR. Bagaimana aturannya?",
-      "url": "https://news.detik.com/berita/d-8746503/apa-itu-hak-menyatakan-pendapat-kini-diusulkan-terkait-wapres-gibran",
-      "source": "Detik",
-      "published": "2026-11-10T06:36:09+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/10/dpr-kembali-bersidang-403-anggota-hadiri-rapat-paripurna-pembukaan-masa-sidang-1794290810141_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa84/live/ac8d61c0-dcc9-11f1-b441-2b33b063138f.png"
     }
   ],
-  "feed_warnings": [
-    "Detik: TimeoutError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
