@@ -1108,7 +1108,7 @@ function displayOilInIDR(oilUsdPerBarrel) {
     }).sort((a, b) => a.start - b.start);
 
     if (!todays.length) {
-      todayOperationsList.innerHTML = '<p class="today-operations-empty">No operations scheduled for today.</p>';
+      todayOperationsList.innerHTML = '<p class="today-operations-empty">Tidak ada operasi yang dijadwalkan untuk hari ini.</p>';
       return;
     }
 
