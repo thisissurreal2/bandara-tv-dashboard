@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-10T11:45:31.455026+00:00",
+  "updated_at": "2026-11-10T12:00:43.537741+00:00",
   "national": [
     {
-      "title": "Storytelling Jadi Kekuatan Kreator Konten Dorong Gerakan Pilah Sampah",
-      "summary": "Kreator konten Jakarta Selatan, Cynthia Suci Lestari, berhasil memenangkan juara pertama kategori influencer dalam ajang Pilah Olah Sampah Heroes Jakarta 2026.",
-      "url": "https://www.cnnindonesia.com/nasional/20261022084626-20-1418265/storytelling-jadi-kekuatan-kreator-konten-dorong-gerakan-pilah-sampah",
+      "title": "Amien Rais Baca Sinyal Jokowi Ditinggalkan Usai 3 Elite PSI Mundur",
+      "summary": "Amien Rais menilai mundurnya tiga elite PSI dari kabinet Prabowo menunjukkan Jokowi mulai ditinggalkan.",
+      "url": "https://www.cnnindonesia.com/nasional/20261110183456-32-1425559/amien-rais-baca-sinyal-jokowi-ditinggalkan-usai-3-elite-psi-mundur",
       "source": "CNN Indonesia",
-      "published": "2026-11-10T11:40:17+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/10/storytelling-jadi-kekuatan-kreator-konten-untuk-dorong-gerakan-pilah-dan-olah-sampah-1794307447427_169.jpeg?w=360&q=90"
+      "published": "2026-11-10T11:50:38+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/10/amien-rais-tagih-janji-jokowi-jadi-rakyat-biasa-1794302297952_169.jpeg?w=360&q=90"
     },
     {
       "title": "Aksi Penyampaian Aspirasi di Jakarta Berjalan Damai, Polda Metro Apresiasi Massa",
@@ -32,7 +32,7 @@
       "summary": "Conservative leader launches Welfare That Works policy document Badenoch and Whately are now taking questions. Q: [From Rob Powell from Sky News] We are running a report on the Netherlands, where youth unemployment is much lower than in the UK, but the amount they spend on getting people into work is much higher. Do you want to spend more on job training and support? Continue reading...",
       "url": "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-10T11:34:23+00:00",
+      "published": "2026-11-10T11:53:26+00:00",
       "image": "https://i.guim.co.uk/img/media/e1b411c6b1796244d573679921c2116ed2a37d7d/276_126_1238_991/master/1238.jpg?width=140&quality=85&auto=format&fit=max&s=7e38d10b303713eb23456f73d2d9a133"
     },
     {
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af2e8796627-1794304121.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
