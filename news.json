@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-10T23:30:34.502673+00:00",
+  "updated_at": "2026-11-10T23:45:28.320987+00:00",
   "national": [
+    {
+      "title": "Teori Trump Agar Masuk Surga: Maafkan Musuh Politik",
+      "summary": "Dalam wawancara dengan CBS News, Trump mengungkap keyakinannya akan masuk surga.",
+      "url": "https://news.detik.com/internasional/d-8747496/teori-trump-agar-masuk-surga-maafkan-musuh-politik",
+      "source": "Detik",
+      "published": "2026-11-10T23:36:09+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/03/lincoln-memorial-jadi-panggung-pidato-trump-jelang-pemilu-paruh-waktu-1793676298265_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Polisi Tangkap Dua Orang Diduga Bawa Molotov Picu Ricuh Demo Surabaya",
       "summary": "Ribuan mahasiswa di Surabaya gelar demo tuntut supremasi sipil. Aksi berakhir kondusif, namun ada dua orang ditangkap bawa molotov diduga ingin picu kerusuhan.",
@@ -16,24 +24,24 @@
       "source": "ANTARA",
       "published": "2026-11-10T22:59:54+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/10/Wapres-Gibran-Niat-Mundur-101126-hma-03-1.jpg"
-    },
-    {
-      "title": "Mobil Tabrak Lari Sejumlah Orang di Sleman, Sopir Diduga Mabuk",
-      "summary": "Polisi amankan pengemudi tabrak lari di Sleman yang diduga mabuk. Insiden ini menyebabkan beberapa korban.",
-      "url": "https://news.detik.com/berita/d-8747461/mobil-tabrak-lari-sejumlah-orang-di-sleman-sopir-diduga-mabuk",
-      "source": "Detik",
-      "published": "2026-11-10T20:47:02+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2023/05/15/ilustrasi-kecelakaan_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
     {
-      "title": "House blocks effort from Republican lawmaker to impeach Pete Hegseth – US politics live",
-      "summary": "Republicans secure majority of votes to send articles introduced by Thomas Massie to committee, meaning it won’t face a full vote on chamber floor House Republicans block effort to impeach Pentagon chief Pete Hegseth Sign up for the US Breaking News email During his press conference, Hegseth was resolute that the articles of impeachment are baseless, and that all attacks were carried out legally. “As for the articles themselves, Iran, the cartels, Maduro, Yemen, everyone was a lawful operation ordered by the commander-in-chief, then ordered by myself, notified to Congress and executed by American warriors who did their jobs,” he said. “We destroyed terror regimes’ capabilities. We sank the boats carrying poison into our communities. We put a narco dictator in handcuffs. These are not high crimes. This is the job, and it’s the job well done.” Continue reading...",
+      "title": "Fire contained on platform in Iran’s South Pars gas field",
+      "summary": "Officials are considering a gas leak or an operational mishap as possible causes of the fire, Fars news agency said.",
+      "url": "https://www.aljazeera.com/news/2026/11/10/fire-contained-on-platform-in-irans-south-pars-gas-field?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-10T23:38:02+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/03/afp_69bae61f9014-1773856287.jpg?resize=1920%2C1440"
+    },
+    {
+      "title": "Pentagon declares ‘total victory’ after House Republicans block effort to impeach Pete Hegseth – US politics live",
+      "summary": "Republicans secure majority of votes to send articles introduced by Thomas Massie to committee, meaning there won’t be a full vote on chamber floor House Republicans block effort to impeach Pentagon chief Pete Hegseth Sign up for the US Breaking News email During his press conference, Hegseth was resolute that the articles of impeachment are baseless, and that all attacks were carried out legally. “As for the articles themselves, Iran, the cartels, Maduro, Yemen, everyone was a lawful operation ordered by the commander-in-chief, then ordered by myself, notified to Congress and executed by American warriors who did their jobs,” he said. “We destroyed terror regimes’ capabilities. We sank the boats carrying poison into our communities. We put a narco dictator in handcuffs. These are not high crimes. This is the job, and it’s the job well done.” Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-10T23:12:42+00:00",
-      "image": "https://i.guim.co.uk/img/media/6013012caf6ed453d5e395041349213f8c956b3e/1000_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e7d4130bc9c714dc4fc68a7771e0f2a1"
+      "published": "2026-11-10T23:28:44+00:00",
+      "image": "https://i.guim.co.uk/img/media/90fd5e65c58f923c6fc4059a2197568133881e15/947_0_4715_3774/master/4715.jpg?width=140&quality=85&auto=format&fit=max&s=1cdd180aea06c3729397bafc16a133f9"
     },
     {
       "title": "Nvidia hires major US law firm to investigate alleged Chinese spy affair",
@@ -42,19 +50,7 @@
       "source": "BBC",
       "published": "2026-11-10T22:52:15+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d6c/live/e7ad5400-dd59-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "Russia expels Moldovan diplomat in tit-for-tat move",
-      "summary": "Relations between Moscow and Chisinau have worsened since Russia's full-scale invasion of Ukraine in 2022.",
-      "url": "https://www.aljazeera.com/news/2026/11/10/russia-expels-moldovan-diplomat-in-tit-for-tat-move?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-10T22:41:07+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2025/12/AFP__20251202__86U23WE__v1__MidRes__RussiaUkraineConflictUs-1764818605.jpg?resize=1200%2C630"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
