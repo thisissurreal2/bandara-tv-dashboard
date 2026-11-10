@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-10T04:45:28.493376+00:00",
+  "updated_at": "2026-11-10T05:00:39.702071+00:00",
   "national": [
+    {
+      "title": "Bupati Ratu Dukung UMKM Kabupaten Serang Tembus Pasar Ekspor",
+      "summary": "Bupati berharap, pelaku UMKM dapat memperoleh akses pasar yang lebih luas melalui kerja sama dengan perusahaan yang telah memiliki pengalaman ekspor.",
+      "url": "https://www.cnnindonesia.com/nasional/20261110114249-25-1425318/bupati-ratu-dukung-umkm-kabupaten-serang-tembus-pasar-ekspor",
+      "source": "CNN Indonesia",
+      "published": "2026-11-10T04:59:51+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/10/pemkab-serang-1794285864246_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Massa Gelar Demo di Depan DPR, Desak Pemakzulan Gibran",
       "summary": "Massa yang menamakan diri Gema Keadilan menggelar demonstrasi di depan DPR RI. Mereka mendesak pemakzulan Wakil Presiden Gibran Rakabuming Raka.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-10T04:37:05+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/10/demonstrasi-di-depan-gedung-dpr-rizkydetikcom-1794285395403_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Propam Polri Gelar Sidang Etik Irjen Ahrie Sonta di Kasus Penyadapan",
-      "summary": "Propam Polri menggelar sidang etik terhadap mantan Kadivkum Polri Irjen Ahrie Sonta, pada Selasa (10/11) hari ini.",
-      "url": "https://www.cnnindonesia.com/nasional/20261110113304-12-1425315/propam-polri-gelar-sidang-etik-irjen-ahrie-sonta-di-kasus-penyadapan",
-      "source": "CNN Indonesia",
-      "published": "2026-11-10T04:36:47+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2024/10/23/kombes-ahrie-sonta-nasution_169.jpeg?w=360&q=90"
     },
     {
       "title": "Gubernur DKI kaji rencana pengangkatan PPPK paruh waktu di Jakarta",
@@ -27,6 +27,14 @@
     }
   ],
   "international": [
+    {
+      "title": "One Nation dumps Victorian election candidate who praised Adolf Hitler as ‘GOAT’",
+      "summary": "Party disendorses Preston candidate Franco Guardiani after social media posts emerge Get our breaking news email , free app or daily news podcast One Nation Victoria has disendorsed a candidate whose private social media account described Adolf Hitler as the “GOAT” and claimed that “importing Islam is making pedophilia legal”. In a now deleted social media post, the party’s candidate for Preston, Franco Guardiani, commented on a social media post on X asking people to: “Describe Hitler in one word? Be brutally honest”. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/10/one-nation-dumps-franco-guardiani-praised-hitler-victoria-elections-ntwnfb",
+      "source": "The Guardian",
+      "published": "2026-11-10T04:44:32+00:00",
+      "image": "https://i.guim.co.uk/img/media/ffd2084856240a692fa1884c87559b8ff08d3986/329_0_3288_2631/master/3288.jpg?width=140&quality=85&auto=format&fit=max&s=7961765fc52974fa23d75a5acda4119f"
+    },
     {
       "title": "Anger as ICE agents make arrest in New Jersey grocery store",
       "summary": "ICE agents stormed a New Jersey store before being confronted by a crowd demanding they leave, as they escort a man out.",
@@ -42,19 +50,11 @@
       "source": "BBC",
       "published": "2026-11-10T04:09:16+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6017/live/b94816e0-dca5-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "Todd Russell, Beaconsfield mine collapse survivor, dies aged 54 due to illness",
-      "summary": "Tasmanian premier leads tributes for Russell, who earlier this month returned home to ‘see out his days’ Get our breaking news email , free app or daily news podcast Beaconsfield mine collapse survivor Todd Russell has died aged 54 after recently announcing deteriorating health. The Tasmanian premier, Jeremy Rockliff, led the tributes on Tuesday morning, saying his thoughts were with Russell’s loved ones. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/10/todd-russell-dies-beaconsfield-mine-collapse-survivor-death-illness-aged-54",
-      "source": "The Guardian",
-      "published": "2026-11-10T03:47:33+00:00",
-      "image": "https://i.guim.co.uk/img/media/9b143c92c9a4ed57fdb4fed5bd631a8251922862/0_0_2257_1806/master/2257.jpg?width=140&quality=85&auto=format&fit=max&s=ee792f71608cbef7e8f8257b3b1cd16a"
     }
   ],
   "feed_warnings": [
-    "ANTARA: TimeoutError",
-    "ANTARA: no fresh stories",
-    "ANTARA: keeping previous story"
+    "Detik: TimeoutError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
   ]
 }
