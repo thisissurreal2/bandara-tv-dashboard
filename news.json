@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T14:30:39.122827+00:00",
+  "updated_at": "2026-11-10T14:45:29.434873+00:00",
   "national": [
     {
       "title": "Cicit Jenderal Hoegeng Cerita Isi Obrolan Bareng Prabowo dan Kapolri",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
+      "title": "Mongolia’s Iron Winter: A Race to Save an Ancient Tradition",
+      "summary": "Two young horse herders revive Mongolia’s most dangerous winter ritual to save their community's ancient way of life.",
+      "url": "https://www.aljazeera.com/video/witness/2026/11/10/mongolias-iron-winter-a-race-to-save-an-ancient-tradition?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-10T14:40:00+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/YT-Thumbnail-1794290607.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
+      "title": "First day of Ukraine peace talks 'very productive', US says",
+      "summary": "Delegations from Kyiv, Washington and Moscow are in the United Arab Emirates for the first trilateral talks since February.",
+      "url": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-10T14:36:57+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b3c/live/e82766a0-dd04-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
       "title": "Planned Tory welfare cuts ‘a charter for human misery,’ says Labour – UK politics live",
       "summary": "Conservative leader launches Welfare That Works policy document outlining benefit reductions of £36bn Badenoch and Whately are now taking questions. Q: [From Rob Powell from Sky News] We are running a report on the Netherlands, where youth unemployment is much lower than in the UK, but the amount they spend on getting people into work is much higher. Do you want to spend more on job training and support? Continue reading...",
       "url": "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-10T14:24:51+00:00",
+      "published": "2026-11-10T14:25:14+00:00",
       "image": "https://i.guim.co.uk/img/media/fd4ac543ecc001e3687386d0783003e964a14e4b/128_165_3091_2473/master/3091.jpg?width=140&quality=85&auto=format&fit=max&s=21f0f247c8cda5a3a4b4e693ee3e700e"
-    },
-    {
-      "title": "Anthropic heads for $1.3 trillion valuation in major stock market listing",
-      "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
-      "url": "https://www.bbc.co.uk/news/articles/crpdgd723x2zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-10T14:04:22+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "Iraq bars Iranian football team’s plane from landing in Basra: Report",
-      "summary": "Decision by the Iraqi Civil Aviation Authority reportedly related to ⁠US sanctions imposed on Iranian airlines.",
-      "url": "https://www.aljazeera.com/sports/2026/11/10/iraq-bars-iranian-football-teams-plane-from-landing-in-basra-report?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-10T14:03:31+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a3ae0e2-1782243555.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
