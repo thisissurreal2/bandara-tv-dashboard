@@ -1141,52 +1141,84 @@ function displayOilInIDR(oilUsdPerBarrel) {
     const key = select.value;
     const token = ++requestToken;
     const deviceToken = getDeviceToken();
+
     if (!deviceToken) {
       setStatus("Perangkat ini belum diberi izin memuat jadwal. Hubungi admin IT.");
       return;
     }
+
     setStatus(`Memuat ${monthLabel(key)}…`);
+
     const controller = typeof AbortController === "function" ? new AbortController() : null;
-    const timeout = setTimeout(() => { if (controller) controller.abort(); }, 15000);
+    const timeout = setTimeout(() => {
+      if (controller) controller.abort();
+    }, 15000);
+
     fetch(`${SCHEDULE_API_URL}?month=${encodeURIComponent(key)}`, {
       headers: { "Authorization": `Bearer ${deviceToken}` },
       cache: "no-store",
       signal: controller ? controller.signal : undefined
     })
-      .then(response => response.json().catch(() => null).then(payload => ({ status: response.status, payload })))
+      .then(response =>
+        response.json().catch(() => null).then(payload => ({
+          status: response.status,
+          payload: payload
+        }))
+      )
       .then(({ status, payload }) => {
-        console.log("SCHEDULE DEBUG:", {
-          status,
-          ok: payload?.ok,
-          month: payload?.month,
-          rows: payload?.rows?.length,
-          payload
-        });
         clearTimeout(timeout);
+
         if (token !== requestToken) return;
-        if (status === 401) { setStatus("Akses ditolak. Token perangkat tidak valid atau sudah dicabut."); return; }
+
+        if (status === 401) {
+          setStatus("Akses ditolak. Token perangkat tidak valid atau sudah dicabut.");
+          return;
+        }
+
         if (status === 403) {
           setStatus("Akses ditolak. Perangkat harus terhubung melalui jaringan kantor.");
           return;
         }
+
         if (status === 404) {
-          currentRows = []; renderGrid(currentRows, key); renderTodayOperations();
+          currentRows = [];
+          renderGrid(currentRows, key);
+          renderTodayOperations();
           setStatus(`${monthLabel(key)} · Jadwal belum tersedia`);
           return;
         }
+
         if (!payload || payload.ok !== true || !Array.isArray(payload.rows)) {
           setStatus(payload && payload.detail ? payload.detail : "Jadwal tidak dapat dimuat.");
           return;
         }
-        currentRows = payload.rows; renderGrid(currentRows, key); renderTodayOperations();
-        const unmatched = currentRows.filter(r => getSlot(r) < 0).length;
-        if (!unmatched) setStatus(`${monthLabel(key)} · ${payload.rows.length} kegiatan · Diperbarui dari Google Sheets · Hari ini ditandai menurut waktu Jakarta`);
+
+        currentRows = payload.rows;
+
+        const validRows = currentRows.filter(item => {
+          const start = parseISO(item.startDate);
+          const end = parseISO(item.endDate);
+
+          return getSlot(item) >= 0 && start && end && end >= start;
+        });
+
+        renderGrid(currentRows, key);
+        renderTodayOperations();
+
+        const rendered = board.querySelectorAll(".slot-booking").length;
+
+        setStatus(
+          `DIAGNOSTIK · API: ${status} · Diterima: ${currentRows.length} · Valid: ${validRows.length} · Ditampilkan: ${rendered}`
+        );
       })
       .catch(() => {
         clearTimeout(timeout);
-        if (token === requestToken) setStatus("Tidak dapat terhubung ke server jadwal. Silakan coba lagi.");
+
+        if (token === requestToken) {
+          setStatus("Tidak dapat terhubung ke server jadwal. Silakan coba lagi.");
+        }
       });
-  }
+}
   
   function selectMonth(key) {
     if (![...select.options].some(o => o.value === key)) return;
