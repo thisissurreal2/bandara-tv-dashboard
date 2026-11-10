@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-10T04:30:34.147933+00:00",
+  "updated_at": "2026-11-10T04:41:02.128407+00:00",
   "national": [
+    {
+      "title": "Propam Polri Gelar Sidang Etik Irjen Ahrie Sonta di Kasus Penyadapan",
+      "summary": "Propam Polri menggelar sidang etik terhadap mantan Kadivkum Polri Irjen Ahrie Sonta, pada Selasa (10/11) hari ini.",
+      "url": "https://www.cnnindonesia.com/nasional/20261110113304-12-1425315/propam-polri-gelar-sidang-etik-irjen-ahrie-sonta-di-kasus-penyadapan",
+      "source": "CNN Indonesia",
+      "published": "2026-11-10T04:36:47+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2024/10/23/kombes-ahrie-sonta-nasution_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Keterlaluan! Besi Rel Kereta Sepanjang 200 Meter di Langkat Diduga Dicuri",
       "summary": "Viral besi rel kereta api sepanjang 200 meter diduga hilang dicuri di Kabupaten Langkat, Sumut. Polisi tengah menyelidiki terduga pelaku pencurian itu.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-10T04:28:48+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/09/polisi-saat-mengecek-lokasi-hilangnya-rel-kereta-api-foto-dok-polsek-tanjung-pura-1794216831499_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Bupati Serang Jenguk Ojol asal Ciomas, Korban Tabrakan BYD di Jakarta",
-      "summary": "Bupati Ratu menyatakan, seluruh biaya perawatan Hasan telah ditanggung sebagai bagian dari tanggung jawab Pemerintah Kabupaten (Pemkab) Serang.",
-      "url": "https://www.cnnindonesia.com/nasional/20261110105519-25-1425296/bupati-serang-jenguk-ojol-asal-ciomas-korban-tabrakan-byd-di-jakarta",
-      "source": "CNN Indonesia",
-      "published": "2026-11-10T04:27:19+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/10/pemkab-serang-1794283048935_169.jpeg?w=360&q=90"
     },
     {
       "title": "Gubernur DKI kaji rencana pengangkatan PPPK paruh waktu di Jakarta",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26287636573938-1794279573.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
