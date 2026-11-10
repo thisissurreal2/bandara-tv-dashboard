@@ -1158,6 +1158,10 @@ function displayOilInIDR(oilUsdPerBarrel) {
         clearTimeout(timeout);
         if (token !== requestToken) return;
         if (status === 401) { setStatus("Akses ditolak. Token perangkat tidak valid atau sudah dicabut."); return; }
+        if (status === 403) {
+          setStatus("Akses ditolak. Perangkat harus terhubung melalui jaringan kantor.");
+          return;
+        }
         if (status === 404) {
           currentRows = []; renderGrid(currentRows, key); renderTodayOperations();
           setStatus(`${monthLabel(key)} · Jadwal belum tersedia`);
