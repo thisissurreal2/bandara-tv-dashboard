@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T19:00:42.829223+00:00",
+  "updated_at": "2026-11-10T19:15:29.716525+00:00",
   "national": [
     {
       "title": "Kata KPK Soal Fahd Arafiq Diperiksa Dewas Terkait Dugaan Kasus ATR/BPN Bocor",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "House Republicans urge DoJ to further investigate ‘key witnesses’ in Epstein case",
-      "summary": "Republicans on House panel criticize US government’s investigation into Jeffrey Epstein and Ghislaine Maxwell Republicans on the House oversight committee released a report on Tuesday criticizing the federal government’s handling of the investigations into Jeffrey Epstein and his associate, Ghislaine Maxwell, and called on the Department of Justice to interview “key witnesses, investigate Epstein associates accused of criminal activity, and ensure survivors have access to their records”. “The federal government has failed the survivors of Jeffrey Epstein and Ghislaine Maxwell’s horrific crimes for decades,” James Comer, the Republican congressman who chairs the committee, said in a statement . Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/10/house-republicans-epstein-investigation",
+      "title": "Pete Hegseth defiant in wake of Republican’s impeachment effort as House prepares for key vote – US politics live",
+      "summary": "Trump’s defense secretary calls impeachment effort ‘a political spectacle’ as he faces scrutiny; House has until Wednesday to take up articles of impeachment Here’s what to know about impeachment in the US Sign up for the US Breaking News email During his press conference, Hegseth was resolute that the articles of impeachment are baseless, and that all attacks were carried out legally. “As for the articles themselves, Iran, the cartels, Maduro, Yemen, everyone was a lawful operation ordered by the commander-in-chief, then ordered by myself, notified to Congress and executed by American warriors who did their jobs,” he said. “We destroyed terror regimes’ capabilities. We sank the boats carrying poison into our communities. We put a narco dictator in handcuffs. These are not high crimes. This is the job, and it’s the job well done.” Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-10T18:44:17+00:00",
-      "image": "https://i.guim.co.uk/img/media/5f1de64cb88ca7e802d42f090651730d916a32f3/681_501_4375_3499/master/4375.jpg?width=140&quality=85&auto=format&fit=max&s=28906644cd8fda72363cfb90032832c1"
+      "published": "2026-11-10T19:08:51+00:00",
+      "image": "https://i.guim.co.uk/img/media/24e85cbcb6e4a83239901353131b6e104a9eb03e/1686_446_5705_4562/master/5705.jpg?width=140&quality=85&auto=format&fit=max&s=58c56f391effd8df0890b36cd188b87f"
     },
     {
-      "title": "UK children’s author David Walliams accused of grooming minors",
-      "summary": "A joint investigation by The Guardian and ITV News details allegations made by multiple women against the 55-year-old.",
-      "url": "https://www.aljazeera.com/news/2026/11/10/uk-comedian-and-childrens-author-david-walliams-accused-of-grooming-minors?traffic_source=rss",
+      "title": "Jerusalem Daily: 14-year-old killed in West Bank raid",
+      "summary": "Israeli forces kill a 14-year-old Palestinian boy in Burqa, as settlers assault a woman near Hebron.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/jerusalem-daily-14-year-old-killed-in-west-bank-raid?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-10T18:42:14+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af34edc-1794330332.jpg?resize=1920%2C1440"
+      "published": "2026-11-10T18:58:05+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794337066.jpg?resize=1920%2C1080&quality=80"
     },
     {
       "title": "Meet the Peaky Blinders, Ukraine's drone unit protecting a devastated front-line city",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b27/live/31eee220-dd2a-11f1-ab46-9fae224bbf6f.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
