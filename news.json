@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-10T18:15:31.072047+00:00",
+  "updated_at": "2026-11-10T18:30:35.221622+00:00",
   "national": [
+    {
+      "title": "Kata KPK Soal Fahd Arafiq Diperiksa Dewas Terkait Dugaan Kasus ATR/BPN Bocor",
+      "summary": "KPK menanggapi pernyataan tersangka suap HGB, Fahd Arafiq, yang diperiksa Dewas.",
+      "url": "https://news.detik.com/berita/d-8747444/kata-kpk-soal-fahd-arafiq-diperiksa-dewas-terkait-dugaan-kasus-atr-bpn-bocor",
+      "source": "Detik",
+      "published": "2026-11-10T18:24:26+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/06/jubir-kpk-budi-prasetyo-fadildetikcom-1793964570280_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Kemenkum Integrasikan Data Korporasi, Bidik Transparansi Dunia Usaha",
       "summary": "Ditjen AHU Kementerian Hukum integrasikan data korporasi dengan 50 kementerian untuk pelayanan publik dan investasi.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-10T18:03:17+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/09/pemerintah-bentuk-pokja-atasi-hambatan-penanganan-kasus-ham-berat-1794207835023_169.png?w=360&q=90"
-    },
-    {
-      "title": "Kasus Damai, Pria Bertopi Ngamuk di Warung Makan Bogor Ganti Rugi",
-      "summary": "Kasus pria bertopi yang mengamuk di rumah makan Air Mancur, Bogor, berakhir damai. Pelaku setuju mengganti kerugian.",
-      "url": "https://news.detik.com/berita/d-8747440/kasus-damai-pria-bertopi-ngamuk-di-warung-makan-bogor-ganti-rugi",
-      "source": "Detik",
-      "published": "2026-11-10T17:47:43+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/11/kasus-pria-bertopi-ngamuk-di-warung-makan-bogor-berakhir-damai-1794332828663_169.jpeg?w=360&q=90"
     },
     {
       "title": "Tokoh penerima gelar Pahlawan Nasional 2026 (2)",
@@ -28,15 +28,15 @@
   ],
   "international": [
     {
-      "title": "Woman jailed for posing as man to dupe partner into sex found guilty of similar deception",
-      "summary": "Jury finds Blade Silvano, who presented herself as a male army veteran, guilty of six counts of sexual assault A woman serving a prison sentence for sexual assault after pretending to be a man and duping a woman into a physical relationship has been found guilty of tricking another woman into a similar abusive partnership. In both cases, Blade Silvano, 44, met the women on an online dating site and falsely claimed she was a man who had served in the armed forces before meeting them in person and sexually assaulting them. Information and support for anyone affected by rape or sexual abuse issues is available from the following organisations. In the UK, Rape Crisis offers support on 0808 500 2222 in England and Wales, 0808 801 0302 in Scotland , or 0800 0246 991 in Northern Ireland . In the US, Rainn offers support on 800-656-4673. In Australia, support is available at 1800Respect (1800 737 732). Other international helplines can be found at ibiblio.org/rcip/internl.html Continue reading...",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/10/woman-jailed-for-posing-as-man-dupe-partner-sex-guilty-of-similar-deception",
+      "title": "Pete Hegseth defiant in wake of Republican’s impeachment effort as House prepares for key vote – US politics live",
+      "summary": "Trump’s defense secretary calls impeachment effort ‘a political spectacle’ as he faces scrutiny; House has until Wednesday to take up articles of impeachment Here’s what to know about impeachment in the US Sign up for the US Breaking News email During his press conference, Hegseth was resolute that the articles of impeachment are baseless, and that all attacks were carried out legally. “As for the articles themselves, Iran, the cartels, Maduro, Yemen, everyone was a lawful operation ordered by the commander-in-chief, then ordered by myself, notified to Congress and executed by American warriors who did their jobs,” he said. “We destroyed terror regimes’ capabilities. We sank the boats carrying poison into our communities. We put a narco dictator in handcuffs. These are not high crimes. This is the job, and it’s the job well done.” Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-10T18:08:29+00:00",
-      "image": "https://i.guim.co.uk/img/media/38aeec714b1e403dd7656a72834c7262369c4d7a/0_574_2676_2140/master/2676.jpg?width=140&quality=85&auto=format&fit=max&s=2fef07632c91ffb2335b60297968c938"
+      "published": "2026-11-10T18:18:32+00:00",
+      "image": "https://i.guim.co.uk/img/media/24e85cbcb6e4a83239901353131b6e104a9eb03e/1686_446_5705_4562/master/5705.jpg?width=140&quality=85&auto=format&fit=max&s=58c56f391effd8df0890b36cd188b87f"
     },
     {
-      "title": "Spain braces for nationwide walkout as anger over housing, costs boils over",
+      "title": "Spain braces for nationwide strike as anger over housing, costs boils over",
       "summary": "The 24-hour walkout, called by Spain’s two biggest unions, is due to start on Wednesday.",
       "url": "https://www.aljazeera.com/news/2026/11/10/spain-braces-for-nationwide-walkout-as-anger-over-housing-costs-boils-over?traffic_source=rss",
       "source": "Al Jazeera",
