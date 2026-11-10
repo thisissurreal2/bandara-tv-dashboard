@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-10T14:15:35.144398+00:00",
+  "updated_at": "2026-11-10T14:30:39.122827+00:00",
   "national": [
     {
-      "title": "Hasil Sidang Etik, Ahrie Sonta Terbukti Sadap Prabowo Secara Ilegal",
-      "summary": "Eks Kadiv Hukum Polri Irjen Ahrie Sonta dinyatakan terbukti melanggar Kode Etik karena telah melakukan penyadapan secara ilegal.",
-      "url": "https://www.cnnindonesia.com/nasional/20261110210358-12-1425635/hasil-sidang-etik-ahrie-sonta-terbukti-sadap-prabowo-secara-ilegal",
+      "title": "Cicit Jenderal Hoegeng Cerita Isi Obrolan Bareng Prabowo dan Kapolri",
+      "summary": "Cicit Jenderal Hoegeng, Antasena, berbagi cita-cita ingin jadi Brimob saat ngobrol dengan Prabowo dan Kapolri di Istana.",
+      "url": "https://news.detik.com/berita/d-8747342/cicit-jenderal-hoegeng-cerita-isi-obrolan-bareng-prabowo-dan-kapolri",
+      "source": "Detik",
+      "published": "2026-11-10T14:24:01+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/10/antasena-ramaputra-hoegeng-dan-krisnadi-ramajaya-hoegeng-1794320617152_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "FOTO: Sekolah Ambruk di Tasikmalaya, Siswa Belajar di Tenda Darurat",
+      "summary": "Siswa mengikuti Kegiatan Belajar Mengajar (KBM) di dalam tenda darurat di SD Negeri Cioray, Desa Kertanegla, Kabupaten Tasikmalaya.",
+      "url": "https://www.cnnindonesia.com/nasional/20261110182814-22-1425548/foto-sekolah-ambruk-di-tasikmalaya-siswa-belajar-di-tenda-darurat",
       "source": "CNN Indonesia",
-      "published": "2026-11-10T14:08:23+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2024/10/23/kombes-ahrie-sonta-nasution_169.jpeg?w=360&q=90"
+      "published": "2026-11-10T14:20:11+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/10/sekolah-ambruk-di-tasikmalaya-siswa-terpaksa-belajar-di-tenda-darurat-1794309931550_169.jpeg?w=360&q=90"
     },
     {
       "title": "Tokoh penerima gelar Pahlawan Nasional 2026 (1)",
@@ -16,17 +24,17 @@
       "source": "ANTARA",
       "published": "2026-11-10T13:45:00+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/10/20261110-Tokoh-Pahlawan-Nasional-ditetapkan-2026-1_2.jpg"
-    },
-    {
-      "title": "BULOG Beri Penghargaan Pahlawan Pangan untuk Mantan Dirut dan Mitra",
-      "summary": "Peringatan Hari Pahlawan 2026 di Perum BULOG menekankan semangat perjuangan dan penghormatan kepada pahlawan pangan.",
-      "url": "https://news.detik.com/berita/d-8747288/bulog-beri-penghargaan-pahlawan-pangan-untuk-mantan-dirut-dan-mitra",
-      "source": "Detik",
-      "published": "2026-11-10T13:30:21+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/10/bulog-anugerahkan-pahlawan-pangan-pada-mantan-dirut-dan-mitra-1794317311677.jpeg?w=360&q=90"
     }
   ],
   "international": [
+    {
+      "title": "Planned Tory welfare cuts ‘a charter for human misery,’ says Labour – UK politics live",
+      "summary": "Conservative leader launches Welfare That Works policy document outlining benefit reductions of £36bn Badenoch and Whately are now taking questions. Q: [From Rob Powell from Sky News] We are running a report on the Netherlands, where youth unemployment is much lower than in the UK, but the amount they spend on getting people into work is much higher. Do you want to spend more on job training and support? Continue reading...",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-10T14:24:51+00:00",
+      "image": "https://i.guim.co.uk/img/media/fd4ac543ecc001e3687386d0783003e964a14e4b/128_165_3091_2473/master/3091.jpg?width=140&quality=85&auto=format&fit=max&s=21f0f247c8cda5a3a4b4e693ee3e700e"
+    },
     {
       "title": "Anthropic heads for $1.3 trillion valuation in major stock market listing",
       "summary": "The AI company behind the Claude chatbot will offer its shares at between $70 and $78.",
@@ -36,25 +44,13 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Meta’s AI age-check goes global: Can it protect teens?",
-      "summary": "The tech giant rolls out age-detection tool for Instagram and Facebook, but experts doubt whether it can help protect teens.",
-      "url": "https://www.aljazeera.com/news/2026/11/10/metas-ai-age-check-goes-global-can-it-protect-teens?traffic_source=rss",
+      "title": "Iraq bars Iranian football team’s plane from landing in Basra: Report",
+      "summary": "Decision by the Iraqi Civil Aviation Authority reportedly related to ⁠US sanctions imposed on Iranian airlines.",
+      "url": "https://www.aljazeera.com/sports/2026/11/10/iraq-bars-iranian-football-teams-plane-from-landing-in-basra-report?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-10T13:58:37+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-04T165726Z_1266988763_RC2B6OA5BEOF_RTRMADP_3_META-BONDS-EUROPE-1794305365.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Cop31 live: host Turkey celebrates new oilfields as climate summit enters second day",
-      "summary": "UN climate summit prepares to host world leaders from more than 90 countries as scientists find global carbon emissions flatlined this year We’ve just heard from Patricia Espinosa , the former UN climate boss (succeeded by Simon Stiell) and now we are hearing from former US secretary of state and climate ambassador, John Kerry. Kerry has congratulated Brazil for keeping the fossil fuel transition issue alive, and the room has erupted in cheers. Continue reading...",
-      "url": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-10T13:57:35+00:00",
-      "image": "https://i.guim.co.uk/img/media/b93d3307e0484de02281c9b34fd73467568202f1/207_0_4813_3853/master/4813.jpg?width=140&quality=85&auto=format&fit=max&s=caaf93fbfed72c6a09a562b53404bd87"
+      "published": "2026-11-10T14:03:31+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/reuters_6a3ae0e2-1782243555.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
