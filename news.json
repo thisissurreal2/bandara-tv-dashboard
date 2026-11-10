@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-10T05:00:39.702071+00:00",
+  "updated_at": "2026-11-10T05:15:29.712788+00:00",
   "national": [
     {
-      "title": "Bupati Ratu Dukung UMKM Kabupaten Serang Tembus Pasar Ekspor",
-      "summary": "Bupati berharap, pelaku UMKM dapat memperoleh akses pasar yang lebih luas melalui kerja sama dengan perusahaan yang telah memiliki pengalaman ekspor.",
-      "url": "https://www.cnnindonesia.com/nasional/20261110114249-25-1425318/bupati-ratu-dukung-umkm-kabupaten-serang-tembus-pasar-ekspor",
+      "title": "DPR Bakal Proses Hak Menyatakan Pendapat soal Pemakzulan Gibran",
+      "summary": "Ketua DPR Puan Maharani menanggapi usulan Hak Menyatakan Pendapat untuk pemakzulan Gibran. Ia akan tindak lanjuti setelah sidang paripurna.",
+      "url": "https://www.cnnindonesia.com/nasional/20261110115128-32-1425321/dpr-bakal-proses-hak-menyatakan-pendapat-soal-pemakzulan-gibran",
       "source": "CNN Indonesia",
-      "published": "2026-11-10T04:59:51+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/10/pemkab-serang-1794285864246_169.jpeg?w=360&q=90"
+      "published": "2026-11-10T05:09:02+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/08/14/ketua-dpr-puan-maharani-berpidato-pada-rapat-paripurna-1786697862826_169.jpeg?w=360&q=90"
     },
     {
       "title": "Massa Gelar Demo di Depan DPR, Desak Pemakzulan Gibran",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "One Nation dumps Victorian election candidate who praised Adolf Hitler as ‘GOAT’",
-      "summary": "Party disendorses Preston candidate Franco Guardiani after social media posts emerge Get our breaking news email , free app or daily news podcast One Nation Victoria has disendorsed a candidate whose private social media account described Adolf Hitler as the “GOAT” and claimed that “importing Islam is making pedophilia legal”. In a now deleted social media post, the party’s candidate for Preston, Franco Guardiani, commented on a social media post on X asking people to: “Describe Hitler in one word? Be brutally honest”. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/10/one-nation-dumps-franco-guardiani-praised-hitler-victoria-elections-ntwnfb",
+      "title": "US officials seek ‘final end’ to Russia-Ukraine war as Abu Dhabi talks begin",
+      "summary": "First substantive peace talks since February to include US proposal for ‘long-term security architecture’ between Moscow and Europe US officials said they would seek a “final end” to the war between Russia and Ukraine, beginning with trilateral talks in Abu Dhabi on Tuesday in the first substantive negotiations between the two countries since February. The talks are also the first since the US launched joint strikes with Israel against Iran, and they follow bruising midterm elections that have weakened Donald Trump at home. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/10/us-officials-russia-ukraine-war-abu-dhabi-talks",
       "source": "The Guardian",
-      "published": "2026-11-10T04:44:32+00:00",
-      "image": "https://i.guim.co.uk/img/media/ffd2084856240a692fa1884c87559b8ff08d3986/329_0_3288_2631/master/3288.jpg?width=140&quality=85&auto=format&fit=max&s=7961765fc52974fa23d75a5acda4119f"
+      "published": "2026-11-10T05:00:29+00:00",
+      "image": "https://i.guim.co.uk/img/media/b67f54026a5a8be610e08a9ba1634e5bc9eb901e/87_0_869_695/master/869.jpg?width=140&quality=85&auto=format&fit=max&s=c1aa2025ee1c4710947412f8d4f6ac95"
     },
     {
       "title": "Anger as ICE agents make arrest in New Jersey grocery store",
@@ -49,11 +49,11 @@
       "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-10T04:09:16+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6017/live/b94816e0-dca5-11f1-b441-2b33b063138f.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90ba/live/c14e2220-dcc4-11f1-95c4-d138862af378.jpg"
     }
   ],
   "feed_warnings": [
-    "Detik: TimeoutError",
+    "Detik: URLError",
     "Detik: no fresh stories",
     "Detik: keeping previous story"
   ]
