@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-10T04:41:02.128407+00:00",
+  "updated_at": "2026-11-10T04:45:28.493376+00:00",
   "national": [
+    {
+      "title": "Massa Gelar Demo di Depan DPR, Desak Pemakzulan Gibran",
+      "summary": "Massa yang menamakan diri Gema Keadilan menggelar demonstrasi di depan DPR RI. Mereka mendesak pemakzulan Wakil Presiden Gibran Rakabuming Raka.",
+      "url": "https://news.detik.com/berita/d-8746259/massa-gelar-demo-di-depan-dpr-desak-pemakzulan-gibran",
+      "source": "Detik",
+      "published": "2026-11-10T04:37:05+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/10/demonstrasi-di-depan-gedung-dpr-rizkydetikcom-1794285395403_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Propam Polri Gelar Sidang Etik Irjen Ahrie Sonta di Kasus Penyadapan",
       "summary": "Propam Polri menggelar sidang etik terhadap mantan Kadivkum Polri Irjen Ahrie Sonta, pada Selasa (10/11) hari ini.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-10T04:36:47+00:00",
       "image": "https://akcdn.detik.net.id/visual/2024/10/23/kombes-ahrie-sonta-nasution_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Keterlaluan! Besi Rel Kereta Sepanjang 200 Meter di Langkat Diduga Dicuri",
-      "summary": "Viral besi rel kereta api sepanjang 200 meter diduga hilang dicuri di Kabupaten Langkat, Sumut. Polisi tengah menyelidiki terduga pelaku pencurian itu.",
-      "url": "https://news.detik.com/berita/d-8746242/keterlaluan-besi-rel-kereta-sepanjang-200-meter-di-langkat-diduga-dicuri",
-      "source": "Detik",
-      "published": "2026-11-10T04:28:48+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/09/polisi-saat-mengecek-lokasi-hilangnya-rel-kereta-api-foto-dok-polsek-tanjung-pura-1794216831499_169.jpeg?w=360&q=90"
     },
     {
       "title": "Gubernur DKI kaji rencana pengangkatan PPPK paruh waktu di Jakarta",
@@ -27,6 +27,14 @@
     }
   ],
   "international": [
+    {
+      "title": "Anger as ICE agents make arrest in New Jersey grocery store",
+      "summary": "ICE agents stormed a New Jersey store before being confronted by a crowd demanding they leave, as they escort a man out.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/anger-as-ice-agents-make-arrest-in-new-jersey-grocery-store?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-10T04:23:36+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794284604.jpg?resize=1918%2C1080&quality=80"
+    },
     {
       "title": "Trump says more US attacks on Iran 'highly unlikely'",
       "summary": "The president says the US is keeping \"status quo\" with Iran but remains “locked and loaded” should the situation in the Middle East change.",
@@ -42,19 +50,11 @@
       "source": "The Guardian",
       "published": "2026-11-10T03:47:33+00:00",
       "image": "https://i.guim.co.uk/img/media/9b143c92c9a4ed57fdb4fed5bd631a8251922862/0_0_2257_1806/master/2257.jpg?width=140&quality=85&auto=format&fit=max&s=ee792f71608cbef7e8f8257b3b1cd16a"
-    },
-    {
-      "title": "Saudi Arabia downs missiles fired at Riyadh after Houthi attack on pipeline",
-      "summary": "Saudi forces intercept two missiles fired towards Riyadh, hours after reporting damage to key East-West pipeline.",
-      "url": "https://www.aljazeera.com/news/2026/11/10/saudi-arabia-downs-missiles-fired-at-riyadh-after-houthi-attack-on-pipeline?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-10T03:17:51+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26287636573938-1794279573.jpg?resize=1920%2C1440"
     }
   ],
   "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
+    "ANTARA: TimeoutError",
+    "ANTARA: no fresh stories",
+    "ANTARA: keeping previous story"
   ]
 }
