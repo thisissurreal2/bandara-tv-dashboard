@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T00:30:36.252652+00:00",
+  "updated_at": "2026-11-10T00:45:30.657519+00:00",
   "national": [
     {
       "title": "2 Remaja Duel Pakai Sajam Ala Gladiator di Kendal, Polisi Selidiki",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-10T00:34:53+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg"
+    },
+    {
       "title": "Beau Lamarre-Condon denies being ‘obsessed’ with Jesse Baird as evidence to double murder trial continues",
       "summary": "Former police officer tells jury he joked about being ‘white girl crazy’ with friends as lawyer questions him over start of relationship with Baird Beau Lamarre-Condon has denied being “obsessed” with Jesse Baird from the start of their relationship, telling a court he would have liked the TV presenter even if he was “a garbage cleaner”. The former police officer is accused of fatally shooting Baird and his new partner, Luke Davies, with his police service weapon in Baird’s Paddington home in Sydney on 19 February 2024. In Australia, the crisis support service Lifeline is on 13 11 14. In the UK and Ireland, Samaritans can be contacted on freephone 116 123. In the US, you can call or text the 988 Suicide & Crisis Lifeline at 988 or chat at 988lifeline.org . Other international helplines can be found at befrienders.org Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/nov/10/beau-lamarre-condon-murder-trial-ntwnfb",
@@ -36,21 +44,17 @@
       "image": "https://i.guim.co.uk/img/media/69a781da23f48b2cde91996a93de7520bc4ee220/202_458_2489_1992/master/2489.jpg?width=140&quality=85&auto=format&fit=max&s=244895ce0fcf3d33c7803d343519e647"
     },
     {
-      "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
-      "summary": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
-      "url": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-10T00:14:03+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9349/live/97006970-dc5a-11f1-a701-fddedf244c16.jpg"
-    },
-    {
       "title": "Iran war live: Trump says war ‘effectively over’, Iran demands ‘surrender’",
-      "summary": "US President made the remarks following a meeting with the Qatari PM in Washington, DC.",
+      "summary": "US President Donald Trump made the remarks after meeting Qatar's prime minister in Washington, DC.",
       "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-11-09T23:55:23+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af255420496-1794266434_707447-1794267064.jpg?resize=1200%2C630&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
