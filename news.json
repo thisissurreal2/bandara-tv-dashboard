@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-10T16:45:34.390570+00:00",
+  "updated_at": "2026-11-10T17:00:42.083469+00:00",
   "national": [
+    {
+      "title": "Polisi Bongkar Kasus Curanmor di Lebak Banten, 5 Orang Ditangkap",
+      "summary": "Polres Lebak berhasil mengungkap kasus curanmor yang terjadi di sejumlah wilayah Kabupaten Lebak. Sebanyak lima orang berhasil diamankan.",
+      "url": "https://news.detik.com/berita/d-8747433/polisi-bongkar-kasus-curanmor-di-lebak-banten-5-orang-ditangkap",
+      "source": "Detik",
+      "published": "2026-11-10T16:55:09+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/10/polres-lebak-bongkar-kasus-pencurian-kendaraan-bermotor-1794329599116_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Kepala Bakom Bantah Gibran: Tak Mungking Prabowo Saran Fight di PTUN",
       "summary": "Kabakom Syahganda Nainggolan bantah Wapres Gibran soal saran Prabowo untuk buktikan ijazah SMA di PTUN. Yusril menegaskan putusan MK dan MA final.",
@@ -16,32 +24,24 @@
       "source": "ANTARA",
       "published": "2026-11-10T15:45:00+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/10/20261110-Tokoh-Pahlawan-Nasional-ditetapkan-2026-2_1.jpg"
-    },
-    {
-      "title": "PKS Tunjuk Sohibul Iman Gantikan Hidayat Nur Wahid Jadi Wakil Ketua MPR",
-      "summary": "Politikus senior PKS Hidayat Nur Wahid (HNW) mundur dari jabatan Wakil Ketua MPR. PKS menunjuk Mohamad Sohibul Iman sebagai pengganti.",
-      "url": "https://news.detik.com/berita/d-8747399/pks-tunjuk-sohibul-iman-gantikan-hidayat-nur-wahid-jadi-wakil-ketua-mpr",
-      "source": "Detik",
-      "published": "2026-11-10T15:39:25+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2024/06/25/sohibul-iman_169.png?w=360&q=90"
     }
   ],
   "international": [
     {
-      "title": "Planned Tory welfare cuts ‘a charter for human misery,’ says Labour – UK politics live",
-      "summary": "Conservative leader launches Welfare That Works policy document outlining benefit reductions of £36bn Badenoch and Whately are now taking questions. Q: [From Rob Powell from Sky News] We are running a report on the Netherlands, where youth unemployment is much lower than in the UK, but the amount they spend on getting people into work is much higher. Do you want to spend more on job training and support? Continue reading...",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/10/badenoch-conservative-welfare-cuts-disability-benefits-burnham-politics-latest-news-updates",
+      "title": "Texas man charged with murder of woman aboard MSC cruise ship",
+      "summary": "Jason Leon Watford said he ‘snapped’ after verbal dispute with the woman, before allegedly killing her in a cabin A passenger of a Texas -based cruise ship has been charged with murdering a woman in their cabin on Sunday on the first day of their voyage. Crew members aboard the MSC Seascape found the unidentified victim deceased and face down on the cabin floor, with Jason Leon Watford sitting in a corridor outside scrolling through his phone, according to an FBI affidavit that details the alleged crime. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/msc-seascape-homicide-cruise-ship",
       "source": "The Guardian",
-      "published": "2026-11-10T16:27:43+00:00",
-      "image": "https://i.guim.co.uk/img/media/fd4ac543ecc001e3687386d0783003e964a14e4b/128_165_3091_2473/master/3091.jpg?width=140&quality=85&auto=format&fit=max&s=21f0f247c8cda5a3a4b4e693ee3e700e"
+      "published": "2026-11-10T16:53:05+00:00",
+      "image": "https://i.guim.co.uk/img/media/923b73044bb2de6a6425e2de5037873040d324ec/2628_1168_4585_3669/master/4585.jpg?width=140&quality=85&auto=format&fit=max&s=162df984a9d5f0b508fd40ff33cbac2b"
     },
     {
-      "title": "Did Fox News’ fixation on Hasan Piker backfire?",
-      "summary": "Did Fox News' fixation on Hasan Piker backfire?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/did-fox-news-fixation-on-hasan-piker-backfire?traffic_source=rss",
+      "title": "At least 12 people killed in Bulgaria motorway pile-up",
+      "summary": "At least 12 people have been killed and dozens injured in multiple crashes involving around 50 vehicles on a motorway",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/at-least-12-people-killed-in-bulgaria-motorway-pile-up?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-10T16:26:08+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/hasan-1794327929.jpg?resize=1920%2C1080&quality=80"
+      "published": "2026-11-10T16:20:12+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794327600.jpg?resize=1920%2C1080&quality=80"
     },
     {
       "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1966/live/79e95480-dcfc-11f1-a701-fddedf244c16.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
