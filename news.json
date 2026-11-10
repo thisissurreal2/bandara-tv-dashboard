@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-10T15:00:43.774918+00:00",
+  "updated_at": "2026-11-10T15:15:28.914400+00:00",
   "national": [
     {
-      "title": "Cicit Jenderal Hoegeng Cerita Isi Obrolan Bareng Prabowo dan Kapolri",
-      "summary": "Cicit Jenderal Hoegeng, Antasena, berbagi cita-cita ingin jadi Brimob saat ngobrol dengan Prabowo dan Kapolri di Istana.",
-      "url": "https://news.detik.com/berita/d-8747342/cicit-jenderal-hoegeng-cerita-isi-obrolan-bareng-prabowo-dan-kapolri",
+      "title": "Gibran Mau Melawan di PTUN, Denny Indrayana: Pembangkangan Putusan 2 Mahkamah",
+      "summary": "Denny Indrayana kritik rencana Wapres Gibran ajukan gugatan ke PTUN terkait ijazah. Ia sebut langkah itu pembangkangan konstitusi dan keliru.",
+      "url": "https://news.detik.com/berita/d-8747374/gibran-mau-melawan-di-ptun-denny-indrayana-pembangkangan-putusan-2-mahkamah",
       "source": "Detik",
-      "published": "2026-11-10T14:24:01+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/10/antasena-ramaputra-hoegeng-dan-krisnadi-ramajaya-hoegeng-1794320617152_169.jpeg?w=360&q=90"
+      "published": "2026-11-10T15:11:27+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/14/polemik-pencalonan-gibran-denny-indrayana-tempuh-jalur-etik-di-dkpp-1791969614761_169.jpeg?w=360&q=90"
     },
     {
       "title": "FOTO: Sekolah Ambruk di Tasikmalaya, Siswa Belajar di Tenda Darurat",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Cop31 live: ‘Everything and everyone we love is at stake,’ Greta Thunberg warns",
-      "summary": "Host Turkey celebrates new oilfields as UN climate summit prepares to host world leaders from more than 90 countries We’ve just heard from Patricia Espinosa , the former UN climate boss (succeeded by Simon Stiell) and now we are hearing from former US secretary of state and climate ambassador, John Kerry. Kerry has congratulated Brazil for keeping the fossil fuel transition issue alive, and the room has erupted in cheers. Continue reading...",
-      "url": "https://www.theguardian.com/environment/live/2026/nov/10/cop31-live-fossil-fuel-carbon-emissions-climate-crisis-latest-news-updates",
+      "title": "Why is India trying to broker a Russia-Ukraine Black Sea food corridor?",
+      "summary": "India has influence with both sides, but shipping security and Russia’s cooperation remain major obstacles.",
+      "url": "https://www.aljazeera.com/news/2026/11/10/why-is-india-trying-to-broker-a-russia-ukraine-black-sea-food-corridor?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-10T15:04:30+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-06-16T183411Z_1675517228_RC26VLA4BGT7_RTRMADP_3_G7-SUMMIT-1794318849.jpg?resize=1920%2C1440"
+    },
+    {
+      "title": "Jimmy Carter’s Georgia farm to open to the public: ‘This land shaped him and his legacy’",
+      "summary": "Conservation group acquires former US president’s family farm with plans to transfer it to the state in 2028 Jimmy Carter ’s family farm has been acquired by a group dedicated to permanently protecting the south-west Georgia land where the late former president’s conservation ethic took hold, officials announced on Monday. A statement from the Conservation Fund said it plans to open Carter’s family farm – on about 2,458 acres (995 hectares) outside his home town of Plains, Georgia – to the public for hunting, fishing and other outdoor recreation as soon as 2027, with the group set to transfer the land to the state’s natural resources department in 2028. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/jimmy-carter-georgia-farm-conserved-open-to-public",
       "source": "The Guardian",
-      "published": "2026-11-10T14:54:46+00:00",
-      "image": "https://i.guim.co.uk/img/media/47457ae1d2f65d9c931aab85f6adfdd5fd8aaf11/1002_0_5011_4011/master/5011.jpg?width=140&quality=85&auto=format&fit=max&s=1edc3cf7475bd5f0c139f510cb79b299"
+      "published": "2026-11-10T15:01:41+00:00",
+      "image": "https://i.guim.co.uk/img/media/762b13dac327d0f01abeafa064a27be2bce4d372/0_42_3409_2728/master/3409.jpg?width=140&quality=85&auto=format&fit=max&s=738f9f0aab79c2fcdc79e558be0858da"
     },
     {
       "title": "Anthropic heads for lower than expected $1.3 trillion valuation in stock market debut",
@@ -42,19 +50,7 @@
       "source": "BBC",
       "published": "2026-11-10T14:46:50+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/151a/live/19e16bc0-dd03-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "Mongolia’s Iron Winter: A Race to Save an Ancient Tradition",
-      "summary": "Two young horse herders revive Mongolia’s most dangerous winter ritual to save their community's ancient way of life.",
-      "url": "https://www.aljazeera.com/video/witness/2026/11/10/mongolias-iron-winter-a-race-to-save-an-ancient-tradition?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-10T14:40:00+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/YT-Thumbnail-1794290607.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
