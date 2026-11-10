@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-10T05:45:28.027368+00:00",
+  "updated_at": "2026-11-10T06:00:39.294451+00:00",
   "national": [
+    {
+      "title": "KPK Panggil Plt Bupati Pamalang Terkait Kasus Bupati Anom",
+      "summary": "KPK memanggil sejumlah saksi terkait kasus dugaan pemerasan dengan tersangka Bupati Pemalang nonaktif, Anom Widiyantoro.",
+      "url": "https://news.detik.com/berita/d-8746400/kpk-panggil-plt-bupati-pamalang-terkait-kasus-bupati-anom",
+      "source": "Detik",
+      "published": "2026-11-10T05:53:10+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/22/bupati-pemalang-nonaktif-anom-widiyantoro-diperiksa-kpk-1792660688114_169.jpeg?w=360&q=90"
+    },
     {
       "title": "FOTO: Hormat Abadi di Pusara Para Pahlawan",
       "summary": "Suasana khidmat menyelimuti Taman Makam Pahlawan Nasional Kalibata, Jakarta, saat upacara ziarah nasional dan renungan suci Hari Pahlawan, Selasa (10/11).",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-10T05:38:28+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/10/renungan-suci-hari-pahlawan-hening-menyelimuti-tmp-kalibata-1794287288438_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Trump: Saya Orang yang Religius, Secara Teori Saya Masuk Surga",
-      "summary": "Trump mengklaim dirinya religius dan meyakini akan masuk surga. Namun, Trump juga jujur mengakui bahwa dirinya tidak akan bisa memaafkan musuh politiknya.",
-      "url": "https://news.detik.com/internasional/d-8746334/trump-saya-orang-yang-religius-secara-teori-saya-masuk-surga",
-      "source": "Detik",
-      "published": "2026-11-10T05:15:13+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/08/07/presiden-as-donald-trump-saat-seremoni-penandatanganan-perintah-eksekutif-membatasi-hak-kewarganegaraan-berdasarkan-tempat-kel-1786086100834_169.jpeg?w=360&q=90"
     },
     {
       "title": "Kanada perpanjang keringanan tarif impor dari AS",
@@ -45,16 +45,12 @@
     },
     {
       "title": "Beau Lamarre-Condon admits entering Jesse Baird’s house when he wasn’t home and eating Easter egg, murder trial hears",
-      "summary": "Former police officer tells jury he joked about being ‘white girl crazy’ with friends as lawyer questions him over start of relationship with Baird Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has denied misusing his authority as a policeman to access CCTV of Jesse Baird or stalking him after their break up, a court has heard. But he admitted he entered Baird’s house while he wasn’t home to retrieve belongings, and ate an Easter egg he had bought for the presenter. Continue reading...",
+      "summary": "Former police officer tells jury he joked about being ‘white girl crazy’ with friends as lawyer questions him about start of relationship with TV presenter Get our breaking news email , free app or daily news podcast Beau Lamarre-Condon has denied misusing his authority as a police officer to access CCTV footage of Jesse Baird or stalking him after their breakup, a court has heard. But he admitted he entered Baird’s house while he wasn’t home to retrieve belongings, and ate an Easter egg he had bought for the television presenter. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/nov/10/beau-lamarre-condon-murder-trial-ntwnfb",
       "source": "The Guardian",
       "published": "2026-11-10T05:28:25+00:00",
       "image": "https://i.guim.co.uk/img/media/69a781da23f48b2cde91996a93de7520bc4ee220/202_458_2489_1992/master/2489.jpg?width=140&quality=85&auto=format&fit=max&s=244895ce0fcf3d33c7803d343519e647"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
