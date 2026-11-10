@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T02:15:29.893157+00:00",
+  "updated_at": "2026-11-10T02:30:35.839405+00:00",
   "national": [
     {
       "title": "Polda Metro Jamin Kawal Aksi Humanis, Anggota Dilarang Bawa Senjata Api",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Poll finds Americans less likely to back pro-war candidates by 3-1 margin",
-      "summary": "Americans say the US should prioritise avoiding higher prices over achieving Trump's military goals in Iran.",
-      "url": "https://www.aljazeera.com/news/2026/11/10/poll-finds-voters-preferred-candidates-who-opposed-iran-war-by-3-1-margin?traffic_source=rss",
+      "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – live",
+      "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization; president claims Hegseth both won and is winning war with Iran Republican Thomas Massie moves to force vote to impeach Pete Hegseth Sign up for US Breaking News email Democratic Congressman Hakeem Jeffries , currently the House minority leader who is poised to become new Speaker next year, told CBS News that the Trump administration will hold a closed-door congressional briefing today to discuss Jensen Huang’s affair with an alleged Chinese spy . Last week the Republican chairs of three key House committees also called on Huang to appear before lawmakers in a closed-door hearing on 18 November. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-10T02:12:29+00:00",
+      "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
+    },
+    {
+      "title": "Cameroon sets date for twice-delayed legislative and local elections",
+      "summary": "President Paul Biya, the world's oldest leader, sets February 7 for Cameroon's delayed legislative and local polls.",
+      "url": "https://www.aljazeera.com/news/2026/11/10/cameroon-sets-date-for-twice-delayed-legislative-and-local-elections?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-10T01:56:47+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/07/14166504-1784710839.jpg?resize=1920%2C1440"
+      "published": "2026-11-10T02:03:59+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af24eb8c85bd-1794264760.jpg?resize=1200%2C675"
     },
     {
       "title": "Qantas to outsource 850 local jobs with most roles moving to India",
@@ -42,15 +50,11 @@
       "source": "BBC",
       "published": "2026-11-10T01:55:22+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47eb/live/926fac30-dca6-11f1-86c1-89409a3a3bd9.jpg"
-    },
-    {
-      "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – live",
-      "summary": "Thomas Massie, Republican congressman, accuses defense secretary of illegally waging war without congressional authorization; president claims Hegseth both won and is winning war with Iran Republican Thomas Massie moves to force vote to impeach Pete Hegseth Sign up for US Breaking News email Democratic Congressman Hakeem Jeffries , currently the House minority leader who is poised to become new Speaker next year, told CBS News that the Trump administration will hold a closed-door congressional briefing today to discuss Jensen Huang’s affair with an alleged Chinese spy . Last week the Republican chairs of three key House committees also called on Huang to appear before lawmakers in a closed-door hearing on 18 November. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-10T01:53:32+00:00",
-      "image": "https://i.guim.co.uk/img/media/93b09e88994a692b9ebc1c254be81d73d208a85e/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=efe6951529904c93570ec2262531a1cb"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
