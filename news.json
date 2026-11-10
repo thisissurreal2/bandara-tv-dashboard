@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T20:45:31.822243+00:00",
+  "updated_at": "2026-11-10T21:00:47.649789+00:00",
   "national": [
     {
       "title": "Polisi Usut Dugaan 7 Santri Dilecehkan Pimpinan Ponpes di Jaksel",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Nvidia hires major New York law firm to investigate Jensen Huang affair",
-      "summary": "The appointment was made after it emerged Jensen Huang had an affair with a woman believed to be a spy for China.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1wvwwl3x0go?at_medium=RSS&at_campaign=rss",
+      "title": "Meghan's father Thomas Markle detained for allegedly cutting off ankle monitor, officials say",
+      "summary": "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material.",
+      "url": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-10T20:40:13+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3676/live/532a9840-dd3d-11f1-9ac0-6b8f7fc58221.jpg"
+      "published": "2026-11-10T20:53:33+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/1b8d2f10-dd47-11f1-9ac0-6b8f7fc58221.jpg"
+    },
+    {
+      "title": "US soldier arrested in UK on suspicion of spying for Russia",
+      "summary": "London Metropolitan Police says its 'counterterror' forces worked closely with the FBI and US military to make arrest.",
+      "url": "https://www.aljazeera.com/news/2026/11/10/us-soldier-arrested-in-uk-over-alleged-russian-espionage?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-10T20:41:53+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af37452725ca-1794339922.jpg?resize=1920%2C1440"
     },
     {
       "title": "Jim Jordan, Trump ally and Maga firebrand, to lead House Republicans as minority leader next year - live",
@@ -42,14 +50,6 @@
       "source": "The Guardian",
       "published": "2026-11-10T20:34:43+00:00",
       "image": "https://i.guim.co.uk/img/media/f7389eb76ede7e9daa32c67947315c7a80388e8f/888_213_4322_3458/master/4322.jpg?width=140&quality=85&auto=format&fit=max&s=dacbedb6d8e79cffb5b92b6a3e3e281d"
-    },
-    {
-      "title": "F1 champion Lewis Hamilton visits Gaza border",
-      "summary": "North Sinai Governor Khaled Megawer briefs the British driver on Egypt-coordinated aid efforts through Rafah crossing.",
-      "url": "https://www.aljazeera.com/news/2026/11/10/f1-champion-lewis-hamilton-visits-gaza-border?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-10T20:14:34+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af364c8736e-1794335944.jpg?resize=1920%2C1440"
     }
   ],
   "feed_warnings": [
