@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-10T00:00:43.186359+00:00",
+  "updated_at": "2026-11-10T00:09:00.815823+00:00",
   "national": [
+    {
+      "title": "Niat Selamatkan Bumi, Penggunaan AI Malah Ancam Kelestarian Alam",
+      "summary": "Organisasi lingkungan global gunakan AI untuk konservasi satwa. Penggunaan teknologi ini memicu dilema akibat lonjakan emisi dan konsumsi energi pusat data.",
+      "url": "https://news.detik.com/foto-news/d-8744906/niat-selamatkan-bumi-penggunaan-ai-malah-ancam-kelestarian-alam",
+      "source": "Detik",
+      "published": "2026-11-10T00:00:58+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/09/niat-selamatkan-bumi-penggunaan-ai-malah-ancam-kelestarian-alam-1794208362508.jpeg?w=360&q=90"
+    },
     {
       "title": "Ramai-ramai Bersuara soal Pemakzulan Wapres Gibran",
       "summary": "Desakan terhadap pemakzulan Wakil Presiden RI Gibran Rakabuming Raka terus menguat pascaputusan MK dan MA. Parpol dan kelompok masyarakat sudah menyuarakannya.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-09T23:55:23+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/09/01/wapres-gibran-kukuhkan-paskibraka-2026-1788246075176_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Ancang-ancang Parpol Tentukan Nasib Gibran",
-      "summary": "Partai politik mulai bersiap menentukan nasib Wakil Presiden Gibran pascaputusan MK dan MA. Partai dorong hak menyatakan pendapat terkait pemakzulan.",
-      "url": "https://news.detik.com/berita/d-8745874/ancang-ancang-parpol-tentukan-nasib-gibran",
-      "source": "Detik",
-      "published": "2026-11-09T23:03:33+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/06/16/wapres-gibran-rakabuming-raka-tangkapan-layar-1781611236683_169.jpeg?w=360&q=90"
     },
     {
       "title": "Medan Merdeka dan jalan kaki menuju sejarah",
@@ -36,25 +36,21 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f773/live/9c28e680-dc95-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
-      "summary": "Elon Musk and other finance moguls defend Jensen Huang after he admitted to the affair, as Trump says FBI ‘is looking into it’ Nvidia’s board needs to do some succession planning – sharpish Donald Trump , Elon Musk and prominent finance moguls have expressed their support for embattled Nvidia CEO Jensen Huang , as the head of the world’s most valuable chip company faces an internal investigation over a romantic relationship with an alleged Chinese spy. Trump said he has spoken to Huang on Monday as the scandal reverberated across Silicon Valley and the Nvidia CEO faced an uncertain future. Continue reading...",
-      "url": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk",
-      "source": "The Guardian",
-      "published": "2026-11-09T23:30:37+00:00",
-      "image": "https://i.guim.co.uk/img/media/63c3dc64507f47996bc06856081323764517277f/70_0_2056_1645/master/2056.jpg?width=140&quality=85&auto=format&fit=max&s=08fae72606a752db6b7d1434d2b8d7fa"
+      "title": "Iran war live: Trump says war ‘effectively over’, Iran demands ‘surrender’",
+      "summary": "US President made the remarks following a meeting with the Qatari PM in Washington, DC.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-09T23:55:23+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af255420496-1794266434_707447-1794267064.jpg?resize=1200%2C630&quality=80"
     },
     {
-      "title": "US Supreme Court allows border wall in Big Bend National Park to proceed",
-      "summary": "Lawsuit had sought to block border wall construction in national park by targeting waivers that sidestep protections.",
-      "url": "https://www.aljazeera.com/news/2026/11/9/us-supreme-court-allows-border-wall-in-big-bend-national-park-to-proceed?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-09T23:15:19+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2026-10-03T005837Z_737004234_RC2R7NAH97N9_RTRMADP_3_USA-MIGRATION-BIG-BEND-1792629816.jpg?resize=1920%2C1440"
+      "title": "US supreme court clears way for Trump’s border wall in Texas’s Big Bend",
+      "summary": "Ruling said law enacted by Congress reflects preference for border control over environmental and recreational harm The US supreme court has allowed Donald Trump to continue his administration’s construction of a border wall in Texas’s Big Bend region, including parts of Big Bend national park. In an unsigned, five-page ruling , the nation’s highest court granted the Trump administration’s emergency request to suspend a lower court order that had temporarily stopped the project last month. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/09/us-supreme-court-border-wall-texas-big-bend",
+      "source": "The Guardian",
+      "published": "2026-11-09T23:48:36+00:00",
+      "image": "https://i.guim.co.uk/img/media/bc7caafb8648ba5cb0214720e2ca54df25bdf9bb/410_0_4079_3265/master/4079.jpg?width=140&quality=85&auto=format&fit=max&s=adb14d4d1e838ab623d49177b95f5c84"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
