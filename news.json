@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-11T14:45:27.480020+00:00",
+  "updated_at": "2026-11-11T15:00:40.310429+00:00",
   "national": [
+    {
+      "title": "Prabowo: Narasi Indonesia Gelap Dibuat oleh Orang Jahat",
+      "summary": "Presiden Prabowo Subianto menyebut narasi Indonesia gelap sebagai motif jahat. Prabowo mengatakan Indonesia negara yang kaya.",
+      "url": "https://www.cnnindonesia.com/nasional/20261111212441-32-1426091/prabowo-narasi-indonesia-gelap-dibuat-oleh-orang-jahat",
+      "source": "CNN Indonesia",
+      "published": "2026-11-11T14:57:17+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/11/presiden-prabowo-resmikan-sekolah-rakyat-kampus-nagan-raya-tegaskan-tekad-putus-rantai-kemiskinan-melalui-pendidikan-1794383634721_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Ini yang Digali KPK Saat Periksa Hercules Terkait Kasus Suap Pejabat ATR/BPN",
       "summary": "KPK memeriksa Hercules terkait dugaan suap dalam pengurusan HGB PT Summarecon di Bogor. Hercules mengembalikan uang Rp 800 juta untuk membantu penyidikan.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-11T14:41:14+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/11/usai-diperiksa-kpk-hercules-tinggalkan-gedung-merah-putih-1794392313215_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Prabowo Singgung Pengkhianatan: Kekuasaan Sangat Menggoda",
-      "summary": "Dalam HUT ke-15 Partai NasDem, Prabowo Subianto menyoroti pengkhianatan dalam sejarah dan mengingatkan bahwa kekuasaan sering menggoda untuk korupsi.",
-      "url": "https://www.cnnindonesia.com/nasional/20261111213524-32-1426093/prabowo-singgung-pengkhianatan-kekuasaan-sangat-menggoda",
-      "source": "CNN Indonesia",
-      "published": "2026-11-11T14:39:23+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/11/presiden-prabowo-saksikan-bentangan-merah-putih-sepanjang-24-kilometer-nagan-raya-11-11-2026-1794373106394_169.png?w=360&q=90"
     },
     {
       "title": "Prabowo kelakar soal disadap: \"Maaf beberapa hari penuh dinamika\"",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "GOP branded ‘sinking ship’ as Republicans block efforts to impeach Hegseth – US politics live",
-      "summary": "Trump hails ‘exoneration of a Great American Patriot’ as moves against his defense secretary fail for now House Republicans block effort to impeach Hegseth Sign up for the US Breaking News email Some Democrats, out of the 11 who missed the key procedural vote on Tuesday to impeach Pete Hegseth, blamed a traffic jam in Washington DC for their inability to make it to the US Capitol in time . By a vote of 211-204, Republicans referred the articles of impeachment to the judiciary committee – effectively killing the effort to oust Hegseth. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
+      "title": "US envoys to meet Putin and Zelenskyy separately after peace talks see some progress - Europe Live",
+      "summary": "US negotiators to meet Putin in Moscow, Zelenskyy in Dublin next Separately, I am also keeping an eye on Italy, with reports that several schools are being evacuated after receiving bomb threats by emails. According to Rai and Sky TG24 , the email was signed by “Mikhail Andropov” – the same name used in several hoax bomb alarms against European flights last week. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/nov/11/europe-ukraine-russia-us-talks-abu-dhabi-zelenskyy-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-11T14:34:15+00:00",
-      "image": "https://i.guim.co.uk/img/media/b7838838f4e1ef5eb81581e00f7bc4e47c6a741a/303_0_2918_2334/master/2918.jpg?width=140&quality=85&auto=format&fit=max&s=8d25cb1d8f981f5d05abc8909541143e"
+      "published": "2026-11-11T14:55:00+00:00",
+      "image": "https://i.guim.co.uk/img/media/9ea491e2eb2440edbdf11e08147b7a5a43b45d81/642_0_4516_3612/master/4516.jpg?width=140&quality=85&auto=format&fit=max&s=22a601d0a648034bcb6a7c8532d1842d"
+    },
+    {
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-11T14:51:26+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba2/live/c17cf610-dd8f-11f1-8c82-87885cae71d3.jpg"
     },
     {
       "title": "Rubio backs blockade, Vance wants deal: Is Trump’s team split on Iran war?",
@@ -42,15 +50,11 @@
       "source": "Al Jazeera",
       "published": "2026-11-11T14:10:47+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af469859ea7-1794402693.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Spain sees widespread disruption in first general strike for 14 years",
-      "summary": "Protests are also expected in the biggest cities less than three weeks before Spaniards vote in parliamentary elections.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-11T14:06:27+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49d4/live/b795f200-ddc1-11f1-a50f-85eebf9e50e5.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
