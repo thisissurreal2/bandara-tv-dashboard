@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-11T13:00:41.623075+00:00",
+  "updated_at": "2026-11-11T13:15:27.625602+00:00",
   "national": [
+    {
+      "title": "Gubernur Lemhannas Sarankan Ketahanan Nasional Jadi Prioritas di ICSF",
+      "summary": "Gubernur Lemhannas, TB. Ace Hasan Syadzily, menekankan pentingnya ketahanan nasional dan kerja sama dalam menghadapi perubahan tatanan dunia di ICSF Moskow.",
+      "url": "https://www.cnnindonesia.com/nasional/20261111193931-25-1426059/gubernur-lemhannas-sarankan-ketahanan-nasional-jadi-prioritas-di-icsf",
+      "source": "CNN Indonesia",
+      "published": "2026-11-11T13:08:32+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/11/lemhanas-1794400749135_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Gibran Dikabarkan Serahkan Surat Pengunduran Diri ke Prabowo",
       "summary": "Wakil Presiden Gibran Rakabuming dilaporkan mengundurkan diri dan telah menyerahkan suratnya kepada Presiden Prabowo Subianto.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-11T12:52:25+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/08/15/wapres-gibran-kukuhkan-paskibraka-2026-1786788752579_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Gibran Dikabarkan Mundur dari Wapres, Surat Diserahkan ke Prabowo",
-      "summary": "Gibran Rakabuming Raka dikabarkan telah mengundurkan diri dari jabatan wakil presiden dengan menyerahkan surat pengunduran diri ke Presiden Prabowo.",
-      "url": "https://www.cnnindonesia.com/nasional/20261111180550-32-1426022/gibran-dikabarkan-mundur-dari-wapres-surat-diserahkan-ke-prabowo",
-      "source": "CNN Indonesia",
-      "published": "2026-11-11T12:39:55+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/10/konferensi-pers-wakil-presiden-1794312334936_169.jpeg?w=360&q=90"
     },
     {
       "title": "Syahganda: Tidak ada lagi peluang Gibran di PTUN",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
-      "title": "Burnham indicates backing for ‘black English’ and ‘Asian English’ census options – UK politics live",
-      "summary": "PM, in response to Ed Davey at PMQs, says measures could help address ‘poisonous politics’ Here are some more comments on the report for the Casey commission released today looking at how social care is run in England. (See 9.56am .) This is from Natasha Curry, deputy director of research at the Nuffield Trust and one of the report’s authors. Compared to the other countries we looked at, the governance of England’s social care system is confused and complex. Overlapping and unclear roles leave dangerous uncertainty around who is responsible for important decisions, contributing to the inertia around reform England has struggled with for decades. The serious consequences of this were laid bare during the Covid pandemic. The system for governing adult social care in England has evolved haphazardly and with little clear planning. That has been exacerbated by successive governments ducking politically unpalatable decisions for decades. That has scattered responsibility for the sector across and outside government in a way that few would design from scratch. This report makes for sober reading of how adult social care and those who rely on it have been systematically failed. The fragmentation we see today is what happens when there is a total absence of political leadership to ensure the sector is well-funded and provides equitable access to care. [Burnham] struggled to dampen splits among cabinet ministers, which were first revealed by The i Paper , who used the meeting to express differing views on the future relationship with Brussels. One source with knowledge of the cabinet discussion said there was a “clear divide between those who want to go further and those who don’t want to push the issue too far”. Continue reading...",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/11/andy-burnham-kemi-badenoch-pmqs-cop31-windfarms-europe-brexit-latest-news-updates",
+      "title": "Nissan reduces petrol car production as EV sales boom in China",
+      "summary": "Manufacturer says ‘shift to new energy vehicles is happening faster than expected’ and market is harsh The Japanese carmaker Nissan has said it has been caught out by accelerating sales of electric and hybrid cars in China amid a brutal price war in the world’s biggest automotive market. The manufacturer slashed its sales forecasts for China and said it would cut back on petrol car manufacturing while increasing production of battery electric vehicles and plug-in hybrids, which combine a smaller battery with a petrol engine. Continue reading...",
+      "url": "https://www.theguardian.com/business/2026/nov/11/nissan-reduces-petrol-car-production-as-ev-sales-boom-in-china",
       "source": "The Guardian",
-      "published": "2026-11-11T12:48:49+00:00",
-      "image": "https://i.guim.co.uk/img/media/88c25c697e7a5e3283b99b9bd60b92b5d0bcc243/0_0_1666_1333/master/1666.jpg?width=140&quality=85&auto=format&fit=max&s=273520a62676a996031b4aa8f5073ac9"
+      "published": "2026-11-11T13:11:58+00:00",
+      "image": "https://i.guim.co.uk/img/media/ca0149ecf79e64aff07c9e23af6d3bcf7fd78d70/1393_39_6942_5558/master/6942.jpg?width=140&quality=85&auto=format&fit=max&s=d08edd37b43354c786ed0ebc310028fc"
     },
     {
-      "title": "Egyptian journalist's retrial adjourned as UN warns of 'assaults on press freedom'",
-      "summary": "Mada Masr editor-in-chief Lina Attalah is being tried on the charge of \"publishing false news\" and potentially faces imprisonment.",
-      "url": "https://www.bbc.co.uk/news/articles/cmkg5jr59835o?at_medium=RSS&at_campaign=rss",
+      "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
+      "summary": "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded.",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-11T12:32:06+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae61/live/09e205f0-ddb6-11f1-90cd-85e940e3a009.jpg"
+      "published": "2026-11-11T12:53:11+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1675/live/f68a02b0-ddcd-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "African rights body raises alarm over treatment of Niger’s Mahamid Arabs",
-      "summary": "Rights commission appeals to Niger president over alleged abuses against Mahamid.",
-      "url": "https://www.aljazeera.com/news/2026/11/11/african-rights-body-raises-alarm-over-treatment-of-nigers-mahamid-arabs?traffic_source=rss",
+      "title": "Mbappe misses France training before Nations League clash with Italy",
+      "summary": "Kylian Mbappe left the pitch during France's game in September but has been playing regularly for Real Madrid.",
+      "url": "https://www.aljazeera.com/sports/2026/11/11/kylian-mbappe-france-training-italy-uefa-nations-league?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-11T12:23:44+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2021/11/000_Par8181170.jpg?resize=1920%2C1440"
+      "published": "2026-11-11T12:38:46+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af45a2d3e-1794398765_3b2ada-1794399075.jpg?resize=1200%2C630&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
