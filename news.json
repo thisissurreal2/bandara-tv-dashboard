@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-11T01:00:41.740732+00:00",
+  "updated_at": "2026-11-11T01:15:28.528001+00:00",
   "national": [
     {
-      "title": "Curah Hujan Tinggi, Banjir Rendam Lima Desa di Aceh Barat",
-      "summary": "Lima desa di Aceh Barat terendam banjir luapan sungai akibat hujan deras. BPBD siaga dan memantau situasi, sementara air di beberapa lokasi mulai surut.",
-      "url": "https://www.cnnindonesia.com/nasional/20261111073205-20-1425684/curah-hujan-tinggi-banjir-rendam-lima-desa-di-aceh-barat",
+      "title": "Denny Indrayana ke Gibran: Putusan MA Inkrah, Tak Ada Upaya Hukum Lain",
+      "summary": "Pakar hukum tata negara Denny Indrayana angkat suara merespons rencana Wakil Presiden Gibran Rakabuming untuk menempuh langkah hukum lanjutan.",
+      "url": "https://www.cnnindonesia.com/nasional/20261111080026-20-1425696/denny-indrayana-ke-gibran-putusan-ma-inkrah-tak-ada-upaya-hukum-lain",
       "source": "CNN Indonesia",
-      "published": "2026-11-11T00:55:39+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2019/11/23/d31a9e56-04c0-4db5-ba1f-d9460c4bb65a_169.jpeg?w=360&q=90"
+      "published": "2026-11-11T01:04:20+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/02/denny-desak-dpr-segera-gulirkan-pemakzulan-gibran-1793619828939_169.jpeg?w=360&q=90"
     },
     {
       "title": "Lewis Hamilton Kunjungi Perbatasan Gaza, Pantau Upaya Penyaluran Bantuan",
@@ -32,7 +32,7 @@
       "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
       "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-11T00:38:33+00:00",
+      "published": "2026-11-11T01:14:40+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg"
     },
     {
@@ -40,17 +40,21 @@
       "summary": "Republicans secure majority of votes to send articles introduced by Thomas Massie to committee, meaning there won’t be a full vote on chamber floor House Republicans block effort to impeach Pentagon chief Pete Hegseth Sign up for the US Breaking News email During his press conference, Hegseth was resolute that the articles of impeachment are baseless, and that all attacks were carried out legally. “As for the articles themselves, Iran, the cartels, Maduro, Yemen, everyone was a lawful operation ordered by the commander-in-chief, then ordered by myself, notified to Congress and executed by American warriors who did their jobs,” he said. “We destroyed terror regimes’ capabilities. We sank the boats carrying poison into our communities. We put a narco dictator in handcuffs. These are not high crimes. This is the job, and it’s the job well done.” Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-11T00:35:01+00:00",
+      "published": "2026-11-11T01:10:07+00:00",
       "image": "https://i.guim.co.uk/img/media/90fd5e65c58f923c6fc4059a2197568133881e15/947_0_4715_3774/master/4715.jpg?width=140&quality=85&auto=format&fit=max&s=1cdd180aea06c3729397bafc16a133f9"
     },
     {
-      "title": "‘Everything and everyone we love is at stake’: Thunberg slams COP31 talks",
-      "summary": "Climate activist urges world leaders to put people and planet before profit as she arrives at UN climate talks.",
-      "url": "https://www.aljazeera.com/news/2026/11/11/everything-and-everyone-we-love-is-at-stake-thunberg-slams-cop31-talks?traffic_source=rss",
+      "title": "Spain holds state funeral for 69 victims of deadly train crash",
+      "summary": "Spain’s King and Queen have joined families of the 69 victims from a deadly train collision at a state funeral.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/spain-holds-state-funeral-for-69-victims-of-deadly-train-crash?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-11T00:24:27+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af3a30f98ea-1794351887.jpg?resize=1920%2C1440"
+      "published": "2026-11-11T00:42:41+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794357698.jpg?resize=1620%2C1080&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
