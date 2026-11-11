@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-11T10:15:27.697481+00:00",
+  "updated_at": "2026-11-11T10:30:32.973753+00:00",
   "national": [
+    {
+      "title": "Kasus Penyadapan Prabowo: 8 Saksi Ajukan Perlindungan LPSK, 1 Orang Ajukan JC",
+      "summary": "LPSK menerima pengajuan perlindungan dari delapan saksi kasus penyadapan Presiden Prabowo. Salah satu saksi mengajukan menjadi justice collaborator.",
+      "url": "https://news.detik.com/berita/d-8748661/kasus-penyadapan-prabowo-8-saksi-ajukan-perlindungan-lpsk-1-orang-ajukan-jc",
+      "source": "Detik",
+      "published": "2026-11-11T10:26:32+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2022/07/28/gedung-lembaga-perlindungan-saksi-dan-korban-lpsk-1_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "Syahganda: Tidak ada lagi peluang Gibran di PTUN",
+      "summary": "Kepala Badan Komunikasi Pemerintah (Bakom) RI Syahganda Nainggolan mengatakan sudah tidak ada lagi peluang bagi Wakil ...",
+      "url": "https://www.antaranews.com/berita/5846875/syahganda-tidak-ada-lagi-peluang-gibran-di-ptun",
+      "source": "ANTARA",
+      "published": "2026-11-11T10:11:03+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/11/1000470827_1.jpg"
+    },
     {
       "title": "LPSK Terima Lagi Permohonan 2 Saksi di Kasus Penyadapan, Total 8 Saksi",
       "summary": "LPSK terima dua pengajuan perlindungan terkait kasus penyadapan ilegal Presiden Prabowo Subianto, total delapan orang ajukan perlindungan.",
@@ -8,25 +24,17 @@
       "source": "CNN Indonesia",
       "published": "2026-11-11T09:51:03+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/08/gedung-lembaga-perlindungan-saksi-dan-korban-lpsk-1794124563131_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Penumpang Tujuan Malaysia Selundupkan 2,6 Kg Emas Dalam Korset di Balikpapan",
-      "summary": "Seorang penumpang berinisial MS ditangkap di Bandara SAMS Sepinggan karena menyelundupkan 2,659 kg emas senilai Rp 6,7 miliar ke Malaysia.",
-      "url": "https://news.detik.com/berita/d-8748532/penumpang-tujuan-malaysia-selundupkan-2-6-kg-emas-dalam-korset-di-balikpapan",
-      "source": "Detik",
-      "published": "2026-11-11T09:24:36+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/11/konferensi-pers-penyelundupan-emas-ilegal-2659-kg-di-balikpapan-kalimantan-timur-1794385182151_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Dua pendaki Semeru hilang, tim SAR temukan jejak kaki & ranting patah",
-      "summary": "Tim SAR gabungan menemukan jejak kaki dan ranting patah saat melakukan pencarian dua pendaki yang dilaporkan hilang di ...",
-      "url": "https://www.antaranews.com/berita/5846567/dua-pendaki-semeru-hilang-tim-sar-temukan-jejak-kaki-ranting-patah",
-      "source": "ANTARA",
-      "published": "2026-11-11T08:43:24+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/11/1001484783_1.jpg"
     }
   ],
   "international": [
+    {
+      "title": "US Treasury chief Bessent moved to military base after ‘Iranian threats’",
+      "summary": "Iran is said to have geo-located Bessent's $12.5m mansion in Washington, DC after a photo of it was published.",
+      "url": "https://www.aljazeera.com/news/2026/11/11/us-treasury-chief-bessent-moved-to-military-base-after-iranian-threats?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-11T10:16:38+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aee21e3-1793991139.jpg?resize=1920%2C1440"
+    },
     {
       "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
       "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
@@ -42,19 +50,7 @@
       "source": "The Guardian",
       "published": "2026-11-11T10:12:42+00:00",
       "image": "https://i.guim.co.uk/img/media/2c87f54f23de62377d68ddb5fc6706226bf95768/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=fc46ed7b0d488a20eafa6197935d66d0"
-    },
-    {
-      "title": "Pakistan women’s captain Fatima Sana calls for gender equality in cricket",
-      "summary": "Fatima Sana 'dreams of a time' when the men's and women's cricket teams are treated as equals.",
-      "url": "https://www.aljazeera.com/sports/2026/11/11/fatima-sana-pakistan-cricket-equal-treatment-wbbl-perth-scorchers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-11T09:57:37+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260607__B6AA4AW__v1__HighRes__CricketWomensIccT20Wc2026-1794381193_07ea03-1794381905.jpg?resize=1200%2C630&quality=80"
     }
   ],
-  "feed_warnings": [
-    "Detik: TimeoutError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
