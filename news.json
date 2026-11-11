@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T22:49:58.045166+00:00",
+  "updated_at": "2026-11-11T23:00:40.008841+00:00",
   "national": [
     {
       "title": "Pramono: LPDP Jakarta Terbuka untuk Pendidikan Agama",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Iran designates Argentinian navy, air force as ‘terrorist organisations’",
+      "summary": "The move comes months after the government of Javier Milei designated Iran's IRGC as a 'terrorist organisation'.",
+      "url": "https://www.aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-11T22:34:43+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af4e0387063-1794433080.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "UK appoints world’s first special representative for climate security",
       "summary": "Exclusive: Madeleine Alessandri, chair of the joint intelligence committee, will take on the role of advising No 10 on climate-related national security risks The UK government has appointed the world’s first special representative for climate security, in the strongest sign yet of fears that climate breakdown will bring chaos to the country. Prime minister Andy Burnham will announce the move on Thursday at Cop31, the UN climate summit, with the new role designed to advise the government on national security risks from the climate crisis before they spell catastrophe. Continue reading...",
       "url": "https://www.theguardian.com/politics/2026/nov/11/uk-appoints-worlds-first-special-representative-for-climate-security",
       "source": "The Guardian",
       "published": "2026-11-11T22:30:01+00:00",
       "image": "https://i.guim.co.uk/img/media/8809b95667fbdba5ed85372ef07a0148afe98f1e/470_0_3281_2625/master/3281.jpg?width=140&quality=85&auto=format&fit=max&s=ea5bede625c1d59c2351c49899097a10"
-    },
-    {
-      "title": "Judge rules Trump’s $10bn BBC defamation suit can proceed",
-      "summary": "The BBC denies defamation charge as Trump celebrates “huge victory” in court decision.",
-      "url": "https://www.aljazeera.com/news/2026/11/11/judge-rules-trumps-10bn-bbc-defamation-suit-can-proceed?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-11T22:10:12+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af4bb0e-1794423566.jpg?resize=1920%2C1440"
     },
     {
       "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
