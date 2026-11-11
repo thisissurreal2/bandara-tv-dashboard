@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-11T16:00:39.454703+00:00",
+  "updated_at": "2026-11-11T16:15:30.606147+00:00",
   "national": [
     {
-      "title": "Dasco Buka Suara Gibran Disebut Serahkan Surat Mundur ke Prabowo",
-      "summary": "Sufmi Dasco Ahmad dari Partai Gerindra menanggapi kabar pengunduran diri Wapres Gibran Rakabuming. Dia mengaku belum mengetahui informasi tersebut.",
-      "url": "https://www.cnnindonesia.com/nasional/20261111223646-32-1426103/dasco-buka-suara-gibran-disebut-serahkan-surat-mundur-ke-prabowo",
+      "title": "Prabowo Minta Sekpri Buka Chat GPT Cari Arti Siratal Mustaqim",
+      "summary": "Dalam HUT ke-15 Partai NasDem, Prabowo Subianto menekankan pentingnya kebenaran dan keadilan, serta mengingatkan bahwa kesalahan akan selalu terungkap.",
+      "url": "https://www.cnnindonesia.com/nasional/20261111224714-32-1426105/prabowo-minta-sekpri-buka-chat-gpt-cari-arti-siratal-mustaqim",
       "source": "CNN Indonesia",
-      "published": "2026-11-11T15:55:27+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/10/07/rapat-penetapan-bpih-2027-1791374386465_169.jpeg?w=360&q=90"
+      "published": "2026-11-11T16:09:00+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/11/pidato-presiden-prabowo-subianto-di-hut-partai-nasdem-ke-15-1794409438731_169.png?w=360&q=90"
     },
     {
       "title": "Kapolri Hadiri Konferensi Gerakan Pemuda, Paparkan Gagasan 'Polisi Bersama Masyarakat'",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Chancellor confident budget will lead to growth despite OBR not finding evidence to prove it – UK politics live",
-      "summary": "The OBR normally only includes growth measures in their scorecard if they will increase growth by at least 0.1% of GDP Here are some more comments on the report for the Casey commission released today looking at how social care is run in England. (See 9.56am .) This is from Natasha Curry, deputy director of research at the Nuffield Trust and one of the report’s authors. Compared to the other countries we looked at, the governance of England’s social care system is confused and complex. Overlapping and unclear roles leave dangerous uncertainty around who is responsible for important decisions, contributing to the inertia around reform England has struggled with for decades. The serious consequences of this were laid bare during the Covid pandemic. The system for governing adult social care in England has evolved haphazardly and with little clear planning. That has been exacerbated by successive governments ducking politically unpalatable decisions for decades. That has scattered responsibility for the sector across and outside government in a way that few would design from scratch. This report makes for sober reading of how adult social care and those who rely on it have been systematically failed. The fragmentation we see today is what happens when there is a total absence of political leadership to ensure the sector is well-funded and provides equitable access to care. [Burnham] struggled to dampen splits among cabinet ministers, which were first revealed by The i Paper , who used the meeting to express differing views on the future relationship with Brussels. One source with knowledge of the cabinet discussion said there was a “clear divide between those who want to go further and those who don’t want to push the issue too far”. Continue reading...",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/11/andy-burnham-kemi-badenoch-pmqs-cop31-windfarms-europe-brexit-latest-news-updates",
+      "title": "Labour MPs warn against weakening electric vehicle targets ahead of crunch talks",
+      "summary": "Exclusive: Cutting 2030 goal would be a ‘step backwards’, say MPs, as ministers clash over proposed reductions UK politics live – latest updates Cop31 live – latest updates Labour MPs are urging the government not to weaken its electric vehicle targets as divided cabinet ministers prepare for a crunch meeting on Thursday to thrash out a compromise. Members of the Climate and Nature Crisis Caucus (CNCC) say ministers must not water down a legal requirement for carmakers to ensure that 80% of the vehicles they sell in 2030 are electric, saying doing so would be a backward step and “shortsighted”. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/11/labour-mps-electric-vehicle-targets",
       "source": "The Guardian",
-      "published": "2026-11-11T15:49:45+00:00",
-      "image": "https://i.guim.co.uk/img/media/ffa8be71f7f3465309965f78ac5364618a295ae3/885_0_6477_5182/master/6477.jpg?width=140&quality=85&auto=format&fit=max&s=3462b328b6a5061eafb40e23e4df0ae1"
+      "published": "2026-11-11T16:01:41+00:00",
+      "image": "https://i.guim.co.uk/img/media/6fde6244e7862fd3018d8d71dbcebe49b6465ec6/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=a1417b87a9fa02148f67a8c47e306677"
     },
     {
       "title": "Israel is ‘disrupting entire ecosystems’, including Lebanon’s wheat crop",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/93dc/live/ae624920-ddd7-11f1-93e1-3b657b665bcf.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
