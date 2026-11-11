@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-11T07:30:35.012131+00:00",
+  "updated_at": "2026-11-11T07:45:29.346839+00:00",
   "national": [
+    {
+      "title": "Pemerintah Revitalisasi 39.284 Sekolah Sepanjang 2026, Libatkan 58 Ribu UMKM",
+      "summary": "Kemendagri bersama Bakom memaparkan capaian pemerintahan Presiden Prabowo Subianto dari bidang pendidikan dan kesehatan.",
+      "url": "https://news.detik.com/berita/d-8748309/pemerintah-revitalisasi-39-284-sekolah-sepanjang-2026-libatkan-58-ribu-umkm",
+      "source": "Detik",
+      "published": "2026-11-11T07:37:46+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/11/pemaparan-capaian-pemerintahan-presiden-prabowo-shonyadetikcom-1794382653480_169.jpeg?w=360&q=90"
+    },
     {
       "title": "120 Anggota DPR Teken Hak Menyatakan Pendapat untuk Makzulkan Gibran",
       "summary": "Sebanyak 120 anggota DPR dari 8 fraksi resmi menyerahkan sikap bersama agar DPR menggunakan hak menyatakan pendapat terkait Wakil Presiden Gibran Rakabuming.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-11T07:24:27+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/11/suasana-penyerahan-hak-pendapat-di-dpr-1794379364079_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "ARUN Minta Aturan Perampasan Aset Harus Jelas dan Perlu Pembuktian",
-      "summary": "DPP ARUN menekankan pentingnya ketentuan jelas dalam RUU Perampasan Aset, agar tidak semua kekayaan dirampas hanya karena satu tindak pidana.",
-      "url": "https://news.detik.com/berita/d-8748262/arun-minta-aturan-perampasan-aset-harus-jelas-dan-perlu-pembuktian",
-      "source": "Detik",
-      "published": "2026-11-11T07:11:10+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/11/rapat-dengar-pendapat-umum-rdpu-dengan-komisi-iii-di-kompleks-parlemen-senayan-jakarta-rabu-11112026-adrialdetik-1794381042914_169.jpeg?w=360&q=90"
     },
     {
       "title": "Pimpinan DPR gelar rapat terima pengusul HMP dari semua fraksi partai",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "If hackers can take over a supermarket fridge, what else is at risk?",
-      "summary": "As our lives become more digitised, we show which smart systems can be hacked and how to protect yourself.",
-      "url": "https://www.aljazeera.com/news/2026/11/11/if-hackers-can-take-over-a-supermarket-fridge-what-else-is-at-risk?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-11T07:20:08+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/INTERACTIVE-CYBER-ATTACKS-COVER-NOV10-2026-1794319395.png?resize=1200%2C630"
+      "title": "Aldi cuts hundreds of UK head office roles as part of global cost trimming",
+      "summary": "Supermarket’s move labelled ‘shortsighted’ by worker who calls upper management ‘woefully out of touch with reality’ Aldi’s UK business is cutting hundreds of head office roles as part of a global effort to trim costs at the budget grocer. The retailer is consulting with its technology team on the loss of up to 150 roles after 103 redundancies in its finance and administration team earlier this year and almost 20 more redundancies among buying directors. Continue reading...",
+      "url": "https://www.theguardian.com/business/2026/nov/11/aldi-cuts-hundreds-of-uk-head-office-and-logistics-roles-global-cost-trimming",
+      "source": "The Guardian",
+      "published": "2026-11-11T07:30:12+00:00",
+      "image": "https://i.guim.co.uk/img/media/19fc66d07d82f5bb12c4b846f341470c9cbe0156/1340_119_3799_3041/master/3799.jpg?width=140&quality=85&auto=format&fit=max&s=df11649a9b256aa16a588e32585d23fa"
     },
     {
-      "title": "Lending to property investors falls at record pace, as Australians fall behind on home loans",
-      "summary": "Share of CBA customers struggling to repay their mortgages has climbed to 12-year high Get our breaking news email , free app or daily news podcast New lending to property investors fell at its fastest pace on record through the three months to September, as landlords adjust to higher taxes against a backdrop of plunging property prices and rising interest rates . The latest figures come as the country’s biggest lender, the Commonwealth Bank, reported that the share of its customers struggling to repay their mortgages had climbed to a 12-year high. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/11/property-investor-lending-rates-fall-cba-mortgage-repayments",
-      "source": "The Guardian",
-      "published": "2026-11-11T07:02:15+00:00",
-      "image": "https://i.guim.co.uk/img/media/8f1e364c2c85fcb9c9f35295c873d740e6fa3de6/1119_0_6319_5058/master/6319.jpg?width=140&quality=85&auto=format&fit=max&s=1b5fc6903dd2f1e7412d79ea6383df47"
+      "title": "Netanyahu fights to stay relevant as Israel’s opposition closes in",
+      "summary": "A new Knesset shaped by October 7 prepares to convene as Netanyahu fights to prevent an opposition-led government",
+      "url": "https://www.aljazeera.com/news/2026/11/11/netanyahu-fights-to-stay-relevant-as-israels-opposition-closes-in?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-11T06:23:04+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aecd19d-1793905053.jpg?resize=1920%2C1440"
     },
     {
       "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afb3/live/7b472130-d956-11f1-b7f4-8bd3c0617693.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
