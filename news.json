@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T17:15:33.677577+00:00",
+  "updated_at": "2026-11-11T17:30:35.515083+00:00",
   "national": [
     {
       "title": "MK Diminta Batasi Pengecualian Pembakaran Lahan Terkait Kearifan Lokal",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "All Kemi had at PMQs was jokes … and unfunny jokes at that | John Crace",
-      "summary": "Even her own MPs were stony-faced as the Tory leader ran though her set list of gags from the budget to Russell Brand UK politics live – latest updates Well, there was one person at least who thought Kemi Badenoch had absolutely nailed it at this week’s prime minister’s questions. And that person was Kemi Badenoch. She could not have been more pleased with herself if she had tried. No one laughed louder and longer at her own jokes than she did. No one admired her laser focus as much as she did. Kemi is the paid up chief executive of her own fan club. As for the rest of her Tory MPs – aside from Chris Philp, who is basically a parasitic homunculus – they weren’t quite so convinced by Kemi’s performance. She had been so entranced with her one-liners, she had forgotten to ask any serious questions. And never forget how low the gag bar is in the Commons. What passes as a joke at PMQs wouldn’t even register as humour in normal conversation. Wouldn’t even elicit the groan that comes from the recognition of a gag format. Continue reading...",
-      "url": "https://www.theguardian.com/politics/2026/nov/11/kemi-badenoch-pmqs-unfunny-jokes",
+      "title": "Trump praises Hegseth after failed impeachment effort and shrugs off Iran war criticism - live",
+      "summary": "President claims US ‘did not start war with Iran’ in Veterans Day speech where he also backed defense secretary again day after failed impeachment vote Democrats lambast absent peers over failed Hegseth impeachment House Republicans block effort to impeach Hegseth Sign up for the US Breaking News email Some Democrats, out of the 11 who missed the key procedural vote on Tuesday to impeach Pete Hegseth, blamed a traffic jam in Washington DC for their inability to make it to the US Capitol in time . By a vote of 211-204, Republicans referred the articles of impeachment to the judiciary committee – effectively killing the effort to oust Hegseth. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-11T17:04:37+00:00",
-      "image": "https://i.guim.co.uk/img/media/a40415916a86e82f2962f048635d58b1b703a859/505_0_1685_1348/master/1685.jpg?width=140&quality=85&auto=format&fit=max&s=631bcaccf89a66afa1f527bb60db61a8"
+      "published": "2026-11-11T17:29:49+00:00",
+      "image": "https://i.guim.co.uk/img/media/e2700e9cd5295e7d69abdfa78300617b9c785f19/904_0_4551_3640/master/4551.jpg?width=140&quality=85&auto=format&fit=max&s=6500a6dd8b56869ee3b5a364b7832d28"
+    },
+    {
+      "title": "Thune re-elected as US Senate Republican leader after midterm losses",
+      "summary": "The Republican ran unopposed, despite some GOP lawmaker demands to evaluate the party's stinging midterm losses to Democ",
+      "url": "https://www.aljazeera.com/news/2026/11/11/thune-re-elected-as-us-senate-republican-leader-after-midterm-losses?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-11T17:08:12+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af496846ceb-1794414212.jpg?resize=1920%2C1440"
     },
     {
       "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
@@ -42,15 +50,11 @@
       "source": "BBC",
       "published": "2026-11-11T16:59:34+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba2/live/c17cf610-dd8f-11f1-8c82-87885cae71d3.jpg"
-    },
-    {
-      "title": "Russia-Ukraine talks in UAE secure major prisoner exchange deal",
-      "summary": "Russia and Ukraine have agreed to a major prisoner exchange following two days of US-mediated talks in Abu Dhabi",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/russia-ukraine-talks-in-uae-secure-major-prisoner-exchange-deal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-11T16:58:32+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794416303.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
