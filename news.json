@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-11T03:30:34.209619+00:00",
+  "updated_at": "2026-11-11T03:45:27.649169+00:00",
   "national": [
     {
-      "title": "Seskab: Presiden Prabowo Kunjungi Aceh, Saksikan Bentangan Merah Putih 24 Km",
-      "summary": "Presiden Prabowo Subianto kunjungi Aceh untuk menyaksikan pembentangan Bendera Merah Putih 24 km dan meresmikan Masjid serta Sekolah Rakyat.",
-      "url": "https://news.detik.com/berita/d-8747726/seskab-presiden-prabowo-kunjungi-aceh-saksikan-bentangan-merah-putih-24-km",
+      "title": "Pasutri yang Ditangkap di Blitar Jual Konten Porno ke Website Berlangganan",
+      "summary": "Dalam sebulan, mereka bisa meraup duit puluhan juta.",
+      "url": "https://news.detik.com/berita/d-8747772/pasutri-yang-ditangkap-di-blitar-jual-konten-porno-ke-website-berlangganan",
       "source": "Detik",
-      "published": "2026-11-11T03:09:06+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/11/presiden-prabowo-subianto-menaiki-pesawat-kepresidenan-bertolak-ke-aceh-firda-cynthiadetikcom-1794366413535_169.jpeg?w=360&q=90"
+      "published": "2026-11-11T03:40:04+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/09/konten-porno-blitar-1794216321778_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Wamenkum Sebut Hubungan Hukum Utang-Piutang Bisa Jadi Perkara Pidana",
-      "summary": "Wamenkum Edward Omar Hiariej menekankan pentingnya memahami hubungan hukum debitur-kreditur, yang bisa berpotensi menjadi perkara pidana akibat penipuan.",
-      "url": "https://www.cnnindonesia.com/nasional/20261111095741-12-1425741/wamenkum-sebut-hubungan-hukum-utang-piutang-bisa-jadi-perkara-pidana",
+      "title": "UGM Telusuri Info Mahasiswa yang Diamankan saat Demo 10 November",
+      "summary": "UGM menelusuri mahasiswa yang diamankan dalam aksi demonstrasi di Jogja. Rektor tegaskan perlindungan hak mahasiswa dan sivitas kampus menyampaikan aspirasi.",
+      "url": "https://www.cnnindonesia.com/nasional/20261111101639-20-1425745/ugm-telusuri-info-mahasiswa-yang-diamankan-saat-demo-10-november",
       "source": "CNN Indonesia",
-      "published": "2026-11-11T03:08:04+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/08/14/edward-omar-sharif-hiariej-1786714283793_169.jpeg?w=360&q=90"
+      "published": "2026-11-11T03:35:44+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2025/05/15/universitas-gadjah-mada-1747298809962_169.png?w=360&q=90"
     },
     {
       "title": "Kapolri: Polri akan ungkap pelaku demo yang membawa barang berbahaya",
@@ -36,8 +36,8 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Three dead in Los Angeles after vehicle crashes into pedestrians, officials say",
-      "summary": "Three others critically injured and taken to hospitals as reports say car crashed into food stand in North Hollywood A vehicle plowed into a group of pedestrians ⁠in the ⁠North ​Hollywood district of Los Angeles on Tuesday, ⁠killing three people and leaving at least three others ⁠critically injured, the city ​fire department reported. The ‌three injured ‌people were taken to ‌area hospitals for treatment, according to an online statement posted by the Los Angeles fire department. Continue reading...",
+      "title": "Three dead in Los Angeles after driver crashes into pedestrians, officials say",
+      "summary": "Three others critically injured and taken to hospitals as reports say car crashed into food stand in North Hollywood At least three people are dead and three critically injured, after a car struck pedestrians on a Los Angeles corner during Tuesday rush hour, authorities said. The fatal accident took place near a North Hollywood metro station. Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/nov/10/los-angeles-vehicle-crash",
       "source": "The Guardian",
       "published": "2026-11-11T03:10:57+00:00",
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794365983.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
