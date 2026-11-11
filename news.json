@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-11T00:45:28.754899+00:00",
+  "updated_at": "2026-11-11T01:00:41.740732+00:00",
   "national": [
     {
-      "title": "Pemulihan Pascabencana, Tito Serahkan Sejumlah Bantuan di Nagan Raya",
-      "summary": "Mendagri Tito Karnavian serahkan bantuan untuk pemulihan bencana di Nagan Raya, Aceh. Bantuan ini termasuk alat berat dan pompa pemadam kebakaran.",
-      "url": "https://www.cnnindonesia.com/nasional/20261111072350-20-1425680/pemulihan-pascabencana-tito-serahkan-sejumlah-bantuan-di-nagan-raya",
+      "title": "Curah Hujan Tinggi, Banjir Rendam Lima Desa di Aceh Barat",
+      "summary": "Lima desa di Aceh Barat terendam banjir luapan sungai akibat hujan deras. BPBD siaga dan memantau situasi, sementara air di beberapa lokasi mulai surut.",
+      "url": "https://www.cnnindonesia.com/nasional/20261111073205-20-1425684/curah-hujan-tinggi-banjir-rendam-lima-desa-di-aceh-barat",
       "source": "CNN Indonesia",
-      "published": "2026-11-11T00:28:37+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/11/menteri-dalam-negeri-mendagri-selaku-ketua-satuan-tugas-kasatgas-percepatan-rehabilitasi-dan-rekonstruksi-prr-pascabencana-sum-1794356608392_169.jpeg?w=360&q=90"
+      "published": "2026-11-11T00:55:39+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2019/11/23/d31a9e56-04c0-4db5-ba1f-d9460c4bb65a_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "Lewis Hamilton Kunjungi Perbatasan Gaza, Pantau Upaya Penyaluran Bantuan",
+      "summary": "Lewis Hamilton mengunjungi perbatasan Gaza di Rafah, bertemu pekerja kemanusiaan. Ia mendukung upaya bantuan untuk warga Gaza yang menghadapi krisis.",
+      "url": "https://news.detik.com/internasional/d-8747544/lewis-hamilton-kunjungi-perbatasan-gaza-pantau-upaya-penyaluran-bantuan",
+      "source": "Detik",
+      "published": "2026-11-11T00:52:54+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2025/12/10/gaya-lewis-hamilton-di-f1abu-dhabi-2025-1765352781755_169.jpeg?w=360&q=90"
     },
     {
       "title": "Kabakom bantah Presiden beri saran Gibran tetap \"fight\" di pengadilan",
@@ -16,14 +24,6 @@
       "source": "ANTARA",
       "published": "2026-11-11T00:18:35+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/10/IMG_4575_1.jpeg"
-    },
-    {
-      "title": "⁠6 Poin Pertimbangan MA Batalkan Suket Ijazah SMA Gibran",
-      "summary": "Mahkamah Agung membatalkan Suket penyetaraan pendidikan SMA Gibran Rakabuming Raka. Putusan ini didasarkan pada enam pertimbangan hukum.",
-      "url": "https://news.detik.com/berita/d-8747509/6-poin-pertimbangan-ma-batalkan-suket-ijazah-sma-gibran",
-      "source": "Detik",
-      "published": "2026-11-11T00:02:48+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/08/15/wapres-gibran-kukuhkan-paskibraka-2026-1786788752579_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af3a30f98ea-1794351887.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: TimeoutError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
