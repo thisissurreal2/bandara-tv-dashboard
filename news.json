@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-11T07:15:29.643058+00:00",
+  "updated_at": "2026-11-11T07:30:35.012131+00:00",
   "national": [
+    {
+      "title": "120 Anggota DPR Teken Hak Menyatakan Pendapat untuk Makzulkan Gibran",
+      "summary": "Sebanyak 120 anggota DPR dari 8 fraksi resmi menyerahkan sikap bersama agar DPR menggunakan hak menyatakan pendapat terkait Wakil Presiden Gibran Rakabuming.",
+      "url": "https://www.cnnindonesia.com/nasional/20261111133951-32-1425862/8-fraksi-dpr-resmi-serahkan-hak-menyatakan-pendapat-soal-wapres-gibran",
+      "source": "CNN Indonesia",
+      "published": "2026-11-11T07:24:27+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/11/suasana-penyerahan-hak-pendapat-di-dpr-1794379364079_169.jpeg?w=360&q=90"
+    },
     {
       "title": "ARUN Minta Aturan Perampasan Aset Harus Jelas dan Perlu Pembuktian",
       "summary": "DPP ARUN menekankan pentingnya ketentuan jelas dalam RUU Perampasan Aset, agar tidak semua kekayaan dirampas hanya karena satu tindak pidana.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-11T07:11:10+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/11/rapat-dengar-pendapat-umum-rdpu-dengan-komisi-iii-di-kompleks-parlemen-senayan-jakarta-rabu-11112026-adrialdetik-1794381042914_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "MPR Tunggu Bola dari DPR soal Hak Menyatakan Pendapat Ijazah Gibran",
-      "summary": "Wakil Ketua MPR RI Bambang Wuryanto menunggu keputusan DPR terkait Hak Menyatakan Pendapat untuk menyikapi polemik ijazah Wapres Gibran.",
-      "url": "https://www.cnnindonesia.com/nasional/20261111134526-32-1425883/mpr-tunggu-bola-dari-dpr-soal-hak-menyatakan-pendapat-ijazah-gibran",
-      "source": "CNN Indonesia",
-      "published": "2026-11-11T07:10:51+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2020/06/18/bambang-wuryanto-1_169.jpeg?w=360&q=90"
     },
     {
       "title": "Pimpinan DPR gelar rapat terima pengusul HMP dari semua fraksi partai",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "If hackers can take over a supermarket fridge, what else is at risk?",
+      "summary": "As our lives become more digitised, we show which smart systems can be hacked and how to protect yourself.",
+      "url": "https://www.aljazeera.com/news/2026/11/11/if-hackers-can-take-over-a-supermarket-fridge-what-else-is-at-risk?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-11T07:20:08+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/INTERACTIVE-CYBER-ATTACKS-COVER-NOV10-2026-1794319395.png?resize=1200%2C630"
+    },
+    {
       "title": "Lending to property investors falls at record pace, as Australians fall behind on home loans",
-      "summary": "Share of CBA customers struggling to repay their mortgages has climbed to 12-year high Get our breaking news email , free app or daily news podcast New lending to property investors fell at its fastest pace on record through the three months to September, as landlords adjust to higher taxes against a backdrop of plunging property prices and rising interest rates. The latest figures come as the country’s biggest lender, the Commonwealth Bank, reported that the share of its customers struggling to repay their mortgages had climbed to a 12-year high. Continue reading...",
+      "summary": "Share of CBA customers struggling to repay their mortgages has climbed to 12-year high Get our breaking news email , free app or daily news podcast New lending to property investors fell at its fastest pace on record through the three months to September, as landlords adjust to higher taxes against a backdrop of plunging property prices and rising interest rates . The latest figures come as the country’s biggest lender, the Commonwealth Bank, reported that the share of its customers struggling to repay their mortgages had climbed to a 12-year high. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/nov/11/property-investor-lending-rates-fall-cba-mortgage-repayments",
       "source": "The Guardian",
       "published": "2026-11-11T07:02:15+00:00",
       "image": "https://i.guim.co.uk/img/media/8f1e364c2c85fcb9c9f35295c873d740e6fa3de6/1119_0_6319_5058/master/6319.jpg?width=140&quality=85&auto=format&fit=max&s=1b5fc6903dd2f1e7412d79ea6383df47"
-    },
-    {
-      "title": "Netanyahu fights to stay relevant as Israel’s opposition closes in",
-      "summary": "A new Knesset shaped by October 7 prepares to convene as Netanyahu fights to prevent an opposition-led government",
-      "url": "https://www.aljazeera.com/news/2026/11/11/netanyahu-fights-to-stay-relevant-as-israels-opposition-closes-in?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-11T06:23:04+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aecd19d-1793905053.jpg?resize=1920%2C1440"
     },
     {
       "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afb3/live/7b472130-d956-11f1-b7f4-8bd3c0617693.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
