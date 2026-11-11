@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T10:00:40.012838+00:00",
+  "updated_at": "2026-11-11T10:15:27.697481+00:00",
   "national": [
     {
       "title": "LPSK Terima Lagi Permohonan 2 Saksi di Kasus Penyadapan, Total 8 Saksi",
@@ -28,32 +28,32 @@
   ],
   "international": [
     {
-      "title": "NAZA documentary on Gaza killings becomes one of year’s most watched",
-      "summary": "The film, which details Israel’s surveillance of Palestinian civilians, has been seen by more than 1.5m people in less than two months NAZA, the award-winning documentary that details Israel’s mass killing of civilians in Gaza, has been seen by more than 1.5 million people since being released in cinemas across the world last month. The film , which is directed by the Oscar-winning Israeli film-makers Yuval Abraham and Rachel Szor and produced by the Guardian, has reached a worldwide audience of 1,547,033 as of Friday 6 November, making it one of the most-watched documentary films with a theatrical release in 2026. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/11/naza-documentary-on-gaza-killings-becomes-one-of-years-most-watched",
-      "source": "The Guardian",
-      "published": "2026-11-11T09:47:46+00:00",
-      "image": "https://i.guim.co.uk/img/media/7fdf274bbdcb8c27b637964b07c4022b4b09c9c6/1358_19_2482_1986/master/2482.jpg?width=140&quality=85&auto=format&fit=max&s=b5d87e96e7945a41f14305106f751c62"
-    },
-    {
-      "title": "Pakistan’s PTI demands access to jailed Khan after overnight hospital visit",
-      "summary": "Former Prime Minister Imran Khan ⁠is taken ⁠to a government hospital in Islamabad for treatment and returned to prison.",
-      "url": "https://www.aljazeera.com/news/2026/11/11/pakistans-pti-demands-access-to-jailed-khan-after-overnight-hospital-visit?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-11T09:47:25+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-02-13T142257Z_780097571_RC20LJA6DA5A_RTRMADP_3_PAKISTAN-POLITICS-KHAN-1790144644_17e247-1790146718.jpg?resize=1200%2C630&quality=80"
-    },
-    {
-      "title": "Tearful Smith switches allegiance to Netherlands",
-      "summary": "Tatjana Smith, South Africa's most decorated Olympian, switches allegiance to the Netherlands.",
-      "url": "https://www.bbc.co.uk/sport/swimming/articles/cmx27n60n3wno?at_medium=RSS&at_campaign=rss",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-11T09:45:14+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/377b/live/67ea3a00-dda2-11f1-9300-17f869f4b225.jpg"
+      "published": "2026-11-11T10:15:12+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "One Nation Victoria candidate apologises for slew of offensive comments about lesbians, Indians and Julia Gillard",
+      "summary": "Exclusive: Chris Moore, running for the party in Greenvale, made derogatory social media comments between 2010 and 2012 Get our daily political email , free app or daily news podcast A One Nation candidate in Victoria has apologised for a series of offensive comments including repeated references to Australian-Indians as “curry munchers”, comparing a woman in burqa to a bag of rubbish, and sharing an image calling Julia Gillard a slut. The party’s candidate for Greenvale on Melbourne’s north-western fringe, Chris Moore, also made derogatory comments about lesbians and refugees and once posted that he “doesn’t like the way the new homo cleaner at work looks at me”. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/11/one-nation-candidate-apologises-offensive-comments-ntwnfb",
+      "source": "The Guardian",
+      "published": "2026-11-11T10:12:42+00:00",
+      "image": "https://i.guim.co.uk/img/media/2c87f54f23de62377d68ddb5fc6706226bf95768/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=fc46ed7b0d488a20eafa6197935d66d0"
+    },
+    {
+      "title": "Pakistan women’s captain Fatima Sana calls for gender equality in cricket",
+      "summary": "Fatima Sana 'dreams of a time' when the men's and women's cricket teams are treated as equals.",
+      "url": "https://www.aljazeera.com/sports/2026/11/11/fatima-sana-pakistan-cricket-equal-treatment-wbbl-perth-scorchers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-11T09:57:37+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260607__B6AA4AW__v1__HighRes__CricketWomensIccT20Wc2026-1794381193_07ea03-1794381905.jpg?resize=1200%2C630&quality=80"
     }
   ],
   "feed_warnings": [
-    "Detik: URLError",
+    "Detik: TimeoutError",
     "Detik: no fresh stories",
     "Detik: keeping previous story"
   ]
