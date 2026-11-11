@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T22:15:30.480961+00:00",
+  "updated_at": "2026-11-11T22:30:35.453514+00:00",
   "national": [
     {
       "title": "Paloh Minta Prabowo Perkuat Konsolidasi: NasDem Berada di Barisan",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Judge rules Trump’s $10bn BBC defamation suit can proceed",
+      "summary": "The BBC denies defamation charge as Trump celebrates “huge victory” in court decision.",
+      "url": "https://www.aljazeera.com/news/2026/11/11/judge-rules-trumps-10bn-bbc-defamation-suit-can-proceed?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-11T22:10:12+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af4bb0e-1794423566.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
       "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
       "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
@@ -37,24 +45,12 @@
     },
     {
       "title": "Nvidia hires leading US law firm to investigate Jensen Huang’s relationship",
-      "summary": "Move comes as chipmaker reels from reports its CEO was having an affair with an alleged Chinese spy Nvidia has appointed a leading US law firm to conduct a “thorough and independent” investigation into the relationship between its chief executive, Jensen Huang, and an alleged Chinese spy . The $4.1tn (£3tn) chipmaker has hired New York-based Wachtell, Lipton, Rosen & Katz for the investigation, which will be led by the Wachtell partner Joon Kim. Wachtell’s website describes Kim, a former government prosecutor in New York, as a specialist in areas including internal investigations, white-collar criminal and regulatory defence, and crisis management. Continue reading...",
+      "summary": "Move comes as chipmaker reels from reports its CEO was having an affair with an alleged Chinese spy Nvidia has appointed a leading US law firm to conduct a “thorough and independent” investigation into the relationship between its chief executive, Jensen Huang, and an alleged Chinese spy . The $4.1tn (£3tn) chipmaker’s board has hired New York-based Wachtell, Lipton, Rosen & Katz for the investigation, which will be led by the Wachtell partner Joon Kim. The firm’s website describes Kim, a former government prosecutor in New York, as a specialist in areas including internal investigations, white-collar criminal and regulatory defence, and crisis management. Continue reading...",
       "url": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
       "source": "The Guardian",
       "published": "2026-11-11T21:59:07+00:00",
       "image": "https://i.guim.co.uk/img/media/b76023068afd6989a4d83782e8ad21ac88094570/327_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=e80fd8b31abebcfb48715c6176ded127"
-    },
-    {
-      "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
-      "summary": "Iran's parliament speaker and top negotiator says Tehran is waiting for an official US response to its seven conditions.",
-      "url": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-11T21:03:40+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af4c8b79ab85-1794427063.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
