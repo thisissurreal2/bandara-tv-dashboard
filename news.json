@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T22:00:41.310094+00:00",
+  "updated_at": "2026-11-11T22:15:30.480961+00:00",
   "national": [
     {
       "title": "Paloh Minta Prabowo Perkuat Konsolidasi: NasDem Berada di Barisan",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Hegseth and team reprimanded by Arlington National Cemetery guard; Trump defends his defense secretary and Iran war - live",
-      "summary": "Incident occurred at Tomb of the Unknown Soldier on day president claimed US ‘did not start war with Iran’ in Veterans Day speech Democrats lambast absent peers over failed Hegseth impeachment House Republicans block effort to impeach Hegseth Sign up for the US Breaking News email Some Democrats, out of the 11 who missed the key procedural vote on Tuesday to impeach Pete Hegseth, blamed a traffic jam in Washington DC for their inability to make it to the US Capitol in time . By a vote of 211-204, Republicans referred the articles of impeachment to the judiciary committee – effectively killing the effort to oust Hegseth. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
+      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+      "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-11T22:07:37+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "Nvidia hires leading US law firm to investigate Jensen Huang’s relationship",
+      "summary": "Move comes as chipmaker reels from reports its CEO was having an affair with an alleged Chinese spy Nvidia has appointed a leading US law firm to conduct a “thorough and independent” investigation into the relationship between its chief executive, Jensen Huang, and an alleged Chinese spy . The $4.1tn (£3tn) chipmaker has hired New York-based Wachtell, Lipton, Rosen & Katz for the investigation, which will be led by the Wachtell partner Joon Kim. Wachtell’s website describes Kim, a former government prosecutor in New York, as a specialist in areas including internal investigations, white-collar criminal and regulatory defence, and crisis management. Continue reading...",
+      "url": "https://www.theguardian.com/technology/2026/nov/11/nvidia-hires-leading-us-law-firm-to-investigate-jensen-huang-relationship",
       "source": "The Guardian",
-      "published": "2026-11-11T21:27:34+00:00",
-      "image": "https://i.guim.co.uk/img/media/1f54726710ceb6eeb18e864d8ff1ca24fb14ecf2/0_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=ebb476fef6f9606187533033d116e587"
+      "published": "2026-11-11T21:59:07+00:00",
+      "image": "https://i.guim.co.uk/img/media/b76023068afd6989a4d83782e8ad21ac88094570/327_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=e80fd8b31abebcfb48715c6176ded127"
     },
     {
       "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
@@ -42,15 +50,11 @@
       "source": "Al Jazeera",
       "published": "2026-11-11T21:03:40+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af4c8b79ab85-1794427063.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-      "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-11T20:52:52+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
