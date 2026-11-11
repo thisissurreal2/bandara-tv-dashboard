@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-11T22:45:30.119082+00:00",
+  "updated_at": "2026-11-11T22:49:58.045166+00:00",
   "national": [
+    {
+      "title": "Pramono: LPDP Jakarta Terbuka untuk Pendidikan Agama",
+      "summary": "Gubernur DKI Jakarta Pramono Anung umumkan program beasiswa LPDP untuk siswa sekolah keagamaan atau yang ingin menempuh pendidikan agama.",
+      "url": "https://www.cnnindonesia.com/nasional/20261111114654-20-1425799/pramono-lpdp-jakarta-terbuka-untuk-pendidikan-agama",
+      "source": "CNN Indonesia",
+      "published": "2026-11-11T22:50:29+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/11/pramono-lpdp-jakarta-buka-opsi-pendidikan-agama-1794371865106_169.png?w=360&q=90"
+    },
     {
       "title": "Gibran Dikabarkan Serahkan Surat Mundur, PDIP: Sein Kiri Belok Kanan",
       "summary": "Gibran Rakabuming Raka dilaporkan mengundurkan diri dari jabatan Wapres. PDIP mempertanyakan kebenaran kabar tersebut dan menyiratkan kemungkinan manuver.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-11T22:28:30+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2025/11/19/ketua-dpp-pdip-bidang-organisasi-dan-keanggotaan-andreas-hugo-pareira-foto-nizar-aldidetiksumut-1763553177272_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Paloh Minta Prabowo Perkuat Konsolidasi: NasDem Berada di Barisan",
-      "summary": "Surya Paloh, Ketua Umum NasDem, meminta Prabowo Subianto memperkuat konsolidasi. Ia berharap Prabowo sukses dan NasDem berkontribusi lebih untuk pemerintah.",
-      "url": "https://www.cnnindonesia.com/nasional/20261111232722-32-1426112/paloh-minta-prabowo-perkuat-konsolidasi-nasdem-berada-di-barisan",
-      "source": "CNN Indonesia",
-      "published": "2026-11-11T21:30:22+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/11/pidato-surya-paloh-di-hut-partai-nasdem-ke-15-1794409748545_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo: Narasi \"Indonesia gelap\" jahat",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
