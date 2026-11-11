@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T21:05:42.536716+00:00",
+  "updated_at": "2026-11-11T21:15:30.383358+00:00",
   "national": [
     {
       "title": "Skandal Polisi Surabaya Ngamar Bareng Kades, Propam Turun Tangan",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Trump praises Hegseth after failed impeachment effort and shrugs off Iran war criticism - live",
+      "summary": "President claims US ‘did not start war with Iran’ in Veterans Day speech where he also backed defense secretary again day after failed impeachment vote Democrats lambast absent peers over failed Hegseth impeachment House Republicans block effort to impeach Hegseth Sign up for the US Breaking News email Some Democrats, out of the 11 who missed the key procedural vote on Tuesday to impeach Pete Hegseth, blamed a traffic jam in Washington DC for their inability to make it to the US Capitol in time . By a vote of 211-204, Republicans referred the articles of impeachment to the judiciary committee – effectively killing the effort to oust Hegseth. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-11T20:57:09+00:00",
+      "image": "https://i.guim.co.uk/img/media/e2700e9cd5295e7d69abdfa78300617b9c785f19/904_0_4551_3640/master/4551.jpg?width=140&quality=85&auto=format&fit=max&s=6500a6dd8b56869ee3b5a364b7832d28"
+    },
+    {
       "title": "Clashes erupt in Barcelona as thousands join Spain general strike",
       "summary": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
       "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-11T20:52:52+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "Trump praises Hegseth after failed impeachment effort and shrugs off Iran war criticism - live",
-      "summary": "President claims US ‘did not start war with Iran’ in Veterans Day speech where he also backed defense secretary again day after failed impeachment vote Democrats lambast absent peers over failed Hegseth impeachment House Republicans block effort to impeach Hegseth Sign up for the US Breaking News email Some Democrats, out of the 11 who missed the key procedural vote on Tuesday to impeach Pete Hegseth, blamed a traffic jam in Washington DC for their inability to make it to the US Capitol in time . By a vote of 211-204, Republicans referred the articles of impeachment to the judiciary committee – effectively killing the effort to oust Hegseth. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-11T20:49:47+00:00",
-      "image": "https://i.guim.co.uk/img/media/e2700e9cd5295e7d69abdfa78300617b9c785f19/904_0_4551_3640/master/4551.jpg?width=140&quality=85&auto=format&fit=max&s=6500a6dd8b56869ee3b5a364b7832d28"
     },
     {
       "title": "Oil production nears pre-Iran war levels, OPEC says",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/reuters_69f1e9ec-1777461740.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
