@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-11T19:45:29.235429+00:00",
+  "updated_at": "2026-11-11T20:01:39.205830+00:00",
   "national": [
     {
-      "title": "Peran Tersangka Kasus Ledakan di Rumah Grand Polonia Medan",
-      "summary": "Polrestabes Medan menetapkan Iqbal sebagai tersangka dalam kasus ledakan di Grand Polonia. Penyidik mendalami kemungkinan tersangka lain.",
-      "url": "https://www.cnnindonesia.com/nasional/20261111204134-12-1426080/peran-tersangka-kasus-ledakan-di-rumah-grand-polonia-medan",
+      "title": "Daftar Longsor di Jakarta Saat Hujan Deras Awal Pekan Ini",
+      "summary": "Hujan disertai angin kencangpekan ini telah berdampak bencana tanah bergerak alias longsor di sejumlah titik Jakarta Selatan. Gubernur DKI ikut menyorotinya.",
+      "url": "https://www.cnnindonesia.com/nasional/20261111135808-20-1425885/daftar-longsor-di-jakarta-saat-hujan-deras-awal-pekan-ini",
       "source": "CNN Indonesia",
-      "published": "2026-11-11T19:30:51+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/07/22/labfor-telusuri-pemicu-ledakan-rumah-grand-polonia-1784690389808_169.jpeg?w=360&q=90"
+      "published": "2026-11-11T20:00:08+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/11/hujan-deras-tanah-longsor-landa-jakarta-1794381066876_169.jpeg?w=360&q=90"
     },
     {
-      "title": "6 Ribu Sekolah di Italia Dapat Teror Bom, Bikin Panik hingga Siswa Dievakuasi",
-      "summary": "Sekolah-sekolah di Italia dievakuasi akibat ancaman bom palsu. PM Meloni menyatakan tidak ada bahaya nyata dan penyelidikan sedang dilakukan.",
-      "url": "https://news.detik.com/internasional/d-8749083/6-ribu-sekolah-di-italia-dapat-teror-bom-bikin-panik-hingga-siswa-dievakuasi",
+      "title": "Suami di Sidoarjo Jual Istri Rp 600 Ribu buat Layanan Seks Threesome",
+      "summary": "Seorang pria di Sidoarjo ditangkap karena menjual istrinya untuk layanan threesome. Polisi menyelidiki kasus ini lebih lanjut.",
+      "url": "https://news.detik.com/berita/d-8749088/suami-di-sidoarjo-jual-istri-rp-600-ribu-buat-layanan-seks-threesome",
       "source": "Detik",
-      "published": "2026-11-11T18:14:37+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2019/03/13/4df6dff0-529b-4b21-85df-8baf54ef2dff_169.jpeg?w=360&q=90"
+      "published": "2026-11-11T19:16:53+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/11/polisi-saat-mengamankan-suami-yang-jual-istri-untuk-layanan-threesome-di-sidoarjo-1794397306143_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo: Narasi \"Indonesia gelap\" jahat",
@@ -28,33 +28,29 @@
   ],
   "international": [
     {
+      "title": "Clashes in Barcelona as thousands join Spain general strike",
+      "summary": "Tens of thousands of people have been taking part in the general strike, called by the country's main unions over housing and the high cost of living.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-11T19:59:48+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36ca/live/af904100-de07-11f1-aa3c-d5f359ebee86.jpg"
+    },
+    {
+      "title": "Veteran actor Irma P Hall, star of The Ladykillers, dies aged 91",
+      "summary": "Once a Dallas school teacher, Hall became a star in later life with roles in Soul Food and Collateral Actor Irma P Hall, star of Soul Food and the Coen brothers’ The Ladykillers , has died at the age of 91. Hall died on Tuesday, her family confirmed alongside a statement that described her as “a beloved actress, author, poet, educator and public speaker whose contributions touched countless lives throughout her remarkable career”. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/11/irma-p-hall-actor-dies",
+      "source": "The Guardian",
+      "published": "2026-11-11T19:47:16+00:00",
+      "image": "https://i.guim.co.uk/img/media/707a067d5b10389990627caae7bac23f3b0b453e/469_0_2425_1940/master/2425.jpg?width=140&quality=85&auto=format&fit=max&s=756742e0210a5593156e7ff3c02167ef"
+    },
+    {
       "title": "Which key races remain undecided one week after the US midterms?",
       "summary": "Democrats hope several races that are still too close to call will further expand their majorities in the US Congress.",
       "url": "https://www.aljazeera.com/news/2026/11/11/which-key-races-remain-undecided-one-week-after-the-us-midterms?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-11-11T19:14:29+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af4a60998b9e-1794418185.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Poundland owner extracted millions when chain was on ‘knife-edge’, MPs say",
-      "summary": "Retailer’s management to seek two-week extension of legal protection from creditors in high court MPs have accused the owner of Poundland of extracting millions of pounds from the budget retailer when it was on a “knife-edge” as it seeks extra time to secure a rescue deal. The management of Poundland, which employs 12,000 people and operates 600 stores in the UK and Ireland, will seek a two-week extension of legal protection from creditors from the high court on Thursday morning. Continue reading...",
-      "url": "https://www.theguardian.com/business/2026/nov/11/poundland-owner-chain-mps-claim-high-court",
-      "source": "The Guardian",
-      "published": "2026-11-11T19:10:26+00:00",
-      "image": "https://i.guim.co.uk/img/media/1b649855fa074407e8669b52440db74680645869/622_0_4636_3711/master/4636.jpg?width=140&quality=85&auto=format&fit=max&s=d3de01cc7638dc266c7aee2d3960c128"
-    },
-    {
-      "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
-      "summary": "More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public. It is not known if the incidents are linked.",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-11T18:38:45+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80c9/live/fc093bd0-ddc7-11f1-9053-236ccb99630c.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
