@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T19:15:28.674465+00:00",
+  "updated_at": "2026-11-11T19:30:35.748078+00:00",
   "national": [
     {
       "title": "6 Ribu Sekolah di Italia Dapat Teror Bom, Bikin Panik hingga Siswa Dievakuasi",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Trump praises Hegseth after failed impeachment effort and shrugs off Iran war criticism - live",
-      "summary": "President claims US ‘did not start war with Iran’ in Veterans Day speech where he also backed defense secretary again day after failed impeachment vote Democrats lambast absent peers over failed Hegseth impeachment House Republicans block effort to impeach Hegseth Sign up for the US Breaking News email Some Democrats, out of the 11 who missed the key procedural vote on Tuesday to impeach Pete Hegseth, blamed a traffic jam in Washington DC for their inability to make it to the US Capitol in time . By a vote of 211-204, Republicans referred the articles of impeachment to the judiciary committee – effectively killing the effort to oust Hegseth. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-11T19:02:23+00:00",
-      "image": "https://i.guim.co.uk/img/media/e2700e9cd5295e7d69abdfa78300617b9c785f19/904_0_4551_3640/master/4551.jpg?width=140&quality=85&auto=format&fit=max&s=6500a6dd8b56869ee3b5a364b7832d28"
+      "title": "Which key races remain undecided one week after the US midterms?",
+      "summary": "Democrats hope several races that are still too close to call will further expand their majorities in the US Congress.",
+      "url": "https://www.aljazeera.com/news/2026/11/11/which-key-races-remain-undecided-one-week-after-the-us-midterms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-11T19:14:29+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af4a60998b9e-1794418185.jpg?resize=1920%2C1440"
     },
     {
-      "title": "More than one million people in Lebanon face acute food shortages, UN says",
-      "summary": "UN warns hunger crisis affecting almost quarter of Lebanon's population could escalate without 'urgent action'.",
-      "url": "https://www.aljazeera.com/news/2026/11/11/one-million-people-in-lebanon-facing-acute-food-insecurity-un-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-11T18:43:40+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-07-06T164242Z_1674135773_RC2N7MA0IQW8_RTRMADP_3_IRAN-CRISIS-LEBANON-RETURN-1794415884.jpg?resize=1920%2C1440"
+      "title": "Poundland owner extracted millions when chain was on ‘knife-edge’, MPs say",
+      "summary": "Retailer’s management to seek two-week extension of legal protection from creditors in high court MPs have accused the owner of Poundland of extracting millions of pounds from the retailer when it was on a “knife-edge” as the budget retailer seeks extra time to secure a rescue deal. The management of Poundland, which employs 12,000 people and operates 600 stores in the UK and Ireland, will seek a two-week extension of legal protection from creditors from the high court on Thursday morning. Continue reading...",
+      "url": "https://www.theguardian.com/business/2026/nov/11/poundland-owner-chain-mps-claim-high-court",
+      "source": "The Guardian",
+      "published": "2026-11-11T19:10:26+00:00",
+      "image": "https://i.guim.co.uk/img/media/1b649855fa074407e8669b52440db74680645869/622_0_4636_3711/master/4636.jpg?width=140&quality=85&auto=format&fit=max&s=d3de01cc7638dc266c7aee2d3960c128"
     },
     {
       "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80c9/live/fc093bd0-ddc7-11f1-9053-236ccb99630c.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
