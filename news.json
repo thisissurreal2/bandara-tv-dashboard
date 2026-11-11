@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-11T02:15:33.309046+00:00",
+  "updated_at": "2026-11-11T02:30:34.388322+00:00",
   "national": [
     {
-      "title": "Siapa yang Akan Pimpin Sidang Etik Listyo Sigit di Kasus Penyadapan?",
-      "summary": "Eks Kapolri Listyo yang merupakan jenderal bintang empat polisi akan disidang etik terkait kasus penyadapan Prabowo. Siapa yang akan memimpin sidangnya?",
-      "url": "https://www.cnnindonesia.com/nasional/20261108153733-12-1424674/siapa-yang-akan-pimpin-sidang-etik-listyo-sigit-di-kasus-penyadapan",
+      "title": "Denny Indrayana Buka Opsi Ladeni Gibran Fight di PTUN",
+      "summary": "Denny Indrayana mempertimbangkan menghadapi Wapres Gibran yang ingin fight di sidang PTUN terkait surat penyetaraan pendidikan Gibran",
+      "url": "https://www.cnnindonesia.com/nasional/20261111091202-12-1425720/denny-indrayana-buka-opsi-ladeni-gibran-fight-di-ptun",
       "source": "CNN Indonesia",
-      "published": "2026-11-11T02:07:42+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/03/ahrie-sonta-1793700508343_169.jpeg?w=360&q=90"
+      "published": "2026-11-11T02:26:57+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2019/05/25/9bd68b66-178a-41cf-99ff-b47a406728a0_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Lestari Moerdijat Dorong Kolaborasi untuk Dukung Taman Bacaan Masyarakat",
-      "summary": "Wakil Ketua MPR RI, Lestari Moerdijat, mendorong skema pendanaan bersama untuk keberlanjutan Taman Bacaan Masyarakat agar tidak bergantung pada satu sumber.",
-      "url": "https://news.detik.com/berita/d-8747641/lestari-moerdijat-dorong-kolaborasi-untuk-dukung-taman-bacaan-masyarakat",
+      "title": "KPK Geledah 6 Lokasi Terkait Kasus Proyek Jalan Sumut, Sita Beberapa Dokumen",
+      "summary": "KPK menggeledah enam lokasi terkait dugaan korupsi proyek jalan di Sumut. Beberapa dokumen disita",
+      "url": "https://news.detik.com/berita/d-8747668/kpk-geledah-6-lokasi-terkait-kasus-proyek-jalan-sumut-sita-beberapa-dokumen",
       "source": "Detik",
-      "published": "2026-11-11T01:55:22+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/11/wakil-ketua-mpr-ri-lestari-moerdijat-rerie-1794362100710_43.jpeg?w=360&q=90"
+      "published": "2026-11-11T02:22:55+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2021/03/02/gedung-baru-kpk-4_169.jpeg?w=360&q=90"
     },
     {
       "title": "Kapolri: Polri akan ungkap pelaku demo yang membawa barang berbahaya",
@@ -27,6 +27,14 @@
     }
   ],
   "international": [
+    {
+      "title": "Protesters throw milk at Joe Biden during Hunter event in Dublin",
+      "summary": "Pro-Palestinian protesters hurled milk towards Joe Biden in Ireland over his support for Israel.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/protesters-throw-milk-at-joe-biden-during-hunter-event-in-dublin?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-11T02:12:22+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794363073.jpg?resize=1920%2C1080&quality=80"
+    },
     {
       "title": "Pentagon declares ‘total victory’ after House Republicans block effort to impeach Pete Hegseth – US politics live",
       "summary": "Republicans secure majority of votes to send articles introduced by Thomas Massie to committee, meaning there won’t be a full vote on chamber floor House Republicans block effort to impeach Pentagon chief Pete Hegseth Sign up for the US Breaking News email During his press conference, Hegseth was resolute that the articles of impeachment are baseless, and that all attacks were carried out legally. “As for the articles themselves, Iran, the cartels, Maduro, Yemen, everyone was a lawful operation ordered by the commander-in-chief, then ordered by myself, notified to Congress and executed by American warriors who did their jobs,” he said. “We destroyed terror regimes’ capabilities. We sank the boats carrying poison into our communities. We put a narco dictator in handcuffs. These are not high crimes. This is the job, and it’s the job well done.” Continue reading...",
@@ -42,19 +50,7 @@
       "source": "BBC",
       "published": "2026-11-11T01:14:40+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "Tigray displaced families fear renewed war as hopes of returning home fade",
-      "summary": "Displaced families face renewed uncertainty as fighting returns to Tigray.",
-      "url": "https://www.aljazeera.com/news/2026/11/11/tigray-displaced-families-fear-renewed-war-as-hopes-of-returning-home-fade?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-11T01:11:04+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2021/06/AP21147770436869.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
