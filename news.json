@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T20:01:39.205830+00:00",
+  "updated_at": "2026-11-11T20:15:31.189423+00:00",
   "national": [
     {
       "title": "Daftar Longsor di Jakarta Saat Hujan Deras Awal Pekan Ini",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Clashes in Barcelona as thousands join Spain general strike",
-      "summary": "Tens of thousands of people have been taking part in the general strike, called by the country's main unions over housing and the high cost of living.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+      "title": "Uzbekistan: the crossroads of Central Asian cultures",
+      "summary": "Showcased in Qatar’s Museum of Islamic Art lies an exhibition that expands on Uzbekistan’s intercultural artifacts.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/uzbekistan-the-crossroads-of-central-asian-cultures?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-11T20:07:31+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794427627.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
+      "title": "African writing award probe finds 'no evidence' winning story was AI generated",
+      "summary": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine.",
+      "url": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-11T19:59:48+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36ca/live/af904100-de07-11f1-aa3c-d5f359ebee86.jpg"
+      "published": "2026-11-11T20:00:54+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d560/live/9c22bcf0-ddfe-11f1-8445-15eb55286f71.jpg"
     },
     {
       "title": "Veteran actor Irma P Hall, star of The Ladykillers, dies aged 91",
@@ -42,14 +50,6 @@
       "source": "The Guardian",
       "published": "2026-11-11T19:47:16+00:00",
       "image": "https://i.guim.co.uk/img/media/707a067d5b10389990627caae7bac23f3b0b453e/469_0_2425_1940/master/2425.jpg?width=140&quality=85&auto=format&fit=max&s=756742e0210a5593156e7ff3c02167ef"
-    },
-    {
-      "title": "Which key races remain undecided one week after the US midterms?",
-      "summary": "Democrats hope several races that are still too close to call will further expand their majorities in the US Congress.",
-      "url": "https://www.aljazeera.com/news/2026/11/11/which-key-races-remain-undecided-one-week-after-the-us-midterms?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-11T19:14:29+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af4a60998b9e-1794418185.jpg?resize=1920%2C1440"
     }
   ],
   "feed_warnings": []
