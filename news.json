@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T21:45:28.702021+00:00",
+  "updated_at": "2026-11-11T22:00:41.310094+00:00",
   "national": [
     {
       "title": "Paloh Minta Prabowo Perkuat Konsolidasi: NasDem Berada di Barisan",
@@ -10,12 +10,12 @@
       "image": "https://akcdn.detik.net.id/visual/2026/11/11/pidato-surya-paloh-di-hut-partai-nasdem-ke-15-1794409748545_169.jpeg?w=360&q=90"
     },
     {
-      "title": "2 IRT di Pontianak Kirim Pengantin Pesanan ke China, Upahnya Tiket Liburan",
-      "summary": "Dua ibu rumah tangga di Pontianak ditangkap dalam kasus perdagangan orang dengan modus pengantin pesanan ke China. Mereka dijanjikan upah dan liburan gratis.",
-      "url": "https://news.detik.com/berita/d-8749101/2-irt-di-pontianak-kirim-pengantin-pesanan-ke-china-upahnya-tiket-liburan",
+      "title": "Bejat Kelakuan Pegawai Puskesmas di Karangasem Setubuhi Sepupu hingga 62 Kali",
+      "summary": "Seorang PNS di Bali ditetapkan sebagai tersangka kekerasan seksual terhadap sepupunya. Korban mengalami 62 kali persetubuhan sejak usia 9 tahun.",
+      "url": "https://news.detik.com/berita/d-8749105/bejat-kelakuan-pegawai-puskesmas-di-karangasem-setubuhi-sepupu-hingga-62-kali",
       "source": "Detik",
-      "published": "2026-11-11T20:16:29+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/10/dua-irt-pontianak-tersangka-ttpo-modus-pengantin-pesanan-ke-china-ocsya-ade-cp-1794284637859_169.jpeg?w=360&q=90"
+      "published": "2026-11-11T21:09:40+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/11/konferensi-pers-pengungkapan-kasus-dugaan-kekerasan-seksual-di-mapolres-karangasem-rabu-11112026-foto-dok-polres-karangasem-1794391194436_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo: Narasi \"Indonesia gelap\" jahat",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
