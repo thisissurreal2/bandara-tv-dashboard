@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-11T02:00:44.683329+00:00",
+  "updated_at": "2026-11-11T02:15:33.309046+00:00",
   "national": [
+    {
+      "title": "Siapa yang Akan Pimpin Sidang Etik Listyo Sigit di Kasus Penyadapan?",
+      "summary": "Eks Kapolri Listyo yang merupakan jenderal bintang empat polisi akan disidang etik terkait kasus penyadapan Prabowo. Siapa yang akan memimpin sidangnya?",
+      "url": "https://www.cnnindonesia.com/nasional/20261108153733-12-1424674/siapa-yang-akan-pimpin-sidang-etik-listyo-sigit-di-kasus-penyadapan",
+      "source": "CNN Indonesia",
+      "published": "2026-11-11T02:07:42+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/03/ahrie-sonta-1793700508343_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Lestari Moerdijat Dorong Kolaborasi untuk Dukung Taman Bacaan Masyarakat",
       "summary": "Wakil Ketua MPR RI, Lestari Moerdijat, mendorong skema pendanaan bersama untuk keberlanjutan Taman Bacaan Masyarakat agar tidak bergantung pada satu sumber.",
@@ -10,20 +18,12 @@
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/11/wakil-ketua-mpr-ri-lestari-moerdijat-rerie-1794362100710_43.jpeg?w=360&q=90"
     },
     {
-      "title": "Mahfud Nilai Gibran Lebih Baik Mundur Ketimbang Dimakzulkan",
-      "summary": "Mahfud MD menilai Wakil Presiden Gibran Rakabuming Raka lebih baik mengundurkan diri ketimbang menghadapi proses pemakzulan.",
-      "url": "https://www.cnnindonesia.com/nasional/20261111085100-12-1425714/mahfud-nilai-gibran-lebih-baik-mundur-ketimbang-dimakzulkan",
-      "source": "CNN Indonesia",
-      "published": "2026-11-11T01:54:58+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/05/06/konferensi-pers-rekomendasi-komisi-percepatan-reformasi-polri-1778052278052_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Kabakom bantah Presiden beri saran Gibran tetap \"fight\" di pengadilan",
-      "summary": "Kepala Badan Komunikasi Pemerintah RI (Kabakom) Syahganda Nainggolan membantah kabar pernyataan terkait Presiden ...",
-      "url": "https://www.antaranews.com/berita/5845567/kabakom-bantah-presiden-beri-saran-gibran-tetap-fight-di-pengadilan",
+      "title": "Kapolri: Polri akan ungkap pelaku demo yang membawa barang berbahaya",
+      "summary": "Kepala Kepolisian Negeri Republik Indonesia (Kapolri) Jenderal Polisi Suyudi Ario Seto menyatakan Polri akan mengungkap ...",
+      "url": "https://www.antaranews.com/berita/5845615/kapolri-polri-akan-ungkap-pelaku-demo-yang-membawa-barang-berbahaya",
       "source": "ANTARA",
-      "published": "2026-11-11T00:18:35+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/10/IMG_4575_1.jpeg"
+      "published": "2026-11-11T01:10:27+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/11/IMG_20261111_075942.jpg"
     }
   ],
   "international": [
@@ -32,7 +32,7 @@
       "summary": "Republicans secure majority of votes to send articles introduced by Thomas Massie to committee, meaning there won’t be a full vote on chamber floor House Republicans block effort to impeach Pentagon chief Pete Hegseth Sign up for the US Breaking News email During his press conference, Hegseth was resolute that the articles of impeachment are baseless, and that all attacks were carried out legally. “As for the articles themselves, Iran, the cartels, Maduro, Yemen, everyone was a lawful operation ordered by the commander-in-chief, then ordered by myself, notified to Congress and executed by American warriors who did their jobs,” he said. “We destroyed terror regimes’ capabilities. We sank the boats carrying poison into our communities. We put a narco dictator in handcuffs. These are not high crimes. This is the job, and it’s the job well done.” Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/10/donald-trump-pete-hegseth-thomas-massie-republicans-iran-war-impeachment-midterms-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-11T01:42:15+00:00",
+      "published": "2026-11-11T02:04:05+00:00",
       "image": "https://i.guim.co.uk/img/media/90fd5e65c58f923c6fc4059a2197568133881e15/947_0_4715_3774/master/4715.jpg?width=140&quality=85&auto=format&fit=max&s=1cdd180aea06c3729397bafc16a133f9"
     },
     {
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2021/06/AP21147770436869.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
