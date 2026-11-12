@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-12T18:45:30.569843+00:00",
+  "updated_at": "2026-11-12T19:00:39.719612+00:00",
   "national": [
     {
-      "title": "Pemuda di Batang Diduga Cabuli Siswa SD, Modus Dibelikan Barang",
-      "summary": "Pemuda di Batang ditangkap karena diduga mencabuli siswa SD. Modusnya menjanjikan permen dan barang.",
-      "url": "https://news.detik.com/berita/d-8750753/pemuda-di-batang-diduga-cabuli-siswa-sd-modus-dibelikan-barang",
+      "title": "Kebakaran Agen Gas LPG di Cakung Padam, Tak Ada Korban Jiwa",
+      "summary": "Kebakaran agen gas LPG di Cakung, Jakarta Timur berhasil dipadamkan. Tak ada korban jiwa.",
+      "url": "https://news.detik.com/berita/d-8750754/kebakaran-agen-gas-lpg-di-cakung-padam-tak-ada-korban-jiwa",
       "source": "Detik",
-      "published": "2026-11-12T18:18:22+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/pencabulan-di-batang-1794475038507_169.jpeg?w=360&q=90"
+      "published": "2026-11-12T18:36:09+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/damkar-1794508498254_169.jpeg?w=360&q=90"
     },
     {
       "title": "Denny Indrayan: Putusan PTUN Gugurkan Suket Gibran Kemenangan Mercy",
@@ -28,36 +28,29 @@
   ],
   "international": [
     {
-      "title": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
-      "summary": "Nvidia’s value slumps by $888bn this week as scandal over longtime CEO’s two affairs, including with a suspected Chinese spy, engulfs chip maker Analysis: Jensen Huang built an AI kingdom. What now? Full report: Jensen Huang resigns as Nvidia CEO Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla 3.6%. On the other hand, Nvidia’s board does not appear to have spent much time worrying about succession planning and “key person risk” or other standard concerns of corporate governance wonks outside the US. Continue reading...",
-      "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-      "source": "The Guardian",
-      "published": "2026-11-12T18:29:45+00:00",
-      "image": "https://i.guim.co.uk/img/media/ee87aa39a5285390ddbdaa26b7ca3472a48da292/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=521ae24e36f8fdf4fa3ee96fe310946d"
-    },
-    {
-      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
-      "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
-      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+      "summary": "Specialist Thomas Iglesias was given a Joint Service Commendation Medal for the execution of his duties after Wednesday's incident.",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-12T18:28:59+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg"
+      "published": "2026-11-12T18:47:35+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9916/live/a7c0bac0-dec7-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Al Jazeera reports from Gaza hospital attacked by Israel",
-      "summary": "Al Jazeera’s Tareq Abu Azzoum reports on the aftermath of an Israeli strike on Nasser Hospital",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/al-jazeera-reports-from-gaza-hospital-attacked-by-israel?traffic_source=rss",
+      "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery – US politics live",
+      "summary": "Defense secretary issues commendation to US army sentinel who told him and his aides to be quiet after laughter was heard at Tomb of the Unknown Soldier Pete Hegseth awards medal to soldier who reprimanded him Sign up for the Breaking News US email Perhaps you saw this ad from Scott Colom, who was just elected to serve as Mississippi’s first Democratic senator since 1989: The New York Times spoke to Russ Hudson , the man who is grilling in the first part of the ad and uttered the “sheeeit” that has now become an emblem of Colom’s successful campaign. Here’s what he had to say, from the Times: The lines, he said, felt natural. He left thinking maybe a couple thousand people would see it. “I just did it like a Mississippian would,” Mr. Hudson said in an interview. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
+      "source": "The Guardian",
+      "published": "2026-11-12T18:44:52+00:00",
+      "image": "https://i.guim.co.uk/img/media/643bd3e107bf10fec5fb9540b81a8dc3fab9fbb3/638_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=a39a9c6d43d926a7703e438d7352ec29"
+    },
+    {
+      "title": "Pro-Palestine philanthropist faces US extradition hearing in Spain",
+      "summary": "James 'Fergie' Chambers denies wrongdoing, while his wife urges PM Sanchez to grant him political asylum.",
+      "url": "https://www.aljazeera.com/news/2026/11/12/james-fergie-chambers-extradition-hearing?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-12T18:03:02+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794506574.jpg?resize=1920%2C1080&quality=80"
+      "published": "2026-11-12T18:41:40+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/Fergie-Chambers1-1788295416.png?resize=1200%2C630"
     }
   ],
-  "feed_warnings": [
-    "ANTARA: TimeoutError",
-    "ANTARA: no fresh stories",
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "ANTARA: keeping previous story",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
