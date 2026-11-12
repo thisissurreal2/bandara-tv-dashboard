@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T21:30:35.867519+00:00",
+  "updated_at": "2026-11-12T21:45:29.473213+00:00",
   "national": [
     {
       "title": "KPK Buka Suara Disebut Jadi Target Penyadapan Listyo Sigit Cs",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
+      "summary": "Nvidia’s value slumps by $888bn this week as scandal over longtime CEO’s two affairs, including with a suspected Chinese spy, engulfs chip maker Analysis: Jensen Huang built an AI kingdom. What now? Full report: Jensen Huang resigns as Nvidia CEO Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla 3.6%. On the other hand, Nvidia’s board does not appear to have spent much time worrying about succession planning and “key person risk” or other standard concerns of corporate governance wonks outside the US. Continue reading...",
+      "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+      "source": "The Guardian",
+      "published": "2026-11-12T21:33:08+00:00",
+      "image": "https://i.guim.co.uk/img/media/ee87aa39a5285390ddbdaa26b7ca3472a48da292/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=521ae24e36f8fdf4fa3ee96fe310946d"
+    },
+    {
       "title": "Search for British woman missing from Tui cruise in Atlantic called off",
       "summary": "The 72-year-old is believed to have gone overboard from the Tui ship on Monday as it headed towards the Caribbean.",
       "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
@@ -42,14 +50,6 @@
       "source": "Al Jazeera",
       "published": "2026-11-12T21:18:24+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794518292.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "title": "Nvidia’s Jensen Huang to testify to US Congress amid scandal, reports say, as CFO Colette Kress replaces him as interim CEO – follow live",
-      "summary": "Nvidia’s value slumps by $888bn this week as scandal over longtime CEO’s two affairs, including with a suspected Chinese spy, engulfs chip maker Analysis: Jensen Huang built an AI kingdom. What now? Full report: Jensen Huang resigns as Nvidia CEO Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla 3.6%. On the other hand, Nvidia’s board does not appear to have spent much time worrying about succession planning and “key person risk” or other standard concerns of corporate governance wonks outside the US. Continue reading...",
-      "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-      "source": "The Guardian",
-      "published": "2026-11-12T21:17:36+00:00",
-      "image": "https://i.guim.co.uk/img/media/ee87aa39a5285390ddbdaa26b7ca3472a48da292/0_0_1500_1200/master/1500.jpg?width=140&quality=85&auto=format&fit=max&s=521ae24e36f8fdf4fa3ee96fe310946d"
     }
   ],
   "feed_warnings": [
