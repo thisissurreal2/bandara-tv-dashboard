@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-12T09:30:34.724982+00:00",
+  "updated_at": "2026-11-12T09:45:32.390433+00:00",
   "national": [
     {
-      "title": "FOTO: Puja-puji Prabowo Saat Terima Pengunduran Diri Gibran",
-      "summary": "Presiden Prabowo Subianto mengaku berat hati menerima pengunduran diri Gibran Rakabuming dari jabatan wakil presiden.",
-      "url": "https://www.cnnindonesia.com/nasional/20261112155756-34-1426468/foto-puja-puji-prabowo-saat-terima-pengunduran-diri-gibran",
+      "title": "Prabowo ke Gibran: Terima kasih Atas Pengabdian Sebagai Wapres",
+      "summary": "Presiden Prabowo Subianto menyampaikan rasa terima kasih kepada Gibran Rakabuming Raka yang baru saja mengundurkan diri sebagai wakil presiden.",
+      "url": "https://www.cnnindonesia.com/nasional/20261112160311-36-1426476/prabowo-ke-gibran-terima-kasih-atas-pengabdian-sebagai-wapres",
       "source": "CNN Indonesia",
-      "published": "2026-11-12T09:16:30+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/12/puja-puji-prabowo-terima-pengunduran-diri-gibran-1794473873081_169.jpeg?w=360&q=90"
+      "published": "2026-11-12T09:33:20+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/12/thumbnail-video-1794474425808_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo: Keadilan dan kemakmuran bisa terwujud dalam suasana damai",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "AI helps UK economy grow at fastest pace for more than two years",
-      "summary": "GDP ‘grew robustly’ by 0.7% in third quarter and by 0.2% month on month in September despite high oil prices Business live – latest updates The UK economy grew by 0.7% in the third quarter, its fastest expansion in two and a half years, as the rollout of AI services increased activity. The Office for National Statistics reported that the economy “grew robustly” in the July to September quarter, almost entirely due to strong and widespread growth in the services sector, led by the IT sector. Continue reading...",
-      "url": "https://www.theguardian.com/business/2026/nov/12/uk-economy-grows-third-quarter-oil-price-ons-gdp",
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-12T09:43:11+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg"
+    },
+    {
+      "title": "Ukraine hit by ‘significant’ Starshield disruptions as US envoys meet Putin, Zelenskyy says - Europe live",
+      "summary": "Ukraine’s president said unwelcome ‘speed restrictions’ on military connectivity are ‘helping the Russians kill’ I am also keeping one eye on another bomb alert in Europe, this time at Calais-Fréthun station in northern France. The station remains closed as the alert is getting “assessed,” local authorities said. “Due to a request for police assistance at Calais-Fréthun, your train is delayed. We’re waiting for more information and we’ll confirm your estimated delay as soon as possible. Thanks for your patience.” Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-12T09:12:52+00:00",
-      "image": "https://i.guim.co.uk/img/media/03d426a9448a740b53deaeac03677f5a7c97417e/417_0_4167_3333/master/4167.jpg?width=140&quality=85&auto=format&fit=max&s=040a7ae25f1278872b813c75d05ab697"
+      "published": "2026-11-12T09:27:44+00:00",
+      "image": "https://i.guim.co.uk/img/media/f7908dac85bdca30bcc9926d01183c835edb4feb/1782_18_3821_3057/master/3821.jpg?width=140&quality=85&auto=format&fit=max&s=ec6c5cde44339a49a2d5b19efd26ded4"
     },
     {
       "title": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin",
@@ -42,14 +50,6 @@
       "source": "Al Jazeera",
       "published": "2026-11-12T09:01:24+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af573436cb0-1794470723.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-12T09:00:15+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg"
     }
   ],
   "feed_warnings": [
