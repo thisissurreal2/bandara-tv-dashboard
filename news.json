@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-12T05:30:32.322540+00:00",
+  "updated_at": "2026-11-12T05:45:27.574832+00:00",
   "national": [
     {
-      "title": "Wapres Gibran Mundur, Paripurna DPR Terkait Pemakzulan Dibatalkan",
-      "summary": "DPR membatalkan rapat paripurna terkait Hak Menyatakan Pendapat untuk Gibran Rakabuming Raka, menyusul pengunduran dirinya sebagai Wakil Presiden.",
-      "url": "https://www.cnnindonesia.com/nasional/20261112121251-32-1426289/wapres-gibran-mundur-paripurna-dpr-terkait-pemakzulan-dibatalkan",
+      "title": "Jokowi Tetap Dukung Prabowo meski Gibran Mundur dari Wapres",
+      "summary": "Jokowi menegaskan tetap mendukung Pemerintahan Prabowo di tengah pengunduran diri putranya, Gibran. Ia menekankan jabatan politik bersifat sementara.",
+      "url": "https://www.cnnindonesia.com/nasional/20261112123220-32-1426299/jokowi-kita-tetap-terus-mendukung-pemerintahan",
       "source": "CNN Indonesia",
-      "published": "2026-11-12T05:28:52+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/12/wakil-presiden-gibran-rakabuming-raka-tiba-di-gedung-nusantara-iii-kompleks-parlemen-senayan-jakarta-kamis-12112026-cnbc-indon-1794457786519_169.jpeg?w=360&q=90"
+      "published": "2026-11-12T05:43:55+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/05/jokowi-kahiyang-dan-kaesang-masuk-ke-ruang-sidang-di-pn-jaktim-1793845357751_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "Wakil Presiden mendatangi Parlemen di Senayan",
+      "summary": "Wakil Presiden Gibran Rakabuming Raka (tengah) tiba di Kompleks Parlemen, Jakarta, Kamis (12/11/2026). ANTARA ...",
+      "url": "https://www.antaranews.com/foto/5848695/wakil-presiden-mendatangi-parlemen-di-senayan",
+      "source": "ANTARA",
+      "published": "2026-11-12T05:43:10+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/12/Gibran-Datangi-Kompleks-Parlemen-121126-1.jpeg"
     },
     {
       "title": "Merger 4 MI BUMN, Danareksa Investments Jamin Keamanan Aset Nasabah",
@@ -16,14 +24,6 @@
       "source": "Detik",
       "published": "2026-11-12T05:23:11+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/danantara-1794460979437_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "MPR tindak lanjuti surat pengunduran diri Gibran",
-      "summary": "Ketua MPR Ahmad Muzani mengatakan lembaganya segera menindaklanjuti surat pengunduran diri Gibran Rakabuming Raka ...",
-      "url": "https://www.antaranews.com/berita/5848643/mpr-tindak-lanjuti-surat-pengunduran-diri-gibran",
-      "source": "ANTARA",
-      "published": "2026-11-12T05:05:34+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/12/IMG_8763.jpeg"
     }
   ],
   "international": [
@@ -41,16 +41,20 @@
       "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-12T05:12:56+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c33/live/96352aa0-de51-11f1-a701-fddedf244c16.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7651/live/2883df70-de5a-11f1-9b47-0919bf7329d1.jpg"
     },
     {
-      "title": "More than 300 migrants rescued off Spain’s Canary Islands",
-      "summary": "More than 300 migrants were rescued off Spain’s Canary Islands amid a surge in Atlantic crossings.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/more-than-300-migrants-rescued-off-spains-canary-islands?traffic_source=rss",
+      "title": "French guard collapses as Macron rushes to help",
+      "summary": "A member of the French honour guard collapsed during Slovak President Peter Pellegrini’s arrival at the Elysee Palace.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_guard-collapses-during-macrons-welcome-slovak-pres-111126?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-12T05:04:25+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794459773.jpg?resize=1647%2C1080&quality=80"
+      "published": "2026-11-12T05:11:15+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794460245.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
