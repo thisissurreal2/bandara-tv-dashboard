@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-12T01:30:32.413461+00:00",
+  "updated_at": "2026-11-12T01:45:25.251940+00:00",
   "national": [
+    {
+      "title": "Kapolri Tiba di Komisi III DPR Hadiri Rapat Penyadapan Ilegal",
+      "summary": "Komisi III DPR menggelar rapat dengan Kapolri Jenderal Suyudi untuk membahas kasus penyadapan ilegal. Rapat ini menjadi yang pertama sejak Suyudi dilantik.",
+      "url": "https://news.detik.com/berita/d-8749241/kapolri-tiba-di-komisi-iii-dpr-hadiri-rapat-penyadapan-ilegal",
+      "source": "Detik",
+      "published": "2026-11-12T01:38:21+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/kapolri-tiba-di-komisi-iii-dpr-hadiri-rapat-penyadapan-ilegal-1794447473393_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Imigrasi Bali Deportasi 15 WNA Malaysia yang Jadi Admin Pinjol",
       "summary": "Kantor Imigrasi Ngurah Rai mendeportasi 19 WNA, termasuk 15 dari Malaysia, akibat penyalahgunaan izin tinggal. Penegakan hukum keimigrasian terus diperkuat.",
@@ -16,45 +24,33 @@
       "source": "ANTARA",
       "published": "2026-11-12T00:32:48+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/12/WhatsApp-Image-2026-11-11-at-7.33.54-PM.jpeg"
-    },
-    {
-      "title": "DPR Gelar Sidang Paripurna Hari Ini",
-      "summary": "DPR RI akan menggelar rapat paripurna. Salah satu pembahasannya diketahui penyampaian usulan hak menyatakan pendapat pemakzulan Gibran sebagai Wapres.",
-      "url": "https://news.detik.com/berita/d-8749162/dpr-gelar-sidang-paripurna-hari-ini",
-      "source": "Detik",
-      "published": "2026-11-12T00:24:57+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/10/dpr-kembali-bersidang-403-anggota-hadiri-rapat-paripurna-pembukaan-masa-sidang-1794290810200_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
     {
-      "title": "Former Italian Red Brigades member escapes house arrest in Argentina",
-      "summary": "Bertulazzi used a rope and harness to climb down from a fifth-floor apartment and evade authorities in Argentina.",
-      "url": "https://www.aljazeera.com/news/2026/11/12/former-italian-red-brigades-member-escapes-house-arrest-in-argentina?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-12T01:04:28+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af4f9d6b34c-1794439638.jpg?resize=1650%2C1080"
-    },
-    {
-      "title": "Australian states could sue tobacco companies for billions in healthcare costs under proposal",
-      "summary": "Exclusive: Former barrister who helped legally establish that secondhand smoke causes lung cancer argues states could seek up to $50bn in compensation Get our breaking news email , free app or daily news podcast Australian state governments could sue tobacco companies for billions in public hospital and healthcare costs, under a proposal developed by a former barrister who helped legally establish that secondhand smoke causes lung cancer. The South Australian government is formally seeking advice on the proposal, while other states are reviewing it. Continue reading...",
-      "url": "https://www.theguardian.com/business/2026/nov/12/australian-states-could-sue-tobacco-companies-for-billions-smoking-healthcare-costs",
-      "source": "The Guardian",
-      "published": "2026-11-12T01:02:01+00:00",
-      "image": "https://i.guim.co.uk/img/media/71736ee50685598d060b0bfb06e2a1f6855276fc/792_0_1260_1008/master/1260.jpg?width=140&quality=85&auto=format&fit=max&s=f8fc80cc95b126e2aa84d9b7e61e9c6d"
-    },
-    {
-      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-      "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
-      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "title": "New York building collapse kills one person and injures 12",
+      "summary": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
+      "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-12T01:00:04+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a54/live/d643ec30-de33-11f1-b8ec-f53576d91bbb.jpg"
+      "published": "2026-11-12T01:34:58+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8114/live/d10cd710-de22-11f1-a006-f3a783cdc303.jpg"
+    },
+    {
+      "title": "What could Chinese intelligence have learned from Nvidia CEO’s affair?",
+      "summary": "Nvidia says no secrets were compromised, but experts question what sensitive information may have been exposed.",
+      "url": "https://www.aljazeera.com/news/2026/11/12/what-could-chinese-intelligence-have-learned-from-nvidia-ceos-affair?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-12T01:33:09+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af4e62bc236-1794434603.jpg?resize=1920%2C1440"
+    },
+    {
+      "title": "Human torso found in sofa in Sydney bushland prompts homicide investigation",
+      "summary": "Police called to Lane Cove North on Wednesday after sofa found containing human torso believed to be that of adult man Get our breaking news email , free app or daily news podcast New South Wales police have launched a homicide investigation after a human torso was found in bushland on Sydney’s lower north shore. Police were called to Lane Cove North about 2.30pm on Wednesday after reports of human remains. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/12/human-torso-found-sydneys-lower-north-shore-ntwnfb",
+      "source": "The Guardian",
+      "published": "2026-11-12T01:27:01+00:00",
+      "image": "https://i.guim.co.uk/img/media/044ffe8c79a48109cd1062a64febf98a1f397a8e/140_0_4140_3314/master/4140.jpg?width=140&quality=85&auto=format&fit=max&s=71e5853b603e3b99456a72505778f8e4"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
