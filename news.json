@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-12T03:15:29.920465+00:00",
+  "updated_at": "2026-11-12T03:27:00.170007+00:00",
   "national": [
     {
-      "title": "KPK Dalami Jual Beli Aset Eks Kakanwil DJP Saat Periksa Mantan Seskab",
-      "summary": "KPK mendalami jual beli aset eks Kakanwil DJP MH saat periksa mantan Seskab inisialDA. MH tersangka gratifikasi dengan dugaan penerimaan hingga Rp20,7 M.",
-      "url": "https://www.cnnindonesia.com/nasional/20261112095759-12-1426203/kpk-dalami-jual-beli-aset-eks-kakanwil-djp-saat-periksa-mantan-seskab",
+      "title": "Pimpinan MPR Ramai-ramai Datang Jelang Penyerahan Surat Mundur Gibran",
+      "summary": "Sejumlah pimpinan MPR mulai tiba di kompleks parlemen jelang kabar kedatangan Gibran Rakabuming.",
+      "url": "https://www.cnnindonesia.com/nasional/20261112101851-32-1426214/pimpinan-mpr-ramai-ramai-datang-jelang-penyerahan-surat-mundur-gibran",
       "source": "CNN Indonesia",
-      "published": "2026-11-12T03:13:35+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2017/02/20/86930134-8b64-410a-85b0-13ee095033e6_169.jpg?w=360&q=90"
+      "published": "2026-11-12T03:24:02+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/10/konferensi-pers-wakil-presiden-1794312335059_169.jpeg?w=360&q=90"
     },
     {
       "title": "Pramono Temukan Setengah Hektare Hutan Kota di Jakut Jadi Tempat Sampah Ilegal",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems",
-      "summary": "Since the US war on Iran began in February, there have been hundreds of oil spills, posing a ‘generational’ threat to wildlife The vast, dark slicks in the strait of Hormuz are visible from space. Throughout October, oil tankers were struck by missiles or sea mines in the waterway and spilled crude into the sea. The pollution has spread across the Gulf, contaminating coastlines and threatening to cause lasting damage to marine ecosystems that are home to dolphins, sea turtles and countless species of fish. Eight months into the war between the US and Iran, one of the world’s busiest oil shipping routes has become a battlefield and the centre of a growing environmental disaster . Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems",
+      "title": "Mother reunites with sons taken under Pinochet regime 40 years ago",
+      "summary": "A Chilean mother has finally embraced her sons for the first time in 40 years since they were taken under Pinochet.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_mother-reunites-with-sons-taken-under-pinochet-111126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-12T03:13:32+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794453206.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
+      "title": "Democrat Scott Colom to be first Black senator elected in Mississippi since 1874 after narrow win – US politics live",
+      "summary": "Colom beat Republican Cindy Hyde-Smith after race was called eight days after midterm election day Democrat Scott Colom wins race for US Senate in Mississippi How Colom won deep-red Mississippi with little help from Democrats Sign up for the US Breaking News email Some Democrats, out of the 11 who missed the key procedural vote on Tuesday to impeach Pete Hegseth, blamed a traffic jam in Washington DC for their inability to make it to the US Capitol in time . By a vote of 211-204, Republicans referred the articles of impeachment to the judiciary committee – effectively killing the effort to oust Hegseth. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-12T03:00:07+00:00",
-      "image": "https://i.guim.co.uk/img/media/edaf20607ad86d1eaeb652f3e3941f4f2ea5bc51/193_0_5785_4627/master/5785.jpg?width=140&quality=85&auto=format&fit=max&s=5b1a9c857a8da2de3a5dbe173898dd4f"
+      "published": "2026-11-12T03:13:07+00:00",
+      "image": "https://i.guim.co.uk/img/media/94dc17433aba4186d1d5c3aeaa90b0a28a0a1ded/865_0_4664_3732/master/4664.jpg?width=140&quality=85&auto=format&fit=max&s=67df36ccb42b19c4f756517bdbc5196e"
     },
     {
       "title": "Australian teen missing in bush for six days rescued alive",
@@ -42,15 +50,11 @@
       "source": "BBC",
       "published": "2026-11-12T02:40:18+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/274e/live/2e3b6140-de41-11f1-a9ed-658311f31da9.png"
-    },
-    {
-      "title": "Indonesian VP resigns over education qualification row",
-      "summary": "Indonesia's Vice President Gibran Rakabuming Raka has resigned amid a dispute over his educational qualifications.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-12T02:22:48+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794450131.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
