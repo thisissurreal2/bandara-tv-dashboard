@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-12T11:30:34.899333+00:00",
+  "updated_at": "2026-11-12T11:45:13.897224+00:00",
   "national": [
+    {
+      "title": "Gibran Resmi Pamitan ke Pegawai dan Tinggalkan Istana Wapres",
+      "summary": "Gibran Rakabuming Raka berpamitan kepada pegawai Istana Wapres setelah mundur sebagai Wakil Presiden.",
+      "url": "https://www.cnnindonesia.com/nasional/20261112182609-32-1426543/gibran-resmi-pamitan-ke-pegawai-dan-tinggalkan-istana-wapres",
+      "source": "CNN Indonesia",
+      "published": "2026-11-12T11:39:14+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/12/goodbye-gibran-1794470415515_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Waka MPR: RUU Sisdiknas Pastikan Guru Disabilitas Dapat Kesempatan Sama",
       "summary": "Wakil Ketua MPR Lestari Moerdijat menegaskan hak penyandang disabilitas untuk berkarier sebagai guru, mendukung pendidikan inklusif.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-12T11:15:21+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/waka-mpr-ruu-sisdiknas-pastikan-guru-disabilitas-dapat-kesempatan-sama-1794482081579.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Wakil Ketua DPRD Jatim Copot Foto Gibran di Ruang Kerjanya",
-      "summary": "Wakil Ketua DPRD Jatim Deni Wicaksono mencopot foto Gibran Rakabuming Raka yang hari ini telah resmi meletakkan jabatannya sebagai wakil presiden.",
-      "url": "https://www.cnnindonesia.com/nasional/20261112174202-32-1426510/wakil-ketua-dprd-jatim-copot-foto-gibran-di-ruang-kerjanya",
-      "source": "CNN Indonesia",
-      "published": "2026-11-12T11:13:46+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/12/wakil-ketua-dprd-jatim-copot-foto-gibran-di-ruang-kerjanya-1794481016612_169.jpeg?w=360&q=90"
     },
     {
       "title": "Indonesia cetak sejarah tiga medali di Youth Olympic Dakar",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Young people should get fewer welfare benefits, according to Milburn review on the workforce – UK politics live",
+      "summary": "Milburn’s review is considering how to address the growing number of young people classified as not in education, employment or training The Green party has said it is opposed to the proposal from Alan Milburn for many young people to lose sickness or disability benefits. (See 10.35am .) Commenting on the proposals, revealed by Milburn in an interview in the Times, Siân Berry , the Green MP and the party’s work and pensions spokesperson, said: So the solution to young people without education or jobs is to continue demonising young and disabled people instead of addressing the structural inequalities stacked against them? What is the point of a deep review like this if the conclusion is that the government goes on blaming young people for needing help? The waiting list for hospital treatment has also risen to its highest level in nearly a year. Officials said this autumn has been the “busiest ever” for the health service, with record numbers of people attending A&E. Continue reading...",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/12/milburn-review-neets-young-people-welfare-work-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-12T11:35:02+00:00",
+      "image": "https://i.guim.co.uk/img/media/c641e402d808f00f61489b84a29a01069fdf14bf/902_15_3323_2659/master/3323.jpg?width=140&quality=85&auto=format&fit=max&s=7f5dac0e6d6f46df34460069c2264a5e"
+    },
+    {
       "title": "New York building collapse kills at least two, officials say",
       "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
       "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-12T11:23:41+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7651/live/2883df70-de5a-11f1-9b47-0919bf7329d1.jpg"
-    },
-    {
-      "title": "Ukraine hit by ‘significant’ Starshield disruptions as US envoys meet Putin, Zelenskyy says - Europe live",
-      "summary": "Ukraine’s president said unwelcome ‘speed restrictions’ on military connectivity are ‘helping the Russians kill’ Luxembourg’s PM Luc Frieden looks to be absolutely chuffed to be representing all three Benelux countries at today’s summit, as his Belgian and Dutch colleagues are too busy to attend as they face domestic crises. “I have the privilege of representing 30 millions citizens today,” he said on arrival to Dublin, with a massive smile on his face. Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-12T11:10:16+00:00",
-      "image": "https://i.guim.co.uk/img/media/f7908dac85bdca30bcc9926d01183c835edb4feb/1782_18_3821_3057/master/3821.jpg?width=140&quality=85&auto=format&fit=max&s=ec6c5cde44339a49a2d5b19efd26ded4"
     },
     {
       "title": "Robot tells Al Jazeera AI is ‘too useful to disappear’",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/wide-thumb-robot-1794480746.png?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
