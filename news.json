@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-12T04:45:26.767327+00:00",
+  "updated_at": "2026-11-12T05:00:40.257333+00:00",
   "national": [
     {
-      "title": "Momen Gibran Tinggalkan Istana Merdeka Menuju MPR",
-      "summary": "Wakil Presiden Gibran Rakabuming meninggalkan Istana Merdeka pada Kamis (12/11) usai bertemu Presiden Prabowo.",
-      "url": "https://www.cnnindonesia.com/nasional/20261112113216-36-1426263/momen-gibran-tinggalkan-istana-merdeka-menuju-mpr",
+      "title": "Jokowi soal Gibran Mundur dari Wapres: Jabatan Hanya Sementara",
+      "summary": "Jokowi buka suara untuk pertama kalinya setelah kabar pengunduran diri Wakil Presiden yang juga putra bungsunya, Gibran Rakabuming Raka.",
+      "url": "https://www.cnnindonesia.com/nasional/20261112115314-32-1426279/jokowi-soal-gibran-mundur-dari-wapres-jabatan-hanya-sementara",
       "source": "CNN Indonesia",
-      "published": "2026-11-12T04:37:53+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/12/thumbnail-video-1794458006608_169.jpeg?w=360&q=90"
+      "published": "2026-11-12T04:57:19+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/05/jokowi-tiba-di-pengadilan-negeri-jakarta-timur-sidang-kasus-ijazah-1793860796308_169.jpeg?w=360&q=90"
     },
     {
       "title": "Ada-ada Saja! Kucing Oyen Nyangkut di Lubang Roster Rumah Warga Jakbar",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
+      "summary": "Huang’s potential departure would leave a leadership vacuum at the roughly $4tn chipmaker he co-founded, with Nvidia’s shares sliding about 8% in ​after-hours trading The scandal surrounding Nvidia chief Jensen Huang has been closely followed and widely reported in Chinese media. Much of the coverage, however, has framed the affair as a celebrity style scandal while dismissing allegations linking it to Chinese espionage. The state-run Global Times has published commentaries this week accusing American media of manufacturing a Chinese spy narrative without sufficient evidence. By turning an extramarital affair into evidence of ‘Chinese infiltration’ … what they really care about is votes, power and building higher walls as globalisation retreats.” Continue reading...",
+      "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+      "source": "The Guardian",
+      "published": "2026-11-12T04:30:16+00:00",
+      "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8"
+    },
+    {
       "title": "Iran’s chief negotiator tells Al Jazeera ‘ball in US court’",
       "summary": "Iran’s chief negotiator says it’s up to the US to answer Iran’s position in the latest round of peace talks.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/irans-chief-negotiator-tells-al-jazeera-ball-in-us?traffic_source=rss",
@@ -42,15 +50,11 @@
       "source": "BBC",
       "published": "2026-11-12T04:03:13+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5661/live/7c6e9130-ddeb-11f1-9204-cdcddf7d901c.jpg"
-    },
-    {
-      "title": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
-      "summary": "Huang’s potential departure would leave a leadership vacuum at the roughly $4tn chipmaker he co-founded, with Nvidia’s shares sliding about 8% in ​after-hours trading Jensen Huang has built up Nvidia to be one of the world’s biggest and most important companies, designing advanced chips crucial to the AI buildout that has helped drive stock markets to record highs and boosted economies around the world. US tech companies are collectively planning to spend $750bn this year on AI infrastructure, a significant portion of which will be spent on Nvidia chips for datacentres. But when so much of a company’s success is associated with one individual, leadership becomes an investment risk … Nvidia has a deep management team, but no publicly identified successor to Huang. An unexpected departure could create uncertainty around strategic continuity, customer relationships and execution.” Continue reading...",
-      "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-      "source": "The Guardian",
-      "published": "2026-11-12T04:02:56+00:00",
-      "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
