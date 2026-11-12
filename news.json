@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-12T03:27:00.170007+00:00",
+  "updated_at": "2026-11-12T03:30:33.569715+00:00",
   "national": [
     {
-      "title": "Pimpinan MPR Ramai-ramai Datang Jelang Penyerahan Surat Mundur Gibran",
-      "summary": "Sejumlah pimpinan MPR mulai tiba di kompleks parlemen jelang kabar kedatangan Gibran Rakabuming.",
-      "url": "https://www.cnnindonesia.com/nasional/20261112101851-32-1426214/pimpinan-mpr-ramai-ramai-datang-jelang-penyerahan-surat-mundur-gibran",
+      "title": "Momen Anggota DPR Minta Tersangka Penyadap Prabowo Dijerat Pasal Makar",
+      "summary": "Anggota Komisi III DPR dari Fraksi PDIP, Safaruddin, merespons kasus dugaan makar yang dikaitkan dengan Listyo Sigit dkk, tersangka penyadapan.",
+      "url": "https://www.cnnindonesia.com/nasional/20261112101614-16-1426212/momen-anggota-dpr-minta-tersangka-penyadap-prabowo-dijerat-pasal-makar",
       "source": "CNN Indonesia",
-      "published": "2026-11-12T03:24:02+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/10/konferensi-pers-wakil-presiden-1794312335059_169.jpeg?w=360&q=90"
+      "published": "2026-11-12T03:27:15+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/12/thumbnail-video-1794453509756_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Pramono Temukan Setengah Hektare Hutan Kota di Jakut Jadi Tempat Sampah Ilegal",
-      "summary": "Gubernur DKI Jakarta Pramono Anung akan membersihkan area 5.000 m² di Hutan Kota Kepanduan dari sampah ilegal dan revitalisasi menjadi ruang terbuka hijau.",
-      "url": "https://news.detik.com/berita/d-8749373/pramono-temukan-setengah-hektare-hutan-kota-di-jakut-jadi-tempat-sampah-ilegal",
+      "title": "Slamet Uliandi Jadi Tahanan Rumah di Kasus Penyadapan Presiden Prabowo",
+      "summary": "Penyidik Polri menahan Irjen Slamet Uliandi terkait kasus penyadapan Presiden Prabowo. Slamet Uliandi menjadi tahanan rumah.",
+      "url": "https://news.detik.com/berita/d-8749396/slamet-uliandi-jadi-tahanan-rumah-di-kasus-penyadapan-presiden-prabowo",
       "source": "Detik",
-      "published": "2026-11-12T03:13:28+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/penampakan-tpu-ilegal-di-taman-hutan-kota-menggunakan-drone-1794453123300_169.jpeg?w=360&q=90"
+      "published": "2026-11-12T03:25:56+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2025/10/27/irjen-slamet-uliandi-1761544556624_169.png?w=360&q=90"
     },
     {
       "title": "Kapolri: Sudah ada laporan polisi terkait makar kasus sadap Presiden",
@@ -28,19 +28,11 @@
   ],
   "international": [
     {
-      "title": "Mother reunites with sons taken under Pinochet regime 40 years ago",
-      "summary": "A Chilean mother has finally embraced her sons for the first time in 40 years since they were taken under Pinochet.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/aje-onl-nf_mother-reunites-with-sons-taken-under-pinochet-111126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-12T03:13:32+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794453206.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
       "title": "Democrat Scott Colom to be first Black senator elected in Mississippi since 1874 after narrow win – US politics live",
       "summary": "Colom beat Republican Cindy Hyde-Smith after race was called eight days after midterm election day Democrat Scott Colom wins race for US Senate in Mississippi How Colom won deep-red Mississippi with little help from Democrats Sign up for the US Breaking News email Some Democrats, out of the 11 who missed the key procedural vote on Tuesday to impeach Pete Hegseth, blamed a traffic jam in Washington DC for their inability to make it to the US Capitol in time . By a vote of 211-204, Republicans referred the articles of impeachment to the judiciary committee – effectively killing the effort to oust Hegseth. Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-12T03:13:07+00:00",
+      "published": "2026-11-12T03:19:36+00:00",
       "image": "https://i.guim.co.uk/img/media/94dc17433aba4186d1d5c3aeaa90b0a28a0a1ded/865_0_4664_3732/master/4664.jpg?width=140&quality=85&auto=format&fit=max&s=67df36ccb42b19c4f756517bdbc5196e"
     },
     {
@@ -50,11 +42,15 @@
       "source": "BBC",
       "published": "2026-11-12T02:40:18+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/274e/live/2e3b6140-de41-11f1-a9ed-658311f31da9.png"
+    },
+    {
+      "title": "Indonesian VP resigns over education qualification row",
+      "summary": "Indonesia's Vice President Gibran Rakabuming Raka has resigned amid a dispute over his educational qualifications.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-12T02:22:48+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794450131.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
