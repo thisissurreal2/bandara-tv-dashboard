@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-12T18:15:30.463468+00:00",
+  "updated_at": "2026-11-12T18:30:33.080725+00:00",
   "national": [
+    {
+      "title": "Pemuda di Batang Diduga Cabuli Siswa SD, Modus Dibelikan Barang",
+      "summary": "Pemuda di Batang ditangkap karena diduga mencabuli siswa SD. Modusnya menjanjikan permen dan barang.",
+      "url": "https://news.detik.com/berita/d-8750753/pemuda-di-batang-diduga-cabuli-siswa-sd-modus-dibelikan-barang",
+      "source": "Detik",
+      "published": "2026-11-12T18:18:22+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/pencabulan-di-batang-1794475038507_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Denny Indrayan: Putusan PTUN Gugurkan Suket Gibran Kemenangan Mercy",
       "summary": "Kuasa hukum Mercy Sihombing menyatakan putusan PTUN Jakarta menggugurkan gugatan terkait ijazah Gibran Rakabuming Raka adalah kemenangan pihaknya.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-12T18:01:14+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/12/penggugat-suket-gibran-di-ptun-1794491809782_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Wabup Bogor Minta Pelayanan Kesehatan Dioptimalkan, Prasarana Jadi Atensi",
-      "summary": "Wabup Bogor, Ade Ruhandi, minta pelayanan kesehatan ditingkatkan. Atensi soal prasarana.",
-      "url": "https://news.detik.com/berita/d-8750751/wabup-bogor-minta-pelayanan-kesehatan-dioptimalkan-prasarana-jadi-atensi",
-      "source": "Detik",
-      "published": "2026-11-12T17:39:32+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/01/bogor-1793504617924_169.jpeg?w=360&q=90"
     },
     {
       "title": "Jensen Huang mundur sebagai CEO NVIDIA imbas skandal mata-mata China",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
-      "title": "Washington DC shooting: suspect confirmed dead after one person is killed and four injured – latest updates",
-      "summary": "Suspect has died after suffering a gunshot wound; one injured person in critical condition Multiple people shot in Washington DC as police warn people to stay inside The incident is shifting from an active shooter response to a barricaded subject response , a federal law enforcement official has told NBC News. It is believed there is no other individual there at scene so this is not considered a hostage situation, they said, adding that it has been about 90 minutes since the suspect fired at law enforcement, which did not strike anyone. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
-      "source": "The Guardian",
-      "published": "2026-11-12T17:59:46+00:00",
-      "image": "https://i.guim.co.uk/img/media/3e96d892fd128af4a596c9b1883c06409042a1e0/275_0_4405_3525/master/4405.jpg?width=140&quality=85&auto=format&fit=max&s=3934f242f1acb83fadc80aa3af1e3736"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang steps down, more affair details revealed",
-      "summary": "Now that Huang has stepped down, Al Jazeera’s Kristen Saloomey looks at the questions ahead for the company.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/nvidia-ceo-jensen-huang-steps-down-more-affair-details-revealed?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-12T17:25:58+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/thumb-1794504336.png?resize=1920%2C1080&quality=80"
-    },
-    {
-      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-      "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-      "url": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
+      "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks.",
+      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-12T17:11:48+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b83b/live/928866f0-deac-11f1-b441-2b33b063138f.jpg"
+      "published": "2026-11-12T18:28:59+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery – US politics live",
+      "summary": "Defense secretary issues commendation to US army sentinel who told him and his aides to be quiet after laughter was heard at Tomb of the Unknown Soldier Pete Hegseth awards medal to soldier who reprimanded him Sign up for the Breaking News US email Perhaps you saw this ad from Scott Colom, who was just elected to serve as Mississippi’s first Democratic senator since 1989: The New York Times spoke to Russ Hudson , the man who is grilling in the first part of the ad and uttered the “sheeeit” that has now become an emblem of Colom’s successful campaign. Here’s what he had to say, from the Times: The lines, he said, felt natural. He left thinking maybe a couple thousand people would see it. “I just did it like a Mississippian would,” Mr. Hudson said in an interview. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
+      "source": "The Guardian",
+      "published": "2026-11-12T18:13:23+00:00",
+      "image": "https://i.guim.co.uk/img/media/643bd3e107bf10fec5fb9540b81a8dc3fab9fbb3/638_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=a39a9c6d43d926a7703e438d7352ec29"
+    },
+    {
+      "title": "Al Jazeera reports from Gaza hospital attacked by Israel",
+      "summary": "Al Jazeera’s Tareq Abu Azzoum reports on the aftermath of an Israeli strike on Nasser Hospital",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/al-jazeera-reports-from-gaza-hospital-attacked-by-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-12T18:03:02+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794506574.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "ANTARA: URLError",
+    "ANTARA: no fresh stories",
+    "ANTARA: keeping previous story"
+  ]
 }
