@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T15:00:42.336696+00:00",
+  "updated_at": "2026-11-12T15:15:31.772665+00:00",
   "national": [
     {
       "title": "Rumah Warga di Malang Dirampok, Anak Pemilik Tewas Disekap Pelaku",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
-      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-      "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
-      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "title": "Who is Nvidia's interim CEO Colette Kress and who could take over after Jensen Huang resigned?",
+      "summary": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-12T14:54:47+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg"
+      "published": "2026-11-12T15:10:32+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1381/live/d9f5ab20-de97-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Trump heads to China amid Nvidia scandal: Will he get tougher on Beijing?",
-      "summary": "Outgoing Nvidia chief credited with easing US-China chip ties but personal scandal unlikely to upend next week's talks.",
-      "url": "https://www.aljazeera.com/news/2026/11/12/trump-heads-to-china-amid-nvidia-scandal-will-he-get-tougher-on-beijing?traffic_source=rss",
+      "title": "Spain approves housing reforms after nationwide strike over costs",
+      "summary": "Spanish parliament passes new laws limiting evictions but their duration depends on the upcoming snap election outcome.",
+      "url": "https://www.aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-12T14:48:10+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af5b593-1794487699.jpg?resize=1920%2C1440"
+      "published": "2026-11-12T15:02:30+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6af5c94bd7bf-1794492747.jpg?resize=1920%2C1440"
     },
     {
-      "title": "Nvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live",
-      "summary": "Nvidia shares plunge 10% in pre-market trading after board ousts longtime boss Huang over two affairs, including with a suspected Chinese spy, in big blow to AI boom Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla 3.6%. On the other hand, Nvidia’s board does not appear to have spent much time worrying about succession planning and “key person risk” or other standard concerns of corporate governance wonks outside the US. Continue reading...",
-      "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+      "title": "Washington DC shooting latest updates: multiple people shot in Logan Circle",
+      "summary": "Police are looking for suspect after incident at Logan Circle, one mile north of the White House Multiple people shot in Washington DC as police warn people to stay inside Multiple people have been shot in north-west Washington DC on Thursday morning, local police confirmed have confirmed, prompting a “barricade situation” in the area. In a statement at 9.21am ET, the DC police said that the incident has “resulted in a barricade situation in the 1500 block of 15th Street, Northwest”. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
       "source": "The Guardian",
-      "published": "2026-11-12T14:44:44+00:00",
-      "image": "https://i.guim.co.uk/img/media/b0db856d27bd5597f6c968038caf6028fb4510e5/0_22_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=8b4419f5660b44ec782a441e49a0f3ec"
+      "published": "2026-11-12T14:54:20+00:00",
+      "image": "https://i.guim.co.uk/img/media/dec2e2850502c62e10426e09016ac28c7cca0aa8/1140_207_5731_4585/master/5731.jpg?width=140&quality=85&auto=format&fit=max&s=ed7af434febbb8b28d44615b194cc562"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
