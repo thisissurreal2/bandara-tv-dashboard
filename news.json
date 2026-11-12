@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-12T06:00:39.610254+00:00",
+  "updated_at": "2026-11-12T06:15:26.027467+00:00",
   "national": [
+    {
+      "title": "Pertemuan Gibran dan Pimpinan MPR Saat Serahkan Surat Pengunduran Diri",
+      "summary": "Gibran Rakabuming Raka bertemu dengan pimpinan MPR RI untuk menyerahkan surat pengunduran diri dari jabatannya sebagai Wakil Presiden RI pada Kamis (12/11).",
+      "url": "https://www.cnnindonesia.com/nasional/20261112130220-36-1426329/pertemuan-gibran-dan-pimpinan-mpr-saat-serahkan-surat-pengunduran-diri",
+      "source": "CNN Indonesia",
+      "published": "2026-11-12T06:11:05+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/12/thumbnail-video-1794463444395_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Ini Mekanisme Penentuan Wapres Pengganti Gibran yang Resmi Mundur",
       "summary": "Wakil Presiden Gibran Rakabuming Raka resmi menyerahkan surat pengunduran diri ke Presiden Prabowo Subianto dan MPR. Apa tahapan yang terjadi selanjutnya?",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-12T05:53:20+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/detik-detik-gibran-datangi-gedung-mpr-serahkan-surat-pengunduran-diri-1794460277588_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "MPR Punya Waktu 60 Hari Cari Pengganti Gibran",
-      "summary": "Majelis Permusyawaratan Rakyat (MPR) RI memiliki waktu 60 hari hari untuk menunjuk Wakil Presiden baru.",
-      "url": "https://www.cnnindonesia.com/nasional/20261112123756-36-1426306/mpr-punya-waktu-60-hari-cari-pengganti-gibran",
-      "source": "CNN Indonesia",
-      "published": "2026-11-12T05:53:07+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/12/thumbnail-video-1794462010146_169.jpeg?w=360&q=90"
     },
     {
       "title": "Jokowi pastikan tetap dukung pemerintahan Prabowo Subianto",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Ukraine's power supply close to critical as Russian strikes bring darkness and cold",
-      "summary": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
-      "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
+      "summary": "The strike hit the surgery department of the hospital in Khan Younis, injuring at least 20 people and causing extensive damage, a spokesperson says.",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-12T05:59:18+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92de/live/4f241730-de19-11f1-9f86-23852740988a.jpg"
+      "published": "2026-11-12T06:12:05+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg"
     },
     {
       "title": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794460245.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
