@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-12T02:45:28.356234+00:00",
+  "updated_at": "2026-11-12T03:00:40.269027+00:00",
   "national": [
     {
-      "title": "Polda DIY Pulangkan 154 Orang yang Ditangkap usai Demo 10 November",
-      "summary": "Polda DIY memulangkan 154 dari 157 orang yang diamankan pasca-demonstrasi. Satu tersangka ditetapkan terkait kericuhan dengan barang berbahaya.",
-      "url": "https://www.cnnindonesia.com/nasional/20261112092422-12-1426182/polda-diy-pulangkan-154-orang-yang-ditangkap-usai-demo-10-november",
+      "title": "Razia Lapas Pontianak: 61 Gram Sabu-6 Bong Ditemukan di Sel Napi",
+      "summary": "Dalam penggeledahan tersebut, petugas menyita narkotika jenis sabu seberat 61,44 gram hingga enam buah bong atau alat hisap sabu dari dalam sel tahanan.",
+      "url": "https://news.detik.com/berita/d-8749334/razia-lapas-pontianak-61-gram-sabu-6-bong-ditemukan-di-sel-napi",
+      "source": "Detik",
+      "published": "2026-11-12T02:57:32+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/dittipidnarkoba-bareskrim-polri-bnn-dan-ditjen-pas-melakukan-razia-gabungan-di-lapas-pontianak-1794447886667_34.jpeg?w=360&q=90"
+    },
+    {
+      "title": "Kapolri Ungkap Peran 4 Tersangka Kasus Penyadapan Prabowo",
+      "summary": "Kapolri membeberkan peran empat tersangka kasus dugaan penyadapan terhadap Presiden Prabowo Subianto, mulai dari pemberi perintah hingga operator.",
+      "url": "https://www.cnnindonesia.com/nasional/20261112095023-12-1426193/kapolri-ungkap-peran-4-tersangka-kasus-penyadapan-prabowo",
       "source": "CNN Indonesia",
-      "published": "2026-11-12T02:40:38+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/11/polisi-tangkap-106-orang-terkait-demo-berujung-ricuh-di-dprd-diy-1794358451752_169.jpeg?w=360&q=90"
+      "published": "2026-11-12T02:55:40+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/12/raker-kapolri-dan-komisi-3-dpr-1794450472248_169.jpeg?w=360&q=90"
     },
     {
       "title": "Kapolri: Sudah ada laporan polisi terkait makar kasus sadap Presiden",
@@ -16,17 +24,17 @@
       "source": "ANTARA",
       "published": "2026-11-12T02:32:11+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/12/IMG_8674eLwzvf.jpg"
-    },
-    {
-      "title": "Jenderal Listyo Sigit Cs Ternyata Juga Menyadap Internal Polri",
-      "summary": "Kapolri Jenderal Suyudi mengungkap penyadapan yang dilakukan Jenderal Listyo Sigit terhadap Presiden Prabowo dan tokoh politik lainnya. Empat tersangka ditahan.",
-      "url": "https://news.detik.com/berita/d-8749299/jenderal-listyo-sigit-cs-ternyata-juga-menyadap-internal-polri",
-      "source": "Detik",
-      "published": "2026-11-12T02:23:42+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/komisi-iii-dpr-menggelar-rapat-bersama-kapolri-jenderal-suyudi-ario-seto-anggidetikcom-1794447272070_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
+    {
+      "title": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
+      "summary": "Huang’s potential departure would leave a leadership vacuum at the roughly $4tn chipmaker he co-founded, with Nvidia’s shares sliding about 8% in ​after-hours trading As recently as Tuesday, Nvidia was saying that Jensen Huang would continue to lead the business he co-founded “without interruption”. That statement was made as the company announced it had appointed a leading US law firm to conduct a “thorough and independent” investigation into the relationship between its chief executive, Huang, and an alleged Chinese spy . The $4.1tn chipmaker’s board has hired New York-based Wachtell, Lipton, Rosen & Katz for the investigation, which will be led by the Wachtell partner Joon Kim. Losing Jensen would be a real blow.” Continue reading...",
+      "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+      "source": "The Guardian",
+      "published": "2026-11-12T02:47:03+00:00",
+      "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8"
+    },
     {
       "title": "New York building collapse kills one person and injures 12",
       "summary": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
@@ -34,14 +42,6 @@
       "source": "BBC",
       "published": "2026-11-12T02:33:12+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8114/live/d10cd710-de22-11f1-a006-f3a783cdc303.jpg"
-    },
-    {
-      "title": "Democrat Scott Colom to be first Black senator elected in Mississippi since 1874 after narrow win – US politics live",
-      "summary": "Colom beat Republican Cindy Hyde-Smith after race was called eight days after midterm election day Democrat Scott Colom wins race for US Senate in Mississippi How Colom won deep-red Mississippi with little help from Democrats Sign up for the US Breaking News email Some Democrats, out of the 11 who missed the key procedural vote on Tuesday to impeach Pete Hegseth, blamed a traffic jam in Washington DC for their inability to make it to the US Capitol in time . By a vote of 211-204, Republicans referred the articles of impeachment to the judiciary committee – effectively killing the effort to oust Hegseth. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-12T02:31:22+00:00",
-      "image": "https://i.guim.co.uk/img/media/94dc17433aba4186d1d5c3aeaa90b0a28a0a1ded/865_0_4664_3732/master/4664.jpg?width=140&quality=85&auto=format&fit=max&s=67df36ccb42b19c4f756517bdbc5196e"
     },
     {
       "title": "Indonesian VP resigns over education qualification row",
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794450131.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
