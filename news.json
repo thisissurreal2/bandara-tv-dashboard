@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-12T10:15:30.927382+00:00",
+  "updated_at": "2026-11-12T10:30:34.485873+00:00",
   "national": [
     {
-      "title": "Pesan Prabowo Usai Gibran Mundur: Ciptakan Suasana Sejuk untuk Rakyat",
-      "summary": "Presiden Prabowo Subianto mengajak bangsa menjaga kedamaian dan persatuan setelah pengunduran diri Gibran.",
-      "url": "https://www.cnnindonesia.com/nasional/20261112170408-32-1426497/pesan-prabowo-usai-gibran-mundur-ciptakan-suasana-sejuk-untuk-rakyat",
+      "title": "Mekanisme Pemilihan Wapres setelah Gibran Mundur",
+      "summary": "Bagaimana mekanisme pemilihan Wapres RI setelah Gibran mundur?",
+      "url": "https://www.cnnindonesia.com/nasional/20261112153024-32-1426452/mekanisme-pemilihan-wapres-setelah-gibran-mundur",
       "source": "CNN Indonesia",
-      "published": "2026-11-12T10:13:36+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/12/puja-puji-prabowo-terima-pengunduran-diri-gibran-1794473873141_169.jpeg?w=360&q=90"
+      "published": "2026-11-12T10:17:31+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/12/momen-prabowo-bersalaman-dengan-gibran-saat-serahkan-surat-undur-diri-1794469071745_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Gibran Mundur, Fraksi Golkar MPR Bicara Kepentingan Nasional di Atas Kekuasaan",
-      "summary": "Fraksi Golkar MPR RI apresiasi Gibran Rakabuming Raka yang mundur dari wapres. Mereka bicara kepentingan nasional di atas kekuasaan.",
-      "url": "https://news.detik.com/berita/d-8750293/gibran-mundur-fraksi-golkar-mpr-bicara-kepentingan-nasional-di-atas-kekuasaan",
+      "title": "Apes! Bocah di Jaksel Dijambret Saat Rebahan di Depan Warung, Ponsel Raib",
+      "summary": "Pelaku mengenakan jaket dan langsung merampas ponsel korban. Bocah tersebut kemudian masuk ke dalam dan berteriak.",
+      "url": "https://news.detik.com/berita/d-8750306/apes-bocah-di-jaksel-dijambret-saat-rebahan-di-depan-warung-ponsel-raib",
       "source": "Detik",
-      "published": "2026-11-12T10:09:49+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/ketua-fraksi-golkar-mpr-ri-melchias-markus-mekeng-1794478165950_169.jpeg?w=360&q=90"
+      "published": "2026-11-12T10:16:03+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/aksi-penjambretan-ponsel-bocah-di-jaksel-tangkapan-laya-video-viral-1794478452017_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo: Keadilan dan kemakmuran bisa terwujud dalam suasana damai",
@@ -23,10 +23,18 @@
       "url": "https://www.antaranews.com/berita/5849351/prabowo-keadilan-dan-kemakmuran-bisa-terwujud-dalam-suasana-damai",
       "source": "ANTARA",
       "published": "2026-11-12T09:15:21+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/12/IMG_4428.jpeg"
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/12/IMG_4428.jpg"
     }
   ],
   "international": [
+    {
+      "title": "British woman missing from cruise ship in Atlantic",
+      "summary": "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-12T10:13:35+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f65c/live/6b94c200-de7f-11f1-b88b-3f1671ea859d.jpg"
+    },
     {
       "title": "Ukraine hit by ‘significant’ Starshield disruptions as US envoys meet Putin, Zelenskyy says - Europe live",
       "summary": "Ukraine’s president said unwelcome ‘speed restrictions’ on military connectivity are ‘helping the Russians kill’ Ireland’s Martin was also asked about any potential bomb threats or any other potential disruptions to the summit. He said that the Irish police “are best placed to make judgment calls in respect of this,” and “have established protocols” in place to deal with any issue. Continue reading...",
@@ -34,14 +42,6 @@
       "source": "The Guardian",
       "published": "2026-11-12T10:03:45+00:00",
       "image": "https://i.guim.co.uk/img/media/f7908dac85bdca30bcc9926d01183c835edb4feb/1782_18_3821_3057/master/3821.jpg?width=140&quality=85&auto=format&fit=max&s=ec6c5cde44339a49a2d5b19efd26ded4"
-    },
-    {
-      "title": "Democrat Scott Colom makes history as Mississippi elects first black senator for 150 years",
-      "summary": "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate.",
-      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-12T10:02:32+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg"
     },
     {
       "title": "From the UK to the Gulf, are US overseas bases becoming liabilities?",
