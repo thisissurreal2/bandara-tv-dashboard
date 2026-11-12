@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-12T09:00:38.525161+00:00",
+  "updated_at": "2026-11-12T09:15:28.458665+00:00",
   "national": [
     {
-      "title": "Pidato Lengkap Prabowo Terima Pengunduran Diri Gibran",
-      "summary": "Presiden Prabowo Subianto resmi menerima pengunduran diri Gibran Rakabuming Raka dari jabatan Wapres RI pada Kamis (12/11). Berikut pernyataan lengkap Prabowo.",
-      "url": "https://www.cnnindonesia.com/nasional/20261112154427-32-1426461/pernyataan-lengkap-prabowo-terima-pengunduran-diri-gibran-dari-wapres",
+      "title": "Yusril Sudah Baca Surat Pengunduran Diri Gibran: Hanya 5 Paragraf",
+      "summary": "Menteri Yusril mengaku sudah membaca surat pengunduran diri Gibran sebagai Wapres. Isi surat itu, disebut Yusril, pernyataan Gibran mundur atas kemauan sendiri.",
+      "url": "https://www.cnnindonesia.com/nasional/20261112160017-32-1426477/yusril-sudah-baca-surat-pengunduran-diri-gibran-hanya-5-paragraf",
       "source": "CNN Indonesia",
-      "published": "2026-11-12T08:55:41+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/12/puja-puji-prabowo-terima-pengunduran-diri-gibran-1794472732873_169.jpeg?w=360&q=90"
+      "published": "2026-11-12T09:10:00+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/12/yusril-bandingkan-pengunduran-diri-gibran-dengan-soeharto-saat-1998-1794467311243_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Pramono Sebut Sampah ke TPST Bantargebang Turun 500 Ton per Hari",
-      "summary": "Gubernur DKI Jakarta Pramono Anung mengungkapkan penurunan kiriman sampah ke Bantargebang lebih dari 500 ton per hari. Hal itu berkat gerakan pemilahan sampah.",
-      "url": "https://news.detik.com/berita/d-8750090/pramono-sebut-sampah-ke-tpst-bantargebang-turun-500-ton-per-hari",
+      "title": "Hakim Tolak Perlawanan Silmy Karim, Sidang Kasus Pemerasan Lanjut Pembuktian",
+      "summary": "Hakim memerintahkan jaksa menghadirkan saksi di sidang berikutnya untuk membuktikan surat dakwaan.",
+      "url": "https://news.detik.com/berita/d-8750157/hakim-tolak-perlawanan-silmy-karim-sidang-kasus-pemerasan-lanjut-pembuktian",
       "source": "Detik",
-      "published": "2026-11-12T08:52:21+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/gubernur-pramono-anung-mengatakan-pemprov-dki-akan-mendampingi-santri-korban-kekerasan-seksual-oleh-kiai-di-ponpes-darul-hasbi-1794455035763_169.jpeg?w=360&q=90"
+      "published": "2026-11-12T09:08:08+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/sidang-silmy-karim-12-november-2026-kurniawandetikcom-1794474270719_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo hormati keputusan Gibran mundur sebagai wapres",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin",
+      "summary": "The meeting with Kushner and Witkoff comes after two days of trilateral talks in the UAE yielded no breakthrough.",
+      "url": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-12T09:01:24+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af573436cb0-1794470723.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
       "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
       "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
@@ -36,20 +44,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg"
     },
     {
-      "title": "Nvidia board reportedly meets to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
-      "summary": "Nvidia shares plunge in extended trading, sending Asian markets lower Nvidia board reportedly deciding whether to oust CEO Jensen Huang Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla 3.6%. On the other hand, Nvidia’s board does not appear to have spent much time worrying about succession planning and “key person risk” or other standard concerns of corporate governance wonks outside the US. Continue reading...",
-      "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+      "title": "US envoys expected to meet Putin in Moscow to discuss Ukraine ceasefire - Europe live",
+      "summary": "Steve Witkoff and Jared Kushner are attempting to make further progress after earlier talks in Abu Dhabi US envoys Steve Witkoff and Jared Kushner are in Moscow this morning, where they are expected to meet Russia’s president Vladimir Putin to advance some of the issues discussed at trilateral talks in Abu Dhabi over the last two days. The meeting is expected to get under way around 9am GMT, with Russia’s deputy foreign minister Sergei Rybakov trying to manage everyone’s expectations by saying it was too early to say that necessary trust had been restored between Russia and Ukraine. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-12T08:42:39+00:00",
-      "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8"
-    },
-    {
-      "title": "Mississippi elects first Black Senator since 1874",
-      "summary": "Democrat Scott Colom has won Mississippi’s Senate race, becoming the state’s first Black senator since 1874.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/mississippi-elects-first-black-senator-since-1874?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-12T08:12:40+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/wide-thumb-scott-colom-1794471106.png?resize=1920%2C1080&quality=80"
+      "published": "2026-11-12T08:59:08+00:00",
+      "image": "https://i.guim.co.uk/img/media/f7908dac85bdca30bcc9926d01183c835edb4feb/1782_18_3821_3057/master/3821.jpg?width=140&quality=85&auto=format&fit=max&s=ec6c5cde44339a49a2d5b19efd26ded4"
     }
   ],
   "feed_warnings": []
