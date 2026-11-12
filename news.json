@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-12T06:15:26.027467+00:00",
+  "updated_at": "2026-11-12T06:30:31.858728+00:00",
   "national": [
     {
-      "title": "Pertemuan Gibran dan Pimpinan MPR Saat Serahkan Surat Pengunduran Diri",
-      "summary": "Gibran Rakabuming Raka bertemu dengan pimpinan MPR RI untuk menyerahkan surat pengunduran diri dari jabatannya sebagai Wakil Presiden RI pada Kamis (12/11).",
-      "url": "https://www.cnnindonesia.com/nasional/20261112130220-36-1426329/pertemuan-gibran-dan-pimpinan-mpr-saat-serahkan-surat-pengunduran-diri",
+      "title": "Suasana Pertemuan Gibran dan Pimpinan MPR Saat Serahkan Surat Resign",
+      "summary": "Wapres Gibran mendatangi pimpinan MPR untuk menyerahkan surat pengunduran diri. Pertemuan berlangsung di ruang Ketua MPR.",
+      "url": "https://www.cnnindonesia.com/nasional/20261112131326-32-1426340/suasana-pertemuan-gibran-dan-pimpinan-mpr-saat-serahkan-surat-resign",
       "source": "CNN Indonesia",
-      "published": "2026-11-12T06:11:05+00:00",
+      "published": "2026-11-12T06:27:36+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/12/thumbnail-video-1794463444395_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Ini Mekanisme Penentuan Wapres Pengganti Gibran yang Resmi Mundur",
-      "summary": "Wakil Presiden Gibran Rakabuming Raka resmi menyerahkan surat pengunduran diri ke Presiden Prabowo Subianto dan MPR. Apa tahapan yang terjadi selanjutnya?",
-      "url": "https://news.detik.com/berita/d-8749680/ini-mekanisme-penentuan-wapres-pengganti-gibran-yang-resmi-mundur",
+      "title": "Tanggul Longsor di Pejaten Timur, Kementerian PU Siapkan Penanganan Darurat",
+      "summary": "Kementerian PU dukung penanganan darurat longsor di Pejaten Timur. Koordinasi dengan BBWS Ciliwung Cisadane untuk mencegah longsor susulan.",
+      "url": "https://news.detik.com/berita/d-8749737/tanggul-longsor-di-pejaten-timur-kementerian-pu-siapkan-penanganan-darurat",
       "source": "Detik",
-      "published": "2026-11-12T05:53:20+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/detik-detik-gibran-datangi-gedung-mpr-serahkan-surat-pengunduran-diri-1794460277588_169.jpeg?w=360&q=90"
+      "published": "2026-11-12T06:19:52+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/menteri-pu-dody-hanggodo-1794464373102.jpeg?w=360&q=90"
     },
     {
       "title": "Jokowi pastikan tetap dukung pemerintahan Prabowo Subianto",
@@ -29,7 +29,7 @@
   "international": [
     {
       "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
-      "summary": "The strike hit the surgery department of the hospital in Khan Younis, injuring at least 20 people and causing extensive damage, a spokesperson says.",
+      "summary": "The strike hit the surgery department of Nasser Hospital, injuring at least 20 people and causing extensive damage, a spokesperson says.",
       "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-12T06:12:05+00:00",
@@ -40,7 +40,7 @@
       "summary": "Huang’s potential departure would leave a leadership vacuum at the roughly $4tn chipmaker he co-founded, with Nvidia’s shares sliding about 8% in ​after-hours trading Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla 3.6%. On the other hand, Nvidia’s board does not appear to have spent much time worrying about succession planning and “key person risk” or other standard concerns of corporate governance wonks outside the US. Continue reading...",
       "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
       "source": "The Guardian",
-      "published": "2026-11-12T05:43:00+00:00",
+      "published": "2026-11-12T06:09:29+00:00",
       "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8"
     },
     {
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794460245.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
