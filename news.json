@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-12T20:00:42.611701+00:00",
+  "updated_at": "2026-11-12T20:15:28.996885+00:00",
   "national": [
+    {
+      "title": "3 Perempuan Jadi Korban TPPO Modus Pengantin Pesanan di China",
+      "summary": "Tiga perempuan jadi korban TPPO dengan modus pengantin pesanan untuk WNA China. Polisi ungkap jaringan perekrutan dan penipuan identitas.",
+      "url": "https://www.cnnindonesia.com/nasional/20261112230428-12-1426610/3-perempuan-jadi-korban-tppo-modus-pengantin-pesanan-di-china",
+      "source": "CNN Indonesia",
+      "published": "2026-11-12T20:00:28+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2025/01/08/ilustrasi-human-trafficking-3_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Naik Sepeda Listrik, Bocah 9 Tahun Tewas Usai Tabrakan dengan Truk di Madura",
       "summary": "Kecelakaan truk dan sepeda listrik di Pamekasan terjadi. Bocaah 9 tahun yang kendarai sepeda listrik merenggut nyawa.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-12T19:49:04+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/kecelakaan-maut-di-pamekasan-1794484314023_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Silmy Karim Sebut Kasus Pemerasan Izin Tinggal WNA Dipaksakan",
-      "summary": "Mantan Wamen Imigrasi Silmy Karim menolak tuduhan pemerasan dan gratifikasi. Ia menyebut kasusnya sebagai kriminalisasi dan siap hadapi sidang pokok.",
-      "url": "https://www.cnnindonesia.com/nasional/20261112225129-32-1426609/silmy-karim-sebut-kasus-pemerasan-izin-tinggal-wna-dipaksakan",
-      "source": "CNN Indonesia",
-      "published": "2026-11-12T19:30:04+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/10/29/sidang-dakwaan-silmy-karim-1793273362037_169.jpeg?w=360&q=90"
     },
     {
       "title": "Jensen Huang mundur sebagai CEO NVIDIA imbas skandal mata-mata China",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Palestinian baby dies from cold in Gaza amid Israeli restrictions on aid",
+      "summary": "The baby's father said he died of hypothermia overnight in their family's tent in southern Gaza.",
+      "url": "https://www.aljazeera.com/news/2026/11/12/palestinian-baby-dies-from-cold-in-gaza-amid-israeli-restrictions-on-aid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-12T19:56:26+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af600eb1b12c-1794506987.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "‘Who will be held accountable?’: fatal Brooklyn building collapse devastates community",
       "summary": "New York City officials have confirmed at least eight casualties – six adults and two children – in the collapse Flatbush Ave in Flatbush, New York, stood still and in shock after a three-story apartment building collapsed on Wednesday afternoon near a construction site. “The last time I saw something like this was when I went to work at 9/11,” Prudence Foster said. Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/nov/12/nyc-building-collapse-reaction",
       "source": "The Guardian",
       "published": "2026-11-12T19:49:24+00:00",
       "image": "https://i.guim.co.uk/img/media/bf17e4172143b591a43dc9028eac45a3455c9051/676_0_6763_5410/master/6763.jpg?width=140&quality=85&auto=format&fit=max&s=cae97a645468f69eb9e8bffa90ef34aa"
-    },
-    {
-      "title": "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
-      "summary": "Huang has stepped down amid revelations about extramarital affairs and allegations of Chinese espionage.",
-      "url": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-12T19:45:40+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af6100196e00-1794510849.jpg?resize=1920%2C1440"
     },
     {
       "title": "Jensen Huang has resigned, what's next for Nvidia?",
