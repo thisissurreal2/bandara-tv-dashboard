@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T14:00:37.565026+00:00",
+  "updated_at": "2026-11-12T14:15:27.747089+00:00",
   "national": [
     {
       "title": "Gibran: Jabatan Hanya Sementara, Keutuhan Bangsa Segalanya",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
-      "title": "‘A second chance’: children guilty of serious offences will no longer have to declare criminal records",
-      "summary": "Government proposal aims to reduce number of children in custody in England and Wales and boost youth employment Children found guilty of robbery, dealing drugs to other children or violent disorder will no longer have to disclose their criminal records to prospective employers under sweeping government proposals to change the youth justice system. People in England and Wales will not have to share records of crimes committed when they were under 18 for the rest of their lives under the proposals, which ministers say will boost youth employment and make life fairer for people from disadvantaged backgrounds in particular. Continue reading...",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/12/children-criminal-records-england-wales-labour",
-      "source": "The Guardian",
-      "published": "2026-11-12T13:44:20+00:00",
-      "image": "https://i.guim.co.uk/img/media/636709dcaefa97559bd1b10f630e7d0145ad1da5/0_1332_2030_1623/master/2030.jpg?width=140&quality=85&auto=format&fit=max&s=32f54447dd02f4200cc9d97eeceaa87d"
-    },
-    {
-      "title": "Family of killed teen Javits Frimpong calls for justice",
-      "summary": "The family of slain Ghanaian teen Javits Frimpong have reiterated demands for justice after police arrested a suspect.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/family-of-killed-teen-javits-frimpong-calls-for-justice?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-12T13:27:32+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/WIDE-THUMB-JAVITS-MOTHER-1794490028.png?resize=1920%2C1080&quality=80"
-    },
-    {
-      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-      "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
-      "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+      "title": "Who could replace Jensen Huang as Nvidia's chief executive?",
+      "summary": "As the chief executive steps down, some names have emerged as potential successors.",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-12T13:02:46+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b54/live/e251ec80-de91-11f1-a701-fddedf244c16.jpg"
+      "published": "2026-11-12T14:11:51+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1381/live/d9f5ab20-de97-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "US envoys meet Putin as Zelenskyy says Starlink disrupted for Ukraine’s military again - Europe live",
+      "summary": "Restrictions to Starshield ‘directly affect our ability to intercept Russian jet powered drones’, Ukraine’s president says Luxembourg’s PM Luc Frieden looks to be absolutely chuffed to be representing all three Benelux countries at today’s summit, as his Belgian and Dutch colleagues are too busy to attend as they face domestic crises. “I have the privilege of representing 30 millions citizens today,” he said on arrival to Dublin, with a massive smile on his face. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-12T14:04:59+00:00",
+      "image": "https://i.guim.co.uk/img/media/00948ad10d38976117c45566fb6a392bcf3bb3b5/244_0_3730_2984/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=5ac4c094a40b85e9e714901ec4cc5c82"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang steps down amid spy scandal and market loss",
+      "summary": "This is a breaking news story.",
+      "url": "https://www.aljazeera.com/news/2026/11/12/ai-titan-jensen-huang-out-as-nvidia-ceo?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-12T13:55:07+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af5c64b-1794491979.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
