@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-12T07:00:38.883402+00:00",
+  "updated_at": "2026-11-12T07:15:26.627923+00:00",
   "national": [
     {
-      "title": "Isi Lengkap Surat Pengunduran Diri Gibran dari Jabatan Wapres",
-      "summary": "Gibran Rakabuming Raka mengundurkan diri sebagai Wakil Presiden RI. Pengunduran ini terjadi di tengah tekanan politik terkait putusan MA dan MK.",
-      "url": "https://www.cnnindonesia.com/nasional/20261111185221-32-1426041/ketua-mpr-bacakan-isi-lengkap-surat-pengunduran-diri-gibran",
+      "title": "Yusril Bandingkan Pengunduran Diri Gibran dengan Soeharto saat 1998",
+      "summary": "Yusril mengatakan pengunduran diri Gibran tak memerlukan persetujuan atau keputusan MPR.",
+      "url": "https://www.cnnindonesia.com/nasional/20261112140903-32-1426386/yusril-bandingkan-pengunduran-diri-gibran-dengan-soeharto-saat-1998",
       "source": "CNN Indonesia",
-      "published": "2026-11-12T06:54:59+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/12/ketua-mpr-ri-ahmad-muzani-menunjukan-surat-pengunduran-diri-gibran-1794466150123_169.jpeg?w=360&q=90"
+      "published": "2026-11-12T07:14:14+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/12/yusril-bandingkan-pengunduran-diri-gibran-dengan-soeharto-saat-1998-1794467311243_169.jpeg?w=360&q=90"
     },
     {
       "title": "PKB: Hak Menyatakan Pendapat Pemakzulan Gibran Tak Dilanjutkan",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Nvidia board reportedly meeting to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
+      "summary": "This live blog is now paused – but you can read the latest report on Nvidia and Jensen Huang’s future as CEO here Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla 3.6%. On the other hand, Nvidia’s board does not appear to have spent much time worrying about succession planning and “key person risk” or other standard concerns of corporate governance wonks outside the US. Continue reading...",
+      "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+      "source": "The Guardian",
+      "published": "2026-11-12T07:03:03+00:00",
+      "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8"
+    },
+    {
       "title": "Netanyahu’s legacy: Personality politics reshapes Israeli democracy",
       "summary": "Netanyahu's fight for political survival turns the parliament's opening into a scene of insults and acrimony.",
       "url": "https://www.aljazeera.com/news/2026/11/12/netanyahus-legacy-personality-politics-reshapes-israeli-democracy?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-11-12T06:49:45+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af341040cae-1794326788.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
-      "summary": "In today’s newsletter: US intelligence reportedly believes the former tech executive was recruited by Beijing, raising questions about the security of the AI industry and Trump’s close ties to Nvidia chief Jensen Huang Good morning. Espionage is supposed to be a secretive business, and spies are supposed to be virtually invisible. That hasn’t been the case for Alice Huang, the mysterious Shanghai executive who formed a romantic relationship with Jensen Huang, the founder of Nvidia, one of America’s most powerful tech companies. Many questions have arisen since it emerged that US intelligence believes that Huang (no relation of Jensen’s) is an asset recruited by the Chinese intelligence services to spy on behalf of Beijing. This morning’s newsletter explains what we know about the story, and what it tells us about the effectiveness of Chinese espionage. That’s after the headlines. UK | Ministers are considering changing the law to force the entertainment industry to better protect women and children in the wake of the revelations over David Walliams and the conviction of Russell Brand. Climate | The UK government has appointed the world’s first special representative for climate security, in the strongest sign yet of fears that climate breakdown will bring chaos to the country. US midterms | Democrat Scott Colom has become the first Black senator in Mississippi to be elected since Reconstruction, in a stunning upset after more than a week of vote counting in one of the country’s most reliably red states. Europe | Millions of people across Spain have joined the country’s first general strike in 14 years , setting up picket lines to protest against soaring housing prices before an election in which the far right could be catapulted into power. Technology | Police officers risk arresting innocent people , especially from ethnic minorities, if they treat inaccurate facial recognition data as evidence, an official report has found. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
-      "source": "The Guardian",
-      "published": "2026-11-12T06:43:31+00:00",
-      "image": "https://i.guim.co.uk/img/media/b76023068afd6989a4d83782e8ad21ac88094570/335_0_3331_2666/master/3331.jpg?width=140&quality=85&auto=format&fit=max&s=ae6e7cc781873a609353d81df20f9e53"
     },
     {
       "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61be/live/ca670730-de47-11f1-9cac-a1aa02a901fa.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
