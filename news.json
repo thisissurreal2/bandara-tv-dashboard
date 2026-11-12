@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-12T14:30:33.904286+00:00",
+  "updated_at": "2026-11-12T14:45:27.943834+00:00",
   "national": [
     {
-      "title": "Gibran: Jabatan Hanya Sementara, Keutuhan Bangsa Segalanya",
-      "summary": "Gibran Rakabuming Raka mengundurkan diri sebagai wakil presiden, menegaskan jabatan adalah titipan sementara.",
-      "url": "https://www.cnnindonesia.com/nasional/20261112201715-32-1426587/gibran-jabatan-hanya-sementara-keutuhan-bangsa-segalanya",
+      "title": "Harapan Gibran untuk Indonesia: Demokrasi Perlu Ditata Lebih Baik",
+      "summary": "Gibran Rakabuming Raka berharap penataan demokrasi di Indonesia lebih baik setelah pengunduran dirinya.",
+      "url": "https://www.cnnindonesia.com/nasional/20261112193911-32-1426567/harapan-gibran-untuk-indonesia-demokrasi-perlu-ditata-lebih-baik",
       "source": "CNN Indonesia",
-      "published": "2026-11-12T13:51:57+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/12/pernyataan-resmi-gibran-rakabuming-terkait-pengunduran-diri-sebagai-wakil-presiden-ri-1794484741213_169.jpeg?w=360&q=90"
+      "published": "2026-11-12T14:35:14+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/12/gibran-gelar-perpisahan-usai-mundur-dari-jabatan-1794464741194_169.jpeg?w=360&q=90"
     },
     {
       "title": "Kronologi BNN-Polri Tangkap Muzammil DPO Kasus Narkoba Jaringan Internasional",
@@ -28,28 +28,28 @@
   ],
   "international": [
     {
+      "title": "Nvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live",
+      "summary": "Nvidia shares plunge 10% in pre-market trading after board ousts longtime boss Huang over two affairs, including with a suspected Chinese spy, in big blow to AI boom Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla 3.6%. On the other hand, Nvidia’s board does not appear to have spent much time worrying about succession planning and “key person risk” or other standard concerns of corporate governance wonks outside the US. Continue reading...",
+      "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
+      "source": "The Guardian",
+      "published": "2026-11-12T14:33:52+00:00",
+      "image": "https://i.guim.co.uk/img/media/b0db856d27bd5597f6c968038caf6028fb4510e5/0_22_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=8b4419f5660b44ec782a441e49a0f3ec"
+    },
+    {
+      "title": "‘No war, no peace’: Can Iran break the deadlock with the US?",
+      "summary": "Sustainable stalemate or slow-motion strangulation? The current 'equilibrium' is inherently unstable, experts say.",
+      "url": "https://www.aljazeera.com/news/2026/11/12/no-war-no-peace-can-iran-break-the-deadlock-with-the-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-12T14:27:54+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260820__C66784N__v1__HighRes__IraqIranPoliticsDiplomacyReligionIslamShia-1787255506-1794488319.jpg?resize=1200%2C630&quality=80"
+    },
+    {
       "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
       "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
       "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-12T14:27:30+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d247/live/940d6f30-de7e-11f1-b88b-3f1671ea859d.jpg"
-    },
-    {
-      "title": "Time running out for young people to receive meningitis B vaccines in UK",
-      "summary": "Just 28.2% of 18- and 19-year-olds have received their first dose in one-off campaign, UKHSA says The clock is ticking for young people in the UK to receive vaccinations to protect against meningitis B, experts have said, as figures reveal fewer than one in three eligible in one-off campaign have received their first dose. Earlier this year an unprecedented outbreak of meningitis B in Kent and clusters of cases in Dorset and Berkshire caused three deaths, as well as life-long health consequences among some of those who survived. Continue reading...",
-      "url": "https://www.theguardian.com/society/2026/nov/12/time-running-out-young-people-meningitis-b-vaccines-uk",
-      "source": "The Guardian",
-      "published": "2026-11-12T14:16:18+00:00",
-      "image": "https://i.guim.co.uk/img/media/5933f141c2d2f0c5b81d6ddb525b6016cd588787/403_0_2367_1894/master/2367.jpg?width=140&quality=85&auto=format&fit=max&s=3d63cba933117cd02f210d3b831c808d"
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang steps down amid spy scandal and market loss",
-      "summary": "This is a breaking news story.",
-      "url": "https://www.aljazeera.com/news/2026/11/12/ai-titan-jensen-huang-out-as-nvidia-ceo?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-12T13:55:07+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af5c64b-1794491979.jpg?resize=1920%2C1440"
     }
   ],
   "feed_warnings": [
