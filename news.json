@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-12T00:30:37.260627+00:00",
+  "updated_at": "2026-11-12T00:45:28.007334+00:00",
   "national": [
+    {
+      "title": "Gibran Mundur dari Kursi Wapres di Tengah Tekanan dan Kasus Ijazah",
+      "summary": "Gibran Rakabuming Raka disebut mundur dari jabatannya sebagai Wakil Presiden (Wapres) Republik Indonesia.",
+      "url": "https://www.cnnindonesia.com/nasional/20261112072808-32-1426140/gibran-mundur-dari-kursi-wapres-di-tengah-tekanan-dan-kasus-ijazah",
+      "source": "CNN Indonesia",
+      "published": "2026-11-12T00:32:52+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/10/konferensi-pers-wakil-presiden-1794312043869_169.jpeg?w=360&q=90"
+    },
     {
       "title": "DPR Gelar Sidang Paripurna Hari Ini",
       "summary": "DPR RI akan menggelar rapat paripurna. Salah satu pembahasannya diketahui penyampaian usulan hak menyatakan pendapat pemakzulan Gibran sebagai Wapres.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-12T00:24:57+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/10/dpr-kembali-bersidang-403-anggota-hadiri-rapat-paripurna-pembukaan-masa-sidang-1794290810200_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Sejumlah Kepala Daerah Hadiri Forum Akselerasi Ekonomi Daerah di Medan",
-      "summary": "Forum Akselerasi Pertumbuhan Ekonomi Daerah di Medan akan menghadirkan kepala daerah dan pembicara kunci. Fokus pada hilirisasi sumber daya untuk kesejahteraan.",
-      "url": "https://www.cnnindonesia.com/nasional/20261112071742-20-1426138/sejumlah-kepala-daerah-hadiri-forum-akselerasi-ekonomi-daerah-di-medan",
-      "source": "CNN Indonesia",
-      "published": "2026-11-12T00:21:53+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2025/08/06/pertumbuhan-ekonomi-indonesia-capai-512-persen-1754481854211_169.jpeg?w=360&q=90"
     },
     {
       "title": "Setelah jalan kembali tersambung di Sumatra",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
-      "title": "Hegseth scolded by security at Tomb of the Unknown Soldier",
-      "summary": "An army sentinel guarding the Tomb of the Unknown Soldier in the Arlington National Cemetery has reprimanded Hegseth.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/hegseth-scolded-by-security-at-tomb-of-the-unknown-soldier?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-12T00:18:46+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794442678.jpg?resize=1620%2C1080&quality=80"
+      "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
+      "summary": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say.",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-12T00:36:11+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5293/live/110e8ed0-dd8d-11f1-a56e-d7dc6014806d.jpg"
     },
     {
       "title": "Democrat Scott Colom to be first Black senator elected in Mississippi since 1874 after narrow win – US politics live",
       "summary": "Colom beat Republican Cindy Hyde-Smith after race was called eight days after midterm election day Democrat Scott Colom wins race for US Senate in Mississippi How Colom won deep-red Mississippi with little help from Democrats Sign up for the US Breaking News email Some Democrats, out of the 11 who missed the key procedural vote on Tuesday to impeach Pete Hegseth, blamed a traffic jam in Washington DC for their inability to make it to the US Capitol in time . By a vote of 211-204, Republicans referred the articles of impeachment to the judiciary committee – effectively killing the effort to oust Hegseth. Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-12T00:16:00+00:00",
+      "published": "2026-11-12T00:31:47+00:00",
       "image": "https://i.guim.co.uk/img/media/94dc17433aba4186d1d5c3aeaa90b0a28a0a1ded/865_0_4664_3732/master/4664.jpg?width=140&quality=85&auto=format&fit=max&s=67df36ccb42b19c4f756517bdbc5196e"
     },
     {
-      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-      "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
-      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-11T23:52:30+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc59/live/150d2fe0-ddde-11f1-b465-b9821c2582d4.jpg"
+      "title": "US election results could be positive for Lebanon, Hezbollah chief says",
+      "summary": "Naim Qassem says Republican losses and Israel's election result could help Lebanon maintain sovereignty.",
+      "url": "https://www.aljazeera.com/news/2026/11/12/us-election-results-could-be-positive-for-lebanon-hezbollah-chief-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-12T00:06:50+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af4f0e0233b-1794437344.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
