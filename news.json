@@ -1,32 +1,40 @@
 {
-  "updated_at": "2026-11-12T08:30:34.301924+00:00",
+  "updated_at": "2026-11-12T08:45:27.068394+00:00",
   "national": [
     {
-      "title": "Prabowo: Gibran Datang Sendiri Sampaikan Surat Mundur, Meski Bisa Utus Orang",
-      "summary": "Presiden Prabowo Subianto menerima pengunduran diri Gibran Rakabuming Raka sebagai Wapres. Gibran memilih menyampaikan surat secara langsung.",
-      "url": "https://news.detik.com/berita/d-8750035/prabowo-gibran-datang-sendiri-sampaikan-surat-mundur-meski-bisa-utus-orang",
+      "title": "FOTO: Langkah Terakhir Gibran di Pelataran Istana Wapres",
+      "summary": "Gibran Rakabuming Raka resmi mengundurkan diri dari jabatan wakil presiden pada hari ini, Kamis (12/11).",
+      "url": "https://www.cnnindonesia.com/nasional/20261112150027-34-1426431/foto-langkah-terakhir-gibran-di-pelataran-istana-wapres",
+      "source": "CNN Indonesia",
+      "published": "2026-11-12T08:44:12+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/12/goodbye-gibran-1794470415313_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "Pernyataan Lengkap Prabowo Terima Pengunduran Diri Gibran dari Wapres",
+      "summary": "Prabowo menghormati keputusan Gibran ini dan siap terus mendukung karier Gibran selanjutnya.",
+      "url": "https://news.detik.com/berita/d-8750060/pernyataan-lengkap-prabowo-terima-pengunduran-diri-gibran-dari-wapres",
       "source": "Detik",
-      "published": "2026-11-12T08:29:47+00:00",
+      "published": "2026-11-12T08:40:59+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/presiden-prabowo-subianto-1794471725630_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Prabowo Ungkap Gibran Konsultasi Beberapa Hari Sebelum Mundur",
-      "summary": "Presiden Prabowo Subianto mengonfirmasi Gibran Rakabuming Raka mengundurkan diri sebagai wakil presiden. Gibran menyerahkan surat pengunduran diri langsung.",
-      "url": "https://www.cnnindonesia.com/nasional/20261112151635-32-1426443/prabowo-ungkap-gibran-konsultasi-beberapa-hari-sebelum-mundur",
-      "source": "CNN Indonesia",
-      "published": "2026-11-12T08:27:19+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/12/keterangan-pers-presiden-prabowo-usai-gibran-mundur-dari-wapres-1794471119209_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "MPR gelar rapat gabungan bahas pengisian jabatan wapres besok",
-      "summary": "Ketua MPR Ahmad Muzani mengatakan rapat gabungan MPR akan digelar pada Jumat (13/11) siang untuk membahas pengisian ...",
-      "url": "https://www.antaranews.com/berita/5849031/mpr-gelar-rapat-gabungan-bahas-pengisian-jabatan-wapres-besok",
+      "title": "Prabowo hormati keputusan Gibran mundur sebagai wapres",
+      "summary": "Presiden Prabowo Subianto menghormati keputusan Gibran Rakabuming Raka mundur dari jabatannya sebagai Wakil Presiden ...",
+      "url": "https://www.antaranews.com/berita/5849211/prabowo-hormati-keputusan-gibran-mundur-sebagai-wapres",
       "source": "ANTARA",
-      "published": "2026-11-12T07:50:38+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/12/1001416912.jpg"
+      "published": "2026-11-12T08:37:58+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/12/tempImagecbiHT6.jpg"
     }
   ],
   "international": [
+    {
+      "title": "‘Tourists hate themselves’ – which is why Tasmania is telling people to stay away",
+      "summary": "Island state declares it ‘is not really for tourists’ – but is the marketing strategy just a cheeky piece of reverse psychology? Get our breaking news email , free app or daily news podcast Research shows “tourists hate themselves” – which is exactly why the marketing flacks at Tourism Tasmania are telling them to stay away from the island state. Its new campaign declares the island state is “not really for tourists”, enlisting former SBS newsreader Lee Lin Chin to help sell the tongue-in-cheek campaign, based on the idea that Australians prefer identifying as a “traveller” rather than a “tourist”. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/12/tourists-hate-themselves-which-is-why-tasmania-is-telling-people-to-stay-away",
+      "source": "The Guardian",
+      "published": "2026-11-12T08:30:57+00:00",
+      "image": "https://i.guim.co.uk/img/media/e85646f7aa4c4738df04d5911c9d698d1a06e28a/441_118_1061_849/master/1061.jpg?width=140&quality=85&auto=format&fit=max&s=c3f9e77e65bdaa33630b95d28fe5b94c"
+    },
     {
       "title": "Indonesia's vice-president resigns amid signs ruling alliance is fraying",
       "summary": "The news comes at a turbulent time for President Prabowo, who faces a growing rift with his predecessor Joko Widodo.",
@@ -34,14 +42,6 @@
       "source": "BBC",
       "published": "2026-11-12T08:26:50+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e5a/live/8d137e10-dcf1-11f1-9ef0-4b5930e2f80e.jpg"
-    },
-    {
-      "title": "Nvidia board reportedly meets to decide CEO Jensen Huang’s future as chip giant’s share price plunges – follow live",
-      "summary": "Nvidia shares plunge in extended trading, sending Asian markets lower Nvidia board reportedly deciding whether to oust CEO Jensen Huang Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla 3.6%. On the other hand, Nvidia’s board does not appear to have spent much time worrying about succession planning and “key person risk” or other standard concerns of corporate governance wonks outside the US. Continue reading...",
-      "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
-      "source": "The Guardian",
-      "published": "2026-11-12T08:13:21+00:00",
-      "image": "https://i.guim.co.uk/img/media/f8142d9712b85f162ef04fc00cf4f4dd2db40896/236_0_6713_5372/master/6713.jpg?width=140&quality=85&auto=format&fit=max&s=a560ced44701782ebc9e29925388d9d8"
     },
     {
       "title": "Mississippi elects first Black Senator since 1874",
