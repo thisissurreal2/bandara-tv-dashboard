@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-12T03:30:33.569715+00:00",
+  "updated_at": "2026-11-12T03:45:29.915793+00:00",
   "national": [
     {
-      "title": "Momen Anggota DPR Minta Tersangka Penyadap Prabowo Dijerat Pasal Makar",
-      "summary": "Anggota Komisi III DPR dari Fraksi PDIP, Safaruddin, merespons kasus dugaan makar yang dikaitkan dengan Listyo Sigit dkk, tersangka penyadapan.",
-      "url": "https://www.cnnindonesia.com/nasional/20261112101614-16-1426212/momen-anggota-dpr-minta-tersangka-penyadap-prabowo-dijerat-pasal-makar",
+      "title": "Bima Arya Ingatkan Banyak Negara Lewatkan Bonus Demografi",
+      "summary": "Wakil Menteri Dalam Negeri Bima Arya mengingatkan pentingnya memanfaatkan bonus demografi di Indonesia sebelum berakhir 2038.",
+      "url": "https://www.cnnindonesia.com/nasional/20261112103320-20-1426224/bima-arya-ingatkan-banyak-negara-lewatkan-bonus-demografi",
       "source": "CNN Indonesia",
-      "published": "2026-11-12T03:27:15+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/12/thumbnail-video-1794453509756_169.jpeg?w=360&q=90"
+      "published": "2026-11-12T03:37:37+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/12/wakil-menteri-dalam-negeri-wamendagri-bima-arya-sugiarto-memberikan-paparan-dalam-dialog-publik-senator-menyapa-jakarta-kamis--1794452013793_169.png?w=360&q=90"
+    },
+    {
+      "title": "Kemenkes minta periset fokus pada produk bernilai ekonomi skala besar",
+      "summary": "Kementerian Kesehatan (Kemenkes) mendorong para periset bidang kesehatan untuk lebih tanggap dalam membaca kebutuhan ...",
+      "url": "https://www.antaranews.com/berita/5848487/kemenkes-minta-periset-fokus-pada-produk-bernilai-ekonomi-skala-besar",
+      "source": "ANTARA",
+      "published": "2026-11-12T03:32:21+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/12/IMG_20261112_102318.jpg.jpeg"
     },
     {
       "title": "Slamet Uliandi Jadi Tahanan Rumah di Kasus Penyadapan Presiden Prabowo",
@@ -16,24 +24,24 @@
       "source": "Detik",
       "published": "2026-11-12T03:25:56+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2025/10/27/irjen-slamet-uliandi-1761544556624_169.png?w=360&q=90"
-    },
-    {
-      "title": "Kapolri: Sudah ada laporan polisi terkait makar kasus sadap Presiden",
-      "summary": "Kapolri Jenderal Polisi Suyudi Ario Seto menyebut pihaknya telah menerbitkan laporan polisi berkaitan dengan dugaan ...",
-      "url": "https://www.antaranews.com/berita/5848323/kapolri-sudah-ada-laporan-polisi-terkait-makar-kasus-sadap-presiden",
-      "source": "ANTARA",
-      "published": "2026-11-12T02:32:11+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/12/IMG_8674eLwzvf.jpg"
     }
   ],
   "international": [
     {
-      "title": "Democrat Scott Colom to be first Black senator elected in Mississippi since 1874 after narrow win – US politics live",
+      "title": "Scott Colom claims victory as he addresses supporters in Mississippi following his historic Senate victory – live",
       "summary": "Colom beat Republican Cindy Hyde-Smith after race was called eight days after midterm election day Democrat Scott Colom wins race for US Senate in Mississippi How Colom won deep-red Mississippi with little help from Democrats Sign up for the US Breaking News email Some Democrats, out of the 11 who missed the key procedural vote on Tuesday to impeach Pete Hegseth, blamed a traffic jam in Washington DC for their inability to make it to the US Capitol in time . By a vote of 211-204, Republicans referred the articles of impeachment to the judiciary committee – effectively killing the effort to oust Hegseth. Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/11/donald-trump-pete-hegseth-impeachment-democrats-republicans-arlington-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-12T03:19:36+00:00",
+      "published": "2026-11-12T03:33:22+00:00",
       "image": "https://i.guim.co.uk/img/media/94dc17433aba4186d1d5c3aeaa90b0a28a0a1ded/865_0_4664_3732/master/4664.jpg?width=140&quality=85&auto=format&fit=max&s=67df36ccb42b19c4f756517bdbc5196e"
+    },
+    {
+      "title": "Building collapse in Brooklyn kills two, injures more than a dozen",
+      "summary": "Rescue crews search for victims as Mayor Mamdani says first responders arrived one minute after emergency call.",
+      "url": "https://www.aljazeera.com/news/2026/11/12/building-collapse-in-brooklyn-kills-two-injures-more-than-a-dozen?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-12T03:31:08+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af51fe40c1b-1794449380.jpg?resize=1920%2C1440"
     },
     {
       "title": "Australian teen missing in bush for six days rescued alive",
@@ -42,15 +50,11 @@
       "source": "BBC",
       "published": "2026-11-12T02:40:18+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/274e/live/2e3b6140-de41-11f1-a9ed-658311f31da9.png"
-    },
-    {
-      "title": "Indonesian VP resigns over education qualification row",
-      "summary": "Indonesia's Vice President Gibran Rakabuming Raka has resigned amid a dispute over his educational qualifications.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-12T02:22:48+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794450131.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
