@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-12T16:30:35.104484+00:00",
+  "updated_at": "2026-11-12T16:46:15.357747+00:00",
   "national": [
     {
-      "title": "Tiongkok Kenang Sun Yat-sen, Sosok Penting di Balik Lahirnya Republik",
-      "summary": "Tiongkok memperingati 160 tahun kelahiran Sun Yat-sen di Beijing, mengenang tokoh revolusioner pendiri Republik Tiongkok.",
-      "url": "https://news.detik.com/foto-news/d-8749704/tiongkok-kenang-sun-yat-sen-sosok-penting-di-balik-lahirnya-republik",
+      "title": "Polri Sebut Ijazah Jokowi Sudah Diuji Puslabfor, Tak Perlu Uji Lagi",
+      "summary": "Polri menyatakan hasil pengujian forensik ijazah Joko Widodo telah selesai dan tidak perlu diuji ulang. Proses dilakukan transparan dan sesuai hukum.",
+      "url": "https://news.detik.com/berita/d-8750737/polri-sebut-ijazah-jokowi-sudah-diuji-puslabfor-tak-perlu-uji-lagi",
       "source": "Detik",
-      "published": "2026-11-12T16:27:25+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/tiongkok-kenang-sun-yat-sen-sosok-penting-di-balik-lahirnya-republik-1794462770597_169.jpeg?w=360&q=90"
+      "published": "2026-11-12T16:34:22+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/26/karo-penmas-divhumas-polri-brigjen-trunoyudo-wisnu-andiko-dok-istimewa-1793024827839_169.jpeg?w=360&q=90"
     },
     {
       "title": "Kuasa Hukum Gibran: Hakim PTUN Tak Objektif Gugurkan Gugatan Suket",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "‘I had the courage to believe in Mississippi’ says Scott Colom after historic Senate win – US politics live",
-      "summary": "Colom adds to blue wave of Democrat victories across the US and becomes Mississippi’s first black senator since 1875 after defeating Cindy Hyde-Smith Sign up for the Breaking News US email Perhaps you saw this ad from Scott Colom, who was just elected to serve as Mississippi’s first Democratic senator since 1989: The New York Times spoke to Russ Hudson , the man who is grilling in the first part of the ad and uttered the “sheeeit” that has now become an emblem of Colom’s successful campaign. Here’s what he had to say, from the Times: The lines, he said, felt natural. He left thinking maybe a couple thousand people would see it. “I just did it like a Mississippian would,” Mr. Hudson said in an interview. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
+      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+      "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-12T16:31:12+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "New talks with Russia, Ukraine and European countries agreed, US says - Europe live",
+      "summary": "US envoy Steve Witkoff’s announcement come after his talks with Putin in Moscow Luxembourg’s PM Luc Frieden looks to be absolutely chuffed to be representing all three Benelux countries at today’s summit, as his Belgian and Dutch colleagues are too busy to attend as they face domestic crises. “I have the privilege of representing 30 millions citizens today,” he said on arrival to Dublin, with a massive smile on his face. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-12T16:18:36+00:00",
-      "image": "https://i.guim.co.uk/img/media/9c23d473a2131c3873a7bdcf111e93aab22988a7/403_0_3443_2755/master/3443.jpg?width=140&quality=85&auto=format&fit=max&s=eae7ef8d75ca795e37d91b7ae82d7df1"
+      "published": "2026-11-12T16:28:18+00:00",
+      "image": "https://i.guim.co.uk/img/media/00948ad10d38976117c45566fb6a392bcf3bb3b5/244_0_3730_2984/master/3730.jpg?width=140&quality=85&auto=format&fit=max&s=5ac4c094a40b85e9e714901ec4cc5c82"
     },
     {
       "title": "BDS claims win as energy giants quit Israeli gas project off Gaza",
@@ -42,14 +50,6 @@
       "source": "Al Jazeera",
       "published": "2026-11-12T16:07:16+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794499621.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
-      "summary": "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns",
-      "url": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-12T15:18:20+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4358/live/fa767be0-de8d-11f1-9afe-1f03bfe02283.jpg"
     }
   ],
   "feed_warnings": []
