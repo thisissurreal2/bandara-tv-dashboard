@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-12T19:30:34.967375+00:00",
+  "updated_at": "2026-11-12T19:45:25.965290+00:00",
   "national": [
+    {
+      "title": "Silmy Karim Sebut Kasus Pemerasan Izin Tinggal WNA Dipaksakan",
+      "summary": "Mantan Wamen Imigrasi Silmy Karim menolak tuduhan pemerasan dan gratifikasi. Ia menyebut kasusnya sebagai kriminalisasi dan siap hadapi sidang pokok.",
+      "url": "https://www.cnnindonesia.com/nasional/20261112225129-32-1426609/silmy-karim-sebut-kasus-pemerasan-izin-tinggal-wna-dipaksakan",
+      "source": "CNN Indonesia",
+      "published": "2026-11-12T19:30:04+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/10/29/sidang-dakwaan-silmy-karim-1793273362037_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Kebakaran Agen Gas LPG di Cakung Padam, Tak Ada Korban Jiwa",
       "summary": "Kebakaran agen gas LPG di Cakung, Jakarta Timur berhasil dipadamkan. Tak ada korban jiwa.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-12T18:36:09+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/damkar-1794508498254_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Denny Indrayan: Putusan PTUN Gugurkan Suket Gibran Kemenangan Mercy",
-      "summary": "Kuasa hukum Mercy Sihombing menyatakan putusan PTUN Jakarta menggugurkan gugatan terkait ijazah Gibran Rakabuming Raka adalah kemenangan pihaknya.",
-      "url": "https://www.cnnindonesia.com/nasional/20261112220513-32-1426605/denny-indrayan-putusan-ptun-gugurkan-suket-gibran-kemenangan-mercy",
-      "source": "CNN Indonesia",
-      "published": "2026-11-12T18:01:14+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/12/penggugat-suket-gibran-di-ptun-1794491809782_169.jpeg?w=360&q=90"
     },
     {
       "title": "Jensen Huang mundur sebagai CEO NVIDIA imbas skandal mata-mata China",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
-      "summary": "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations.",
-      "url": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+      "title": "Jensen Huang has resigned, what's next for Nvidia?",
+      "summary": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI.",
+      "url": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-12T19:23:02+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f53d/live/8b18a0e0-de90-11f1-b441-2b33b063138f.jpg"
+      "published": "2026-11-12T19:33:37+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2742/live/64baf7c0-dece-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "title": "Washington DC shooting: suspect confirmed dead after one person is killed and four injured – latest updates",
-      "summary": "Suspect has died after suffering a gunshot wound; one injured person in critical condition Multiple people shot in Washington DC as police warn people to stay inside The incident is shifting from an active shooter response to a barricaded subject response , a federal law enforcement official has told NBC News. It is believed there is no other individual there at scene so this is not considered a hostage situation, they said, adding that it has been about 90 minutes since the suspect fired at law enforcement, which did not strike anyone. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/12/washington-dc-shooting-logan-circle-latest-updates",
+      "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery – US politics live",
+      "summary": "Defense secretary issues commendation to US army sentinel who told him and his aides to be quiet after laughter was heard at Tomb of the Unknown Soldier Pete Hegseth awards medal to soldier who reprimanded him Sign up for the Breaking News US email Perhaps you saw this ad from Scott Colom, who was just elected to serve as Mississippi’s first Democratic senator since 1982 : The New York Times spoke to Russ Hudson , the man who is grilling in the first part of the ad and uttered the “sheeeit” that has now become an emblem of Colom’s successful campaign. Here’s what he had to say, from the Times: The lines, he said, felt natural. He left thinking maybe a couple thousand people would see it. “I just did it like a Mississippian would,” Mr. Hudson said in an interview. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
       "source": "The Guardian",
-      "published": "2026-11-12T19:09:00+00:00",
-      "image": "https://i.guim.co.uk/img/media/3e96d892fd128af4a596c9b1883c06409042a1e0/275_0_4405_3525/master/4405.jpg?width=140&quality=85&auto=format&fit=max&s=3934f242f1acb83fadc80aa3af1e3736"
+      "published": "2026-11-12T19:26:04+00:00",
+      "image": "https://i.guim.co.uk/img/media/643bd3e107bf10fec5fb9540b81a8dc3fab9fbb3/638_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=a39a9c6d43d926a7703e438d7352ec29"
     },
     {
       "title": "UK mosque rebukes comission’s ‘warning’ following Palestine comments",
