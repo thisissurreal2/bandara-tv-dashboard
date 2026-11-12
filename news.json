@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-12T19:45:25.965290+00:00",
+  "updated_at": "2026-11-12T20:00:42.611701+00:00",
   "national": [
+    {
+      "title": "Naik Sepeda Listrik, Bocah 9 Tahun Tewas Usai Tabrakan dengan Truk di Madura",
+      "summary": "Kecelakaan truk dan sepeda listrik di Pamekasan terjadi. Bocaah 9 tahun yang kendarai sepeda listrik merenggut nyawa.",
+      "url": "https://news.detik.com/berita/d-8750762/naik-sepeda-listrik-bocah-9-tahun-tewas-usai-tabrakan-dengan-truk-di-madura",
+      "source": "Detik",
+      "published": "2026-11-12T19:49:04+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/kecelakaan-maut-di-pamekasan-1794484314023_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Silmy Karim Sebut Kasus Pemerasan Izin Tinggal WNA Dipaksakan",
       "summary": "Mantan Wamen Imigrasi Silmy Karim menolak tuduhan pemerasan dan gratifikasi. Ia menyebut kasusnya sebagai kriminalisasi dan siap hadapi sidang pokok.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-12T19:30:04+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/10/29/sidang-dakwaan-silmy-karim-1793273362037_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Kebakaran Agen Gas LPG di Cakung Padam, Tak Ada Korban Jiwa",
-      "summary": "Kebakaran agen gas LPG di Cakung, Jakarta Timur berhasil dipadamkan. Tak ada korban jiwa.",
-      "url": "https://news.detik.com/berita/d-8750754/kebakaran-agen-gas-lpg-di-cakung-padam-tak-ada-korban-jiwa",
-      "source": "Detik",
-      "published": "2026-11-12T18:36:09+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/damkar-1794508498254_169.jpeg?w=360&q=90"
     },
     {
       "title": "Jensen Huang mundur sebagai CEO NVIDIA imbas skandal mata-mata China",
@@ -28,33 +28,29 @@
   ],
   "international": [
     {
+      "title": "‘Who will be held accountable?’: fatal Brooklyn building collapse devastates community",
+      "summary": "New York City officials have confirmed at least eight casualties – six adults and two children – in the collapse Flatbush Ave in Flatbush, New York, stood still and in shock after a three-story apartment building collapsed on Wednesday afternoon near a construction site. “The last time I saw something like this was when I went to work at 9/11,” Prudence Foster said. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/12/nyc-building-collapse-reaction",
+      "source": "The Guardian",
+      "published": "2026-11-12T19:49:24+00:00",
+      "image": "https://i.guim.co.uk/img/media/bf17e4172143b591a43dc9028eac45a3455c9051/676_0_6763_5410/master/6763.jpg?width=140&quality=85&auto=format&fit=max&s=cae97a645468f69eb9e8bffa90ef34aa"
+    },
+    {
+      "title": "Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?",
+      "summary": "Huang has stepped down amid revelations about extramarital affairs and allegations of Chinese espionage.",
+      "url": "https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-12T19:45:40+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af6100196e00-1794510849.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "Jensen Huang has resigned, what's next for Nvidia?",
       "summary": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI.",
       "url": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-12T19:33:37+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2742/live/64baf7c0-dece-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery – US politics live",
-      "summary": "Defense secretary issues commendation to US army sentinel who told him and his aides to be quiet after laughter was heard at Tomb of the Unknown Soldier Pete Hegseth awards medal to soldier who reprimanded him Sign up for the Breaking News US email Perhaps you saw this ad from Scott Colom, who was just elected to serve as Mississippi’s first Democratic senator since 1982 : The New York Times spoke to Russ Hudson , the man who is grilling in the first part of the ad and uttered the “sheeeit” that has now become an emblem of Colom’s successful campaign. Here’s what he had to say, from the Times: The lines, he said, felt natural. He left thinking maybe a couple thousand people would see it. “I just did it like a Mississippian would,” Mr. Hudson said in an interview. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
-      "source": "The Guardian",
-      "published": "2026-11-12T19:26:04+00:00",
-      "image": "https://i.guim.co.uk/img/media/643bd3e107bf10fec5fb9540b81a8dc3fab9fbb3/638_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=a39a9c6d43d926a7703e438d7352ec29"
-    },
-    {
-      "title": "UK mosque rebukes comission’s ‘warning’ following Palestine comments",
-      "summary": "The Lewisham Islamic Centre accused the charity watchdog of imposing disproportionate expectations on Muslim charities.",
-      "url": "https://www.aljazeera.com/news/2026/11/12/uk-mosque-rebukes-comissions-warning-following-palestine-comments?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-12T18:58:49+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af5e344-1794499396.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
