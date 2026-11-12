@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-12T14:45:27.943834+00:00",
+  "updated_at": "2026-11-12T15:00:42.336696+00:00",
   "national": [
+    {
+      "title": "Rumah Warga di Malang Dirampok, Anak Pemilik Tewas Disekap Pelaku",
+      "summary": "Perampokan brutal terjadi di Malang, Jawa Timur, mengakibatkan tewasnya anak penghuni rumah. Polisi menyelidiki kasus pencurian disertai kekerasan ini.",
+      "url": "https://news.detik.com/berita/d-8750654/rumah-warga-di-malang-dirampok-anak-pemilik-tewas-disekap-pelaku",
+      "source": "Detik",
+      "published": "2026-11-12T14:52:55+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/rumah-di-malang-dirampok-1794488954567_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Harapan Gibran untuk Indonesia: Demokrasi Perlu Ditata Lebih Baik",
       "summary": "Gibran Rakabuming Raka berharap penataan demokrasi di Indonesia lebih baik setelah pengunduran dirinya.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-12T14:35:14+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/12/gibran-gelar-perpisahan-usai-mundur-dari-jabatan-1794464741194_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Kronologi BNN-Polri Tangkap Muzammil DPO Kasus Narkoba Jaringan Internasional",
-      "summary": "Target DPO peredaran sabu jaringan Malaysia-Madura tersebut berhasil diamankan oleh tim gabungan di wilayah Kabupaten Bangkalan",
-      "url": "https://news.detik.com/berita/d-8750592/kronologi-bnn-polri-tangkap-muzammil-dpo-kasus-narkoba-jaringan-internasional",
-      "source": "Detik",
-      "published": "2026-11-12T13:47:56+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/09/12/ilustrasi-garis-polisi-1789204756287_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo miliki waktu 14 hari ajukan dua calon wakil presiden ke MPR",
@@ -28,33 +28,29 @@
   ],
   "international": [
     {
+      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
+      "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
+      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-12T14:54:47+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "Trump heads to China amid Nvidia scandal: Will he get tougher on Beijing?",
+      "summary": "Outgoing Nvidia chief credited with easing US-China chip ties but personal scandal unlikely to upend next week's talks.",
+      "url": "https://www.aljazeera.com/news/2026/11/12/trump-heads-to-china-amid-nvidia-scandal-will-he-get-tougher-on-beijing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-12T14:48:10+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af5b593-1794487699.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "Nvidia CEO Jensen Huang resigns over scandal and is replaced by CFO Colette Kress on interim basis – follow live",
       "summary": "Nvidia shares plunge 10% in pre-market trading after board ousts longtime boss Huang over two affairs, including with a suspected Chinese spy, in big blow to AI boom Too big – and too well-connected – to sack? Huang does not enjoy the supercharged voting rights that are par for the course elsewhere – his shareholding is a plain vanilla 3.6%. On the other hand, Nvidia’s board does not appear to have spent much time worrying about succession planning and “key person risk” or other standard concerns of corporate governance wonks outside the US. Continue reading...",
       "url": "https://www.theguardian.com/technology/live/2026/nov/12/nvidia-ceo-jensen-huang-affairs-share-price-plunges-live-latest",
       "source": "The Guardian",
-      "published": "2026-11-12T14:33:52+00:00",
+      "published": "2026-11-12T14:44:44+00:00",
       "image": "https://i.guim.co.uk/img/media/b0db856d27bd5597f6c968038caf6028fb4510e5/0_22_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=8b4419f5660b44ec782a441e49a0f3ec"
-    },
-    {
-      "title": "‘No war, no peace’: Can Iran break the deadlock with the US?",
-      "summary": "Sustainable stalemate or slow-motion strangulation? The current 'equilibrium' is inherently unstable, experts say.",
-      "url": "https://www.aljazeera.com/news/2026/11/12/no-war-no-peace-can-iran-break-the-deadlock-with-the-us?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-12T14:27:54+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260820__C66784N__v1__HighRes__IraqIranPoliticsDiplomacyReligionIslamShia-1787255506-1794488319.jpg?resize=1200%2C630&quality=80"
-    },
-    {
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-12T14:27:30+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d247/live/940d6f30-de7e-11f1-b88b-3f1671ea859d.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
