@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-12T12:15:29.844713+00:00",
+  "updated_at": "2026-11-12T12:30:39.978423+00:00",
   "national": [
+    {
+      "title": "Yusril: Wapres kosong, Prabowo tetap jalankan pemerintahan sendiri",
+      "summary": "Menteri Koordinator Bidang Hukum, HAM, Imigrasi, dan Pemasyarakatan (Menko Kumham Imipas) Yusril Ihza Mahendra ...",
+      "url": "https://www.antaranews.com/berita/5849979/yusril-wapres-kosong-prabowo-tetap-jalankan-pemerintahan-sendiri",
+      "source": "ANTARA",
+      "published": "2026-11-12T12:17:28+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/12/IMG_4432.jpeg"
+    },
     {
       "title": "Gibran Buka Suara Usai Mundur dari Wapres RI",
       "summary": "Gibran Rakabuming Raka menegaskan keputusan mundur dari jabatan Wakil Presiden RI tidak terkait polemik ijazah.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-12T12:11:40+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/12/pernyataan-resmi-gibran-rakabuming-terkait-pengunduran-diri-sebagai-wakil-presiden-ri-1794484741025_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Yusril sebut Prabowo akan bahas calon wapres dengan partai koalisi",
-      "summary": "Menteri Koordinator Bidang Hukum, HAM, Imigrasi, dan Pemasyarakatan Yusril Ihza Mahendra mengatakan Presiden Prabowo ...",
-      "url": "https://www.antaranews.com/berita/5849935/yusril-sebut-prabowo-akan-bahas-calon-wapres-dengan-partai-koalisi",
-      "source": "ANTARA",
-      "published": "2026-11-12T12:05:33+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/12/tempImageWNzG5N.jpg"
     },
     {
       "title": "Polres Kampar Bekuk 15 Tersangka Narkoba dalam Sepekan, Sita Sabu-Ganja",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
-      "title": "Ukraine says military Starlink disrupted again as US envoys meet Putin in Moscow",
-      "summary": "Later on Thursday, Jared Kushner and Steve Witkoff will travel to Dublin to meet Ukraine's Volodymyr Zelensky.",
-      "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "summary": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-12T12:14:51+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3774/live/60c41ee0-de7d-11f1-b88b-3f1671ea859d.jpg"
+      "published": "2026-11-12T12:26:01+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d247/live/940d6f30-de7e-11f1-b88b-3f1671ea859d.jpg"
     },
     {
-      "title": "Burberry returns to profit as sales soar, from £85 socks to £9,000 bags",
-      "summary": "CEO says ‘democratic approach’ has helped brand outperform tough market, with big rises in China and US Burberry has returned to profit as its back-to-basics strategy drove strong sales of the British brand’s coats, jackets and handbags over the summer. Joshua Schulman, the chief executive, said the luxury brand had outperformed a “challenging luxury market” to achieve sales growth of 6%, helped by strong online and wholesale sales particularly in China and the US. “Our strategy is working,” he said. Continue reading...",
-      "url": "https://www.theguardian.com/business/2026/nov/12/burberry-profit-sales-socks-bags-china-us",
+      "title": "Ukraine hit by ‘significant’ Starshield disruptions as US envoys meet Putin, Zelenskyy says - Europe live",
+      "summary": "Ukraine’s president said unwelcome ‘speed restrictions’ on military connectivity are ‘helping the Russians kill’ Luxembourg’s PM Luc Frieden looks to be absolutely chuffed to be representing all three Benelux countries at today’s summit, as his Belgian and Dutch colleagues are too busy to attend as they face domestic crises. “I have the privilege of representing 30 millions citizens today,” he said on arrival to Dublin, with a massive smile on his face. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/nov/12/us-envoys-in-moscow-meeting-putin-abu-dhabi-trilateral-ukraine-ceasefire-talks-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-12T11:59:51+00:00",
-      "image": "https://i.guim.co.uk/img/media/3ff14fd356a349ccf360b27f4c25f19f12243107/609_0_4349_3479/master/4349.jpg?width=140&quality=85&auto=format&fit=max&s=c578842a88e6809ae47500ed3ba85c6a"
+      "published": "2026-11-12T12:10:02+00:00",
+      "image": "https://i.guim.co.uk/img/media/f7908dac85bdca30bcc9926d01183c835edb4feb/1782_18_3821_3057/master/3821.jpg?width=140&quality=85&auto=format&fit=max&s=ec6c5cde44339a49a2d5b19efd26ded4"
     },
     {
-      "title": "Nvidia board weighs Jensen Huang’s future: Can it remove its founder?",
-      "summary": "CEO of chip maker is under scrutiny after reports of affairs, including a relationship with an alleged Chinese spy.",
-      "url": "https://www.aljazeera.com/news/2026/11/12/nvidia-board-weighs-jensen-huangs-future-can-it-remove-its-founder?traffic_source=rss",
+      "title": "Xi Jinping says Taiwan’s ‘complete reunification’ with China will happen",
+      "summary": "Chinese president says the tide of history 'cannot be stopped' as Taiwan rejects 'one country, two systems'.",
+      "url": "https://www.aljazeera.com/news/2026/11/12/xi-jinping-says-taiwans-complete-reunification-with-china-will-happen?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-12T11:43:19+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af5a70d-1794483981.jpg?resize=1920%2C1440"
+      "published": "2026-11-12T11:59:28+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af593ae-1794479022.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
