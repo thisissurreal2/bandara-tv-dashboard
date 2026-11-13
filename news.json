@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-12T23:45:28.299968+00:00",
+  "updated_at": "2026-11-13T00:00:41.252732+00:00",
   "national": [
     {
-      "title": "Yusril Respons Wacana Wapres Pengganti Gibran Harus dari Koalisi",
-      "summary": "Yusril Ihza Mahendra menanggapi wacana calon wakil presiden pengganti Gibran. Ia menegaskan tidak ada larangan tegas terkait pengusungan calon dari partai.",
-      "url": "https://www.cnnindonesia.com/nasional/20261112190455-32-1426553/yusril-respons-wacana-wapres-pengganti-gibran-harus-dari-koalisi",
+      "title": "3 Eks Pejabat Ditjen Bea Cukai Divonis Bui 6-9 Tahun Kasus Blueray",
+      "summary": "Tiga mantan pejabat Bea Cukai divonis penjara 6-9 tahun karena suap dan gratifikasi dari PT BlueRay Cargo terkait korupsi impor barang tiruan.",
+      "url": "https://www.cnnindonesia.com/nasional/20261113054937-12-1426620/3-eks-pejabat-ditjen-bea-cukai-divonis-bui-6-9-tahun-kasus-blueray",
       "source": "CNN Indonesia",
-      "published": "2026-11-12T23:00:05+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/03/yusril-ihza-mahendra-tanggapi-kasus-penyadapan-prabowo-1793715289211_169.jpeg?w=360&q=90"
+      "published": "2026-11-12T23:55:41+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/02/06/penahanan-tersangka-ott-importasi-barang-di-djbc-1770343824284_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "Terungkap Listyo Sigit End User Hasil-hasil Penyadapan",
+      "summary": "Kapolri Jenderal Suyudi mengungkap kasus penyadapan ilegal oleh mantan Kapolri Listyo Sigit dan tiga jenderal lainnya terhadap Prabowo Subianto.",
+      "url": "https://news.detik.com/berita/d-8750810/terungkap-listyo-sigit-end-user-hasil-hasil-penyadapan",
+      "source": "Detik",
+      "published": "2026-11-12T23:30:59+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/komisi-iii-dpr-menggelar-rapat-bersama-kapolri-jenderal-suyudi-ario-seto-anggidetikcom-1794447272070_169.jpeg?w=360&q=90"
     },
     {
       "title": "Italia hajar Prancis 3-1, Zidane telan kekalahan pertama",
@@ -16,14 +24,6 @@
       "source": "ANTARA",
       "published": "2026-11-12T23:00:00+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/13/1000085514.jpg"
-    },
-    {
-      "title": "Kecelakaan Truk di Fujairah UEA Tewaskan 14 Orang",
-      "summary": "Kecelakaan maut di Fujairah, UEA, melibatkan truk dan kendaraan lain. 14 orang dilaporkan tewas dan melukai 30 lainnya.",
-      "url": "https://news.detik.com/internasional/d-8750769/kecelakaan-truk-di-fujairah-uea-tewaskan-14-orang",
-      "source": "Detik",
-      "published": "2026-11-12T21:11:02+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2023/02/12/ilustrasi-kecelakaan_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
@@ -32,7 +32,7 @@
       "summary": "Cummins speaks about allegations in Usman Khawaja’s book about the 2018 ball-tampering incident Cummins says there’s a ‘proper way to do things’ Cummins says he believes there was a proper way to handle the sandpaper incident, pointing to the Cricket Australia investigation shortly afterwards. There’s a very proper way to do things and improve. I think that investigation was a proper way to do it. Everyone was asked in the circumstances about a game very quickly after. So that’s for CA. I think you can maybe argue whether the judgements were fair, but what can you do? I got asked all the questions, answered them all fairly. That’s my story, so I think he’s wrong. The details really matter in that difference. So perhaps there was conversations with Cameron Bancroft around taking sandpaper out and how to do it. That doesn’t mean that everyone in that dressing room knew what was going on. Continue reading...",
       "url": "https://www.theguardian.com/sport/live/2026/nov/13/pat-cummins-press-conference-usman-khawaja-sandpapergate-australia-cricket-captain-statement-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-12T23:34:37+00:00",
+      "published": "2026-11-12T23:44:58+00:00",
       "image": "https://i.guim.co.uk/img/media/98e2bff19e4445496fd0da8a491d3cb83c3bdeac/257_0_2562_2050/master/2562.jpg?width=140&quality=85&auto=format&fit=max&s=d43de4137917c4bf62509ab2f2a05acc"
     },
     {
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af6411ddfabf-1794523421.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
