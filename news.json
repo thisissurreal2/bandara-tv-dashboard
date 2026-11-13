@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T19:45:25.997840+00:00",
+  "updated_at": "2026-11-13T20:00:39.412810+00:00",
   "national": [
     {
       "title": "Siswi Disabilitas di Semarang Tewas Terjatuh Lewat Lubang Dinding Lantai 3",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Bessent blames Lutnick’s commerce department over delay blacklisting China-linked data firm – US politics live",
-      "summary": "Treasury secretary says he was in favor ‘for months’ of putting Megaspeed on blacklist to stop Nvidia exporting advanced chips to Beijing Howard Lutnick under pressure over alleged lack of Nvidia action Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted earlier, the calls for Howard Lutnick to appear before lawmakers on Capitol Hill have been answered. Continue reading...",
+      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-13T19:53:57+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg"
+    },
+    {
+      "title": "Chris Van Hollen rules out 2028 presidential bid as challenge to take Senate leadership gains support – US politics live",
+      "summary": "Maryland senator says he wants to focus on Senate’s midterm mandate ‘to answer the call with the American people’ Howard Lutnick under pressure over alleged lack of Nvidia action Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted earlier, the calls for Howard Lutnick to appear before lawmakers on Capitol Hill have been answered. Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
       "source": "The Guardian",
-      "published": "2026-11-13T19:27:06+00:00",
-      "image": "https://i.guim.co.uk/img/media/e19db10acdf9eb2e9d6a55f68aad687b6e2dd221/962_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a2df8a42472340585fd28309ff95b066"
+      "published": "2026-11-13T19:40:15+00:00",
+      "image": "https://i.guim.co.uk/img/media/969a8bd1521a0cfaf072fc67129aa13a81e3ba99/0_0_4840_3872/master/4840.jpg?width=140&quality=85&auto=format&fit=max&s=126861da8808da4abe6e6d766e5fec27"
     },
     {
       "title": "Migrants risk deadly route to Spain’s Canary Islands",
@@ -42,15 +50,11 @@
       "source": "Al Jazeera",
       "published": "2026-11-13T19:23:40+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794597729.jpg?resize=1832%2C1080&quality=80"
-    },
-    {
-      "title": "Democratic Senate leader Schumer set to face leadership challenge",
-      "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-13T19:03:10+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8015/live/4a0196d0-df4d-11f1-b441-2b33b063138f.png"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
