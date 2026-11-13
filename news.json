@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-13T18:00:43.135015+00:00",
+  "updated_at": "2026-11-13T18:15:27.976815+00:00",
   "national": [
+    {
+      "title": "Polisi: Sindikat Tentara Bayaran Rusia Gunakan Kekasih Rekrut WNI",
+      "summary": "Polres Metro Jakbar ungkap sindikat tentara bayaran Rusia yang memanfaatkan kekasih WNI sebagai perekrut. Iming-iming upah jutaan rupiah jadi daya tarik.",
+      "url": "https://www.cnnindonesia.com/nasional/20261113231203-12-1427063/polisi-sindikat-tentara-bayaran-rusia-gunakan-kekasih-rekrut-wni",
+      "source": "CNN Indonesia",
+      "published": "2026-11-13T18:00:40+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2022/04/08/pemampakan-tentara-chechen-bertempur-bela-rusia-di-ukraina-3_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Gunung Karangetang Sulut Erupsi, Muntahkan Lava Sejauh 400 Meter",
       "summary": "Gunung Karangetang erupsi, melontarkan lava pijar setinggi 400 meter. Status waspada, masyarakat diminta waspada terhadap potensi bahaya.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-13T17:37:05+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/07/12/gunung-karangetang-di-pulau-siau-meletus-melontarkan-lava-pijar-di-sekitar-kawah-lontaran-material-pijar-kemudian-membakar-ala-1783871856935_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Koalisi Warga Sadar Surabaya Kritik Kekerasan Aparat di Yogyakarta",
-      "summary": "Koalisi Gerakan Warga Sadar Surabaya mengecam tindakan represif aparat saat demonstrasi. Akademisi menyerukan perlunya ruang demokrasi di kampus.",
-      "url": "https://www.cnnindonesia.com/nasional/20261113220807-20-1427061/koalisi-warga-sadar-surabaya-kritik-kekerasan-aparat-di-yogyakarta",
-      "source": "CNN Indonesia",
-      "published": "2026-11-13T17:00:07+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/13/solidaritas-warga-surabaya-1794583738522_169.jpeg?w=360&q=90"
     },
     {
       "title": "Manchester United tunjuk Pochettino sebagai pelatih baru",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "No 10 considering expanding under-25s benefits overhaul to older age groups",
-      "summary": "Exclusive: Plans to replace key disability benefits for young people with work and training could affect adults Downing Street is considering whether plans to replace key disability benefits for the under-25s with work and training should be expanded to older age groups, the Guardian has learned, in a move that risks reigniting Labour tensions over welfare changes. The prime minister and other cabinet ministers are looking at applying the idea of “participation first” to all working ages, meaning spending billions more on support to enter the workplace while cutting or removing some disability benefits. Continue reading...",
-      "url": "https://www.theguardian.com/society/2026/nov/13/no-10-considering-expanding-under-25s-benefits-overhaul-to-older-age-groups",
+      "title": "No emails, no problem? Workers joke about Microsoft outage",
+      "summary": "Workers worldwide have been finding humour in a global Microsoft outage that disrupted Outlook, Teams and Copilot.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/no-emails-no-problem-workers-joke-about-microsoft-outage?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-13T17:55:05+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794592461.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
+      "title": "Bessent blames Lutnick’s commerce department over delay blacklisting China-linked data firm – US politics live",
+      "summary": "Treasury secretary says he was in favor ‘for months’ of putting Megaspeed on blacklist to stop Nvidia exporting advanced chips to Beijing Howard Lutnick under pressure over alleged lack of Nvidia action Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted earlier, the calls for Howard Lutnick to appear before lawmakers on Capitol Hill have been answered. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
       "source": "The Guardian",
-      "published": "2026-11-13T17:43:26+00:00",
-      "image": "https://i.guim.co.uk/img/media/c2b0279682d508425e716930b12babc769cd705c/1106_585_4650_3723/master/4650.jpg?width=140&quality=85&auto=format&fit=max&s=ae911deb0c8a1cca78223aca44e0a48b"
+      "published": "2026-11-13T17:55:03+00:00",
+      "image": "https://i.guim.co.uk/img/media/0b0e1043f531f2cf4be1034a79eae931f842e257/0_199_3351_2681/master/3351.jpg?width=140&quality=85&auto=format&fit=max&s=d023067ea029630e7bca874700208189"
     },
     {
       "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
@@ -42,14 +50,6 @@
       "source": "BBC",
       "published": "2026-11-13T17:12:46+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "The fight over Canadian steelworker jobs",
-      "summary": "Stelco's US owner blames Trump's tariffs for layoffs, but its support for those same tariffs has raised questions.",
-      "url": "https://www.aljazeera.com/economy/2026/11/13/the-fight-over-canadian-steelworker-jobs?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-13T17:10:43+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20250604__49948G2__v1__HighRes__50TariffsOnSteelAndAluminumComeIntoForce-1793302472.jpg?resize=1920%2C1440"
     }
   ],
   "feed_warnings": [
