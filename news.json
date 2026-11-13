@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-13T21:30:35.445691+00:00",
+  "updated_at": "2026-11-13T21:33:56.620619+00:00",
   "national": [
+    {
+      "title": "DPR: Anggaran Guru PPPK Paruh Waktu ke Penuh Waktu Capai Rp23 Triliun",
+      "summary": "Wakil Ketua Komisi X DPR, Lalu Hadrian, mengungkapkan anggaran Rp23 triliun untuk pengangkatan guru PPPK paruh waktu menjadi penuh waktu.",
+      "url": "https://www.cnnindonesia.com/nasional/20261113195709-20-1427034/dpr-anggaran-guru-pppk-paruh-waktu-ke-penuh-waktu-capai-rp23-triliun",
+      "source": "CNN Indonesia",
+      "published": "2026-11-13T21:30:49+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/02/11/aksi-guru-madrasah-tuntut-jadi-pppk-1770786848813_169.jpeg?w=360&q=90"
+    },
     {
       "title": "WN China Curi ATM-Kartu Kredit di Kabin Pesawat Dideportasi",
       "summary": "WNA asal China ditangkap karena mencuri di kabin pesawat Jakarta-Semarang. Setelah pemeriksaan, ia dideportasi pada 13 November 2026.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-13T21:06:05+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/wn-cina-dideportasi-1794570982758_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Pramono Sebut Penebangan Pohon Keropos Tetap Harus Izin",
-      "summary": "Gubernur DKI Jakarta Pramono Anung izinkan penebangan pohon keropos sebagai langkah preventif menjelang musim hujan, demi keselamatan masyarakat.",
-      "url": "https://www.cnnindonesia.com/nasional/20261113231241-20-1427064/pramono-sebut-penebangan-pohon-keropos-tetap-harus-izin",
-      "source": "CNN Indonesia",
-      "published": "2026-11-13T20:30:41+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2025/12/15/waspada-pohon-tumbang-dampak-siklon-tropis-di-jakarta-1765796148216_169.jpeg?w=360&q=90"
     },
     {
       "title": "Manchester United tunjuk Pochettino sebagai pelatih baru",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Chris Van Hollen rules out 2028 presidential bid as his challenge to take Senate leadership gains support – US politics live",
-      "summary": "Maryland senator says he wants to focus on Senate’s midterm mandate ‘to answer the call with the American people’ Howard Lutnick under pressure over alleged lack of Nvidia action Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted earlier, the calls for Howard Lutnick to appear before lawmakers on Capitol Hill have been answered. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+      "title": "As Van Hollen wages a challenge, Senate Democrats are torn on whom to elect as their leader",
+      "summary": "Maryland senator’s bid against Chuck Schumer for leadership could decide direction of the Democratic party US politics live – latest updates Ever since Donald Trump returned to the White House, Democratic officeholders and voters alike have been divided over whether their leader in the Senate, Chuck Schumer , is up to the task of taking the president on. That debate intensified on Thursday, when the Maryland senator Chris Van Hollen announced he will challenge Schumer for the post of Democratic Senate leader, which will become one of the most powerful jobs in Washington when the party takes control of Congress ’s upper chamber next year. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/13/democrats-midterms-senate-leader",
       "source": "The Guardian",
-      "published": "2026-11-13T21:15:53+00:00",
-      "image": "https://i.guim.co.uk/img/media/969a8bd1521a0cfaf072fc67129aa13a81e3ba99/0_0_4840_3872/master/4840.jpg?width=140&quality=85&auto=format&fit=max&s=126861da8808da4abe6e6d766e5fec27"
+      "published": "2026-11-13T21:29:51+00:00",
+      "image": "https://i.guim.co.uk/img/media/48fa66a20eacc798793f8c3b942b6715a99fe639/394_0_3929_3145/master/3929.jpg?width=140&quality=85&auto=format&fit=max&s=6492bacf627eef1865b546aceb5e63b2"
     },
     {
       "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
