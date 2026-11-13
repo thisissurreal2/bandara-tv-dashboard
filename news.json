@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-13T17:30:39.947438+00:00",
+  "updated_at": "2026-11-13T17:45:31.832431+00:00",
   "national": [
+    {
+      "title": "Gunung Karangetang Sulut Erupsi, Muntahkan Lava Sejauh 400 Meter",
+      "summary": "Gunung Karangetang erupsi, melontarkan lava pijar setinggi 400 meter. Status waspada, masyarakat diminta waspada terhadap potensi bahaya.",
+      "url": "https://news.detik.com/berita/d-8752328/gunung-karangetang-sulut-erupsi-muntahkan-lava-sejauh-400-meter",
+      "source": "Detik",
+      "published": "2026-11-13T17:37:05+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/07/12/gunung-karangetang-di-pulau-siau-meletus-melontarkan-lava-pijar-di-sekitar-kawah-lontaran-material-pijar-kemudian-membakar-ala-1783871856935_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Koalisi Warga Sadar Surabaya Kritik Kekerasan Aparat di Yogyakarta",
       "summary": "Koalisi Gerakan Warga Sadar Surabaya mengecam tindakan represif aparat saat demonstrasi. Akademisi menyerukan perlunya ruang demokrasi di kampus.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-13T17:00:07+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/13/solidaritas-warga-surabaya-1794583738522_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Rizal Fadillah Tersangka Kasus Ijazah Palsu Jokowi Meninggal",
-      "summary": "Salah satu tersangka kasus ijazah palsu Jokowi, Ustaz Rizal Fadillah, meninggal dunia. Roy Suryo mengungkapkan duka dan komitmen untuk melanjutkan perjuangannya",
-      "url": "https://news.detik.com/berita/d-8752313/rizal-fadillah-tersangka-kasus-ijazah-palsu-jokowi-meninggal",
-      "source": "Detik",
-      "published": "2026-11-13T16:36:51+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2022/08/29/ilustrasi-karangan-bunga-di-makam-orang-meninggal-1_169.jpeg?w=360&q=90"
     },
     {
       "title": "Manchester United tunjuk Pochettino sebagai pelatih baru",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Former Hamas bodyguard convicted of Birmingham knife crime also wanted in Germany",
-      "summary": "Mohammed Alfatih rearrested over alleged plot to target Israelis in Europe while detained for attack on bailiff A former Hamas bodyguard convicted of knife crime in the UK is wanted in Germany for allegedly plotting to murder Jewish people. Details of the plot can now be reported after Mohammed Alfatih, also known as Mohammed Naim, was found guilty on Friday of a knife attack on a bailiff outside his home in Birmingham. Continue reading...",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/13/former-hamas-bodyguard-convicted-of-birmingham-knife-also-wanted-in-germany",
+      "title": "Home sales hit 16-year low in October amid soaring mortgage rates",
+      "summary": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year high US existing home sales hit a 16-year low in October as buyers were driven away by high mortgage rates and rising inflation, according to new data released on Wednesday. Sales of already built units dropped to 3.75m in October, down by 8.8% from last year, the National Association of Realtors (NAR) reported. The median existing-home sales price increased slightly to $416,700. Declines in sales were seen in the midwest, south and west, though sales in the north-east held steady. Continue reading...",
+      "url": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
       "source": "The Guardian",
-      "published": "2026-11-13T17:14:56+00:00",
-      "image": "https://i.guim.co.uk/img/media/171b04608f73702180d03aad89fa1263922c5073/0_202_516_413/master/516.jpg?width=140&quality=85&auto=format&fit=max&s=d157d138c84496856936802344c241d6"
+      "published": "2026-11-13T17:20:32+00:00",
+      "image": "https://i.guim.co.uk/img/media/861fa365835f36d65c4fe3a0adf09f6b63ba43ad/142_0_2344_1875/master/2344.jpg?width=140&quality=85&auto=format&fit=max&s=8773e098930ce08aa711f613f70b46b6"
     },
     {
       "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
