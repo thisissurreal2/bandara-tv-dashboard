@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-13T14:00:40.573617+00:00",
+  "updated_at": "2026-11-13T14:15:30.049433+00:00",
   "national": [
+    {
+      "title": "4 Fakta Pria Depok Diculik dan Dianiaya lalu Dibuang di Bekasi",
+      "summary": "Kasus penculikan dan penganiayaan menimpa pria inisial EJ (27) di Tapos, Depok. Korban diculik komplotan begal hingga mobil dan ponselnya raib.",
+      "url": "https://news.detik.com/berita/d-8752193/4-fakta-pria-depok-diculik-dan-dianiaya-lalu-dibuang-di-bekasi",
+      "source": "Detik",
+      "published": "2026-11-13T14:06:47+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2022/05/04/ilustrasi-penculikan_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Eks Kepala Inspektorat Banda Aceh Lolos dari Hukum Cambuk",
       "summary": "Kepala Inspektorat Banda Aceh, FD, dibebaskan karena kurangnya bukti dalam kasus hubungan sesama jenis. Namun, ia dipecat dari ASN akibat pelanggaran disiplin.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-13T13:48:44+00:00",
       "image": "https://akcdn.detik.net.id/visual/2020/12/07/eksekusi-cambuk-pelanggar-syariat-islam-1_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Daftar 23 Nakes dan Relawan Karhutla Penerima Bintang Jasa dari Prabowo",
-      "summary": "Presiden Prabowo menganugerahkan Bintang Jasa kepada 23 relawan dan tenaga kesehatan atas pengorbanan mereka dalam penanganan karhutla dan bencana.",
-      "url": "https://news.detik.com/berita/d-8752184/daftar-23-nakes-dan-relawan-karhutla-penerima-bintang-jasa-dari-prabowo",
-      "source": "Detik",
-      "published": "2026-11-13T13:46:42+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/presiden-prabowo-subianto-menganugerahkan-tanda-kehormatan-bintang-jasa-kepada-23-relawan-dan-tenaga-kesehatan-yang-menangani--1794577516392_169.jpeg?w=360&q=90"
     },
     {
       "title": "Menko Airlangga optimistis prospek ekonomi Indonesia 2027 tetap kuat",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Row breaks out between Tories and Reform at Piddington news conference – UK politics live",
-      "summary": "United front is short-lived as Zia Yusuf and Chris Philp bicker in front of residents and cameras Earlier today, Downing Street said the government was seeking to establish “the full picture” of Microsoft outages as it urged people too follow advice on “alternative ways to get in touch” where services are disrupted. A spokesperson said ministers are being kept updated and that a “range of services” are experiencing disruption as parts of the government use of Microsoft. Continue reading...",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
+      "title": "‘Incredibly unusual’ bird migrating from Siberia found in Cumbria – killed by cat",
+      "summary": "Siberian rubythroat was thousands of miles off course from its route to winter in south or south-east Asia A bird that flies south from its breeding grounds in Siberia to winter in south and south-east Asia has been found thousands of miles off course in Cumbria. Regrettably, it was found by a cat. Chris Hind, Cumbria’s county recorder for birds, said it was “extraordinary” that a Siberian rubythroat was found on his patch, albeit dead. There have been only 17 recorded instances of the bird in the UK, 15 of those in the northern Scottish isles. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/13/siberian-rubythroat-bird-migrating-siberia-cumbria-killed-by-cat",
       "source": "The Guardian",
-      "published": "2026-11-13T13:49:44+00:00",
-      "image": "https://i.guim.co.uk/img/media/6a2188c2d16ad721b1cd8b78868f9ef4829d52e1/506_0_5989_4792/master/5989.jpg?width=140&quality=85&auto=format&fit=max&s=2e16aa06eb298f2eef783e792ac5a24f"
+      "published": "2026-11-13T14:00:20+00:00",
+      "image": "https://i.guim.co.uk/img/media/59828d5b883f71723779854f92e083e1974f2212/457_214_3954_3165/master/3954.jpg?width=140&quality=85&auto=format&fit=max&s=0b8b8ffe1b6728006a2ddc28ef5248d9"
+    },
+    {
+      "title": "China warns against fresh US chip curbs",
+      "summary": "China has warned the US against imposing additional export controls on AI chips.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/china-warns-against-fresh-us-chip-curbs?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-13T13:42:49+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794577313.jpg?resize=1920%2C1080&quality=80"
     },
     {
       "title": "What we know about the global Microsoft outage",
@@ -42,14 +50,6 @@
       "source": "BBC",
       "published": "2026-11-13T13:34:53+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "UK accused of ‘silencing’ pro-Palestine voices through entry bans",
-      "summary": "A Palestinian American activist has been refused entry to the UK to attend his charity’s annual Gaza fundraiser.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/uk-accused-of-silencing-pro-palestine-voices-through-entry-bans?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-13T13:19:26+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794575753.jpg?resize=1920%2C1080&quality=80"
     }
   ],
   "feed_warnings": []
