@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-13T23:30:36.629749+00:00",
+  "updated_at": "2026-11-13T23:45:28.161334+00:00",
   "national": [
     {
-      "title": "Apakah Gibran Bisa Maju Lagi di Pilpres Usai Mundur?",
-      "summary": "Masa depan politik Gibran Rakabuming Raka tetap terbuka meski mundur sebagai wapres. Tak ada larangan untuk maju kembali, asalkan memenuhi syarat pendidikan.",
-      "url": "https://www.cnnindonesia.com/nasional/20261113220010-32-1427059/apakah-gibran-bisa-maju-lagi-di-pilpres-usai-mundur",
+      "title": "Berapa Gaji Pensiun dan Fasilitas yang Diterima Gibran Usai Mundur?",
+      "summary": "Gibran Rakabuming Raka resmi mengundurkan diri sebagai wakil presiden. Ia berhak atas hak keuangan dan fasilitas sesuai UU setelah pemberhentian.",
+      "url": "https://www.cnnindonesia.com/nasional/20261113172722-32-1426975/berapa-gaji-pensiun-dan-fasilitas-yang-diterima-gibran-usai-mundur",
       "source": "CNN Indonesia",
-      "published": "2026-11-13T23:00:44+00:00",
+      "published": "2026-11-13T23:40:57+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/12/gibran-bertolak-ke-istana-presiden-1794472510158_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "Yang Bersuara Kala Diisukan Jadi Cawapres Pengganti Gibran",
+      "summary": "Jabatan Wakil Presiden RI kosong setelah Gibran mundur. Beberapa nama, termasuk Ahmad Muzani dan Sultan HB X, muncul sebagai calon pengganti",
+      "url": "https://news.detik.com/berita/d-8752382/yang-bersuara-kala-diisukan-jadi-cawapres-pengganti-gibran",
+      "source": "Detik",
+      "published": "2026-11-13T23:33:07+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/momen-gibran-berpamitan-dengan-relawan-dan-karyawan-di-istana-wapres-1794472497632_169.jpeg?w=360&q=90"
     },
     {
       "title": "Tijjani Reijnders hattrick, Belanda bantai Yunani 7-0",
@@ -16,14 +24,6 @@
       "source": "ANTARA",
       "published": "2026-11-13T22:27:16+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2025/11/18/Gelandang.jpg"
-    },
-    {
-      "title": "Serangan Kelompok Bersenjata di Kongo Tewaskan 44 Orang",
-      "summary": "Kelompok bersenjata terkait ISIS menyerang Kongo, menewaskan 44 orang. Serangan ini memperburuk situasi Ebola di wilayah yang sudah tidak aman.",
-      "url": "https://news.detik.com/internasional/d-8752365/serangan-kelompok-bersenjata-di-kongo-tewaskan-44-orang",
-      "source": "Detik",
-      "published": "2026-11-13T22:10:19+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2015/07/07/9db1f355-5935-4f83-99d5-5cee4d7b7f82_169.jpg?w=360&q=90"
     }
   ],
   "international": [
@@ -32,7 +32,7 @@
       "summary": "Sean Duffy says technicians from Federal Aviation Administration are investigating; Trump’s homeland security secretary says ‘no indication as of yet’ of cyberattack FAA issues nationwide ground-stop order, delaying or canceling nearly 7,000 flights Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted earlier, the calls for Howard Lutnick to appear before lawmakers on Capitol Hill have been answered. Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
       "source": "The Guardian",
-      "published": "2026-11-13T23:24:05+00:00",
+      "published": "2026-11-13T23:29:30+00:00",
       "image": "https://i.guim.co.uk/img/media/83ccb1e6582aa694e45d643abd29d837c8f217a2/451_0_4510_3608/master/4510.jpg?width=140&quality=85&auto=format&fit=max&s=f11dd51ed640dac66df42ee7190c2ac3"
     },
     {
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af786ca15c6d-1794606794.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
