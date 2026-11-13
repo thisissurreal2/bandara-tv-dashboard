@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-13T08:30:33.379610+00:00",
+  "updated_at": "2026-11-13T08:45:25.876364+00:00",
   "national": [
     {
-      "title": "Rapat Gabungan MPR Terkait Pengganti Gibran Digelar Tertutup",
-      "summary": "Rapat gabungan MPR untuk menentukan jadwal pemilihan wakil presiden baru pengganti Gibran Rakabuming Raka, digelar tertutup.",
-      "url": "https://www.cnnindonesia.com/nasional/20261113150800-32-1426882/rapat-gabungan-mpr-terkait-pengganti-gibran-digelar-tertutup",
+      "title": "MPR soal Pemilihan Wapres Baru: Makin Cepat Makin Baik",
+      "summary": "Ahmad Muzani menjelaskan para pimpinan MPR sudah berdiskusi bersama presiden untuk menetapkan wakil presiden sebelum tenggat waktu 60 hari.",
+      "url": "https://www.cnnindonesia.com/nasional/20261113152321-32-1426885/mpr-soal-pemilihan-wapres-baru-makin-cepat-makin-baik",
       "source": "CNN Indonesia",
-      "published": "2026-11-13T08:20:58+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/10/rapat-paripurna-pembukaan-masa-sidang-1794288033541_169.jpeg?w=360&q=90"
+      "published": "2026-11-13T08:36:53+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/12/ketua-mpr-ri-ahmad-muzani-menunjukan-surat-pengunduran-diri-gibran-1794466149972_169.jpeg?w=360&q=90"
     },
     {
       "title": "Presiden Prabowo anugerahkan Bintang Jasa kepada relawan kemanusiaan",
@@ -15,7 +15,7 @@
       "url": "https://www.antaranews.com/berita/5851531/presiden-prabowo-anugerahkan-bintang-jasa-kepada-relawan-kemanusiaan",
       "source": "ANTARA",
       "published": "2026-11-13T08:13:19+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/13/1000472488.jpg"
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/13/1000472488_1.jpg"
     },
     {
       "title": "Di Forum COP31, Hashim Pamer RI Kembali Ekspor Beras Setelah 42 Tahun",
@@ -53,7 +53,7 @@
     }
   ],
   "feed_warnings": [
-    "Detik: URLError",
+    "Detik: TimeoutError",
     "Detik: no fresh stories",
     "Detik: keeping previous story"
   ]
