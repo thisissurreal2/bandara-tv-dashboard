@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-13T13:15:29.815806+00:00",
+  "updated_at": "2026-11-13T13:30:33.227301+00:00",
   "national": [
+    {
+      "title": "PKS dan PKB Buka Suara soal Sosok Cawapres Baru Pengganti Gibran",
+      "summary": "PKS dan PKB menanggapi isu cawapres pengganti Gibran. PKS menekankan pentingnya sosok berpengalaman di bidang ekonomi, PKB bantah mengusulkan Cak Imin.",
+      "url": "https://www.cnnindonesia.com/nasional/20261113193727-32-1427024/pks-dan-pkb-buka-suara-soal-sosok-cawapres-baru-pengganti-gibran",
+      "source": "CNN Indonesia",
+      "published": "2026-11-13T13:16:40+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2019/07/27/06c7b90b-1837-411a-9e78-cb23977d9bb8_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Pramono Gratiskan Iuran 6 Bulan bagi Pedagang yang Direlokasi di Kramat Jati",
       "summary": "Gubernur DKI Jakarta Pramono Anung membebaskan iuran selama enam bulan bagi para pedagang yang terdampak relokasi dalam penataan kawasan Pasar Kramat Jati.",
@@ -10,20 +18,12 @@
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/gubernur-dki-jakarta-pramono-anung-1794574586105_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Penampakan Crane Jatuh di Kawasan Mega Kuningan Jaksel",
-      "summary": "Sebuah crane patah dan jatuh di lokasi proyek pembangunan hotel kawasan Jalan Lingkar Mega Kuningan, Setiabudi, Jakarta Selatan pada Jumat (13/11).",
-      "url": "https://www.cnnindonesia.com/nasional/20261113184656-24-1427005/penampakan-crane-jatuh-di-kawasan-mega-kuningan-jaksel",
-      "source": "CNN Indonesia",
-      "published": "2026-11-13T13:07:18+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/13/thumbnail-video-1794570531938_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Airlangga: Perpanjangan sertifikasi halal cegah hambatan perdagangan",
-      "summary": "Menteri Koordinator Bidang Perekonomian Airlangga Hartarto menyatakan perpanjangan kewajiban sertifikasi halal hingga ...",
-      "url": "https://www.antaranews.com/berita/5852279/airlangga-perpanjangan-sertifikasi-halal-cegah-hambatan-perdagangan",
+      "title": "Menko Airlangga optimistis prospek ekonomi Indonesia 2027 tetap kuat",
+      "summary": "Menteri Koordinator Bidang Perekonomian Airlangga Hartarto optimistis prospek ekonomi Indonesia 2027 tetap kuat ...",
+      "url": "https://www.antaranews.com/berita/5852403/menko-airlangga-optimistis-prospek-ekonomi-indonesia-2027-tetap-kuat",
       "source": "ANTARA",
-      "published": "2026-11-13T12:36:11+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/13/9E572FFE-9CF9-4AB7-BE56-D430D0A7843A.jpeg"
+      "published": "2026-11-13T13:04:40+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/13/AA646417-D537-4619-94D8-7BA46902696C.jpeg"
     }
   ],
   "international": [
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
