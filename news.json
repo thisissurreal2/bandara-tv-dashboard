@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-13T03:30:32.153392+00:00",
+  "updated_at": "2026-11-13T03:45:27.603815+00:00",
   "national": [
+    {
+      "title": "Prabowo Bakal Kumpulkan Parpol Koalisi Tentukan Pengganti Gibran",
+      "summary": "Presiden RI Prabowo Subianto akan menggelar pertemuan dengan partai koalisi dalam menentukan sosok pengganti Gibran Rakabuming Raka.",
+      "url": "https://www.cnnindonesia.com/nasional/20261113103508-32-1426732/prabowo-bakal-kumpulkan-parpol-koalisi-tentukan-pengganti-gibran",
+      "source": "CNN Indonesia",
+      "published": "2026-11-13T03:39:11+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2024/03/21/pidato-kemenangan-prabowo-5_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Momen Warga Turunkan Foto Gibran di DPRD Jabar",
       "summary": "Sejumlah tokoh yang tergabung dalam aliansi masyarakat sipil bertemu Pimpinan DPRD Jawa Barat, kemarin. Mereka mencopot foto Wapres Gibran Rakabuming Raka.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-13T03:25:42+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/aliansi-masyarakat-sipil-menurunkan-foto-gibran-rakabuming-raka-di-ruang-banggar-dprd-jabar-1794474980671_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Apa Saja Hak dan Fasilitas yang Diterima Gibran usai Mundur?",
-      "summary": "Gibran Rakabuming Raka resmi menyatakan berhenti dari jabatan Wakil Presiden RI. Apa aja hak dan fasilitas yang didapat Gibran usai resmi mundur.",
-      "url": "https://www.cnnindonesia.com/nasional/20261113101441-32-1426723/apa-saja-hak-dan-fasilitas-yang-diterima-gibran-usai-mundur",
-      "source": "CNN Indonesia",
-      "published": "2026-11-13T03:18:41+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/12/pernyataan-resmi-gibran-rakabuming-terkait-pengunduran-diri-sebagai-wakil-presiden-ri-1794484741025_169.jpeg?w=360&q=90"
     },
     {
       "title": "KPK: TNI sudah periksa prajurit aktif diduga terlibat kasus BNPB",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Nvidia’s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports – live",
-      "summary": "Huang’s resignation has sent shockwaves through the AI industry, after revelations of extramarital affairs, including one involving a suspected Chinese spy Full report: Jensen Huang resigns as Nvidia CEO Analysis: Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached? Can the AI economy survive without its “central bank”? What does Jensen Huang’s fall mean for the world’s second-most valuable company, and what might a tremor in its fortunes mean for the world? Nvidia’s sky-high valuation is based on the fact that it designs and sells the advanced AI chips, called graphics processing units (GPUs), that underpin the AI economy. Without these, AI models such as ChatGPT and Claude could not be trained and would not run. Continue reading...",
-      "url": "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates",
+      "title": "Chips, creek water and Take Me Home, Country Roads: how an Australian teenager survived six nights in the bush",
+      "summary": "William, 17, says ‘nights were pretty cold’ and he ‘honestly didn’t think’ he’d survive A teenage boy who survived almost a week lost in dense Australian bushland sang John Denver’s Take Me Home, Country Roads as he held out hope of rescue on long nights alone in the wilderness. William, whose surname has been withheld, was dropped off by his mother for the weekend to camp with his friend in Victoria’s east last Friday. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/13/chips-creek-water-and-take-me-home-country-roads-how-an-australian-teenager-survived-six-nights-in-the-bush",
       "source": "The Guardian",
-      "published": "2026-11-13T03:21:58+00:00",
-      "image": "https://i.guim.co.uk/img/media/f74f292bf21b64ac06a24785167573c263947fdc/183_0_3766_3013/master/3766.jpg?width=140&quality=85&auto=format&fit=max&s=0384771ac2fd3f4624a2aac79960f682"
+      "published": "2026-11-13T03:25:30+00:00",
+      "image": "https://i.guim.co.uk/img/media/6d5a247653ce76ea7b85ebd45f0c6e6d1e884152/466_4_1418_1135/master/1418.jpg?width=140&quality=85&auto=format&fit=max&s=4f2b3f48501e4a8e9d88df7d8c89f0e9"
     },
     {
-      "title": "Gaza surgeon films aftermath of Israeli strike",
-      "summary": "British volunteer surgeon films the terrifying aftermath of an Israeli strike on Gaza’s Nasser Hospital.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/gaza-surgeon-films-aftermath-of-israeli-strike?traffic_source=rss",
+      "title": "Mississippi elects first black senator in nearly 150 years",
+      "summary": "Scott Colom will be the first black senator to represent Mississippi since 1881.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/mississippi-elects-first-black-senator-in-nearly-150-years?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-13T03:11:43+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794539409.jpg?resize=1920%2C1080&quality=80"
+      "published": "2026-11-13T03:21:25+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794540041.jpg?resize=1620%2C1080&quality=80"
     },
     {
       "title": "Australian footballers will not be charged after hotel incident, police say",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a2/live/04510720-defc-11f1-9b2e-c7d61d5838d4.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
