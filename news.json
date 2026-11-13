@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-13T07:45:30.637307+00:00",
+  "updated_at": "2026-11-13T08:00:37.806546+00:00",
   "national": [
     {
-      "title": "Pekanbaru Raih Anugerah Penggerak Nusantara 2026 Bidang Infrastruktur",
-      "summary": "Anugerah Penggerak Nusantara 2026 kategori Infrastruktur diraih Pekanbaru atas komitmen menjadikan infrastruktur sebagai prioritas pembangunan.",
-      "url": "https://www.cnnindonesia.com/nasional/20261113143825-25-1426859/pekanbaru-raih-anugerah-penggerak-nusantara-2026-bidang-infrastruktur",
+      "title": "Semua Fraksi MPR Sepakat Posisi Wapres Tak Boleh Terlalu Lama Kosong",
+      "summary": "Semua fraksi MPR sepakat agar posisi wakil presiden segera diisi setelah Gibran mengundurkan diri. Proses pemilihan diharapkan berjalan cepat dan kondusif.",
+      "url": "https://www.cnnindonesia.com/nasional/20261113144957-32-1426867/semua-fraksi-mpr-sepakat-posisi-wapres-tak-boleh-terlalu-lama-kosong",
       "source": "CNN Indonesia",
-      "published": "2026-11-13T07:43:58+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/13/pekanbaru-1794554963735_169.jpeg?w=360&q=90"
+      "published": "2026-11-13T07:59:38+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/08/14/pidato-presiden-prabowo-pada-sidang-tahunan-mpr-1786679451131_169.jpeg?w=360&q=90"
     },
     {
       "title": "Di Forum COP31, Hashim Pamer RI Kembali Ekspor Beras Setelah 42 Tahun",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
