@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-13T20:30:30.938835+00:00",
+  "updated_at": "2026-11-13T20:45:28.662838+00:00",
   "national": [
+    {
+      "title": "Pramono Sebut Penebangan Pohon Keropos Tetap Harus Izin",
+      "summary": "Gubernur DKI Jakarta Pramono Anung izinkan penebangan pohon keropos sebagai langkah preventif menjelang musim hujan, demi keselamatan masyarakat.",
+      "url": "https://www.cnnindonesia.com/nasional/20261113231241-20-1427064/pramono-sebut-penebangan-pohon-keropos-tetap-harus-izin",
+      "source": "CNN Indonesia",
+      "published": "2026-11-13T20:30:41+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2025/12/15/waspada-pohon-tumbang-dampak-siklon-tropis-di-jakarta-1765796148216_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Berenang di Irigasi, Remaja Kudus Tewas Tersetrum Jebakan Tikus",
       "summary": "Seorang pemuda 16 tahun di Kudus meninggal setelah tersetrum jebakan tikus saat berenang di saluran irigasi. Temannya meminta bantuan, namun terlambat.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-13T20:00:54+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/polisi-saat-mendatangi-lokasi-tempat-pemuda-meninggal-dunia-di-saluran-irigasi-sawah-desa-wates-kecamatan-undaan-kudus-jumat-1-1794574724443_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Polisi: Dugaan Pemerkosaan oleh Bupati Kupang Terjadi di Rumah Dinas",
-      "summary": "Polda NTT mengungkap kasus dugaan pemerkosaan oleh Bupati Kupang, Yosef Lede. Korban berusia 21 tahun melapor peristiwa tersebut terjadi di rumah dinas.",
-      "url": "https://www.cnnindonesia.com/nasional/20261113200323-12-1427035/polisi-dugaan-pemerkosaan-oleh-bupati-kupang-terjadi-di-rumah-dinas",
-      "source": "CNN Indonesia",
-      "published": "2026-11-13T20:00:08+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2023/05/16/ilustrasi-kekerasan_169.jpeg?w=360&q=90"
     },
     {
       "title": "Manchester United tunjuk Pochettino sebagai pelatih baru",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Paraguay’s ex-president Pena faces new charge over Ueno bank collapse",
-      "summary": "The criminal association charge over his alleged role in the collapse of the bank comes a week after his removal.",
-      "url": "https://www.aljazeera.com/news/2026/11/13/paraguays-ex-president-pena-faces-new-charge-over-ueno-bank-collapse?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-13T20:18:09+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af75898-1794594968.jpg?resize=1920%2C1440"
-    },
-    {
       "title": "Tanker collides with river cruise ship carrying more than 130 people in New Orleans – latest updates",
-      "summary": "Rescue efforts under way as ship takes on water; governor confirms incident in Mississippi River Tanker collides with cruise ship on Mississippi River in New Orleans An emergency response source said that there were efforts underway to rescue people from the water. That source said it was possible the tanker had lost power before striking the American Heritage. Images on social media showed the American Heritage on its side. It was docked on the Mississippi River outside the port of New Orleans’s administrative building when it was hit. Continue reading...",
+      "summary": "Rescue efforts under way as ship takes on water; governor confirms incident in Mississippi River Tanker collides with cruise ship on Mississippi River in New Orleans New Orleans mayor Helena Moreno’s communication team said multiple individuals have been rescued, and search-and-rescue operations remain ongoing, according to a local Fox News affiliate. Photos are circulating on social media of people climbing out and onto the balconies of the ship that is now turned completely on its side. Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/13/new-orleans-cruise-liner-tanker-crash-live-updates",
       "source": "The Guardian",
-      "published": "2026-11-13T20:13:03+00:00",
+      "published": "2026-11-13T20:34:17+00:00",
       "image": "https://i.guim.co.uk/img/media/776c87ea406ae2a08e13e2caa55e388a1f854e6e/0_0_4710_3767/master/4710.jpg?width=140&quality=85&auto=format&fit=max&s=90dfe57ff3b373609d7eaf77bcd59963"
+    },
+    {
+      "title": "Nigeria ends 21-day Ebola contact monitoring with no secondary transmission",
+      "summary": "None of the 62 contacts identified after the first case developed the disease, although 13 contacts reported fever.",
+      "url": "https://www.aljazeera.com/news/2026/11/13/nigeria-ends-21-day-ebola-contact-monitoring-with-no-secondary-transmission?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-13T20:12:34+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af766cd-1794598605.jpg?resize=1920%2C1440"
     },
     {
       "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
