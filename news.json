@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T21:00:50.887241+00:00",
+  "updated_at": "2026-11-13T21:15:26.252097+00:00",
   "national": [
     {
       "title": "Pramono Sebut Penebangan Pohon Keropos Tetap Harus Izin",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
+      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-13T21:14:22+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg"
+    },
+    {
       "title": "New Orleans boat crash: tanker collides with river cruise ship carrying more than 130 people – latest updates",
-      "summary": "Rescue efforts under way as American Heritage takes on water; governor confirms incident in Mississippi River Tanker collides with cruise ship on Mississippi River in New Orleans The New Orleans Regional Transit Authority said in a statement on social media that ferry service across the Mississippi River has been temporarily suspended as a precaution following the collision. Travelers are encouraged to seek alternate routes. New Orleans mayor Helena Moreno’s communication team said multiple individuals have been rescued, and search-and-rescue operations remain ongoing, according to a local Fox News affiliate. Continue reading...",
+      "summary": "Rescue efforts under way as American Heritage takes on water; governor confirms incident in Mississippi River Tanker collides with cruise ship on Mississippi River in New Orleans Pictures are now coming in from the news wires. Emergency personnel and crews can be seen on the scene after a tanker crashed into a river cruise in New Orleans. The cruise liner can be seen lying on its side: Officials said they will be holding a news conference at 3pm CST, to begin in about ten minutes, providing further updates on the collision. We will bring you those latest updates as they come. Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/13/new-orleans-cruise-liner-tanker-crash-live-updates",
       "source": "The Guardian",
-      "published": "2026-11-13T20:44:39+00:00",
+      "published": "2026-11-13T21:02:57+00:00",
       "image": "https://i.guim.co.uk/img/media/597b86e6cd5f83bb9db0936d2648b583536d8521/959_0_3843_3077/master/3843.jpg?width=140&quality=85&auto=format&fit=max&s=4db5eb416160f9d337abd0e2a443bd0d"
     },
     {
-      "title": "Australia captain Cummins denies involvement in ‘Sandpapergate’",
-      "summary": "Australia cricket captain Cummins has rejected claims by ex-teammate Usman Khawaja linking him to 2018 ball-tampering",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/australia-captain-cummins-denies-involvement-in?traffic_source=rss",
+      "title": "Qatar and Turkiye send message of deterrence with new defence pact",
+      "summary": "Qatar and Turkiye have signed a mutual defence pact, deepening their partnership amid growing regional instability.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/qatar-and-turkiye-send-message-of-deterrence-with-new-defence-pact?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-13T20:32:42+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794601941.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-      "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
-      "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-13T19:53:57+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg"
+      "published": "2026-11-13T20:48:02+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794602873.jpg?resize=1918%2C1080&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
