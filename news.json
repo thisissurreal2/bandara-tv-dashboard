@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-13T01:30:31.644969+00:00",
+  "updated_at": "2026-11-13T01:45:31.629969+00:00",
   "national": [
+    {
+      "title": "Mendes PDT Gandeng Forum Organisasi Desa Sukseskan Asta Cita Prabowo",
+      "summary": "Mendes PDT Yandri Susanto menegaskan kolaborasi dengan kementerian untuk sukseskan Asta Cita Presiden Prabowo.",
+      "url": "https://news.detik.com/berita/d-8750898/mendes-pdt-gandeng-forum-organisasi-desa-sukseskan-asta-cita-prabowo",
+      "source": "Detik",
+      "published": "2026-11-13T01:34:46+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/mendes-pdt-gandeng-forum-organisasi-desa-sukseskan-asta-cita-prabowo-1794533649821.jpeg?w=360&q=90"
+    },
     {
       "title": "Pimpinan MPR Targetkan Wapres Pengganti Gibran Sebelum 5 Desember",
       "summary": "Wakil presiden baru pengganti Gibran akan dipilih sebelum 5 Desember 2026. Rapat paripurna MPR dijadwalkan antara 23 November hingga 4 Desember.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-13T01:14:37+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/12/wakil-presiden-gibran-rakabuming-raka-bertemu-dengan-pimpinan-mpr-h-ahmad-muzani-k-1794462362724_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Truk Pasir Terguling di Gunung Sahari, Lalu Lintas Macet",
-      "summary": "Sebuah truk pengangkut pasir terguling di Jalan Gunung Sahari, Jakarta Pusat. Arus lalu lintas alami kemacetan.",
-      "url": "https://news.detik.com/berita/d-8750861/truk-pasir-terguling-di-gunung-sahari-lalu-lintas-macet",
-      "source": "Detik",
-      "published": "2026-11-13T01:12:56+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/truk-pasir-1794532265846_169.jpeg?w=360&q=90"
     },
     {
       "title": "Polri ungkap sosok TK dalam kasus penyadapan ilegal",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Microsoft begins restoring services as global outage affects Outlook and Teams",
-      "summary": "Recovery process under way, company says, after nearly 130,000 users worldwide reported access issues Microsoft outage – live updates Microsoft 365, Outlook, Teams and other apps were disrupted for thousands of users for more than five hours on Thursday, with Microsoft saying it was still working to return affected servers to service, but had observed limited recovery. A Microsoft spokesperson said the company “had no indication of a cyber attack”. Continue reading...",
-      "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+      "title": "Hegseth gives medal to guard who reprimanded him at Arlington national cemetery – US politics live",
+      "summary": "Defense secretary issues commendation to US army sentinel who told him and his aides to be quiet after laughter was heard at Tomb of the Unknown Soldier Pete Hegseth awards medal to soldier who reprimanded him Sign up for the Breaking News US email Perhaps you saw this ad from Scott Colom, who was just elected to serve as Mississippi’s first Democratic senator since 1989: The New York Times spoke to Russ Hudson , the man who is grilling in the first part of the ad and uttered the “sheeeit” that has now become an emblem of Colom’s successful campaign. Here’s what he had to say, from the Times: The lines, he said, felt natural. He left thinking maybe a couple thousand people would see it. “I just did it like a Mississippian would,” Mr. Hudson said in an interview. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/12/mississippi-scott-colom-ukraine-donald-trump",
       "source": "The Guardian",
-      "published": "2026-11-13T01:19:53+00:00",
-      "image": "https://i.guim.co.uk/img/media/f39d9eba31016399e4c01fd145c5dd223dd145d6/334_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=3f02f0541713f8ee8f347b659bf6577d"
+      "published": "2026-11-13T01:32:42+00:00",
+      "image": "https://i.guim.co.uk/img/media/643bd3e107bf10fec5fb9540b81a8dc3fab9fbb3/638_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=a39a9c6d43d926a7703e438d7352ec29"
     },
     {
       "title": "Australian footballers will not be charged after hotel incident, police say",
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6af6592288b3-1794529570.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
