@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-13T20:15:29.027795+00:00",
+  "updated_at": "2026-11-13T20:30:30.938835+00:00",
   "national": [
+    {
+      "title": "Berenang di Irigasi, Remaja Kudus Tewas Tersetrum Jebakan Tikus",
+      "summary": "Seorang pemuda 16 tahun di Kudus meninggal setelah tersetrum jebakan tikus saat berenang di saluran irigasi. Temannya meminta bantuan, namun terlambat.",
+      "url": "https://news.detik.com/berita/d-8752349/berenang-di-irigasi-remaja-kudus-tewas-tersetrum-jebakan-tikus",
+      "source": "Detik",
+      "published": "2026-11-13T20:00:54+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/polisi-saat-mendatangi-lokasi-tempat-pemuda-meninggal-dunia-di-saluran-irigasi-sawah-desa-wates-kecamatan-undaan-kudus-jumat-1-1794574724443_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Polisi: Dugaan Pemerkosaan oleh Bupati Kupang Terjadi di Rumah Dinas",
       "summary": "Polda NTT mengungkap kasus dugaan pemerkosaan oleh Bupati Kupang, Yosef Lede. Korban berusia 21 tahun melapor peristiwa tersebut terjadi di rumah dinas.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-13T20:00:08+00:00",
       "image": "https://akcdn.detik.net.id/visual/2023/05/16/ilustrasi-kekerasan_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Siswi Disabilitas di Semarang Tewas Terjatuh Lewat Lubang Dinding Lantai 3",
-      "summary": "Siswi berkebutuhan khusus OMP (16) meninggal setelah terjatuh dari lantai 3 sekolah di Semarang. Penyelidikan kelalaian pihak sekolah sedang dilakukan.",
-      "url": "https://news.detik.com/berita/d-8752340/siswi-disabilitas-di-semarang-tewas-terjatuh-lewat-lubang-dinding-lantai-3",
-      "source": "Detik",
-      "published": "2026-11-13T18:57:43+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2022/08/23/penemuan-mayat-wanita-duduk-di-melaya_169.jpeg?w=360&q=90"
     },
     {
       "title": "Manchester United tunjuk Pochettino sebagai pelatih baru",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Chris Van Hollen rules out 2028 presidential bid as his challenge to take Senate leadership gains support – US politics live",
-      "summary": "Maryland senator says he wants to focus on Senate’s midterm mandate ‘to answer the call with the American people’ Howard Lutnick under pressure over alleged lack of Nvidia action Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted earlier, the calls for Howard Lutnick to appear before lawmakers on Capitol Hill have been answered. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+      "title": "Paraguay’s ex-president Pena faces new charge over Ueno bank collapse",
+      "summary": "The criminal association charge over his alleged role in the collapse of the bank comes a week after his removal.",
+      "url": "https://www.aljazeera.com/news/2026/11/13/paraguays-ex-president-pena-faces-new-charge-over-ueno-bank-collapse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-13T20:18:09+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af75898-1794594968.jpg?resize=1920%2C1440"
+    },
+    {
+      "title": "Tanker collides with river cruise ship carrying more than 130 people in New Orleans – latest updates",
+      "summary": "Rescue efforts under way as ship takes on water; governor confirms incident in Mississippi River Tanker collides with cruise ship on Mississippi River in New Orleans An emergency response source said that there were efforts underway to rescue people from the water. That source said it was possible the tanker had lost power before striking the American Heritage. Images on social media showed the American Heritage on its side. It was docked on the Mississippi River outside the port of New Orleans’s administrative building when it was hit. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/new-orleans-cruise-liner-tanker-crash-live-updates",
       "source": "The Guardian",
-      "published": "2026-11-13T19:59:18+00:00",
-      "image": "https://i.guim.co.uk/img/media/969a8bd1521a0cfaf072fc67129aa13a81e3ba99/0_0_4840_3872/master/4840.jpg?width=140&quality=85&auto=format&fit=max&s=126861da8808da4abe6e6d766e5fec27"
+      "published": "2026-11-13T20:13:03+00:00",
+      "image": "https://i.guim.co.uk/img/media/776c87ea406ae2a08e13e2caa55e388a1f854e6e/0_0_4710_3767/master/4710.jpg?width=140&quality=85&auto=format&fit=max&s=90dfe57ff3b373609d7eaf77bcd59963"
     },
     {
       "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
@@ -42,19 +50,7 @@
       "source": "BBC",
       "published": "2026-11-13T19:53:57+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg"
-    },
-    {
-      "title": "Migrants risk deadly route to Spain’s Canary Islands",
-      "summary": "More than 7,400 migrants arrived in Spain’s Canary Islands during the first 10 days of November.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/migrants-risk-deadly-route-to-spains-canary-islands?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-13T19:23:40+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794597729.jpg?resize=1832%2C1080&quality=80"
     }
   ],
-  "feed_warnings": [
-    "Detik: TimeoutError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
