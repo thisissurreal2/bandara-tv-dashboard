@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T17:45:31.832431+00:00",
+  "updated_at": "2026-11-13T18:00:43.135015+00:00",
   "national": [
     {
       "title": "Gunung Karangetang Sulut Erupsi, Muntahkan Lava Sejauh 400 Meter",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Home sales hit 16-year low in October amid soaring mortgage rates",
-      "summary": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year high US existing home sales hit a 16-year low in October as buyers were driven away by high mortgage rates and rising inflation, according to new data released on Wednesday. Sales of already built units dropped to 3.75m in October, down by 8.8% from last year, the National Association of Realtors (NAR) reported. The median existing-home sales price increased slightly to $416,700. Declines in sales were seen in the midwest, south and west, though sales in the north-east held steady. Continue reading...",
-      "url": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
+      "title": "No 10 considering expanding under-25s benefits overhaul to older age groups",
+      "summary": "Exclusive: Plans to replace key disability benefits for young people with work and training could affect adults Downing Street is considering whether plans to replace key disability benefits for the under-25s with work and training should be expanded to older age groups, the Guardian has learned, in a move that risks reigniting Labour tensions over welfare changes. The prime minister and other cabinet ministers are looking at applying the idea of “participation first” to all working ages, meaning spending billions more on support to enter the workplace while cutting or removing some disability benefits. Continue reading...",
+      "url": "https://www.theguardian.com/society/2026/nov/13/no-10-considering-expanding-under-25s-benefits-overhaul-to-older-age-groups",
       "source": "The Guardian",
-      "published": "2026-11-13T17:20:32+00:00",
-      "image": "https://i.guim.co.uk/img/media/861fa365835f36d65c4fe3a0adf09f6b63ba43ad/142_0_2344_1875/master/2344.jpg?width=140&quality=85&auto=format&fit=max&s=8773e098930ce08aa711f613f70b46b6"
+      "published": "2026-11-13T17:43:26+00:00",
+      "image": "https://i.guim.co.uk/img/media/c2b0279682d508425e716930b12babc769cd705c/1106_585_4650_3723/master/4650.jpg?width=140&quality=85&auto=format&fit=max&s=ae911deb0c8a1cca78223aca44e0a48b"
     },
     {
       "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20250604__49948G2__v1__HighRes__50TariffsOnSteelAndAluminumComeIntoForce-1793302472.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
