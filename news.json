@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T01:15:30.820767+00:00",
+  "updated_at": "2026-11-13T01:30:31.644969+00:00",
   "national": [
     {
       "title": "Pimpinan MPR Targetkan Wapres Pengganti Gibran Sebelum 5 Desember",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Nvidia’s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports – live",
-      "summary": "Huang’s resignation has sent shockwaves through the AI industry, after revelations of extramarital affairs, including one involving a suspected Chinese spy Full report: Jensen Huang resigns as Nvidia CEO Analysis: Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached? Donald Trump has reiterated that it is not yet ‌determined whether Alice Huang ‌was a spy. In an interview released late on Thursday, the President was asked whether Jensen Huang should have resigned. The big thing is, was the woman a spy? ‌And I don’t know if that’s been determined yet. But if the woman was a spy, yes. If the woman was not a spy, perhaps it would be different.” Continue reading...",
-      "url": "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates",
+      "title": "Microsoft begins restoring services as global outage affects Outlook and Teams",
+      "summary": "Recovery process under way, company says, after nearly 130,000 users worldwide reported access issues Microsoft outage – live updates Microsoft 365, Outlook, Teams and other apps were disrupted for thousands of users for more than five hours on Thursday, with Microsoft saying it was still working to return affected servers to service, but had observed limited recovery. A Microsoft spokesperson said the company “had no indication of a cyber attack”. Continue reading...",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
       "source": "The Guardian",
-      "published": "2026-11-13T01:03:03+00:00",
-      "image": "https://i.guim.co.uk/img/media/06d384564fbc81b578cacdc1b55f26b478bccb02/438_0_4375_3500/master/4375.jpg?width=140&quality=85&auto=format&fit=max&s=e3f98cc8492314845668bf7c919131a1"
+      "published": "2026-11-13T01:19:53+00:00",
+      "image": "https://i.guim.co.uk/img/media/f39d9eba31016399e4c01fd145c5dd223dd145d6/334_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=3f02f0541713f8ee8f347b659bf6577d"
     },
     {
-      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
-      "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
-      "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+      "title": "Australian footballers will not be charged after hotel incident, police say",
+      "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+      "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-13T00:20:24+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dca/live/418b2150-de90-11f1-a701-fddedf244c16.jpg"
+      "published": "2026-11-13T01:03:59+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9a2/live/04510720-defc-11f1-9b2e-c7d61d5838d4.jpg"
     },
     {
       "title": "Iran war live: Trump says Gulf allies urged pause in Iran strikes",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6af6592288b3-1794529570.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
