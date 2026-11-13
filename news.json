@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-13T09:30:32.450823+00:00",
+  "updated_at": "2026-11-13T09:45:26.100774+00:00",
   "national": [
+    {
+      "title": "Para Petinggi Parpol Tiba di Istana Bogor Jelang Pertemuan dengan Prabowo",
+      "summary": "Para petinggi partai politik (parpol) akan bertemu dengan Presiden Prabowo Subianto di Istana Kepresidenan, Bogor.",
+      "url": "https://news.detik.com/berita/d-8751847/para-petinggi-parpol-tiba-di-istana-bogor-jelang-pertemuan-dengan-prabowo",
+      "source": "Detik",
+      "published": "2026-11-13T09:37:05+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/ketua-dpp-pan-bima-arya-firdadetikcom-1794562599488_169.jpeg?w=360&q=90"
+    },
     {
       "title": "MPR Terima 2 Nama Cawapres Pengganti Gibran Paling Lama 18 November",
       "summary": "MPR RI akan menerima dua nama calon wakil presiden pengganti Gibran pada 18 November. Paripurna pemilihan dijadwalkan 2 Desember 2026.",
@@ -16,32 +24,24 @@
       "source": "ANTARA",
       "published": "2026-11-13T08:32:09+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/13/1001419104.jpg"
-    },
-    {
-      "title": "Di Forum COP31, Hashim Pamer RI Kembali Ekspor Beras Setelah 42 Tahun",
-      "summary": "Indonesia kembali jadi pengekspor beras setelah 42 tahun, rencananya mengekspor 500 ribu ton ke Malaysia. Hashim Djojohadikusumo umumkan pencapaian ini.",
-      "url": "https://news.detik.com/berita/d-8751563/di-forum-cop31-hashim-pamer-ri-kembali-ekspor-beras-setelah-42-tahun",
-      "source": "Detik",
-      "published": "2026-11-13T07:37:40+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/utusan-khusus-presiden-bidang-iklim-dan-energi-hashim-djojohadikusumo-azhardetikcom-1794555427738_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
     {
-      "title": "Pope Leo XIV warns on pressures facing modern families",
-      "summary": "Pope Leo XIV has warned that digital technology risks replacing genuine human interaction.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-xiv-warns-on-pressures-facing-modern-families?traffic_source=rss",
+      "title": "Microsoft hit by global outages: What happened and why?",
+      "summary": "Outlook, Teams and Copilot remain disrupted in 74 countries as Microsoft reports ‘marginal success’ in fixing outage.",
+      "url": "https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-13T09:11:37+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794561082.jpg?resize=1200%2C675"
+      "published": "2026-11-13T09:30:55+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af6c919a6f5-1794558233.jpg?resize=1920%2C1440"
     },
     {
-      "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
-      "summary": "Tech company ‘seeing positive results’ with efforts and says no indication problem was caused by cyber-attack Microsoft outage – live updates Tell us: have you been affected by the Microsoft outage? Microsoft is scrambling to fix an outage of some of its systems that has caused huge disruption to users, organisations and businesses across the globe. The tech company said it was “seeing positive results” in its efforts to improve capacity to enable more users to get back on its systems, after a global outage affected millions of users for more than 12 hours on Thursday and Friday. Continue reading...",
-      "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+      "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
+      "summary": "Ukraine and Russia have agreed to expand next round of negotiations to include European countries European Commission president Ursula von der Leyen insisted it is “self-explanatory” that Europe should be included in the peace talks on Ukraine “to safeguard our interests, but also to support Ukraine.” “We will come forward as a commission with a proposal for the financing of the Ukrainian needs in 2027, and with the 22nd sanctions package before the next European Council,” she said. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-13T09:08:16+00:00",
-      "image": "https://i.guim.co.uk/img/media/f39d9eba31016399e4c01fd145c5dd223dd145d6/334_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=3f02f0541713f8ee8f347b659bf6577d"
+      "published": "2026-11-13T09:21:16+00:00",
+      "image": "https://i.guim.co.uk/img/media/03c39749638fd1dfd3b4d706660f7e0e3923c2c3/1129_0_4972_3979/master/4972.jpg?width=140&quality=85&auto=format&fit=max&s=c3e20fd5d32f428815a0041673aa93e9"
     },
     {
       "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
