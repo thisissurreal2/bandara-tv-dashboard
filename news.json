@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T00:15:26.553501+00:00",
+  "updated_at": "2026-11-13T00:30:33.014248+00:00",
   "national": [
     {
       "title": "PKS Ikuti Pilihan Prabowo soal Pengganti Gibran: Kami Serahkan ke Presiden",
@@ -18,22 +18,30 @@
       "image": "https://akcdn.detik.net.id/visual/2015/07/24/0676200f-0af8-4c87-a754-bff6467e55d7_169.jpg?w=360&q=90"
     },
     {
-      "title": "Italia hajar Prancis 3-1, Zidane telan kekalahan pertama",
-      "summary": "Timnas Italia tampil efisien setelah menghajar Prancis 3-1 dalam matchday kelima UEFA Nations League 2026/2027 di ...",
-      "url": "https://www.antaranews.com/berita/5850651/italia-hajar-prancis-3-1-zidane-telan-kekalahan-pertama",
+      "title": "Polri ungkap sosok TK dalam kasus penyadapan ilegal",
+      "summary": "Polri mengungkap sosok TK yang disebut Kapolri Jenderal Pol. Suyudi Ario Seto dalam pemaparan perkembangan kasus dugaan ...",
+      "url": "https://www.antaranews.com/berita/5850679/polri-ungkap-sosok-tk-dalam-kasus-penyadapan-ilegal",
       "source": "ANTARA",
-      "published": "2026-11-12T23:00:00+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/13/1000085514.jpg"
+      "published": "2026-11-13T00:07:03+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/10/1000095119.jpg"
     }
   ],
   "international": [
     {
-      "title": "Who could replace the departed Jensen Huang as Nvidia CEO?",
-      "summary": "Chief financial officer Colette Kress to take over on interim basis but other names are in mix to be permanent successor The hunt is on for a new Nvidia CEO. It comes after a whirlwind week, which saw the company head and co-founder, Jensen Huang, resign amid multiple allegations of extramarital affairs , including one that involved an alleged Chinese spy and two with company employees. Nvidia immediately named Colette Kress, the company’s chief financial officer, as the interim CEO. It’s possible she could stay on permanently, but the company could also name another candidate for the full-time role. Names that have been floated include Ian Buck, who manages Nvidia’s AI hardware and software products, and Rene Haas, a former Nvidia employee and the current CEO of Arm Holdings, a UK-based chipmaker. Continue reading...",
-      "url": "https://www.theguardian.com/technology/2026/nov/12/jensen-huang-nvidia-ceo-replacement",
+      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+      "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-13T00:20:24+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dca/live/418b2150-de90-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "title": "Calls grow for release of beloved California nurse detained by ICE: ‘We want her home’",
+      "summary": "Ann Lawani was taken from her home, sparking a huge outcry among students and faculty at her university Nearly two months after ICE agents whisked a beloved California nurse and professor from her home in Lodi, her university has ramped up calls for her release. “She needs to come home,” said Eileen Fry-Bowers, dean for the University of San Francisco’s nursing school,in reference to Ann Lawani, who was arrested by immigration agents in September and has since been shuffled between detention centers in California, Texas, and Louisiana, in a series of opaque transfers. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/12/california-nurse-release-ice-custody",
       "source": "The Guardian",
-      "published": "2026-11-13T00:03:57+00:00",
-      "image": "https://i.guim.co.uk/img/media/16a9e0aed91c3b4022e42015b6599e223f5d81ab/0_0_1920_1536/master/1920.jpg?width=140&quality=85&auto=format&fit=max&s=ee231f477f9f6916b617e58d71aa04d5"
+      "published": "2026-11-13T00:19:54+00:00",
+      "image": "https://i.guim.co.uk/img/media/ecf2178df4b098ee20ab4c7247fd09987a19d4fa/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=34a529d7bd115eb804f97ec9c7d25c4b"
     },
     {
       "title": "Iran war live: Riyadh, China discuss Houthis as group claims Aramco attacks",
@@ -42,14 +50,6 @@
       "source": "Al Jazeera",
       "published": "2026-11-13T00:00:26+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af64a8083002-1794525824.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
-      "summary": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy.",
-      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-12T23:34:05+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg"
     }
   ],
   "feed_warnings": []
