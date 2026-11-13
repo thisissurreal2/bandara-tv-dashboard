@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-13T11:15:25.926707+00:00",
+  "updated_at": "2026-11-13T11:30:34.560113+00:00",
   "national": [
     {
-      "title": "Bupati Kuningan Konsisten Hadirkan Hunian Layak dan Perlindungan Sosial",
-      "summary": "Pemkab Kuningan menargetkan peningkatan kualitas hidup warga serta pemerataan kesejahteraan masyarakat sejalan dengan visi Kuningan Melesat.",
-      "url": "https://www.cnnindonesia.com/nasional/20261113175104-25-1426987/bupati-kuningan-konsisten-hadirkan-hunian-layak-perlindungan-sosial",
+      "title": "Pendampingan Tim Ekspedisi Patriot Tingkatkan Pendapatan Masyarakat",
+      "summary": "Pendapatan masyarakat transmigrasi meningkat 3-4 kali lipat berkat Tim Ekspedisi Patriot. Mereka bantu produksi, pengolahan, dan akses pasar.",
+      "url": "https://news.detik.com/berita/d-8752016/pendampingan-tim-ekspedisi-patriot-tingkatkan-pendapatan-masyarakat",
+      "source": "Detik",
+      "published": "2026-11-13T11:19:20+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/kementrans-1794568744143_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "Polda DIY Bantah Truk Polisi Angkut Ormas: Itu Anggota Reserse",
+      "summary": "Polda DIY menjelaskan video viral truk polisi yang mengangkut anggota Satgas Pagar berpakaian sipil saat kericuhan demo. Penjelasan terkait tugas mereka.",
+      "url": "https://www.cnnindonesia.com/nasional/20261113175229-12-1426989/polda-diy-bantah-truk-polisi-angkut-ormas-itu-anggota-reserse",
       "source": "CNN Indonesia",
-      "published": "2026-11-13T10:55:06+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/13/pemkab-kuningan-1794567287120_169.jpeg?w=360&q=90"
+      "published": "2026-11-13T11:18:19+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/11/polisi-tangkap-106-orang-terkait-demo-berujung-ricuh-di-dprd-diy-1794358451678_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo: Negara dampingi keluarga relawan karhutla yang gugur",
@@ -16,32 +24,24 @@
       "source": "ANTARA",
       "published": "2026-11-13T10:39:25+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/13/1000472590.jpg"
-    },
-    {
-      "title": "Jimly Tegaskan Wapres Pengganti Gibran Diajukan Presiden",
-      "summary": "Jimly menyampaikan pendapat terkait pergantian Wapres yang kini kosong setelah Gibran mundur. Jimly mengatakan hanya Presiden yang bisa mengajukan calon wapres.",
-      "url": "https://news.detik.com/berita/d-8751883/jimly-tegaskan-wapres-pengganti-gibran-diajukan-presiden",
-      "source": "Detik",
-      "published": "2026-11-13T09:52:08+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/jimly-asshiddiqie-kurniawandetikcom-1794563341961_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
     {
-      "title": "UK-EU deal will lead to ‘growing pressure’ for parliament to scrutinise legislation, warns committee – UK politics live",
-      "summary": "The report on food and emissions comes ahead of a joint UK-EU summit next week Ministers will face a legal challenge over plans to convert a Ministry of Defence site near the Oxfordshire village of Piddington into accommodation for more than 1,200 detained asylum seekers. It emerged on Thursday that Angela Rayner, the housing and communities secretary, has approved full planning permission , a decision welcomed by the Home Office, who want to end the use of asylum hotels. Continue reading...",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/13/uk-eu-post-brexit-deal-relationship-trade-food-standards-committee-latest-news-updates",
+      "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
+      "summary": "Ukraine and Russia have agreed to expand next round of negotiations to include European countries Hungary’s Péter Magyar is also here, looking very elegant as always… … but it looks like he took a slight detour on the way back to hotel last night to try and pour a perfect pint of Guinness. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-13T10:56:24+00:00",
-      "image": "https://i.guim.co.uk/img/media/1f601b6963d10a51408ae87392c7ee87d628cf08/381_0_4186_3348/master/4186.jpg?width=140&quality=85&auto=format&fit=max&s=2c9e2440786b6e5b524ea3bf6252e316"
+      "published": "2026-11-13T11:12:22+00:00",
+      "image": "https://i.guim.co.uk/img/media/af859fd146834e1d6c80eb74390e4e88d8a15446/268_0_2668_2135/master/2668.jpg?width=140&quality=85&auto=format&fit=max&s=ec4243ee74c1d4d50a59fa15af29f3d6"
     },
     {
-      "title": "Iran threatens unlimited response over Strait of Hormuz after US attack",
-      "summary": "Iran’s Islamic Revolutionary Guard Corps says it destroyed a US early-warning radar in Bahrain.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-reported-resul-serdar-iran-basij?traffic_source=rss",
+      "title": "El Salvador deploys armed robots to fight gangs in Haiti",
+      "summary": "El Salvador’s President Nayib Bukele has released a video showing armed robots during an operation against gangs.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/el-salvador-deploys-armed-robots-to-fight-gangs-in-haiti?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-13T10:54:25+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794567001.jpg?resize=1920%2C1080&quality=80"
+      "published": "2026-11-13T10:57:20+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794567418.jpg?resize=1200%2C675"
     },
     {
       "title": "What we know about the global Microsoft outage",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
