@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T21:33:56.620619+00:00",
+  "updated_at": "2026-11-13T21:45:29.685308+00:00",
   "national": [
     {
       "title": "DPR: Anggaran Guru PPPK Paruh Waktu ke Penuh Waktu Capai Rp23 Triliun",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "As Van Hollen wages a challenge, Senate Democrats are torn on whom to elect as their leader",
-      "summary": "Maryland senator’s bid against Chuck Schumer for leadership could decide direction of the Democratic party US politics live – latest updates Ever since Donald Trump returned to the White House, Democratic officeholders and voters alike have been divided over whether their leader in the Senate, Chuck Schumer , is up to the task of taking the president on. That debate intensified on Thursday, when the Maryland senator Chris Van Hollen announced he will challenge Schumer for the post of Democratic Senate leader, which will become one of the most powerful jobs in Washington when the party takes control of Congress ’s upper chamber next year. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/13/democrats-midterms-senate-leader",
+      "title": "Rip out ugly clutter to help revive UK high streets, says thinktank",
+      "summary": "Exclusive: Report says restricting cars and freeing up pavement space could be a cheap way to entice shoppers The long decline of the high street is a problem that has gripped British governments for years. But what if there was a solution no one had considered before – doing it all on the cheap? Spending less money is, admittedly, just one element of a report led by the urban thinktank Create Streets. But it does argue that rather than multimillion-pound revamps, a better answer could be smaller changes aimed at making town and city centres more appealing. Continue reading...",
+      "url": "https://www.theguardian.com/society/2026/nov/13/rip-out-clutter-to-retail-revive-high-streets-thinktank",
       "source": "The Guardian",
-      "published": "2026-11-13T21:29:51+00:00",
-      "image": "https://i.guim.co.uk/img/media/48fa66a20eacc798793f8c3b942b6715a99fe639/394_0_3929_3145/master/3929.jpg?width=140&quality=85&auto=format&fit=max&s=6492bacf627eef1865b546aceb5e63b2"
+      "published": "2026-11-13T21:34:43+00:00",
+      "image": "https://i.guim.co.uk/img/media/d24ecfe085b5748a596ec8152c77a991779dc686/572_0_2835_2268/master/2835.jpg?width=140&quality=85&auto=format&fit=max&s=2fa830b4b6a80cafec41c4f31bf8de1b"
     },
     {
       "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794603121.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: TimeoutError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
