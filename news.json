@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-13T19:00:37.168959+00:00",
+  "updated_at": "2026-11-13T19:15:28.855244+00:00",
   "national": [
+    {
+      "title": "Siswi Disabilitas di Semarang Tewas Terjatuh Lewat Lubang Dinding Lantai 3",
+      "summary": "Siswi berkebutuhan khusus OMP (16) meninggal setelah terjatuh dari lantai 3 sekolah di Semarang. Penyelidikan kelalaian pihak sekolah sedang dilakukan.",
+      "url": "https://news.detik.com/berita/d-8752340/siswi-disabilitas-di-semarang-tewas-terjatuh-lewat-lubang-dinding-lantai-3",
+      "source": "Detik",
+      "published": "2026-11-13T18:57:43+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2022/08/23/penemuan-mayat-wanita-duduk-di-melaya_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Perempuan Pengunjung Lapas Semarang Selundupkan 200 Pil Alprazolam",
       "summary": "Seorang perempuan pengunjung Lapas Semarang, SAP, ditangkap saat menyelundupkan 200 butir pil Alprazolam dengan modus disembunyikan di kemaluan.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-13T18:30:06+00:00",
       "image": "https://akcdn.detik.net.id/visual/2018/11/27/cffc2132-eb8a-415c-ab2c-c580bcc8f5a3_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "WNI Korban Perekrutan Jadi Tentara Rusia Ngaku Tak Tahu Bakal Dikirim Perang",
-      "summary": "Dua WNI mengaku tidak tahu akan dikirim ke medan perang Rusia. Mereka ditawari pekerjaan logistik, namun akhirnya dilatih untuk bertempur.",
-      "url": "https://news.detik.com/berita/d-8752336/wni-korban-perekrutan-jadi-tentara-rusia-ngaku-tak-tahu-bakal-dikirim-perang",
-      "source": "Detik",
-      "published": "2026-11-13T18:22:24+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/wni-korban-perekrutan-tentara-bayaran-rusia-taufiq-syarifudindetikcom-1794588896761_169.jpeg?w=360&q=90"
     },
     {
       "title": "Manchester United tunjuk Pochettino sebagai pelatih baru",
@@ -32,29 +32,25 @@
       "summary": "Treasury secretary says he was in favor ‘for months’ of putting Megaspeed on blacklist to stop Nvidia exporting advanced chips to Beijing Howard Lutnick under pressure over alleged lack of Nvidia action Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted earlier, the calls for Howard Lutnick to appear before lawmakers on Capitol Hill have been answered. Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
       "source": "The Guardian",
-      "published": "2026-11-13T18:42:32+00:00",
+      "published": "2026-11-13T19:04:53+00:00",
       "image": "https://i.guim.co.uk/img/media/e19db10acdf9eb2e9d6a55f68aad687b6e2dd221/962_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a2df8a42472340585fd28309ff95b066"
     },
     {
-      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
-      "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "title": "Democratic Senate leader Schumer set to face leadership challenge",
+      "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-13T18:36:57+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg"
+      "published": "2026-11-13T19:03:10+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8015/live/4a0196d0-df4d-11f1-b441-2b33b063138f.png"
     },
     {
-      "title": "Israel bars supplies needed to treat six-year-old Gaza burn victim",
-      "summary": "Six-year-old burns victim Masa is one of the patients in Gaza whose recovery is under threat due to Israeli restrictions",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/israel-bars-supplies-needed-to-treat-six-year-old-gaza-burn-victim?traffic_source=rss",
+      "title": "How will the US deal with Nvidia scandal?",
+      "summary": "Tech giant CEO resigned and will testify before Congress.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/13/how-will-the-us-deal-with-nvidia-scandal?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-13T18:28:03+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794594446.jpg?resize=1920%2C1080&quality=80"
+      "published": "2026-11-13T18:57:43+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-12T202931Z_419656292_RC2KMOA0WBF6_RTRMADP_3_NVIDIA-CEO-1794553361.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
