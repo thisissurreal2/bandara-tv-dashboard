@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-13T06:45:28.099444+00:00",
+  "updated_at": "2026-11-13T07:00:57.397525+00:00",
   "national": [
+    {
+      "title": "DPRD Grobogan Dorong Pemerataan Layanan Kesehatan di HKN ke-62",
+      "summary": "Peringatan Hari Kesehatan Nasional (HKN) ke-62 menjadi momentum memperkuat kolaborasi dalam meningkatkan kualitas pelayanan kesehatan masyarakat Grobogan.",
+      "url": "https://www.cnnindonesia.com/nasional/20261113135129-633-1426815/dprd-grobogan-dorong-pemerataan-layanan-kesehatan-di-hkn-ke-62",
+      "source": "CNN Indonesia",
+      "published": "2026-11-13T06:57:19+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/13/dprd-grobogan-perkuat-dukungan-untuk-pemerataan-layanan-kesehatan-di-hkn-ke-62-1794551645095_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Sambut Konser BTS, Bakal Ada 'Purple Jakarta' di Bundaran HI hingga Monas",
       "summary": "Menteri Pariwisata siapkan program 'Purple Jakarta' untuk menyambut konser BTS. Landmark Jakarta akan dihiasi ungu, menciptakan suasana istimewa bagi ARMY.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-13T06:36:21+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/menteri-pariwisata-siapkan-program-purple-jakarta-untuk-menyambut-konser-bts-beliadetikcom-1794551713873_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Diduga Peras Pelaku Narkoba, Pejabat Polsek di Batam Diperiksa Polda",
-      "summary": "Kapolsek dan Kanit Reskrim Polsek Sagulung di Batam diperiksa Paminal Polda Kepri terkait dugaan peras pelaku narkoba Rp50 juta.",
-      "url": "https://www.cnnindonesia.com/nasional/20261113123014-12-1426766/diduga-peras-pelaku-narkoba-pejabat-polsek-di-batam-diperiksa-polda",
-      "source": "CNN Indonesia",
-      "published": "2026-11-13T06:30:58+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2023/08/09/ilustrasi-anggota-polisi-berseragam-dinas-2_169.jpeg?w=360&q=90"
     },
     {
       "title": "Mendiktisaintek minta kampus majukan sains, bangun kemandirian iptek",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
