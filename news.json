@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-13T21:45:29.685308+00:00",
+  "updated_at": "2026-11-13T22:00:38.529752+00:00",
   "national": [
+    {
+      "title": "2 Perampok Sekap Bocah SD hingga Tewas di Malang Ditangkap",
+      "summary": "Seorang siswi kelas 4 SD di Malang tewas setelah disekap perampok. Polisi telah menangkap dua pelaku, salah satunya adalah residivis pencurian.",
+      "url": "https://news.detik.com/berita/d-8752360/2-perampok-sekap-bocah-sd-hingga-tewas-di-malang-ditangkap",
+      "source": "Detik",
+      "published": "2026-11-13T21:34:00+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/rumah-di-malang-dirampok-1794488954567_169.jpeg?w=360&q=90"
+    },
     {
       "title": "DPR: Anggaran Guru PPPK Paruh Waktu ke Penuh Waktu Capai Rp23 Triliun",
       "summary": "Wakil Ketua Komisi X DPR, Lalu Hadrian, mengungkapkan anggaran Rp23 triliun untuk pengangkatan guru PPPK paruh waktu menjadi penuh waktu.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-13T21:30:49+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/02/11/aksi-guru-madrasah-tuntut-jadi-pppk-1770786848813_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "WN China Curi ATM-Kartu Kredit di Kabin Pesawat Dideportasi",
-      "summary": "WNA asal China ditangkap karena mencuri di kabin pesawat Jakarta-Semarang. Setelah pemeriksaan, ia dideportasi pada 13 November 2026.",
-      "url": "https://news.detik.com/berita/d-8752358/wn-china-curi-atm-kartu-kredit-di-kabin-pesawat-dideportasi",
-      "source": "Detik",
-      "published": "2026-11-13T21:06:05+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/wn-cina-dideportasi-1794570982758_169.jpeg?w=360&q=90"
     },
     {
       "title": "Manchester United tunjuk Pochettino sebagai pelatih baru",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Rip out ugly clutter to help revive UK high streets, says thinktank",
-      "summary": "Exclusive: Report says restricting cars and freeing up pavement space could be a cheap way to entice shoppers The long decline of the high street is a problem that has gripped British governments for years. But what if there was a solution no one had considered before – doing it all on the cheap? Spending less money is, admittedly, just one element of a report led by the urban thinktank Create Streets. But it does argue that rather than multimillion-pound revamps, a better answer could be smaller changes aimed at making town and city centres more appealing. Continue reading...",
-      "url": "https://www.theguardian.com/society/2026/nov/13/rip-out-clutter-to-retail-revive-high-streets-thinktank",
+      "title": "FAA issues nationwide ground-stop order, delaying or canceling nearly 7,000 flights",
+      "summary": "Transportation secretary Sean Duffy said stoppage is due to ‘communication issue’ and that FAA is looking into issue The Federal Aviation Administration (FAA) has issued a nationwide ground stop for all flights that are due to take off in the US on Friday, delaying or canceling nearly 7,000 US flights, according to aviation tracker FlightAware. In a post on X, the US transportation secretary, Sean Duffy, said the stoppage is due to “a communication issue impacting all Air Route Traffic Control Centers” and that the FAA’s technicians are looking into the matter. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
       "source": "The Guardian",
-      "published": "2026-11-13T21:34:43+00:00",
-      "image": "https://i.guim.co.uk/img/media/d24ecfe085b5748a596ec8152c77a991779dc686/572_0_2835_2268/master/2835.jpg?width=140&quality=85&auto=format&fit=max&s=2fa830b4b6a80cafec41c4f31bf8de1b"
+      "published": "2026-11-13T21:44:48+00:00",
+      "image": "https://i.guim.co.uk/img/media/00dec276feaa13633c2f6979640250c2d33b3997/1281_1265_5301_4240/master/5301.jpg?width=140&quality=85&auto=format&fit=max&s=ba1ed9538fc1d843221a35ac6858be5a"
+    },
+    {
+      "title": "US grounds all flights after ‘communication issue’",
+      "summary": "US Transportation Secretary Sean Duffy said the US aviation agency was investigating.",
+      "url": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-13T21:32:08+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af78164-1794605412.jpg?resize=1920%2C1440"
     },
     {
       "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
@@ -42,19 +50,7 @@
       "source": "BBC",
       "published": "2026-11-13T21:14:22+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg"
-    },
-    {
-      "title": "Pope Leo cheered on return to Peru city where he served as bishop",
-      "summary": "An estimated 1.5 million people have welcomed Pope Leo XIV back to the city in Peru where he once served as bishop.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-cheered-on-return-to-peru-city-where-he-served-as-bishop?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-13T20:52:31+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794603121.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": [
-    "Detik: TimeoutError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
