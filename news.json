@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-13T07:30:35.409506+00:00",
+  "updated_at": "2026-11-13T07:45:30.637307+00:00",
   "national": [
     {
-      "title": "Korlantas-Polda Metro Bahas ETLE hingga Transformasi Layanan SIM",
-      "summary": "Korlantas Polri dan Polda Metro Jaya bahas penegakan hukum elektronik dan transformasi pelayanan publik untuk tingkatkan ketertiban lalu lintas di Jakarta.",
-      "url": "https://www.cnnindonesia.com/nasional/20261113140532-12-1426832/korlantas-polda-metro-bahas-etle-hingga-transformasi-layanan-sim",
+      "title": "Pekanbaru Raih Anugerah Penggerak Nusantara 2026 Bidang Infrastruktur",
+      "summary": "Anugerah Penggerak Nusantara 2026 kategori Infrastruktur diraih Pekanbaru atas komitmen menjadikan infrastruktur sebagai prioritas pembangunan.",
+      "url": "https://www.cnnindonesia.com/nasional/20261113143825-25-1426859/pekanbaru-raih-anugerah-penggerak-nusantara-2026-bidang-infrastruktur",
       "source": "CNN Indonesia",
-      "published": "2026-11-13T07:14:26+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/13/korlantas-polda-metro-bahas-etle-hingga-transformasi-layanan-sim-1794549167732_169.jpeg?w=360&q=90"
+      "published": "2026-11-13T07:43:58+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/13/pekanbaru-1794554963735_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Panama Tolak Klaim AS soal Kendali Bersama Terusan",
-      "summary": "Panama menegaskan hanya pihaknya yang memegang kendali atas Terusan Panama. Hal itu disampaikan untuk membantah pernyataan Menhan AS soal kendali bersama.",
-      "url": "https://news.detik.com/internasional/d-8751494/panama-tolak-klaim-as-soal-kendali-bersama-terusan",
+      "title": "Di Forum COP31, Hashim Pamer RI Kembali Ekspor Beras Setelah 42 Tahun",
+      "summary": "Indonesia kembali jadi pengekspor beras setelah 42 tahun, rencananya mengekspor 500 ribu ton ke Malaysia. Hashim Djojohadikusumo umumkan pencapaian ini.",
+      "url": "https://news.detik.com/berita/d-8751563/di-forum-cop31-hashim-pamer-ri-kembali-ekspor-beras-setelah-42-tahun",
       "source": "Detik",
-      "published": "2026-11-13T07:09:17+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/03/25/efek-perang-iran-terusan-panama-diserbu-kapal-lng-1774404031968_169.jpeg?w=360&q=90"
+      "published": "2026-11-13T07:37:40+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/utusan-khusus-presiden-bidang-iklim-dan-energi-hashim-djojohadikusumo-azhardetikcom-1794555427738_169.jpeg?w=360&q=90"
     },
     {
       "title": "Mendiktisaintek minta kampus majukan sains, bangun kemandirian iptek",
@@ -23,7 +23,7 @@
       "url": "https://www.antaranews.com/berita/5851279/mendiktisaintek-minta-kampus-majukan-sains-bangun-kemandirian-iptek",
       "source": "ANTARA",
       "published": "2026-11-13T06:23:50+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/13/1000567176.jpg"
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/13/1000567176_1.jpg"
     }
   ],
   "international": [
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
