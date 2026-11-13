@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-13T04:15:28.296344+00:00",
+  "updated_at": "2026-11-13T04:30:30.710009+00:00",
   "national": [
+    {
+      "title": "JLNT Antasari Ditutup Tiap Malam Weekend, Dimulai Dini Hari Nanti",
+      "summary": "Akses Jalan Layang Non-Tol (JLNT) Antasari akan ditutup tiap malam akhir pekan. Penutupan dimulai dini hari nanti.",
+      "url": "https://news.detik.com/berita/d-8751134/jlnt-antasari-ditutup-tiap-malam-weekend-dimulai-dini-hari-nanti",
+      "source": "Detik",
+      "published": "2026-11-13T04:18:30+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/06/29/viral-motor-balap-liar-di-jlnt-antasari-hingga-tutup-jalan-1782703569463_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Gibran Mundur, AHY Pastikan Demokrat Tak Ajukan Nama untuk Wapres",
       "summary": "Ketua Umum Partai Demokrat, AHY, memastikan tidak akan mengajukan calon Wapres pengganti Gibran. AHY minta jangan sampai spekulasi mendahului konstitusi.",
@@ -15,18 +23,18 @@
       "url": "https://www.antaranews.com/berita/5851039/peruri-perkuat-pemberdayaan-umkm-hingga-pendidikan-di-karawang",
       "source": "ANTARA",
       "published": "2026-11-13T04:04:32+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/13/WhatsApp-Image-2026-11-13-at-09.12.27.jpeg"
-    },
-    {
-      "title": "Polisi Gagalkan Tawuran Pemuda di Jakbar, 9 Pelaku dan 8 Celurit Diamankan",
-      "summary": "Polisi berhasil mencegah tawuran di Jalan Pesakih, Daan Mogot, Kalideres, Jakarta Barat dini hari tadi. Sebanyak sembilan orang pemuda diamankan.",
-      "url": "https://news.detik.com/berita/d-8751104/polisi-gagalkan-tawuran-pemuda-di-jakbar-9-pelaku-dan-8-celurit-diamankan",
-      "source": "Detik",
-      "published": "2026-11-13T04:03:01+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/polisi-berhasil-mencegah-tawuran-di-jalan-pesakih-daan-mogot-kalideres-jakarta-barat-dini-hari-tadi-sebanyak-sembilan-orang-pe-1794542566450_169.jpeg?w=360&q=90"
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/13/WhatsApp-Image-2026-11-13-at-09.12.27_1.jpeg"
     }
   ],
   "international": [
+    {
+      "title": "US envoys shuttle between Putin and Zelenskyy",
+      "summary": "US envoys Witkoff and Kushner have shuttled between Dublin and Moscow in efforts to broker a Russia-Ukraine peace deal.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/aje-onl-nf_us-envoys-shuttle-between-putin-and-zelenskyy-121126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-13T04:12:01+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794543112.jpg?resize=1920%2C1080&quality=80"
+    },
     {
       "title": "Nvidia’s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports – live",
       "summary": "Huang’s resignation has sent shockwaves through the AI industry, after revelations of extramarital affairs, including one involving a suspected Chinese spy Full report: Jensen Huang resigns as Nvidia CEO Analysis: Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached? Can the AI economy survive without its “central bank”? What does Jensen Huang’s fall mean for the world’s second-most valuable company, and what might a tremor in its fortunes mean for the world? Nvidia’s sky-high valuation is based on the fact that it designs and sells the advanced AI chips, called graphics processing units (GPUs), that underpin the AI economy. Without these, AI models such as ChatGPT and Claude could not be trained and would not run. Continue reading...",
@@ -42,14 +50,6 @@
       "source": "BBC",
       "published": "2026-11-13T03:57:01+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f66c/live/4f0358a0-def1-11f1-bb80-c5cef03337ce.jpg"
-    },
-    {
-      "title": "Mississippi elects first black senator in nearly 150 years",
-      "summary": "Scott Colom will be the first black senator to represent Mississippi since 1881.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/mississippi-elects-first-black-senator-in-nearly-150-years?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-13T03:21:25+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794540041.jpg?resize=1620%2C1080&quality=80"
     }
   ],
   "feed_warnings": []
