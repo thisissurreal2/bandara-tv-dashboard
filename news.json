@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-13T11:30:34.560113+00:00",
+  "updated_at": "2026-11-13T11:45:30.136872+00:00",
   "national": [
+    {
+      "title": "Tersangka Kasus Ijazah Jokowi Rizal Fadillah Meninggal Dunia",
+      "summary": "Ustaz Rizal Fadillah, tersangka kasus tudingan ijazah palsu Jokowi, meninggal dunia. Roy Suryo mengungkapkan duka dan harapan agar perjuangan Rizal diteruskan.",
+      "url": "https://www.cnnindonesia.com/nasional/20261113182246-12-1426994/tersangka-kasus-ijazah-jokowi-rizal-fadillah-meninggal-dunia",
+      "source": "CNN Indonesia",
+      "published": "2026-11-13T11:32:00+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2021/07/07/ilustrasi-kematian-2_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Pendampingan Tim Ekspedisi Patriot Tingkatkan Pendapatan Masyarakat",
       "summary": "Pendapatan masyarakat transmigrasi meningkat 3-4 kali lipat berkat Tim Ekspedisi Patriot. Mereka bantu produksi, pengolahan, dan akses pasar.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-13T11:19:20+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/kementrans-1794568744143_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Polda DIY Bantah Truk Polisi Angkut Ormas: Itu Anggota Reserse",
-      "summary": "Polda DIY menjelaskan video viral truk polisi yang mengangkut anggota Satgas Pagar berpakaian sipil saat kericuhan demo. Penjelasan terkait tugas mereka.",
-      "url": "https://www.cnnindonesia.com/nasional/20261113175229-12-1426989/polda-diy-bantah-truk-polisi-angkut-ormas-itu-anggota-reserse",
-      "source": "CNN Indonesia",
-      "published": "2026-11-13T11:18:19+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/11/polisi-tangkap-106-orang-terkait-demo-berujung-ricuh-di-dprd-diy-1794358451678_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo: Negara dampingi keluarga relawan karhutla yang gugur",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Leaders meet in Dublin amid search for lead EU negotiator for peace talks with Russia - Europe live",
-      "summary": "Ukraine and Russia have agreed to expand next round of negotiations to include European countries Hungary’s Péter Magyar is also here, looking very elegant as always… … but it looks like he took a slight detour on the way back to hotel last night to try and pour a perfect pint of Guinness. Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/nov/13/eu-leaders-negotiations-ukraine-russia-dublin-ai-summit-kushner-witkoff-latest-news-updates",
+      "title": "Russia strikes hospital in central Kyiv after SpaceX system falters again",
+      "summary": "Volodymyr Zelenskyy says speed restrictions on Starshield system made it harder for Ukraine to shoot down drones Europe live – latest updates Russia has attacked a hospital in the centre of Kyiv, close to several western embassies, after Volodymyr Zelenskyy said speed restrictions on SpaceX’s Starshield system had made it harder for Ukraine to shoot down enemy drones. Three people were injured when a drone smashed into the Institute of Traumatology and Orthopedics at 3am, hitting the second floor of the hospital and an adjoining 19th-century building. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/13/russia-strikes-hospital-central-kyiv-spacex-starshield-system-fails",
       "source": "The Guardian",
-      "published": "2026-11-13T11:12:22+00:00",
-      "image": "https://i.guim.co.uk/img/media/af859fd146834e1d6c80eb74390e4e88d8a15446/268_0_2668_2135/master/2668.jpg?width=140&quality=85&auto=format&fit=max&s=ec4243ee74c1d4d50a59fa15af29f3d6"
+      "published": "2026-11-13T11:24:30+00:00",
+      "image": "https://i.guim.co.uk/img/media/dc9a234fef04146303e642fa72a7e4133f5f0332/534_0_5600_4480/master/5600.jpg?width=140&quality=85&auto=format&fit=max&s=4f6b3aa602c14144386fe6e5fd7786d7"
     },
     {
-      "title": "El Salvador deploys armed robots to fight gangs in Haiti",
-      "summary": "El Salvador’s President Nayib Bukele has released a video showing armed robots during an operation against gangs.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/el-salvador-deploys-armed-robots-to-fight-gangs-in-haiti?traffic_source=rss",
+      "title": "Live: Microsoft struggles to restore services as outage hits global users",
+      "summary": "As global outage affects users worldwide, Microsoft admits fixes are not going 'as expected'.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/live-microsoft-struggles-to-restore-services-as-outage-hits-global-users?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-13T10:57:20+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794567418.jpg?resize=1200%2C675"
+      "published": "2026-11-13T11:18:01+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af6f17258af-1794568562.jpg?resize=1920%2C1440"
     },
     {
       "title": "What we know about the global Microsoft outage",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
