@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T22:15:36.338531+00:00",
+  "updated_at": "2026-11-13T22:30:31.654131+00:00",
   "national": [
     {
       "title": "Serangan Kelompok Bersenjata di Kongo Tewaskan 44 Orang",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "New Orleans boat crash: tanker collides with river cruise ship carrying more than 130 people – latest updates",
-      "summary": "Rescue efforts under way as American Heritage takes on water; governor confirms incident in Mississippi River Tanker collides with cruise ship on Mississippi River in New Orleans A video circulating around social media shows a different angle during the moment the ship was falling on its side into the water. Passengers can be seen climbing onto the balconies’ railing to avoid sliding into the river as the ship turned horizontally. Several uniformed people can be seen running away from the scene, likely to gather equipment that would help rescue efforts. Martin J Davies, a maritime expert at Tulane University, told local news outlet Fox 8 that he suspected the incident was caused by either steerage failure or engine failure. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/new-orleans-cruise-liner-tanker-crash-live-updates",
+      "title": "Flights grounded at all US airports due to air traffic control ‘communication issue’, transport secretary says – live",
+      "summary": "Sean Duffy says technicians from Federal Aviation Administration are investigating the issue, which has delayed thousands of flights FAA issues nationwide ground-stop order, delaying or canceling nearly 7,000 flights Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted earlier, the calls for Howard Lutnick to appear before lawmakers on Capitol Hill have been answered. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
       "source": "The Guardian",
-      "published": "2026-11-13T22:03:54+00:00",
-      "image": "https://i.guim.co.uk/img/media/b1ae0fc91d5b094fbe8c34dcbd7057984449ef70/130_0_1071_857/master/1071.jpg?width=140&quality=85&auto=format&fit=max&s=2ba66c2ec5ac20c3dc00042e0a530831"
+      "published": "2026-11-13T22:14:56+00:00",
+      "image": "https://i.guim.co.uk/img/media/83ccb1e6582aa694e45d643abd29d837c8f217a2/451_0_4510_3608/master/4510.jpg?width=140&quality=85&auto=format&fit=max&s=f11dd51ed640dac66df42ee7190c2ac3"
     },
     {
-      "title": "LIVE: FAA issues nationwide ground stop after communications outage in US",
-      "summary": "US air regulators have issued a nationwide ground stop for departing flights, citing a communications problem.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss",
+      "title": "US grounds all flights after ‘communication issue’",
+      "summary": "US Transportation Secretary Sean Duffy said the US aviation agency was investigating.",
+      "url": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-13T22:02:07+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af786424d0dd-1794606658.jpg?resize=1920%2C1440"
+      "published": "2026-11-13T21:32:08+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af78164-1794605412.jpg?resize=1920%2C1440"
     },
     {
       "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
