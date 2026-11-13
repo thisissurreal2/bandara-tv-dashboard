@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-13T20:00:39.412810+00:00",
+  "updated_at": "2026-11-13T20:15:29.027795+00:00",
   "national": [
+    {
+      "title": "Polisi: Dugaan Pemerkosaan oleh Bupati Kupang Terjadi di Rumah Dinas",
+      "summary": "Polda NTT mengungkap kasus dugaan pemerkosaan oleh Bupati Kupang, Yosef Lede. Korban berusia 21 tahun melapor peristiwa tersebut terjadi di rumah dinas.",
+      "url": "https://www.cnnindonesia.com/nasional/20261113200323-12-1427035/polisi-dugaan-pemerkosaan-oleh-bupati-kupang-terjadi-di-rumah-dinas",
+      "source": "CNN Indonesia",
+      "published": "2026-11-13T20:00:08+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2023/05/16/ilustrasi-kekerasan_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Siswi Disabilitas di Semarang Tewas Terjatuh Lewat Lubang Dinding Lantai 3",
       "summary": "Siswi berkebutuhan khusus OMP (16) meninggal setelah terjatuh dari lantai 3 sekolah di Semarang. Penyelidikan kelalaian pihak sekolah sedang dilakukan.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-13T18:57:43+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2022/08/23/penemuan-mayat-wanita-duduk-di-melaya_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Perempuan Pengunjung Lapas Semarang Selundupkan 200 Pil Alprazolam",
-      "summary": "Seorang perempuan pengunjung Lapas Semarang, SAP, ditangkap saat menyelundupkan 200 butir pil Alprazolam dengan modus disembunyikan di kemaluan.",
-      "url": "https://www.cnnindonesia.com/nasional/20261113145926-12-1426873/perempuan-pengunjung-lapas-semarang-selundupkan-200-pil-alprazolam",
-      "source": "CNN Indonesia",
-      "published": "2026-11-13T18:30:06+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2018/11/27/cffc2132-eb8a-415c-ab2c-c580bcc8f5a3_169.jpeg?w=360&q=90"
     },
     {
       "title": "Manchester United tunjuk Pochettino sebagai pelatih baru",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Chris Van Hollen rules out 2028 presidential bid as his challenge to take Senate leadership gains support – US politics live",
+      "summary": "Maryland senator says he wants to focus on Senate’s midterm mandate ‘to answer the call with the American people’ Howard Lutnick under pressure over alleged lack of Nvidia action Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted earlier, the calls for Howard Lutnick to appear before lawmakers on Capitol Hill have been answered. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+      "source": "The Guardian",
+      "published": "2026-11-13T19:59:18+00:00",
+      "image": "https://i.guim.co.uk/img/media/969a8bd1521a0cfaf072fc67129aa13a81e3ba99/0_0_4840_3872/master/4840.jpg?width=140&quality=85&auto=format&fit=max&s=126861da8808da4abe6e6d766e5fec27"
+    },
+    {
       "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
       "summary": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
       "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-13T19:53:57+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2783/live/a5cdb560-df6c-11f1-9892-87464bbcc2b8.jpg"
-    },
-    {
-      "title": "Chris Van Hollen rules out 2028 presidential bid as challenge to take Senate leadership gains support – US politics live",
-      "summary": "Maryland senator says he wants to focus on Senate’s midterm mandate ‘to answer the call with the American people’ Howard Lutnick under pressure over alleged lack of Nvidia action Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted earlier, the calls for Howard Lutnick to appear before lawmakers on Capitol Hill have been answered. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
-      "source": "The Guardian",
-      "published": "2026-11-13T19:40:15+00:00",
-      "image": "https://i.guim.co.uk/img/media/969a8bd1521a0cfaf072fc67129aa13a81e3ba99/0_0_4840_3872/master/4840.jpg?width=140&quality=85&auto=format&fit=max&s=126861da8808da4abe6e6d766e5fec27"
     },
     {
       "title": "Migrants risk deadly route to Spain’s Canary Islands",
@@ -53,7 +53,7 @@
     }
   ],
   "feed_warnings": [
-    "Detik: URLError",
+    "Detik: TimeoutError",
     "Detik: no fresh stories",
     "Detik: keeping previous story"
   ]
