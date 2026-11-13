@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T15:29:33.482908+00:00",
+  "updated_at": "2026-11-13T15:30:39.034068+00:00",
   "national": [
     {
       "title": "Komnas HAM Minta Rekaman CCTV UGM Terkait Demo 10 November",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
