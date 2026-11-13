@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-13T06:00:36.492822+00:00",
+  "updated_at": "2026-11-13T06:15:27.444930+00:00",
   "national": [
+    {
+      "title": "DPRD Jateng Dorong Penguatan PAD demi Kemandirian Fiskal",
+      "summary": "Ketua Komisi C DPRD Jateng Bambang Haryanto menekankan pentingnya optimalisasi PAD dan aset daerah untuk kemandirian fiskal.",
+      "url": "https://news.detik.com/bangun-indonesia/d-8751324/dprd-jateng-dorong-penguatan-pad-demi-kemandirian-fiskal",
+      "source": "Detik",
+      "published": "2026-11-13T06:14:00+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/ketua-komisi-c-dprd-provinsi-jateng-bambang-haryanto-bahrudin-menegaskan-pentingnya-optimalisasi-pendapatan-asli-daerah-pad-un-1794550376820.jpeg?w=360&q=90"
+    },
     {
       "title": "AHY Video Call SBY, Konsultasi Sikap Demokrat Usai Gibran Mundur",
       "summary": "Ketua Umum Partai Demokrat, AHY, mengonfirmasi tidak akan mengajukan nama calon wakil presiden pengganti Gibran, menyerahkan keputusan kepada Presiden Prabowo.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-13T05:54:03+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/09/09/perayaan-hut-ke-25-partai-demokrat-1788961226346_169.png?w=360&q=90"
-    },
-    {
-      "title": "Banjir Landa Aceh Tamiang dan Langkat, Ratusan Rumah Terendam",
-      "summary": "Banjir terjadi di Desa Perdamaian, Kuala Simpang, Aceh Tamiang, Aceh. BNPB menyebut banjir di Aceh Tamiang menyebabkan ratusan rumah terendam.",
-      "url": "https://news.detik.com/berita/d-8751288/banjir-landa-aceh-tamiang-dan-langkat-ratusan-rumah-terendam",
-      "source": "Detik",
-      "published": "2026-11-13T05:51:38+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/banjir-di-aceh-tamiang-dok-bnpb-1794549077478.jpeg?w=360&q=90"
     },
     {
       "title": "Kemenkeu siapkan belanja negara Rp945 T untuk November-Desember 2026",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Children’s exposure to home wood-burning could be as significant as traffic exhaust, study suggests",
+      "summary": "Research finds highest levels of cancer-related PAH pollutants in cities that have widespread wood heating Children’s exposure to home wood-burning could be as significant as exposure to traffic exhaust, suggests new research across six European towns and cities. Scientists measured the air in buildings where children spend much of their time; in schools, sports centres and homes. Specifically, they looked at polycyclic aromatic hydrocarbons (PAH) , a family of pollutants that are given off when fuels are burned. Continue reading...",
+      "url": "https://www.theguardian.com/environment/2026/nov/13/wood-burning-stoves-pollution-traffic-exhaust-children",
+      "source": "The Guardian",
+      "published": "2026-11-13T06:00:12+00:00",
+      "image": "https://i.guim.co.uk/img/media/19d4ea7474c5c562ef867a64234a9343bedc2da0/190_0_4756_3805/master/4756.jpg?width=140&quality=85&auto=format&fit=max&s=ec21eaaff15085c46f902ff3232f1163"
+    },
+    {
       "title": "Harry Kane breaks caps record as England reach Nations League knockouts",
       "summary": "England moved to second spot in Group A3 behind Spain, confirming their place in the Nations League last eight in March.",
       "url": "https://www.aljazeera.com/sports/2026/11/13/harry-kane-england-appearance-record-126-croatia-nations-league-quarterfinals?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-11-13T05:38:36+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261112__D7BZ2WL__v1__HighRes__FblNationsLeagueEngCro-1794546572.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Nvidia’s Jensen Huang expected to testify before Congress amid calls for crackdown on China chip exports – live",
-      "summary": "Huang’s resignation has sent shockwaves through the AI industry, after revelations of extramarital affairs, including one involving a suspected Chinese spy Full report: Jensen Huang resigns as Nvidia CEO Analysis: Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached? Can the AI economy survive without its “central bank”? What does Jensen Huang’s fall mean for the world’s second-most valuable company, and what might a tremor in its fortunes mean for the world? Nvidia’s sky-high valuation is based on the fact that it designs and sells the advanced AI chips, called graphics processing units (GPUs), that underpin the AI economy. Without these, AI models such as ChatGPT and Claude could not be trained and would not run. Continue reading...",
-      "url": "https://www.theguardian.com/technology/live/2026/nov/13/nvidia-jensen-huang-to-testify-before-congress-live-latest-updates",
-      "source": "The Guardian",
-      "published": "2026-11-13T05:37:36+00:00",
-      "image": "https://i.guim.co.uk/img/media/f74f292bf21b64ac06a24785167573c263947fdc/183_0_3766_3013/master/3766.jpg?width=140&quality=85&auto=format&fit=max&s=0384771ac2fd3f4624a2aac79960f682"
     },
     {
       "title": "Ex-Nvidia CEO Jensen Huang summoned to testify before Congress about affair with alleged Chinese spy",
