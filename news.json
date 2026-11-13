@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-13T10:45:27.084373+00:00",
+  "updated_at": "2026-11-13T11:00:38.778262+00:00",
   "national": [
+    {
+      "title": "Bupati Kuningan Konsisten Hadirkan Hunian Layak dan Perlindungan Sosial",
+      "summary": "Pemkab Kuningan menargetkan peningkatan kualitas hidup warga serta pemerataan kesejahteraan masyarakat sejalan dengan visi Kuningan Melesat.",
+      "url": "https://www.cnnindonesia.com/nasional/20261113175104-25-1426987/bupati-kuningan-konsisten-hadirkan-hunian-layak-perlindungan-sosial",
+      "source": "CNN Indonesia",
+      "published": "2026-11-13T10:55:06+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/13/pemkab-kuningan-1794567287120_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Prabowo: Negara dampingi keluarga relawan karhutla yang gugur",
       "summary": "Presiden Prabowo Subianto menyampaikan belasungkawa dan memastikan negara hadir bagi keluarga relawan serta petugas ...",
@@ -8,14 +16,6 @@
       "source": "ANTARA",
       "published": "2026-11-13T10:39:25+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/13/1000472590.jpg"
-    },
-    {
-      "title": "Prabowo Bakal ke Luar Negeri, Yusril Sebut Wapres Kosong Tak Masalah",
-      "summary": "Presiden Prabowo Subianto akan melakukan kunjungan luar negeri pada 14-16 November 2026. Kekosongan Wapres tidak akan mengganggu pemerintahan.",
-      "url": "https://www.cnnindonesia.com/nasional/20261113164041-32-1426943/prabowo-bakal-ke-luar-negeri-yusril-sebut-wapres-kosong-tak-masalah",
-      "source": "CNN Indonesia",
-      "published": "2026-11-13T10:39:20+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/12/yusril-bandingkan-pengunduran-diri-gibran-dengan-soeharto-saat-1998-1794467311243_169.jpeg?w=360&q=90"
     },
     {
       "title": "Jimly Tegaskan Wapres Pengganti Gibran Diajukan Presiden",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
-      "summary": "Tech company ‘seeing positive results’ with efforts and says no indication problem was caused by cyber-attack Microsoft outage hits UK hospitals, GPs, schools and police Microsoft outage – live updates Tell us: have you been affected by the outage? Microsoft is scrambling to fix an outage of some of its systems that has caused huge disruption to users, organisations and businesses across the globe. In its latest update, the tech company said it was seeing “early signs of stabilisation” in its efforts to improve capacity to enable more users to get back on its systems, after a global outage affected millions of users for more than 12 hours on Thursday and Friday. Continue reading...",
-      "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+      "title": "What we know about the global Microsoft outage",
+      "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-13T10:53:40+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Planned asylum centre near Oxfordshire village to face legal challenge",
+      "summary": "Parish council of village that declared independence from UK over centre says it will ‘absolutely’ launch legal action UK politics – live updates Ministers will face a legal challenge over plans to convert a Ministry of Defence site near the Oxfordshire village of Piddington into accommodation for more than 1,200 detained asylum seekers. It emerged on Thursday that Angela Rayner, the housing and communities secretary, has approved full planning permission , a decision welcomed by the Home Office, who want to end the use of asylum hotels. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/13/planned-asylum-centre-near-oxfordshire-village-legal-challenge-piddington",
       "source": "The Guardian",
-      "published": "2026-11-13T10:15:13+00:00",
-      "image": "https://i.guim.co.uk/img/media/f39d9eba31016399e4c01fd145c5dd223dd145d6/334_0_3332_2666/master/3332.jpg?width=140&quality=85&auto=format&fit=max&s=3f02f0541713f8ee8f347b659bf6577d"
+      "published": "2026-11-13T10:47:54+00:00",
+      "image": "https://i.guim.co.uk/img/media/c06718debdca7ff78851cb74ac0be786981aebe3/777_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=637b882b734e98ba0b39f21011659544"
     },
     {
       "title": "Russia and Ukraine report overnight attacks amid US diplomatic push",
@@ -42,14 +50,6 @@
       "source": "Al Jazeera",
       "published": "2026-11-13T10:11:38+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26316520987093-1794558218.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "What we know about the global Microsoft outage",
-      "summary": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-13T09:59:20+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dddf/live/8578f720-df49-11f1-b441-2b33b063138f.jpg"
     }
   ],
   "feed_warnings": [
