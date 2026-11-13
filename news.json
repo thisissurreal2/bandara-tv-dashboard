@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-13T00:32:34.476055+00:00",
+  "updated_at": "2026-11-13T00:45:27.908204+00:00",
   "national": [
+    {
+      "title": "Polri Sebut Sosok TK di Kasus Penyadapan Ilegal Berpangkat Brigjen",
+      "summary": "Kadiv Humas Polri Irjen Johnny Eddizon Isir memastikan sosok TK merupakan anggota Polri aktif dengan pangkat Brigjen.",
+      "url": "https://www.cnnindonesia.com/nasional/20261113072736-12-1426658/polri-sebut-sosok-tk-di-kasus-penyadapan-ilegal-berpangkat-brigjen",
+      "source": "CNN Indonesia",
+      "published": "2026-11-13T00:32:12+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/03/johnny-eddizon-isir-1793714014357_169.jpeg?w=360&q=90"
+    },
     {
       "title": "PKS Ikuti Pilihan Prabowo soal Pengganti Gibran: Kami Serahkan ke Presiden",
       "summary": "Ketua DPP PKS Mardani Ali mendukung musyawarah Prabowo dengan partai koalisi untuk menentukan calon wakil presiden pengganti Gibran Rakabuming.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-13T00:13:16+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2025/01/21/mardani-ali-sera_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Misteri Sosok TK di Penyadapan Prabowo yang Diungkap Kapolri di DPR",
-      "summary": "Mabes Polri buka suara soal sosok inisial TK yang diperiksa terkait kasus penyadapan ilegal Presiden Prabowo. TK disebut Kapolri Suyudi dalam rapat di DPR.",
-      "url": "https://www.cnnindonesia.com/nasional/20261113063136-12-1426631/misteri-sosok-tk-di-penyadapan-prabowo-yang-diungkap-kapolri-di-dpr",
-      "source": "CNN Indonesia",
-      "published": "2026-11-13T00:09:50+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2015/07/24/0676200f-0af8-4c87-a754-bff6467e55d7_169.jpg?w=360&q=90"
     },
     {
       "title": "Polri ungkap sosok TK dalam kasus penyadapan ilegal",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Pat Cummins press conference live updates: Australian cricket captain speaks about Usman Khawaja’s ‘sandpapergate’ claims",
+      "summary": "Cummins speaks about allegations in Usman Khawaja’s book about the 2018 ball-tampering incident ‘Complete and utter nonsense’: Australia captain Pat Cummins hits back at Khawaja ‘sandpapergate’ claims Cummins says there’s a ‘proper way to do things’ Cummins says he believes there was a proper way to handle the sandpaper incident, pointing to the Cricket Australia investigation shortly afterwards. There’s a very proper way to do things and improve. I think that investigation was a proper way to do it. Everyone was asked in the circumstances about a game very quickly after. So that’s for CA. I think you can maybe argue whether the judgements were fair, but what can you do? I got asked all the questions, answered them all fairly. That’s my story, so I think he’s wrong. The details really matter in that difference. So perhaps there was conversations with Cameron Bancroft around taking sandpaper out and how to do it. That doesn’t mean that everyone in that dressing room knew what was going on. Continue reading...",
+      "url": "https://www.theguardian.com/sport/live/2026/nov/13/pat-cummins-press-conference-usman-khawaja-sandpapergate-australia-cricket-captain-statement-ntwnfb",
+      "source": "The Guardian",
+      "published": "2026-11-13T00:29:26+00:00",
+      "image": "https://i.guim.co.uk/img/media/98e2bff19e4445496fd0da8a491d3cb83c3bdeac/257_0_2562_2050/master/2562.jpg?width=140&quality=85&auto=format&fit=max&s=d43de4137917c4bf62509ab2f2a05acc"
+    },
+    {
       "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
       "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
       "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_medium=RSS&at_campaign=rss",
@@ -36,21 +44,17 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6dca/live/418b2150-de90-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Calls grow for release of beloved California nurse detained by ICE: ‘We want her home’",
-      "summary": "Ann Lawani was taken from her home, sparking a huge outcry among students and faculty at her university Nearly two months after ICE agents whisked a beloved California nurse and professor from her home in Lodi, her university has ramped up calls for her release. “She needs to come home,” said Eileen Fry-Bowers, dean for the University of San Francisco’s nursing school,in reference to Ann Lawani, who was arrested by immigration agents in September and has since been shuffled between detention centers in California, Texas, and Louisiana, in a series of opaque transfers. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/12/california-nurse-release-ice-custody",
-      "source": "The Guardian",
-      "published": "2026-11-13T00:19:54+00:00",
-      "image": "https://i.guim.co.uk/img/media/ecf2178df4b098ee20ab4c7247fd09987a19d4fa/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=34a529d7bd115eb804f97ec9c7d25c4b"
-    },
-    {
-      "title": "Iran war live: Riyadh, China discuss Houthis as group claims Aramco attacks",
-      "summary": "Saudi-led coalition intercepts Houthi drones heading for Riyadh as the rebel group claims attacks on energy facilities.",
+      "title": "Iran war live: Trump says Gulf allies urged pause in Iran strikes",
+      "summary": "Speaking at the White House, Trump says Gulf countries asked him to hold off on further attacks against Iran.",
       "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-11-13T00:00:26+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6af6592288b3-1794529570.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
