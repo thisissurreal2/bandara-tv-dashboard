@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-13T21:15:26.252097+00:00",
+  "updated_at": "2026-11-13T21:30:35.445691+00:00",
   "national": [
+    {
+      "title": "WN China Curi ATM-Kartu Kredit di Kabin Pesawat Dideportasi",
+      "summary": "WNA asal China ditangkap karena mencuri di kabin pesawat Jakarta-Semarang. Setelah pemeriksaan, ia dideportasi pada 13 November 2026.",
+      "url": "https://news.detik.com/berita/d-8752358/wn-china-curi-atm-kartu-kredit-di-kabin-pesawat-dideportasi",
+      "source": "Detik",
+      "published": "2026-11-13T21:06:05+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/wn-cina-dideportasi-1794570982758_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Pramono Sebut Penebangan Pohon Keropos Tetap Harus Izin",
       "summary": "Gubernur DKI Jakarta Pramono Anung izinkan penebangan pohon keropos sebagai langkah preventif menjelang musim hujan, demi keselamatan masyarakat.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-13T20:30:41+00:00",
       "image": "https://akcdn.detik.net.id/visual/2025/12/15/waspada-pohon-tumbang-dampak-siklon-tropis-di-jakarta-1765796148216_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Berenang di Irigasi, Remaja Kudus Tewas Tersetrum Jebakan Tikus",
-      "summary": "Seorang pemuda 16 tahun di Kudus meninggal setelah tersetrum jebakan tikus saat berenang di saluran irigasi. Temannya meminta bantuan, namun terlambat.",
-      "url": "https://news.detik.com/berita/d-8752349/berenang-di-irigasi-remaja-kudus-tewas-tersetrum-jebakan-tikus",
-      "source": "Detik",
-      "published": "2026-11-13T20:00:54+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/polisi-saat-mendatangi-lokasi-tempat-pemuda-meninggal-dunia-di-saluran-irigasi-sawah-desa-wates-kecamatan-undaan-kudus-jumat-1-1794574724443_169.jpeg?w=360&q=90"
     },
     {
       "title": "Manchester United tunjuk Pochettino sebagai pelatih baru",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Chris Van Hollen rules out 2028 presidential bid as his challenge to take Senate leadership gains support – US politics live",
+      "summary": "Maryland senator says he wants to focus on Senate’s midterm mandate ‘to answer the call with the American people’ Howard Lutnick under pressure over alleged lack of Nvidia action Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted earlier, the calls for Howard Lutnick to appear before lawmakers on Capitol Hill have been answered. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+      "source": "The Guardian",
+      "published": "2026-11-13T21:15:53+00:00",
+      "image": "https://i.guim.co.uk/img/media/969a8bd1521a0cfaf072fc67129aa13a81e3ba99/0_0_4840_3872/master/4840.jpg?width=140&quality=85&auto=format&fit=max&s=126861da8808da4abe6e6d766e5fec27"
+    },
+    {
       "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
       "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
       "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
@@ -36,25 +44,13 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg"
     },
     {
-      "title": "New Orleans boat crash: tanker collides with river cruise ship carrying more than 130 people – latest updates",
-      "summary": "Rescue efforts under way as American Heritage takes on water; governor confirms incident in Mississippi River Tanker collides with cruise ship on Mississippi River in New Orleans Pictures are now coming in from the news wires. Emergency personnel and crews can be seen on the scene after a tanker crashed into a river cruise in New Orleans. The cruise liner can be seen lying on its side: Officials said they will be holding a news conference at 3pm CST, to begin in about ten minutes, providing further updates on the collision. We will bring you those latest updates as they come. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/new-orleans-cruise-liner-tanker-crash-live-updates",
-      "source": "The Guardian",
-      "published": "2026-11-13T21:02:57+00:00",
-      "image": "https://i.guim.co.uk/img/media/597b86e6cd5f83bb9db0936d2648b583536d8521/959_0_3843_3077/master/3843.jpg?width=140&quality=85&auto=format&fit=max&s=4db5eb416160f9d337abd0e2a443bd0d"
-    },
-    {
-      "title": "Qatar and Turkiye send message of deterrence with new defence pact",
-      "summary": "Qatar and Turkiye have signed a mutual defence pact, deepening their partnership amid growing regional instability.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/qatar-and-turkiye-send-message-of-deterrence-with-new-defence-pact?traffic_source=rss",
+      "title": "Pope Leo cheered on return to Peru city where he served as bishop",
+      "summary": "An estimated 1.5 million people have welcomed Pope Leo XIV back to the city in Peru where he once served as bishop.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-cheered-on-return-to-peru-city-where-he-served-as-bishop?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-13T20:48:02+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794602873.jpg?resize=1918%2C1080&quality=80"
+      "published": "2026-11-13T20:52:31+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794603121.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
