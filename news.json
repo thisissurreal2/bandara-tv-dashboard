@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-13T22:00:38.529752+00:00",
+  "updated_at": "2026-11-13T22:15:36.338531+00:00",
   "national": [
     {
-      "title": "2 Perampok Sekap Bocah SD hingga Tewas di Malang Ditangkap",
-      "summary": "Seorang siswi kelas 4 SD di Malang tewas setelah disekap perampok. Polisi telah menangkap dua pelaku, salah satunya adalah residivis pencurian.",
-      "url": "https://news.detik.com/berita/d-8752360/2-perampok-sekap-bocah-sd-hingga-tewas-di-malang-ditangkap",
+      "title": "Serangan Kelompok Bersenjata di Kongo Tewaskan 44 Orang",
+      "summary": "Kelompok bersenjata terkait ISIS menyerang Kongo, menewaskan 44 orang. Serangan ini memperburuk situasi Ebola di wilayah yang sudah tidak aman.",
+      "url": "https://news.detik.com/internasional/d-8752365/serangan-kelompok-bersenjata-di-kongo-tewaskan-44-orang",
       "source": "Detik",
-      "published": "2026-11-13T21:34:00+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/rumah-di-malang-dirampok-1794488954567_169.jpeg?w=360&q=90"
+      "published": "2026-11-13T22:10:19+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2015/07/07/9db1f355-5935-4f83-99d5-5cee4d7b7f82_169.jpg?w=360&q=90"
     },
     {
       "title": "DPR: Anggaran Guru PPPK Paruh Waktu ke Penuh Waktu Capai Rp23 Triliun",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "FAA issues nationwide ground-stop order, delaying or canceling nearly 7,000 flights",
-      "summary": "Transportation secretary Sean Duffy said stoppage is due to ‘communication issue’ and that FAA is looking into issue The Federal Aviation Administration (FAA) has issued a nationwide ground stop for all flights that are due to take off in the US on Friday, delaying or canceling nearly 7,000 US flights, according to aviation tracker FlightAware. In a post on X, the US transportation secretary, Sean Duffy, said the stoppage is due to “a communication issue impacting all Air Route Traffic Control Centers” and that the FAA’s technicians are looking into the matter. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
+      "title": "New Orleans boat crash: tanker collides with river cruise ship carrying more than 130 people – latest updates",
+      "summary": "Rescue efforts under way as American Heritage takes on water; governor confirms incident in Mississippi River Tanker collides with cruise ship on Mississippi River in New Orleans A video circulating around social media shows a different angle during the moment the ship was falling on its side into the water. Passengers can be seen climbing onto the balconies’ railing to avoid sliding into the river as the ship turned horizontally. Several uniformed people can be seen running away from the scene, likely to gather equipment that would help rescue efforts. Martin J Davies, a maritime expert at Tulane University, told local news outlet Fox 8 that he suspected the incident was caused by either steerage failure or engine failure. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/new-orleans-cruise-liner-tanker-crash-live-updates",
       "source": "The Guardian",
-      "published": "2026-11-13T21:44:48+00:00",
-      "image": "https://i.guim.co.uk/img/media/00dec276feaa13633c2f6979640250c2d33b3997/1281_1265_5301_4240/master/5301.jpg?width=140&quality=85&auto=format&fit=max&s=ba1ed9538fc1d843221a35ac6858be5a"
+      "published": "2026-11-13T22:03:54+00:00",
+      "image": "https://i.guim.co.uk/img/media/b1ae0fc91d5b094fbe8c34dcbd7057984449ef70/130_0_1071_857/master/1071.jpg?width=140&quality=85&auto=format&fit=max&s=2ba66c2ec5ac20c3dc00042e0a530831"
     },
     {
-      "title": "US grounds all flights after ‘communication issue’",
-      "summary": "US Transportation Secretary Sean Duffy said the US aviation agency was investigating.",
-      "url": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss",
+      "title": "LIVE: FAA issues nationwide ground stop after communications outage in US",
+      "summary": "US air regulators have issued a nationwide ground stop for departing flights, citing a communications problem.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-13T21:32:08+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af78164-1794605412.jpg?resize=1920%2C1440"
+      "published": "2026-11-13T22:02:07+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af786424d0dd-1794606658.jpg?resize=1920%2C1440"
     },
     {
       "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
