@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-14T11:00:40.709818+00:00",
+  "updated_at": "2026-11-14T11:15:25.037375+00:00",
   "national": [
     {
-      "title": "Dilaporkan Kasus Pemerkosaan, Bupati Kupang Siap Diperiksa Polisi",
-      "summary": "Bupati Kupang, Yosef Lede, menanggapi tuduhan pemerkosaan dengan menghormati proses hukum yang berjalan. Kasus ini sedang diselidiki Polda NTT.",
-      "url": "https://www.cnnindonesia.com/nasional/20261114171906-12-1427229/dilaporkan-kasus-pemerkosaan-bupati-kupang-siap-diperiksa-polisi",
+      "title": "Aliansi Masyarakat Sipil Jabar Respons Polemik Foto Gibran Terbailik",
+      "summary": "Aliansi Masyarakat Sipil Jabar menanggapi penurunan foto Gibran Rakabuming di DPRD. Aksi spontan ini dianggap sebagai ekspresi emosional pasca mundur.",
+      "url": "https://www.cnnindonesia.com/nasional/20261114174047-20-1427233/aliansi-masyarakat-sipil-jabar-respons-polemik-foto-gibran-terbailik",
       "source": "CNN Indonesia",
-      "published": "2026-11-14T10:50:06+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2018/12/03/1de02481-3e1d-42f5-abce-4a4ea1429a8e_169.jpeg?w=360&q=90"
+      "published": "2026-11-14T11:10:47+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/14/polemik-foto-gibran-terbalik-di-dprd-jabar-1794631370716_169.jpeg?w=360&q=90"
     },
     {
       "title": "'Kami Terjebak' Imbas Sempat Disetopnya Semua Penerbangan di AS",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Ukraine, Russia race to build military satellite networks as war rages on",
+      "summary": "Kyiv seeks to break reliance on Starlink as Moscow develops its own satellite constellation for military communications.",
+      "url": "https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-14T11:00:39+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af838772b-1794652279.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "Microsoft says services fully restored after global outage",
       "summary": "Tech company says services now restored to all customers and regions hit by one of worst IT failures in years Microsoft has said its service is fully restored after a massive outage that caused widespread disruption to governments, businesses and public services around the world . The technology company said on Saturday morning it had restored service to the remaining customers affected by one of the worst IT failures in years. On its Microsoft 365 status page, the US-based firm said: “We have completed our efforts to address the underlying issue of the incident and restored service to the remaining impacted customers and regions. Continue reading...",
       "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
@@ -42,14 +50,6 @@
       "source": "BBC",
       "published": "2026-11-14T10:42:20+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da9e/live/d437a0b0-e010-11f1-b884-a9f52ca7a4b1.jpg"
-    },
-    {
-      "title": "South Sudan postpones first-ever national elections until February",
-      "summary": "The vote, first expected in 2022, will now be held on February 11, according to the country's election commission.",
-      "url": "https://www.aljazeera.com/news/2026/11/14/south-sudan-postpones-first-ever-national-elections-until-february?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-14T10:30:32+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af8208bcd843-1794646155.jpg?resize=1920%2C1440"
     }
   ],
   "feed_warnings": [
