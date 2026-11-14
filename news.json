@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-14T16:15:26.528602+00:00",
+  "updated_at": "2026-11-14T16:30:45.191546+00:00",
   "national": [
     {
-      "title": "Penerbangan di AS Bakal Lebih Banyak yang Dibatalkan Usai Kembali Normal",
-      "summary": "Menteri Transportasi AS, Sean Duffy, memastikan penerbangan aman setelah penghentian operasional. Namun, banyak pembatalan dan penundaan masih terjadi.",
-      "url": "https://news.detik.com/internasional/d-8753395/penerbangan-di-as-bakal-lebih-banyak-yang-dibatalkan-usai-kembali-normal",
+      "title": "AMM Filipina, Menlu Tata Tegaskan Komitmen RI Perkuat Persatuan ASEAN",
+      "summary": "Menlu RI Arrmanatha Nasir menghadiri pertemuan Menlu se-ASEAN di Manila, menegaskan komitmen Indonesia untuk memperkuat persatuan dan ketahanan ASEAN.",
+      "url": "https://news.detik.com/berita/d-8753408/amm-filipina-menlu-tata-tegaskan-komitmen-ri-perkuat-persatuan-asean",
       "source": "Detik",
-      "published": "2026-11-14T15:50:53+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/suasana-bandara-as-saat-ribuan-penerbangan-dihentikan-1794634450765_169.jpeg?w=360&q=90"
+      "published": "2026-11-14T16:14:37+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/arrmanatha-nasir-1794672829914_169.jpeg?w=360&q=90"
     },
     {
       "title": "Presiden Prabowo tiba di Manila, Filipina untuk hadiri KTT ke-49 ASEAN",
@@ -28,28 +28,28 @@
   ],
   "international": [
     {
+      "title": "A rapid interest rate rise seems inevitable – and households are expected to pick up the tab",
+      "summary": "Raising borrowing costs too far risks laying waste to whatever growth there is in the economy A head of steam is building up behind the Bank of England raising interest rates again. With the latest forecasts by the central bank showing inflation rising to 5% next spring, another increase in the cost of borrowing seems inevitable, and may come as soon as next month. A growing number of analysts predict the Bank’s policymakers will don Scrooge masks when they meet on 17 December to deliver a message of austerity and sacrifice. Continue reading...",
+      "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy",
+      "source": "The Guardian",
+      "published": "2026-11-14T16:00:48+00:00",
+      "image": "https://i.guim.co.uk/img/media/91a65d8728a29fe09fb1706e308ff8c46b77c4d6/187_0_2954_2363/master/2954.jpg?width=140&quality=85&auto=format&fit=max&s=f97dd0061161f4f38fc8ed6c84f1fd3d"
+    },
+    {
+      "title": "EU calls for immediate humanitarian access to Gaza",
+      "summary": "The EU said that “Israel must enable the work of the UN and its agencies\" after the group was blocked access into Gaza.",
+      "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-14T15:57:22+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af8704f4a9a8-1794666575.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
       "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
       "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-14T15:53:55+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg"
-    },
-    {
-      "title": "Jerusalem Daily: Israeli forces occupy Palestinian-American’s home",
-      "summary": "Israeli forces occupied a Palestinian-American’s home in the occupied West Bank for 17 days.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/jerusalem-daily-israeli-forces-occupy-palestinian-americans-home?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-14T15:36:37+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794670515.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
-      "summary": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’ Andy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising Brexit. Outlining his desire to form closer ties with Brussels, Burnham accused the Conservative party of having “burned all our bridges” with the bloc after Brexit and said a new deal he hopes to secure with the EU next week will “get food prices down” and put more money in the pockets of British exporters. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
-      "source": "The Guardian",
-      "published": "2026-11-14T15:34:54+00:00",
-      "image": "https://i.guim.co.uk/img/media/2ea4cbf637966baf9c26015df59668f59c6fb69e/759_456_4582_3666/master/4582.jpg?width=140&quality=85&auto=format&fit=max&s=a1d0431197dfc3244a7a8c256f04c8c7"
     }
   ],
   "feed_warnings": []
