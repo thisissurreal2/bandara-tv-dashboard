@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T12:30:31.689778+00:00",
+  "updated_at": "2026-11-14T12:45:25.643284+00:00",
   "national": [
     {
       "title": "Menteri LH Bawa 'Gerakan Tobat Ekologis' ke Forum OKI di COP31",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Interest rate rises likely in coming months, Bank of England’s chief economist says",
+      "summary": "‘We have further to go,’ says Huw Pill after increase to 4% last month as Bank seeks to tackle rising inflation The Bank of England will probably need to raise interest rates next month and again in early 2027 to combat rising inflation, its chief economist has said. Signalling a sharp rise in mortgage payments for an estimated 2.3 million homeowners who will have to refinance their loans next year, Huw Pill said that while the decision to nudge interest rates from 3.75% to 4% earlier this month was a “significant step” towards getting monetary policy into a better place, “we ⁠have further to go”. Continue reading...",
+      "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
+      "source": "The Guardian",
+      "published": "2026-11-14T12:33:58+00:00",
+      "image": "https://i.guim.co.uk/img/media/a38c96c8800b9c310b145da3b85b637313c9011b/480_0_4783_3829/master/4783.jpg?width=140&quality=85&auto=format&fit=max&s=2206d4b9879d5815c8bcc8ea931461b9"
+    },
+    {
       "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
       "summary": "A nuclear treaty and the US's war on Iran are among priority topics for China, Russia and US leaders.",
       "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-11-14T12:14:14+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aabdae2-1789647586_0fb93c-1789656369.jpg?resize=1200%2C630&quality=80"
-    },
-    {
-      "title": "Interest rate rises likely in coming months, Bank of England economist says",
-      "summary": "‘We have further to go,’ says Huw Pill after increase to 4% last month as Bank seeks to tackle rising inflation The Bank of England will probably need to raise interest rates next month and again in early 2027 to combat rising inflation, its chief economist has said. Signalling a sharp rise in mortgage payments for an estimated 2.3 million homeowners who will have to refinance their loans next year, Huw Pill said that while the decision to nudge interest rates from 3.75% to 4% earlier this month was a “significant step” towards getting monetary policy into a better place, “we ⁠have further to go”. Continue reading...",
-      "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
-      "source": "The Guardian",
-      "published": "2026-11-14T12:05:52+00:00",
-      "image": "https://i.guim.co.uk/img/media/a38c96c8800b9c310b145da3b85b637313c9011b/480_0_4783_3829/master/4783.jpg?width=140&quality=85&auto=format&fit=max&s=2206d4b9879d5815c8bcc8ea931461b9"
     },
     {
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
