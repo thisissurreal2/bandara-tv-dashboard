@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T09:30:39.688672+00:00",
+  "updated_at": "2026-11-14T09:45:28.363789+00:00",
   "national": [
     {
       "title": "Prabowo: Tak Ada Waktu Istirahat, Kini Harus Cari Pengganti Wapres",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Nearly $20m found in Hungary’s forests, buildings amid corruption probe",
-      "summary": "An ex-minister faces a bribery probe as Hungary's new government investigates alleged corruption during Orban's rule.",
-      "url": "https://www.aljazeera.com/news/2026/11/14/hungarian-investigators-uncover-19-5m-hidden-in-forests-and-buildings?traffic_source=rss",
+      "title": "Pochettino bids emotional farewell to US football ahead of Man Utd move",
+      "summary": "Mauricio Pochettino has bid an emotional farewell to US football as he prepares to take charge of Manchester United.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/pochettino-bids-emotional-farewell-to-us-football-ahead-of-man-utd-move?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-14T09:08:21+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af81fec4b902-1794645996.jpg?resize=1920%2C1440"
+      "published": "2026-11-14T09:27:59+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794648466.jpg?resize=1920%2C1080&quality=80"
     },
     {
       "title": "Immersive show brings Kyffin Williams’ rugged Welsh landscapes to life",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
