@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-14T08:06:41.337664+00:00",
+  "updated_at": "2026-11-14T08:15:26.558787+00:00",
   "national": [
+    {
+      "title": "Prabowo Cerita Kursi Mendes Sempat Disiapkan untuk Bahlil",
+      "summary": "Presiden Prabowo Subianto menjelaskan penunjukan Yandri Susanto sebagai Mendes PDT, awalnya untuk Bahlil. Ia juga mengapresiasi program pemerintah di Palu.",
+      "url": "https://www.cnnindonesia.com/nasional/20261114144854-20-1427179/prabowo-cerita-kursi-mendes-sempat-disiapkan-untuk-bahlil",
+      "source": "CNN Indonesia",
+      "published": "2026-11-14T08:06:17+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/11/pidato-presiden-prabowo-subianto-di-hut-partai-nasdem-ke-15-1794409438652_169.png?w=360&q=90"
+    },
     {
       "title": "Prabowo hadiri Tanwir dan Milad ke-114 Muhammadiyah di Palu",
       "summary": "Presiden Prabowo Subianto menghadiri Tanwir Muhammadiyah yang digelar bertepatan pada puncak peringatan Milad ke-114 ...",
@@ -8,14 +16,6 @@
       "source": "ANTARA",
       "published": "2026-11-14T07:55:14+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/14/IMG_9043.jpg"
-    },
-    {
-      "title": "Prabowo Puji Kapolri Suyudi: Membanggakan, Melegakan dan Menyejukkan",
-      "summary": "Prabowo memuji Kapolri Jenderal Suyudi sebagai figur yang membanggakan. Menurutnya, Suyudi juga merupakan sosok Kapolri yang melegakan dan menyejukkan.",
-      "url": "https://www.cnnindonesia.com/nasional/20261114144025-20-1427176/prabowo-puji-kapolri-suyudi-membanggakan-melegakan-dan-menyejukkan",
-      "source": "CNN Indonesia",
-      "published": "2026-11-14T07:52:20+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/10/01/presiden-prabowo-subianto-resmi-melantik-suyudi-ario-seto-sebagai-kapolri-suyudi-dilantik-menggantikan-jenderal-listyo-sigit-p-1790841706437_169.png?w=360&q=90"
     },
     {
       "title": "Petugas Temukan 44 Ponsel Saat Razia Lapas Tarakan, Ada 1 Napi Pegang 5 HP",
@@ -36,24 +36,24 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261114__2304518287__v1__HighRes__NewYorkKnicksVIndianaPacersEmiratesNbaCup-1794640930.jpg?resize=1920%2C1440"
     },
     {
+      "title": "Hundreds of children in England prescribed weight-loss jabs, figures show",
+      "summary": "Exclusive: investigation finds prescriptions for children under 12, as experts stress need for specialist supervision and long-term monitoring Hundreds of children in England are receiving prescriptions for GLP-1 medications, including some younger than 12, the Guardian can reveal. GLP-1 medications were initially developed to help people with type 2 diabetes control their blood sugar levels, but have since become a popular slimming aid, with products such as Wegovy and Mounjaro becoming household names. Continue reading...",
+      "url": "https://www.theguardian.com/science/2026/nov/14/children-iengland-prescribed-weight-loss-jabs",
+      "source": "The Guardian",
+      "published": "2026-11-14T08:00:39+00:00",
+      "image": "https://i.guim.co.uk/img/media/a32b508dc2e54f89a324872b8b025ede44510b55/0_0_4374_3499/master/4374.jpg?width=140&quality=85&auto=format&fit=max&s=21deabe56ff4ce181bb32dc31d356069"
+    },
+    {
       "title": "What we know about the longest ground stop since 9/11",
       "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
       "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-14T07:42:11+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’",
-      "summary": "Eurotunnel owner Getlink wants to replicate ‘airport experience’ at Folkestone and Calais, without making people get out of cars Airport-style passport and fingerprinting controls are to be introduced at Eurotunnel in an attempt to prevent “short-term and long-term chaos” in Folkestone and Calais. In a breakthrough for travellers, the European Commission has agreed to a new system in which an “eagle eye” camera system, already used in Rome and Paris airports to supervise fingerprinting and facial imaging, will be used at the border between the UK and France. Continue reading...",
-      "url": "https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border",
-      "source": "The Guardian",
-      "published": "2026-11-14T07:00:38+00:00",
-      "image": "https://i.guim.co.uk/img/media/c36522e185fdfeb8b91004d73d5cc360a5eb2325/0_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=1e5d9d4359cc7e7c571d6edb15cdbf26"
     }
   ],
   "feed_warnings": [
-    "Detik: URLError",
+    "Detik: TimeoutError",
     "Detik: no fresh stories",
     "Detik: keeping previous story"
   ]
