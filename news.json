@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T16:45:23.909822+00:00",
+  "updated_at": "2026-11-14T17:00:38.883905+00:00",
   "national": [
     {
       "title": "AMM Filipina, Menlu Tata Tegaskan Komitmen RI Perkuat Persatuan ASEAN",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Cold weather health alerts issued for parts of UK on Sunday night",
+      "summary": "UKHSA warns of threat to vulnerable people from frosty conditions expected to last until Thursday More cold health alerts have been issued for parts of the UK on Sunday night and next week. The alerts were issued by the UK Health Security Agency (UKHSA) for the north-west, West Midlands and Yorkshire and the Humber, and will be in place from 9pm on Sunday until 9am on Thursday. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/14/uk-weather-milder-weekend-autumn-freeze-frost",
+      "source": "The Guardian",
+      "published": "2026-11-14T16:42:04+00:00",
+      "image": "https://i.guim.co.uk/img/media/6035732eda45a68c9aabfbeb732079748dc463bf/113_0_4560_3648/master/4560.jpg?width=140&quality=85&auto=format&fit=max&s=00e2dd606b1598ea617eb312f27034f8"
+    },
+    {
       "title": "Italy fines Meta €805m over accessing users' photos",
       "summary": "The social media giant is accused of not informing about 20 million users it had access to their photos.",
       "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
@@ -42,14 +50,6 @@
       "source": "Al Jazeera",
       "published": "2026-11-14T16:16:15+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af88117a3-1794670871.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "A rapid interest rate rise seems inevitable – and households are expected to pick up the tab",
-      "summary": "Raising borrowing costs too far risks laying waste to whatever growth there is in the economy A head of steam is building up behind the Bank of England raising interest rates again. With the latest forecasts by the central bank showing inflation rising to 5% next spring, another increase in the cost of borrowing seems inevitable, and may come as soon as next month. A growing number of analysts predict the Bank’s policymakers will don Scrooge masks when they meet on 17 December to deliver a message of austerity and sacrifice. Continue reading...",
-      "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy",
-      "source": "The Guardian",
-      "published": "2026-11-14T16:00:48+00:00",
-      "image": "https://i.guim.co.uk/img/media/91a65d8728a29fe09fb1706e308ff8c46b77c4d6/187_0_2954_2363/master/2954.jpg?width=140&quality=85&auto=format&fit=max&s=f97dd0061161f4f38fc8ed6c84f1fd3d"
     }
   ],
   "feed_warnings": [
