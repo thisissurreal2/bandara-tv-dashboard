@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-14T03:45:25.888866+00:00",
+  "updated_at": "2026-11-14T04:00:37.498938+00:00",
   "national": [
     {
-      "title": "Pemerintah Jaga Keseimbangan Harga Pangan dan Kesejahteraan Petani",
-      "summary": "Pemerintah memperkuat stabilitas harga bahan pokok di tengah kemarau panjang. Kebijakan subsidi dan penguatan rantai pasok dijalankan untuk kesejahteraan petani",
-      "url": "https://news.detik.com/berita/d-8752534/pemerintah-jaga-keseimbangan-harga-pangan-dan-kesejahteraan-petani",
+      "title": "Sederet Langkah Maksimal Pramono Cegah Banjir Jakarta",
+      "summary": "Gubernur DKI Jakarta Pramono Anung menyiapkan sejumlah strategi untuk mengantisipasi banjir di Jakarta menjelang musim hujan. Lalu apa saja langkah-langkahnya?",
+      "url": "https://news.detik.com/berita/d-8752563/sederet-langkah-maksimal-pramono-cegah-banjir-jakarta",
       "source": "Detik",
-      "published": "2026-11-14T03:19:47+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/menteri-koordinator-bidang-pangan-zulkifli-hasan-1794626283268.png?w=360&q=90"
+      "published": "2026-11-14T03:49:05+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/20/kpk-serahkan-aset-rampasan-ke-pemprov-dki-1792472259569_169.jpeg?w=360&q=90"
     },
     {
       "title": "Sugiono: Presiden Peduli Masa Depan Keluarga Petugas Gugur di Karhutla",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
+      "summary": "The FAA says nationwide ground stop disrupting thousands of US flights was caused by a telecommunications outage.",
+      "url": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-14T03:32:07+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6af7c626ea3f-1794623014.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "US flight outage: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment – as it happened",
       "summary": "This live blog is now closed. Follow our latest coverage here. US aviation agency lifts nationwide ground stop affecting all air travel Chaos at US airports as flight stoppage grinds travel plans to a halt Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted earlier, the calls for Howard Lutnick to appear before lawmakers on Capitol Hill have been answered. Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
@@ -36,20 +44,12 @@
       "image": "https://i.guim.co.uk/img/media/b253768714365e4818d3fcf51ed796d8355c4e6d/278_0_2096_1677/master/2096.jpg?width=140&quality=85&auto=format&fit=max&s=b3473cf019d629ffa5a98aa182c75153"
     },
     {
-      "title": "Measles-associated deaths reach 10 in US after two more deaths reported",
-      "summary": "More than 5,400 confirmed measles cases have been recorded in the US to date this year.",
-      "url": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-14T02:34:50+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af79d0e-1794612494.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
-      "summary": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
-      "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
+      "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+      "summary": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”.",
+      "url": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-14T00:03:56+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8212/live/9b2ab3f0-df54-11f1-93e1-3b657b665bcf.jpg"
+      "published": "2026-11-14T01:47:36+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41c9/live/7d390f90-dfcc-11f1-b441-2b33b063138f.jpg"
     }
   ],
   "feed_warnings": []
