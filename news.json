@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-14T12:15:26.648178+00:00",
+  "updated_at": "2026-11-14T12:30:31.689778+00:00",
   "national": [
+    {
+      "title": "Menteri LH Bawa 'Gerakan Tobat Ekologis' ke Forum OKI di COP31",
+      "summary": "Menteri Lingkungan Hidup Jumhur Hidayat mengusung gerakan 'tobat ekologis' di forum OKI saat COP31. Indonesia tawarkan tiga agenda strategis untuk krisis iklim.",
+      "url": "https://news.detik.com/berita/d-8753240/menteri-lh-bawa-gerakan-tobat-ekologis-ke-forum-oki-di-cop31",
+      "source": "Detik",
+      "published": "2026-11-14T12:24:29+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/menteri-lingkungan-hidup-jumhur-hidayat-1794658973899_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Canda Prabowo: Bintang 4, Presiden tapi di Muhammadiyah Anggota",
       "summary": "Presiden Prabowo Subianto melontarkan candaan saat membuka Tanwir dan Milad ke-114 Muhammadiyah di Palu, menegaskan perannya sebagai anggota organisasi.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-14T12:10:04+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/14/pembukaan-tanwir-dan-milad-ke-114-muhammadiyah-1794644580985_169.png?w=360&q=90"
-    },
-    {
-      "title": "Ciwidey Diterjang Puting Beliung, Atap Rumah Berterbangan",
-      "summary": "Hujan deras dan angin puting beliung melanda Ciwidey, Bandung, merusak rumah warga.",
-      "url": "https://news.detik.com/berita/d-8753219/ciwidey-diterjang-puting-beliung-atap-rumah-berterbangan",
-      "source": "Detik",
-      "published": "2026-11-14T12:06:14+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/angin-kencang-menerjang-wilayah-ciwidey-kabupaten-bandung-pada-sabtu-14112026-1794652655164_169.jpeg?w=360&q=90"
     },
     {
       "title": "Presiden akan cari pengganti wapres sepulang dari Manila dan Shenzhen",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Microsoft says services fully restored after global outage hits governments",
-      "summary": "Tech company says operations restored to all customers and regions affected by one of worst IT failures in years Microsoft has said its service has been fully restored after a massive outage that saw widespread disruption to governments, businesses and public services around the world. The technology company said on Saturday morning it had restored service to the remaining customers affected by one of the worst IT failures in years. On its Microsoft 365 status page, the US-based firm said: “We have completed our efforts to address the underlying issue of the incident and restored service to the remaining impacted customers and regions. Continue reading...",
-      "url": "https://www.theguardian.com/technology/2026/nov/14/microsoft-says-services-fully-restored-after-global-outage",
-      "source": "The Guardian",
-      "published": "2026-11-14T11:54:31+00:00",
-      "image": "https://i.guim.co.uk/img/media/6e00c0e827484eda171fc2f542c59ea59f98fec9/397_0_4924_3939/master/4924.jpg?width=140&quality=85&auto=format&fit=max&s=2bb5ac39c36c26222c851cdb1633b29f"
+      "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
+      "summary": "A nuclear treaty and the US's war on Iran are among priority topics for China, Russia and US leaders.",
+      "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-14T12:14:14+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aabdae2-1789647586_0fb93c-1789656369.jpg?resize=1200%2C630&quality=80"
     },
     {
-      "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
-      "summary": "Zelenskyy says the US asked for the first time whether Kyiv would cede land to Moscow in exchange for the NATO bid.",
-      "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-14T11:43:06+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6acfd9a7b9-1792006567.jpg?resize=1920%2C1440"
+      "title": "Interest rate rises likely in coming months, Bank of England economist says",
+      "summary": "‘We have further to go,’ says Huw Pill after increase to 4% last month as Bank seeks to tackle rising inflation The Bank of England will probably need to raise interest rates next month and again in early 2027 to combat rising inflation, its chief economist has said. Signalling a sharp rise in mortgage payments for an estimated 2.3 million homeowners who will have to refinance their loans next year, Huw Pill said that while the decision to nudge interest rates from 3.75% to 4% earlier this month was a “significant step” towards getting monetary policy into a better place, “we ⁠have further to go”. Continue reading...",
+      "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
+      "source": "The Guardian",
+      "published": "2026-11-14T12:05:52+00:00",
+      "image": "https://i.guim.co.uk/img/media/a38c96c8800b9c310b145da3b85b637313c9011b/480_0_4783_3829/master/4783.jpg?width=140&quality=85&auto=format&fit=max&s=2206d4b9879d5815c8bcc8ea931461b9"
     },
     {
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
