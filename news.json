@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-14T03:15:27.319998+00:00",
+  "updated_at": "2026-11-14T03:30:35.391751+00:00",
   "national": [
+    {
+      "title": "Pemerintah Jaga Keseimbangan Harga Pangan dan Kesejahteraan Petani",
+      "summary": "Pemerintah memperkuat stabilitas harga bahan pokok di tengah kemarau panjang. Kebijakan subsidi dan penguatan rantai pasok dijalankan untuk kesejahteraan petani",
+      "url": "https://news.detik.com/berita/d-8752534/pemerintah-jaga-keseimbangan-harga-pangan-dan-kesejahteraan-petani",
+      "source": "Detik",
+      "published": "2026-11-14T03:19:47+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/menteri-koordinator-bidang-pangan-zulkifli-hasan-1794626283268.png?w=360&q=90"
+    },
     {
       "title": "Sugiono: Presiden Peduli Masa Depan Keluarga Petugas Gugur di Karhutla",
       "summary": "Presiden Prabowo memastikan negara bertanggung jawab atas masa depan anak-anak petugas yang gugur dalam penanganan karhutla.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-14T03:07:55+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/14/menko-pmk-sugiono-1794625631887_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Preman Pemalak Pedagang Cimol di Ciputat Diamankan Polisi",
-      "summary": "Polsek Ciputat Timur amankan tiga pelaku pemalakan pedagang cimol di dekat Stasiun Jombang. Kasus diselesaikan secara damai.",
-      "url": "https://news.detik.com/berita/d-8752511/preman-pemalak-pedagang-cimol-di-ciputat-diamankan-polisi",
-      "source": "Detik",
-      "published": "2026-11-14T02:55:27+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/polsek-ciputat-timur-mengamankan-tiga-orang-preman-pelaku-pemalakan-pedagang-cimol-1794624886858_169.jpeg?w=360&q=90"
     },
     {
       "title": "Microsoft bantah layanannya picu penghentian penerbangan AS",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "US-bound flights out of Australia delayed after telecommunications outage grounded American planes",
-      "summary": "Sydney and Melbourne airports say flights were affected by now-lifted ban on departures in US US flight outage – live updates Get our breaking news email , free app or daily news podcast Some US-bound flights from Sydney airport were grounded or delayed on Saturday after American authorities halted departures and delayed landings at all US airports . Flights from Melbourne airport were also affected, with travel for passengers expected to depart for Los Angeles shortly after 10am being delayed by almost three hours. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/14/us-bound-flights-out-of-australia-grounded-as-telecommunications-outage-affects-american-travel",
+      "title": "US flight outage: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment – as it happened",
+      "summary": "This live blog is now closed. Follow our latest coverage here. US aviation agency lifts nationwide ground stop affecting all air travel Chaos at US airports as flight stoppage grinds travel plans to a halt Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted earlier, the calls for Howard Lutnick to appear before lawmakers on Capitol Hill have been answered. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
       "source": "The Guardian",
-      "published": "2026-11-14T03:08:34+00:00",
-      "image": "https://i.guim.co.uk/img/media/0f73a43c7adabdff5e4709c7319a3e2dd6459d4d/2337_146_6560_5249/master/6560.jpg?width=140&quality=85&auto=format&fit=max&s=5e9b61407d5b8104eb046c8c98d7d409"
+      "published": "2026-11-14T03:11:35+00:00",
+      "image": "https://i.guim.co.uk/img/media/b253768714365e4818d3fcf51ed796d8355c4e6d/278_0_2096_1677/master/2096.jpg?width=140&quality=85&auto=format&fit=max&s=b3473cf019d629ffa5a98aa182c75153"
     },
     {
-      "title": "Tanker collision leaves riverboat passengers clinging to railings",
-      "summary": "Passengers were rescued after a tanker ship collided with a riverboat docked on the Mississippi River in New Orleans.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss",
+      "title": "Measles-associated deaths reach 10 in US after two more deaths reported",
+      "summary": "More than 5,400 confirmed measles cases have been recorded in the US to date this year.",
+      "url": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-14T01:37:08+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794620220.jpg?resize=1920%2C1080&quality=80"
+      "published": "2026-11-14T02:34:50+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af79d0e-1794612494.jpg?resize=1920%2C1440"
     },
     {
       "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8212/live/9b2ab3f0-df54-11f1-93e1-3b657b665bcf.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
