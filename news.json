@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T10:15:28.821889+00:00",
+  "updated_at": "2026-11-14T10:30:32.836233+00:00",
   "national": [
     {
       "title": "'Kami Terjebak' Imbas Sempat Disetopnya Semua Penerbangan di AS",
@@ -10,12 +10,12 @@
       "image": "https://akcdn.detik.net.id/community/media/visual/2021/12/02/syarat-penerbangan-ppkm-level-3-nataru-sesuai-se-satgas-covid-19_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Haedar Nashir: Persatuan bangsa modal utama membangun Indonesia",
-      "summary": "Ketua Umum Pimpinan Pusat (PP) Muhammadiyah Haedar Nashir menegaskan persatuan dan kebersamaan menjadi modal sosial ...",
-      "url": "https://www.antaranews.com/berita/5854103/haedar-nashir-persatuan-bangsa-modal-utama-membangun-indonesia",
+      "title": "Presiden Prabowo buka Tanwir dan Milad ke-114 Muhammadiyah",
+      "summary": "Presiden Prabowo Subianto secara resmi membuka Tanwir Muhammadiyah 2026 sekaligus menyampaikan ucapan selamat milad ...",
+      "url": "https://www.antaranews.com/berita/5854127/presiden-prabowo-buka-tanwir-dan-milad-ke-114-muhammadiyah",
       "source": "ANTARA",
-      "published": "2026-11-14T09:26:02+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/14/1000013375.jpg"
+      "published": "2026-11-14T09:31:14+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/14/prabowo-muhammadiyha23.jpg"
     },
     {
       "title": "Prabowo Puji Muhammadiyah Kelola Dana Lebih dari Rp200 T",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Noel Fielding ‘horrified and deeply disturbed’ by Russell Brand’s crimes",
+      "summary": "Comedian regrets ‘inappropriate’ jokes he made with Brand during work pair did together in the 2000s The Great British Bake Off presenter Noel Fielding has said he was “horrified and deeply disturbed to learn of Russell Brand’s crimes” and has had no contact with his fellow comedian “for many years”. In the early 2000s, Fielding often worked with Brand, who was sentenced to more than 10 years in prison on Monday for raping one woman and sexually assaulting three others. Continue reading...",
+      "url": "https://www.theguardian.com/news/2026/nov/14/noel-fielding-horrified-deeply-disturbed-russell-brand-crimes",
+      "source": "The Guardian",
+      "published": "2026-11-14T10:14:07+00:00",
+      "image": "https://i.guim.co.uk/img/media/63317558fe1124674c2a9f21bf903ddce5e7ded4/367_0_2334_1868/master/2334.jpg?width=140&quality=85&auto=format&fit=max&s=854a7991c4e01b24b1d605e5e3a09197"
+    },
+    {
       "title": "Sabalenka crashes out of season-ending WTA Finals after losing to Svitolina",
       "summary": "World number two Sabalenka's season came to a disappointing end after she failed to reach the WTA Finals semifinals.",
       "url": "https://www.aljazeera.com/sports/2026/11/14/aryna-sabalenka-elina-svitolina-wta-finals-indian-wells-semifinals-tennis?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-11-14T10:03:12+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261114__2305029649__v1__HighRes__FageWtaFinalsIndianWells2026Day6-1794648215.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Immersive show brings Kyffin Williams’ rugged Welsh landscapes to life",
-      "summary": "Paintings by one of country’s most important artists have been animated and set to music at National Library of Wales The paintings of artists such as Vincent van Gogh, Paul Cézanne and David Hockney have been brought to life in all-singing, all-dancing immersive shows in recent years. Now one of Wales’s most important artists, Sir Kyffin Williams , known for capturing the spectacular landscapes of his homeland with layers of paint thickly applied with a palette knife, has been given the same treatment. Continue reading...",
-      "url": "https://www.theguardian.com/artanddesign/2026/nov/14/sir-kyffin-williams-artist-immersive-exhibition-national-library-wales-aberystwyth",
-      "source": "The Guardian",
-      "published": "2026-11-14T09:00:39+00:00",
-      "image": "https://i.guim.co.uk/img/media/b9f6172ba8f224dbb097628613f4b8f2f0f5d71a/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=6ce3cb7a7ab1e5d0183e1c525e89f8ee"
     },
     {
       "title": "What we know about the ground stop and what to do if you're affected",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
