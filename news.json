@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T14:00:44.468306+00:00",
+  "updated_at": "2026-11-14T14:15:26.405969+00:00",
   "national": [
     {
       "title": "DPR Minta Kapolda NTT Tegas Usut Dugaan Perkosaan oleh Bupati Kupang",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "How does Iran view shift in US approach after JD Vance ordered away?",
-      "summary": "Washington believes maritime blockade, overland border disruptions, air restrictions and isolating sanctions are working",
-      "url": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away?traffic_source=rss",
+      "title": "Young musicians connect a community across the Line of Control",
+      "summary": "Sharing Shina songs online, musicians in Kashmir, Ladakh and Gilgit-Baltistan renew ties across the divide.",
+      "url": "https://www.aljazeera.com/editorial/longform/2026/11/14/young-musicians-connect-a-community-across-the-line-of-control?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-14T13:24:44+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af8509e-1794658462.jpg?resize=1920%2C1440"
+      "published": "2026-11-14T13:56:07+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/india_pakistan-1794601242.jpg?resize=1620%2C1080&quality=80"
     },
     {
       "title": "Milder weekend forecast in UK as autumn freeze eases off",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
