@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-14T06:45:27.312678+00:00",
+  "updated_at": "2026-11-14T07:00:47.820121+00:00",
   "national": [
+    {
+      "title": "Menhut: Presiden dorong perhutanan sosial tingkatkan kesejahteraan",
+      "summary": "Menteri Kehutanan (Menhut) Raja Juli Antoni mengatakan Presiden Prabowo Subianto mendorong perhutanan sosial untuk ...",
+      "url": "https://www.antaranews.com/berita/5853779/menhut-presiden-dorong-perhutanan-sosial-tingkatkan-kesejahteraan",
+      "source": "ANTARA",
+      "published": "2026-11-14T06:58:32+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/14/d9430e2d-0b71-4d96-a974-5ddc41cc3830.jpeg"
+    },
+    {
+      "title": "Peringati HUT ke-81, Brimob Polda Metro Jaya Gelar Ziarah hingga Anjangsana",
+      "summary": "Satbrimob Polda Metro merayakan HUT ke-81 dengan ziarah, anjangsana, dan memperkuat sinergitas TNI-Polri. Komitmen untuk pelayanan humanis terus ditegaskan.",
+      "url": "https://news.detik.com/berita/d-8752797/peringati-hut-ke-81-brimob-polda-metro-jaya-gelar-ziarah-hingga-anjangsana",
+      "source": "Detik",
+      "published": "2026-11-14T06:53:38+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/brimob-polda-metro-jaya-memperingati-hari-jadi-yang-ke-81-1794638868181_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Polisi Ungkap Kronologi Tower Crane Kuningan Jatuh Tewaskan 1 Orang",
       "summary": "Polisi ungkap kronologi crane jatuh di Mega Kuningan Jakarta hingga menewaskan satu orang.",
@@ -8,22 +24,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-14T06:40:13+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/06/02/ilustrasi-garis-polisi-1780390194078_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Endang Pelestari Budaya Asal Lamongan: Ide yang Baik Adalah yang Dieksekusi",
-      "summary": "Endang Dzunuraini, pendiri Sanggar Mbah Guru, raih DPD RI Awards 2026. Dia berkomitmen melestarikan batik dan memberdayakan perempuan di Lamongan.",
-      "url": "https://news.detik.com/berita/d-8752767/endang-pelestari-budaya-asal-lamongan-ide-yang-baik-adalah-yang-dieksekusi",
-      "source": "Detik",
-      "published": "2026-11-14T06:37:36+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/endang-dzunuraini-1794457439657_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "AS: Gangguan Microsoft tak terkait penghentian penerbangan",
-      "summary": "Otoritas AS tidak mengaitkan gangguan layanan Microsoft dengan masalah yang menyebabkan penghentian penerbangan di ...",
-      "url": "https://www.antaranews.com/berita/5853531/as-gangguan-microsoft-tak-terkait-penghentian-penerbangan",
-      "source": "ANTARA",
-      "published": "2026-11-14T04:28:49+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/14/AA-20261114-43073305-43073279-NATIONWIDE_GROUND_STOP_DISRUPTS_FLIGHTS_ACROSS_US_AIRPORTS.jpg"
     }
   ],
   "international": [
@@ -36,12 +36,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg"
     },
     {
-      "title": "Salah breaks Egypt scoring record, Tunisia lose to Libya in AFCON qualifier",
-      "summary": "Salah scored twice to take his international tally to 70 ​and surpass former captain Hossam Hassan’s record.",
-      "url": "https://www.aljazeera.com/sports/2026/11/14/mohamed-salah-egypt-goals-record-africa-cup-of-nations-afcon-2027-qualifiers?traffic_source=rss",
+      "title": "Ukraine is running out of options, and Russia knows it",
+      "summary": "The Abu Dhabi talks reveal Moscow’s growing leverage over Ukraine and a shifting Western approach to peace.",
+      "url": "https://www.aljazeera.com/opinions/2026/11/14/ukraine-is-running-out-of-options-and-russia-knows-it?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-14T06:33:57+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-13T190749Z_897584020_UP1EMBD1H50J8_RTRMADP_3_SOCCER-NATIONS-EGY-MWI-1794636786.jpg?resize=1920%2C1440"
+      "published": "2026-11-14T06:39:09+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af349df5d52-1794329055.jpg?resize=1920%2C1440"
     },
     {
       "title": "Microsoft ‘deeply sorry’ for global outage that could have billion-dollar impact on Australia",
