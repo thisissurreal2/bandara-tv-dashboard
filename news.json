@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T04:15:30.757198+00:00",
+  "updated_at": "2026-11-14T04:30:32.918902+00:00",
   "national": [
     {
       "title": "Puslabfor Polri Cek Lokasi Crane Jatuh Tewaskan 1 Pekerja di Kuningan",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
-      "summary": "The FAA says nationwide ground stop disrupting thousands of US flights was caused by a telecommunications outage.",
-      "url": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next?traffic_source=rss",
+      "title": "ICC stops probe into alleged crimes by US troops in Afghanistan",
+      "summary": "The decision follows feuds between the United States and the Hague-based International Criminal Court.",
+      "url": "https://www.aljazeera.com/news/2026/11/14/icc-stops-probe-into-alleged-crimes-by-us-troops-in-afghanistan?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-14T03:32:07+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6af7c626ea3f-1794623014.jpg?resize=1920%2C1440"
+      "published": "2026-11-14T04:03:49+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af7b6292b83-1794618921.jpg?resize=1920%2C1440"
     },
     {
       "title": "US flight outage: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment – as it happened",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41c9/live/7d390f90-dfcc-11f1-b441-2b33b063138f.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
