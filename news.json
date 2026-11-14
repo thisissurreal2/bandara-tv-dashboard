@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-14T04:45:31.572611+00:00",
+  "updated_at": "2026-11-14T05:00:43.481948+00:00",
   "national": [
     {
-      "title": "Puslabfor Polri Cek Lokasi Crane Jatuh Tewaskan 1 Pekerja di Kuningan",
-      "summary": "Tim Puslabfor Polri mendatangi lokasi jatuhnya alat berat crane di kawasan Mega Kuningan, Jaksel. Pemeriksaan dilakukan untuk mendalami penyebab insiden itu.",
-      "url": "https://news.detik.com/berita/d-8752593/puslabfor-polri-cek-lokasi-crane-jatuh-tewaskan-1-pekerja-di-kuningan",
+      "title": "PDIP Cetak Rekor MURI, Bangun 3.535 Teba untuk Kelola Sampah",
+      "summary": "PDIP mencetak rekor MURI dengan pembuatan 3.535 teba terbanyak di Indonesia. Kegiatan ini berlangsung dalam Pekan Peduli Sampah Nasional 2026.",
+      "url": "https://news.detik.com/berita/d-8752655/pdip-cetak-rekor-muri-bangun-3-535-teba-untuk-kelola-sampah",
       "source": "Detik",
-      "published": "2026-11-14T04:06:24+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/puslabfor-polri-cek-lokasi-crane-jatuh-yang-tewaskan-pekerja-di-kuningan-jakarta-selatan-1794629044452_169.jpeg?w=360&q=90"
+      "published": "2026-11-14T04:51:58+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/pdip-raih-rekor-muri-lewat-pembuatan-teba-terbanyak-di-indonesia-1794631878896_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Ekspor alas kaki dan kulit tembus Rp131 triliun hingga September 2026",
-      "summary": "Menteri Perdagangan (Mendag) Budi Santoso menyebutkan ekspor industri kulit, barang dari kulit, dan alas kaki Indonesia ...",
-      "url": "https://www.antaranews.com/berita/5853495/ekspor-alas-kaki-dan-kulit-tembus-rp131-triliun-hingga-september-2026",
+      "title": "AS: Gangguan Microsoft tak terkait penghentian penerbangan",
+      "summary": "Otoritas AS tidak mengaitkan gangguan layanan Microsoft dengan masalah yang menyebabkan penghentian penerbangan di ...",
+      "url": "https://www.antaranews.com/berita/5853531/as-gangguan-microsoft-tak-terkait-penghentian-penerbangan",
       "source": "ANTARA",
-      "published": "2026-11-14T03:54:17+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/14/IMG_4454.jpeg"
+      "published": "2026-11-14T04:28:49+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2025/11/01/DOT-FAA_Headquarters_by_Matthew_Bisanz.jpg"
     },
     {
       "title": "Sugiono: Presiden Peduli Masa Depan Keluarga Petugas Gugur di Karhutla",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41c9/live/7d390f90-dfcc-11f1-b441-2b33b063138f.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
