@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-14T19:45:25.553990+00:00",
+  "updated_at": "2026-11-14T19:52:05.429476+00:00",
   "national": [
     {
-      "title": "Arab Saudi Cegat Serangan Drone Houthi yang Sasar Wilayah Riyadh",
-      "summary": "Arab Saudi mencegat dua drone Houthi di Riyadh dan wilayah selatan. Serangan Houthi meningkat, menyebabkan 26 kematian sejak September.",
-      "url": "https://news.detik.com/internasional/d-8753444/arab-saudi-cegat-serangan-drone-houthi-yang-sasar-wilayah-riyadh",
+      "title": "Ngeri, Bentrok Geng Bandit dan Kelompok Warga Tewaskan 50 Orang di Nigeria",
+      "summary": "Bentrokan antara kelompok vigilante dan bandit di Zamfara, Nigeria, menewaskan lebih dari 50 orang. Penculikan memicu konflik sengit di daerah tersebut.",
+      "url": "https://news.detik.com/internasional/d-8753453/ngeri-bentrok-geng-bandit-dan-kelompok-warga-tewaskan-50-orang-di-nigeria",
       "source": "Detik",
-      "published": "2026-11-14T18:48:25+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/08/07/ilustrasi-pasukan-houthi-iran-crisisyemen-saudi-1786099269303_169.jpeg?w=360&q=90"
+      "published": "2026-11-14T19:33:28+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/01/nigeria-chad-conflict-1793488844133_169.jpeg?w=360&q=90"
     },
     {
       "title": "Presiden Prabowo tiba di Manila, Filipina untuk hadiri KTT ke-49 ASEAN",
@@ -52,9 +52,5 @@
       "image": "https://i.guim.co.uk/img/media/e086ead12105dc2c27d05464ce6db1d81b380886/300_0_3206_2564/master/3206.jpg?width=140&quality=85&auto=format&fit=max&s=6824875970409bb022b0fe92c92ae52e"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
