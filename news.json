@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T20:15:34.773733+00:00",
+  "updated_at": "2026-11-14T20:30:35.360224+00:00",
   "national": [
     {
       "title": "Ngeri, Bentrok Geng Bandit dan Kelompok Warga Tewaskan 50 Orang di Nigeria",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "How telecoms upgrade work sparked US flight chaos",
-      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+      "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-14T20:03:48+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
+      "published": "2026-11-14T20:23:06+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a5e/live/65a2f270-dfad-11f1-be1f-9dae57fabf82.jpg"
+    },
+    {
+      "title": "Evacuation zone lifted after bomb found at Illinois ethanol plant",
+      "summary": "Peoria officials said a bomb was found at BioUrja Renewables and later defused; FBI said it is investigating Residents were ordered to evacuate parts of an Illinois community on Friday after the mayor there said authorities found a bomb at a local ethanol- and alcohol-production plant. The discovery reported at BioUrja Renewables in Peoria triggered a mandatory evacuation over a one-mile evacuation zone encompassing sections of that city as well as the adjacent municipality of East Peoria. Officials ultimately lifted the evacuation zone at about 1.25pm local time on Saturday – but only after making it clear there had genuinely been a bomb found and ruling out the presence of any other explosives. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb",
+      "source": "The Guardian",
+      "published": "2026-11-14T20:14:27+00:00",
+      "image": "https://i.guim.co.uk/img/media/c959bae56a786ff95913cb67d9c97a8fced81672/437_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=51fa3394626d131083ad4af9586ae6bb"
     },
     {
       "title": "Can being ‘non-Western’ cost you your home in Denmark?",
@@ -42,14 +50,6 @@
       "source": "Al Jazeera",
       "published": "2026-11-14T19:52:49+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794685914.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "title": "Philippines’ Carmelle wins first Eurovision contest in Asia",
-      "summary": "Filipino entry, pop and rap song Sobra-Sobra, takes 19-year-old to victory at grand final in Bangkok Carmelle Collado has won the first Eurovision song contest Asia, taking the Philippines’ entry, Sobra-Sobra , to victory in Bangkok on Saturday night, at the first regional edition of the contest to be staged outside Europe. Eleven countries competed at the One Bangkok Forum in central Bangkok, and the show ran for two and a half hours including advertising. Continue reading...",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
-      "source": "The Guardian",
-      "published": "2026-11-14T19:01:32+00:00",
-      "image": "https://i.guim.co.uk/img/media/e086ead12105dc2c27d05464ce6db1d81b380886/300_0_3206_2564/master/3206.jpg?width=140&quality=85&auto=format&fit=max&s=6824875970409bb022b0fe92c92ae52e"
     }
   ],
   "feed_warnings": []
