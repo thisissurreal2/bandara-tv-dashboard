@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-14T13:30:33.900308+00:00",
+  "updated_at": "2026-11-14T13:45:27.438212+00:00",
   "national": [
+    {
+      "title": "Mendagri Hadiri Pembukaan Tanwir dan Milad ke-114 Muhammadiyah di Palu",
+      "summary": "Mendagri Tito Karnavian hadir di Milad ke-114 Muhammadiyah yang dibuka Presiden Prabowo, apresiasi kontribusi organisasi dalam pendidikan dan kesehatan.",
+      "url": "https://www.cnnindonesia.com/nasional/20261114200740-25-1427247/mendagri-hadiri-pembukaan-tanwir-dan-milad-ke-114-muhammadiyah-di-palu",
+      "source": "CNN Indonesia",
+      "published": "2026-11-14T13:38:41+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/14/kemendagri-1794661648946_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Sedang Mancing, Warga Bogor Kaget Temukan Mayat di Sungai Cisadane",
       "summary": "Mayat tanpa identitas ditemukan di Sungai Cisadane, Bogor. Proses evakuasi dilakukan oleh tim damkar setelah laporan warga yang sedang memancing.",
@@ -10,20 +18,12 @@
       "image": "https://akcdn.detik.net.id/community/media/visual/2015/12/08/8aa9a87b-5bdb-480b-899f-70ab112d663e_169.jpg?w=360&q=90"
     },
     {
-      "title": "Muhammadiyah Ungkap Kriteria Wapres yang Cocok Dampingi Prabowo",
-      "summary": "Ketum PP Muhammadiyah Haedar Nashir menyampaikan beberapa kriteria calon wapres yang cocok menjadi pendamping Presiden Prabowo.",
-      "url": "https://www.cnnindonesia.com/nasional/20261114194109-20-1427244/muhammadiyah-ungkap-kriteria-wapres-yang-cocok-dampingi-prabowo",
-      "source": "CNN Indonesia",
-      "published": "2026-11-14T13:05:10+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/12/puja-puji-prabowo-terima-pengunduran-diri-gibran-1794473873141_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Presiden instruksikan minimal 70 persen hasil IUP dinikmati negara",
-      "summary": "Presiden Prabowo Subianto menginstruksikan Menteri Energi dan Sumber Daya Mineral (ESDM) agar minimal 70 persen hasil ...",
-      "url": "https://www.antaranews.com/berita/5854403/presiden-instruksikan-minimal-70-persen-hasil-iup-dinikmati-negara",
+      "title": "Zelenskyy: Ukraina-Rusia tengah bahas pertukaran 1.300 tawanan",
+      "summary": "Ukraina dan Rusia tengah membahas pertukaran tawanan dalam skala besar yang melibatkan 1.200-1.300 orang dari ...",
+      "url": "https://www.antaranews.com/berita/5854575/zelenskyy-ukraina-rusia-tengah-bahas-pertukaran-1300-tawanan",
       "source": "ANTARA",
-      "published": "2026-11-14T11:54:17+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/14/WhatsApp-Image-2026-11-14-at-18.20.00.jpeg"
+      "published": "2026-11-14T13:11:09+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/14/zelenskyy-siap-berunding-dengan-Rusia.jpg"
     }
   ],
   "international": [
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
