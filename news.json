@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T21:30:32.791018+00:00",
+  "updated_at": "2026-11-14T21:45:27.364193+00:00",
   "national": [
     {
       "title": "Wisatawan Tewas di Kolam Renang Padusan Mojokerto, Botol Arak Sempat Disita",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
+      "summary": "Europe's direct engagement with Moscow as part of Ukraine-Russia peace talks is edging closer to becoming a reality.",
+      "url": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-14T21:10:26+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af8c810ac51-1794689040.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "Second catch attempt as SpaceX Starship rocket heads back to Earth",
       "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
       "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
@@ -42,14 +50,6 @@
       "source": "The Guardian",
       "published": "2026-11-14T20:14:27+00:00",
       "image": "https://i.guim.co.uk/img/media/c959bae56a786ff95913cb67d9c97a8fced81672/437_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=51fa3394626d131083ad4af9586ae6bb"
-    },
-    {
-      "title": "India’s Assam state demolishes homes of 132 Muslim families",
-      "summary": "Authorities in India’s Assam have demolished the homes of 132 Muslim families.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-14T20:14:10+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794687262.jpg?resize=1920%2C1080&quality=80"
     }
   ],
   "feed_warnings": [
