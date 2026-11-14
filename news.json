@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-14T05:45:26.733705+00:00",
+  "updated_at": "2026-11-14T06:00:45.208475+00:00",
   "national": [
     {
-      "title": "Ramai-Ramai Parpol Koalisi Respons Bursa Cawapres",
-      "summary": "Partai politik koalisi Presiden Prabowo Subianto merespons terkait bursa cawapres usai pengunduran diri Gibran.",
-      "url": "https://www.cnnindonesia.com/nasional/20261113185928-32-1427010/ramai-ramai-parpol-koalisi-respons-bursa-cawapres",
-      "source": "CNN Indonesia",
-      "published": "2026-11-14T05:30:12+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/12/puja-puji-prabowo-terima-pengunduran-diri-gibran-1794473873202_169.jpeg?w=360&q=90"
+      "title": "Gedung Putih: Bersejarah! Trump, Putin dan Xi Akan Bertemu di China",
+      "summary": "Trump, Putin, dan Xi Jinping akan menggelar pertemuan trilateral di KTT APEC di Shenzhen. GEdung Putih mengatakan ini pertemuan yang bersejarah.",
+      "url": "https://news.detik.com/internasional/d-8752726/gedung-putih-bersejarah-trump-putin-dan-xi-akan-bertemu-di-china",
+      "source": "Detik",
+      "published": "2026-11-14T05:59:20+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2025/10/05/shutdown-belum-berakhir-pemerintah-as-lumpuh-hingga-hari-keempat-1759618032383_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Warga Temukan Tas Isi 7 Mata Kunci di Bogor, Diduga Milik Maling Motor",
-      "summary": "Warga Cileungsi menemukan tas mencurigakan. Tas berisi peralatan diduga milik pelaku curanmor.",
-      "url": "https://news.detik.com/berita/d-8752667/warga-temukan-tas-isi-7-mata-kunci-di-bogor-diduga-milik-maling-motor",
-      "source": "Detik",
-      "published": "2026-11-14T05:00:54+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/mata-kunci-di-dalam-tas-diduga-milik-pelaku-curanmor-dok-istimewa-1794632377438_169.jpeg?w=360&q=90"
+      "title": "Foto Gibran di DPRD Jabar Diturunkan, Sempat Ada Insiden Terbalik",
+      "summary": "Foto Gibran Rakabuming Raka sebagai Wapres diturunkan dan dibalik di DPRD Jabar. Ketua DPRD mengaku terkejut, Gubernur Dedi Mulyadi menyoroti insiden ini.",
+      "url": "https://www.cnnindonesia.com/nasional/20261114122837-32-1427142/foto-gibran-di-dprd-jabar-diturunkan-sempat-ada-insiden-terbalik",
+      "source": "CNN Indonesia",
+      "published": "2026-11-14T05:45:22+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/14/polemik-foto-gibran-terbalik-di-dprd-jabar-1794631370716_169.jpeg?w=360&q=90"
     },
     {
       "title": "AS: Gangguan Microsoft tak terkait penghentian penerbangan",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "FAA ground stop disrupts NBA, NHL and college football weekend travel",
+      "summary": "More than 1.5 million passengers face travel disruption as domestic and international airlines warn of knock-on delays.",
+      "url": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-disrupts-nba-nhl-and-college-football-weekend-travel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-14T05:42:41+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af7e091e07f1-1794629777.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "University hounded out of Hungary by Orbán reaches out to new government",
       "summary": "Prospect of partial return to Budapest by Central European University suggests confidence in Hungary’s future A university that Viktor Orbán tried to chase out of Hungary is open to expanding its presence in Budapest, in a mark of confidence in the country’s democratic future. Carsten Q Schneider, the interim president and rector of Central European University (CEU), said it was interested in increasing its programmes in Budapest, as long as this did not damage the student experience. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/nov/14/university-hungary-orban-soros-ceu",
       "source": "The Guardian",
       "published": "2026-11-14T05:00:35+00:00",
       "image": "https://i.guim.co.uk/img/media/8ca795707b5c5b5c8936bdd665604906c2712ffe/405_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=860402a67258d4737d3e72f279394bd5"
-    },
-    {
-      "title": "Trump, Xi and Putin to hold first three-way summit in China",
-      "summary": "White House says Trump plans to discuss the Iran war and nuclear arms at a meeting on the sidelines of APEC next week.",
-      "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-14T04:55:58+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af7e44a439aa-1794630730.jpg?resize=1920%2C1440"
     },
     {
       "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41c9/live/7d390f90-dfcc-11f1-b441-2b33b063138f.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
