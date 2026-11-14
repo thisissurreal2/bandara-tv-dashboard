@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-14T02:00:40.422143+00:00",
+  "updated_at": "2026-11-14T02:15:29.123857+00:00",
   "national": [
     {
-      "title": "Kualifikasi Piala Afrika: Mesir dan Maroko pesta lima gol",
-      "summary": "Timnas Mesir dan Maroko berpesta lima gol ke gawang lawan-lawannya pada laga ketiga babak Kualifikasi Piala Afrika 2027 ...",
-      "url": "https://www.antaranews.com/berita/5853363/kualifikasi-piala-afrika-mesir-dan-maroko-pesta-lima-gol",
+      "title": "BMKG prakirakan sebagian wilayah RI hujan ringan pada Sabtu",
+      "summary": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan sebagian besar wilayah Indonesia akan mengalami ...",
+      "url": "https://www.antaranews.com/berita/5853391/bmkg-prakirakan-sebagian-wilayah-ri-hujan-ringan-pada-sabtu",
       "source": "ANTARA",
-      "published": "2026-11-14T01:45:53+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/06/22/XxjpbeE000301_20260622_PEPFN0A001.jpg"
+      "published": "2026-11-14T02:02:08+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2023/10/24/antarafoto-hujan-mulai-turun-di-makassar-241023-ap-4.jpg"
+    },
+    {
+      "title": "Pansel KND Umumkan 14 Nama Lolos Seleksi Calon Anggota Periode 2026-2031",
+      "summary": "Panitia Seleksi mengumumkan 14 calon anggota Komisi Nasional Disabilitas periode 2026-2031. Proses seleksi berlangsung transparan dan akuntabel.",
+      "url": "https://news.detik.com/berita/d-8752472/pansel-knd-umumkan-14-nama-lolos-seleksi-calon-anggota-periode-2026-2031",
+      "source": "Detik",
+      "published": "2026-11-14T02:01:03+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/pansel-knd-umumkan-14-nama-lolos-seleksi-calon-anggota-periode-20262031-1794621507836.jpeg?w=360&q=90"
     },
     {
       "title": "Tersangka Kasus Ijazah Jokowi Rizal Fadillah Meninggal Usai Masuk ICU",
@@ -16,23 +24,15 @@
       "source": "CNN Indonesia",
       "published": "2026-11-14T01:20:41+00:00",
       "image": "https://akcdn.detik.net.id/visual/2024/01/05/ilustrasi-meninggal-dunia-6_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "BPJS Ketenagakerjaan Dorong SIER Jadi Hub Perlindungan Pekerja",
-      "summary": "BPJS Ketenagakerjaan dorong SIER jadi hub perlindungan pekerja. Kolaborasi penting untuk tingkatkan kesejahteraan dan produktivitas di kawasan industri.",
-      "url": "https://news.detik.com/berita/d-8752427/bpjs-ketenagakerjaan-dorong-sier-jadi-hub-perlindungan-pekerja",
-      "source": "Detik",
-      "published": "2026-11-14T01:00:29+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/bpjs-ketenagakerjaan-dorong-sier-jadi-hub-perlindungan-pekerja-1794617930632.jpeg?w=360&q=90"
     }
   ],
   "international": [
     {
-      "title": "US flight outage live updates: FAA lifts nationwide ground stop as Trump transport secretary holds press briefing",
-      "summary": "The nationwide ground stop on departures from US airports has been lifted, the US Federal ⁠Aviation Administration said in an advisory on its website Friday Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted earlier, the calls for Howard Lutnick to appear before lawmakers on Capitol Hill have been answered. Continue reading...",
+      "title": "US flight outage live updates: FAA lifts nationwide ground stop as Trump officials holds press briefing",
+      "summary": "Sean Duffy says ‘it’s going to take us some time to unwind what’s happened’ but also points finger at Congress, claiming lack of funding for systems upgrades Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted earlier, the calls for Howard Lutnick to appear before lawmakers on Capitol Hill have been answered. Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
       "source": "The Guardian",
-      "published": "2026-11-14T01:43:55+00:00",
+      "published": "2026-11-14T01:56:30+00:00",
       "image": "https://i.guim.co.uk/img/media/83ccb1e6582aa694e45d643abd29d837c8f217a2/451_0_4510_3608/master/4510.jpg?width=140&quality=85&auto=format&fit=max&s=f11dd51ed640dac66df42ee7190c2ac3"
     },
     {
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8212/live/9b2ab3f0-df54-11f1-93e1-3b657b665bcf.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
