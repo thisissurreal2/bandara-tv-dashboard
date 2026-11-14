@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-14T10:30:32.836233+00:00",
+  "updated_at": "2026-11-14T10:45:28.096400+00:00",
   "national": [
+    {
+      "title": "Tower Crane Jatuh, Proyek di Mega Kuningan Dihentikan Sementara",
+      "summary": "Tower crane jatuh di Mega Kuningan, Jakarta Selatan, menewaskan seorang pekerja. Proyek dihentikan sementara, penyelidikan dan olah TKP sedang berlangsung.",
+      "url": "https://www.cnnindonesia.com/nasional/20261114171144-12-1427227/tower-crane-jatuh-proyek-di-mega-kuningan-dihentikan-sementara",
+      "source": "CNN Indonesia",
+      "published": "2026-11-14T10:40:00+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/13/thumbnail-video-1794570531938_169.jpeg?w=360&q=90"
+    },
     {
       "title": "'Kami Terjebak' Imbas Sempat Disetopnya Semua Penerbangan di AS",
       "summary": "Ratusan ribu penumpang terjebak di bandara AS akibat penerbangan sempat dihentikan. AS mengatakan butuh waktu untuk memulihkan penerbangan.",
@@ -15,18 +23,18 @@
       "url": "https://www.antaranews.com/berita/5854127/presiden-prabowo-buka-tanwir-dan-milad-ke-114-muhammadiyah",
       "source": "ANTARA",
       "published": "2026-11-14T09:31:14+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/14/prabowo-muhammadiyha23.jpg"
-    },
-    {
-      "title": "Prabowo Puji Muhammadiyah Kelola Dana Lebih dari Rp200 T",
-      "summary": "Presiden Prabowo Subianto memuji Muhammadiyah yang kelola dana Rp200 triliun. Ia menilai kontribusi nyata Muhammadiyah dalam pendidikan dan kesehatan.",
-      "url": "https://www.cnnindonesia.com/nasional/20261114160701-20-1427198/prabowo-puji-muhammadiyah-kelola-dana-lebih-dari-rp200-t",
-      "source": "CNN Indonesia",
-      "published": "2026-11-14T09:10:02+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/14/pembukaan-tanwir-dan-milad-ke-114-muhammadiyah-1794644581296_169.png?w=360&q=90"
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/14/prabowo-muhammadiyha23_1.jpg"
     }
   ],
   "international": [
+    {
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-14T10:30:38+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg"
+    },
     {
       "title": "Noel Fielding ‘horrified and deeply disturbed’ by Russell Brand’s crimes",
       "summary": "Comedian regrets ‘inappropriate’ jokes he made with Brand during work pair did together in the 2000s The Great British Bake Off presenter Noel Fielding has said he was “horrified and deeply disturbed to learn of Russell Brand’s crimes” and has had no contact with his fellow comedian “for many years”. In the early 2000s, Fielding often worked with Brand, who was sentenced to more than 10 years in prison on Monday for raping one woman and sexually assaulting three others. Continue reading...",
@@ -42,14 +50,6 @@
       "source": "Al Jazeera",
       "published": "2026-11-14T10:03:12+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261114__2305029649__v1__HighRes__FageWtaFinalsIndianWells2026Day6-1794648215.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "What we know about the ground stop and what to do if you're affected",
-      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-14T07:42:11+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
     }
   ],
   "feed_warnings": [
