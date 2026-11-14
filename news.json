@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-14T15:45:26.421902+00:00",
+  "updated_at": "2026-11-14T16:00:46.163210+00:00",
   "national": [
     {
-      "title": "Cuaca Buruk Saat Melaut, Nelayan di Pandeglang Tewas Tersambar Petir",
-      "summary": "Nelayan Awid (50) tewas tersambar petir saat melaut di Selat Sunda. Rekan korban, Makoji, menyaksikan kejadian tragis ini saat cuaca buruk.",
-      "url": "https://news.detik.com/berita/d-8753360/cuaca-buruk-saat-melaut-nelayan-di-pandeglang-tewas-tersambar-petir",
+      "title": "Penerbangan di AS Bakal Lebih Banyak yang Dibatalkan Usai Kembali Normal",
+      "summary": "Menteri Transportasi AS, Sean Duffy, memastikan penerbangan aman setelah penghentian operasional. Namun, banyak pembatalan dan penundaan masih terjadi.",
+      "url": "https://news.detik.com/internasional/d-8753395/penerbangan-di-as-bakal-lebih-banyak-yang-dibatalkan-usai-kembali-normal",
       "source": "Detik",
-      "published": "2026-11-14T14:45:16+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/evakuasi-nelayan-di-pandeglang-tewas-tersambar-petir-1794667199636_169.jpeg?w=360&q=90"
+      "published": "2026-11-14T15:50:53+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/suasana-bandara-as-saat-ribuan-penerbangan-dihentikan-1794634450765_169.jpeg?w=360&q=90"
     },
     {
       "title": "Presiden Prabowo tiba di Manila, Filipina untuk hadiri KTT ke-49 ASEAN",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-14T15:15:57+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg"
+      "published": "2026-11-14T15:53:55+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg"
+    },
+    {
+      "title": "Andy Burnham says UK has ‘lost more than we gained’ through Brexit",
+      "summary": "PM accuses Tories of burning ‘all our bridges’ and says deal he is pursuing with EU will ‘get food prices down’ Andy Burnham has said the UK has “lost more than we gained” since leaving the EU, the prime minister’s latest in a string of comments criticising Brexit. Outlining his desire to form closer ties with Brussels, Burnham accused the Conservative party of having “burned all our bridges” with the bloc after Brexit and said a new deal he hopes to secure with the EU next week will “get food prices down” and put more money in the pockets of British exporters. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/14/andy-burnham-says-uk-lost-more-than-we-gained-brexit",
+      "source": "The Guardian",
+      "published": "2026-11-14T15:34:54+00:00",
+      "image": "https://i.guim.co.uk/img/media/2ea4cbf637966baf9c26015df59668f59c6fb69e/759_456_4582_3666/master/4582.jpg?width=140&quality=85&auto=format&fit=max&s=a1d0431197dfc3244a7a8c256f04c8c7"
     },
     {
       "title": "NASA’s Voyager 1 to hit new space distance record of one light-day",
@@ -42,19 +50,7 @@
       "source": "Al Jazeera",
       "published": "2026-11-14T15:14:54+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2013-09-12T120000Z_2135594600_GM1E99D08R201_RTRMADP_3_SPACE-VOYAGER-1794666602.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "US air travel slowly recovers from nationwide flight ground stop as chaos continues",
-      "summary": "Thousands of flights still canceled as officials blamed ageing air control system for nationwide grounding Travel chaos continued across the US on Saturday morning as airlines scrambled to recover from a four-hour nationwide Federal Aviation Administration (FAA) ground stop that delayed or canceled thousands of the flights. On Saturday morning, more than 3,000 flights within, into or out of the US had already been canceled, according to FlightAware . Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
-      "source": "The Guardian",
-      "published": "2026-11-14T15:03:00+00:00",
-      "image": "https://i.guim.co.uk/img/media/6934b82431c8fab49bd4a56b9baaca81b07d75ae/0_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=b2b556b1036b2ad108c6ca8de27291e7"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
