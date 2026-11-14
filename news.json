@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T22:45:27.169655+00:00",
+  "updated_at": "2026-11-14T23:00:41.203957+00:00",
   "national": [
     {
       "title": "Netanyahu Serukan Bentuk Pemerintahan Israel, Eisenkot Bilang Tipu Muslihat",
@@ -18,15 +18,23 @@
       "image": "https://img.antaranews.com/cache/800x533/2026/11/14/IMG_6509_1.jpeg"
     },
     {
-      "title": "Gerindra Bakal Pecat Bupati Kupang Yosef Lede Jika Terbukti Memperkosa",
-      "summary": "Gerindra bakal memecat kadernya, Yosef Lade, jika terbukti memperkosa, serta akan mendorong Yosef dipecat dari jabatan Bupati Kupang jika terbukti bersalah.",
-      "url": "https://www.cnnindonesia.com/nasional/20261114205617-20-1427255/gerindra-bakal-pecat-bupati-kupang-yosef-lede-jika-terbukti-memperkosa",
+      "title": "Gerindra Bakal Pecat Bupati Kupang Yosef Lede Jika Terbukti Memerkosa",
+      "summary": "Gerindra bakal memecat kadernya, Yosef Lade, jika terbukti memerkosa, serta akan mendorong Yosef dipecat dari jabatan Bupati Kupang jika terbukti bersalah.",
+      "url": "https://www.cnnindonesia.com/nasional/20261114205617-20-1427255/gerindra-bakal-pecat-bupati-kupang-yosef-lede-jika-terbukti-memerkosa",
       "source": "CNN Indonesia",
       "published": "2026-11-14T14:25:25+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/07/11/konfrensi-pers-ketua-komisi-iii-dpr-ri-habiburokhman-1783758700438_169.png?w=360&q=90"
     }
   ],
   "international": [
+    {
+      "title": "Explosion near Syria’s capital kills father and child",
+      "summary": "Syria’s Internal Security Forces have launched an investigation into a suspected bomb attack in a suburb of Damascus.",
+      "url": "https://www.aljazeera.com/news/2026/11/14/explosion-near-syrias-capital-kills-father-and-child?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-14T22:43:12+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794685590.jpg?resize=1918%2C1080&quality=80"
+    },
     {
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
       "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
@@ -42,18 +50,10 @@
       "source": "The Guardian",
       "published": "2026-11-14T22:35:06+00:00",
       "image": "https://i.guim.co.uk/img/media/8d43d90555e696b8b0c519ba0b4fd459453f0aab/304_0_3038_2430/master/3038.jpg?width=140&quality=85&auto=format&fit=max&s=dda7e62a63c3fd758825b1e756002abf"
-    },
-    {
-      "title": "Palestinian stories set for major presence at 2027 Oscars",
-      "summary": "Al Jazeera spoke to the director and cast of Who Is Still Alive, Switzerland’s Oscar entry for Best International Film.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/palestinian-stories-set-for-major-presence-at-2027-oscars?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-14T22:28:47+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794695312.jpg?resize=1920%2C1080&quality=80"
     }
   ],
   "feed_warnings": [
-    "Detik: URLError",
+    "Detik: TimeoutError",
     "Detik: no fresh stories",
     "Detik: keeping previous story"
   ]
