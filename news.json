@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-14T07:30:43.601821+00:00",
+  "updated_at": "2026-11-14T07:45:31.759175+00:00",
   "national": [
+    {
+      "title": "Petugas Temukan 44 Ponsel Saat Razia Lapas Tarakan, Ada 1 Napi Pegang 5 HP",
+      "summary": "Tim gabungan Polri dan BNN menggeledah Lapas Tarakan, menemukan 44 ponsel dan alat isap sabu. Enam napi diduga kendalikan narkoba dari dalam lapas.",
+      "url": "https://news.detik.com/berita/d-8752830/petugas-temukan-44-ponsel-saat-razia-lapas-tarakan-ada-1-napi-pegang-5-hp",
+      "source": "Detik",
+      "published": "2026-11-14T07:35:43+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/polri-dan-bnn-melakukan-razia-narkoba-di-lapas-tarakan-kalimantan-utara-1794626098190_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Barantin Gagalkan Pengeluaran 180 Ribu Benih Lobster di Bandara Soetta",
       "summary": "Badan Karantina Indonesia gagalkan pengeluaran 180.000 benih lobster dari Bandara Soekarno-Hatta, dukung upaya pemerintah dalam pemberantasan penyelundupan.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-14T07:26:30+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/14/barantin-1794639172125_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Detik-detik Ngeri Kapal Pesiar di Mississippi Diseruduk Kapal Tanker",
-      "summary": "Kapal penumpang American Cruise Lines tenggelam setelah ditabrak kapal tanker di Sungai Mississippi. Begini penampakannya.",
-      "url": "https://news.detik.com/internasional/d-8752820/detik-detik-ngeri-kapal-pesiar-di-mississippi-diseruduk-kapal-tanker",
-      "source": "Detik",
-      "published": "2026-11-14T07:24:18+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/usa-louisianaship-collision-1794640145144_169.jpeg?w=360&q=90"
     },
     {
       "title": "Menhut: Presiden dorong perhutanan sosial tingkatkan kesejahteraan",
@@ -28,28 +28,28 @@
   ],
   "international": [
     {
+      "title": "What we know about the longest ground stop since 9/11",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-14T07:42:11+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "title": "Reijnders’ hat-trick fires Dutch to 7-0 rout of Greece, Germany beat Serbia",
+      "summary": "Netherlands' 7-0 annihilation of Greece means the Germans will likely need to win on Monday to reach the quarterfinals.",
+      "url": "https://www.aljazeera.com/sports/2026/11/14/reijnders-hattrick-netherlands-germany-uefa-nations-league-football?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-14T07:19:20+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-13T215044Z_1954810748_UP1EMBD1MQFP9_RTRMADP_3_SOCCER-UEFANATIONS-NLD-GRC-1794638421.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "UK-EU breakthrough will allow airport-style checks at Eurotunnel to avoid border ‘chaos’",
       "summary": "Eurotunnel owner Getlink wants to replicate ‘airport experience’ at Folkestone and Calais, without making people get out of cars Airport-style passport and fingerprinting controls are to be introduced at Eurotunnel in an attempt to prevent “short-term and long-term chaos” in Folkestone and Calais. In a breakthrough for travellers, the European Commission has agreed to a new system in which an “eagle eye” camera system, already used in Rome and Paris airports to supervise fingerprinting and facial imaging, will be used at the border between the UK and France. Continue reading...",
       "url": "https://www.theguardian.com/travel/2026/nov/14/eurotunnel-drive-in-fingerprint-trial-folkestone-calais-border",
       "source": "The Guardian",
       "published": "2026-11-14T07:00:38+00:00",
       "image": "https://i.guim.co.uk/img/media/c36522e185fdfeb8b91004d73d5cc360a5eb2325/0_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=1e5d9d4359cc7e7c571d6edb15cdbf26"
-    },
-    {
-      "title": "The ANC’s implosion was decades in the making",
-      "summary": "Zuma squandered Mbeki’s gains, while Ramaphosa’s dithering turned the ANC’s promised renewal into a fight for survival.",
-      "url": "https://www.aljazeera.com/opinions/2026/11/14/the-ancs-implosion-was-decades-in-the-making?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-14T06:52:40+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af7169a60b0-1794578074.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Microsoft says services fully restored after for day-long global outage",
-      "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
-      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-14T06:42:27+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg"
     }
   ],
   "feed_warnings": []
