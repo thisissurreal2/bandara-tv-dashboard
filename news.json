@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T14:30:41.990344+00:00",
+  "updated_at": "2026-11-14T14:45:27.036295+00:00",
   "national": [
     {
       "title": "Gerindra Bakal Pecat Bupati Kupang Yosef Lede Jika Terbukti Memperkosa",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
+      "title": "Napping Kansas driver whose truck sped on to soccer field and killed two won’t be charged",
+      "summary": "Authorities declined to file charges against napping woman whose truck accelerated on to field during youth game A soccer mom napping in her pickup truck when it suddenly accelerated on to the field at a Kansas youth tournament where her child was playing, killing two people , won’t face criminal charges, a prosecutor has said. Investigators believe the 34-year-old woman had failed to put the Chevrolet 1500 in park and likely put her foot on the gas pedal while sleeping at the Stryker Sports Complex in Wichita on 17 October. They conducted multiple interviews and even ran a test in the same parking spot with a similar vehicle. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/14/kansas-driver-soccer-field-deaths-no-charges",
+      "source": "The Guardian",
+      "published": "2026-11-14T14:38:36+00:00",
+      "image": "https://i.guim.co.uk/img/media/1fdb117e6f40eedb3f4040a34c7d5be50ffb4bbe/76_0_1281_1025/master/1281.jpg?width=140&quality=85&auto=format&fit=max&s=fe05ab8650934bbfeb06191c08d521e5"
+    },
+    {
+      "title": "When tech founders leave, what happens to their companies?",
+      "summary": "Nvidia could lose 30 percent of its value following cofounder Jensen Huang's decision to step down, analysts warns.",
+      "url": "https://www.aljazeera.com/economy/2026/11/14/when-tech-founders-leave-what-happens-to-their-companies?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-14T14:24:36+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af734a59c7e2-1794585765.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "What we know about the ground stop and what to do if you're affected",
       "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
       "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-14T14:20:57+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "Bomb found at Illinois ethanol plant, prompting evacuations",
-      "summary": "Peoria officials said a bomb was found at BioUrja Renewables and later defused; FBI said it is investigating Residents were ordered to evacuate parts of an Illinois community on Friday after the mayor there said authorities found a bomb at a local ethanol- and alcohol-production plant. The discovery reported at BioUrja Renewables in Peoria triggered a mandatory evacuation over a one-mile evacuation zone encompassing sections of that city as well as the adjacent municipality of East Peoria. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb",
-      "source": "The Guardian",
-      "published": "2026-11-14T14:13:49+00:00",
-      "image": "https://i.guim.co.uk/img/media/c959bae56a786ff95913cb67d9c97a8fced81672/437_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=51fa3394626d131083ad4af9586ae6bb"
-    },
-    {
-      "title": "Young musicians connect a community across the Line of Control",
-      "summary": "Sharing Shina songs online, musicians in Kashmir, Ladakh and Gilgit-Baltistan renew ties across the divide.",
-      "url": "https://www.aljazeera.com/editorial/longform/2026/11/14/young-musicians-connect-a-community-across-the-line-of-control?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-14T13:56:07+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/india_pakistan-1794601242.jpg?resize=1620%2C1080&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
