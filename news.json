@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T23:45:28.161334+00:00",
+  "updated_at": "2026-11-14T00:00:46.370835+00:00",
   "national": [
     {
       "title": "Berapa Gaji Pensiun dan Fasilitas yang Diterima Gibran Usai Mundur?",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "US flight outage live updates: FAA grounds thousands of flights as Trump administration looks for cause of nationwide delays",
-      "summary": "Sean Duffy says technicians from Federal Aviation Administration are investigating; Trump’s homeland security secretary says ‘no indication as of yet’ of cyberattack FAA issues nationwide ground-stop order, delaying or canceling nearly 7,000 flights Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted earlier, the calls for Howard Lutnick to appear before lawmakers on Capitol Hill have been answered. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
+      "title": "Mamdani and Trump agree to delay on food stamp rules that put benefit at risk for millions",
+      "summary": "New York City mayor says deal will allow bodegas and convenience stores across the country more time to comply Zohran Mamdani, the New York City mayor, has struck a deal with Donald Trump to secure a 90-day delay on new rules for the Supplemental Nutrition Assistance Program (Snap), so that bodegas and corner stores across the country have time to comply. The extension, Mamdani said, starts Friday as a result of conversations he had with Trump and Brooke Rollins, the agriculture secretary. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/13/mamdani-trump-deal-snap-delay",
       "source": "The Guardian",
-      "published": "2026-11-13T23:29:30+00:00",
-      "image": "https://i.guim.co.uk/img/media/83ccb1e6582aa694e45d643abd29d837c8f217a2/451_0_4510_3608/master/4510.jpg?width=140&quality=85&auto=format&fit=max&s=f11dd51ed640dac66df42ee7190c2ac3"
+      "published": "2026-11-13T23:53:43+00:00",
+      "image": "https://i.guim.co.uk/img/media/2e7444efcda87df4a5d46dbb25d9102f099e8da5/646_0_6457_5166/master/6457.jpg?width=140&quality=85&auto=format&fit=max&s=312b2756177b7c278a3a9469fa907879"
+    },
+    {
+      "title": "FAA grounds all fights across the US over ‘telecommunication outage’",
+      "summary": "The FAA has issued a ground stop for departing flights in the US after a communications failure disrupted air traffic.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/faa-grounds-all-fights-across-the-us-over-telecommunication?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-13T23:45:22+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794613441.jpg?resize=1620%2C1080&quality=80"
     },
     {
       "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
@@ -42,14 +50,6 @@
       "source": "BBC",
       "published": "2026-11-13T23:00:31+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c559/live/a40793d0-df4a-11f1-a48c-75dd2efdacb5.jpg"
-    },
-    {
-      "title": "Rescue efforts under way after tanker strikes river cruise boat in US",
-      "summary": "American Heritage paddleboat with 129 passengers on board is partially submerged on Mississippi River in New Orleans.",
-      "url": "https://www.aljazeera.com/news/2026/11/13/rescue-efforts-under-way-after-tanker-strikes-river-cruise-boat-in-us?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-13T22:47:16+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af786ca15c6d-1794606794.jpg?resize=1920%2C1440"
     }
   ],
   "feed_warnings": []
