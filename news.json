@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T19:15:26.222019+00:00",
+  "updated_at": "2026-11-14T19:30:35.301427+00:00",
   "national": [
     {
       "title": "Arab Saudi Cegat Serangan Drone Houthi yang Sasar Wilayah Riyadh",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Watch: Cruise ship overturns after collision with tanker in New Orleans",
-      "summary": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
-      "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+      "title": "What we know about the ground stop and what to do if you're affected",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-14T19:14:33+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3089/live/3bf0cfe0-e027-11f1-a701-fddedf244c16.jpg"
+      "published": "2026-11-14T19:27:03+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
     },
     {
       "title": "Philippines’ Carmelle wins first Eurovision contest in Asia",
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794681142.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
