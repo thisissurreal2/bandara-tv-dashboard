@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-14T08:45:27.721185+00:00",
+  "updated_at": "2026-11-14T09:00:40.151113+00:00",
   "national": [
+    {
+      "title": "Prabowo soal Pengganti Gibran: Harus Dapat Bisikan dari yang di Atas",
+      "summary": "Prabowo Subianto ngaku baru akan cari wakil presiden pengganti Gibran Rakabuming Raka setelah menyelesaikan kunjungan ke China.",
+      "url": "https://www.cnnindonesia.com/nasional/20261114154202-32-1427195/prabowo-akan-cari-pengganti-gibran-setelah-balik-dari-china",
+      "source": "CNN Indonesia",
+      "published": "2026-11-14T08:55:15+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/14/pembukaan-tanwir-dan-milad-ke-114-muhammadiyah-1794644581355_169.png?w=360&q=90"
+    },
     {
       "title": "Gerindra DKI soal Penambahan Sekolah Swasta Gratis: Harus Adil dan Merata",
       "summary": "Pemprov DKI Jakarta berencana menambah 100 sekolah swasta gratis, total menjadi 253. DPRD mendukung agar distribusi sekolah merata di seluruh wilayah.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-14T08:38:29+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2023/08/08/direktur-komunikasi-loc-fiba-world-cup-yudha-permana_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Prabowo Ungkap Awal Tunjuk Kapolri Suyudi",
-      "summary": "Prabowo Subianto ngaku tak terlalu mengenal sosok Jenderal Suyudi Ario Seto sebelum menunjuknya sebagai Kapolri gantikan Listyo Sigit.",
-      "url": "https://www.cnnindonesia.com/nasional/20261114152044-12-1427192/prabowo-tak-kenal-suyudi-sebelum-tunjuk-jadi-kapolri",
-      "source": "CNN Indonesia",
-      "published": "2026-11-14T08:35:15+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/10/01/reshuffle-kabinet-dan-pelantikan-pejabat-1-oktober-2026-1790849502830_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo hadiri Tanwir dan Milad ke-114 Muhammadiyah di Palu",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Warner accuses Cricket Australia of ‘cover-up’ in ball-tampering scandal",
-      "summary": "Former opener Warner was banned for a year for his involvement in the 2018 'Sandpapergate' incident in South Africa.",
-      "url": "https://www.aljazeera.com/sports/2026/11/14/warner-cricket-australia-ball-tampering-sandpapergate-khawaja-cummins?traffic_source=rss",
+      "title": "Hungary seizes $18m cash tied to ex-Orban-era minister in probe",
+      "summary": "Anti-corruption authorities in Hungary say they found around $18 million in hidden cash.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/hungary-seizes-18m-cash-tied-to-ex-orban-era-minister-in-probe?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-14T08:10:14+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-1908729549-1794642639.jpg?resize=1920%2C1440"
+      "published": "2026-11-14T08:39:07+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794645541.jpg?resize=1920%2C1080&quality=80"
     },
     {
       "title": "Hundreds of children in England prescribed weight-loss jabs, figures show",
@@ -44,7 +44,7 @@
       "image": "https://i.guim.co.uk/img/media/a32b508dc2e54f89a324872b8b025ede44510b55/0_0_4374_3499/master/4374.jpg?width=140&quality=85&auto=format&fit=max&s=21deabe56ff4ce181bb32dc31d356069"
     },
     {
-      "title": "What we know about the longest ground stop since 9/11",
+      "title": "What we know about the ground stop and what to do if you're affected",
       "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
       "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
