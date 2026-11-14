@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T21:00:37.533119+00:00",
+  "updated_at": "2026-11-14T21:15:26.632180+00:00",
   "national": [
     {
       "title": "Wisatawan Tewas di Kolam Renang Padusan Mojokerto, Botol Arak Sempat Disita",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-      "summary": "The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.",
-      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "title": "Second catch attempt as SpaceX Starship rocket heads back to Earth",
+      "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
+      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-14T20:41:45+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg"
+      "published": "2026-11-14T21:05:14+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e6d/live/64bc2ef0-e03c-11f1-b441-2b33b063138f.jpg"
     },
     {
       "title": "Evacuation zone lifted after bomb found at Illinois ethanol plant",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794687262.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
