@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T23:30:33.777653+00:00",
+  "updated_at": "2026-11-14T23:45:27.092626+00:00",
   "national": [
     {
       "title": "Legislator DKI Minta Lapangan Padel Diawasi Ketat Buntut Longsor di Kemang",
@@ -52,5 +52,9 @@
       "image": "https://i.guim.co.uk/img/media/82c9ce7a67d4a13f3e62473874a5e3ca49f73724/435_0_4348_3478/master/4348.jpg?width=140&quality=85&auto=format&fit=max&s=0b71d0a7d05365bcdc5bd2074d733ce8"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
