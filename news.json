@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-14T07:00:47.820121+00:00",
+  "updated_at": "2026-11-14T07:15:27.226247+00:00",
   "national": [
+    {
+      "title": "Raih 2 Penghargaan IPDN, Walkot Agung Resmi Jadi Keluarga Besar Pamong Praja",
+      "summary": "Wali Kota Pekanbaru, Agung Nugroho, menerima penghargaan dari IPDN. Ia berkomitmen meningkatkan pelayanan dan pengabdian kepada masyarakat Pekanbaru.",
+      "url": "https://news.detik.com/berita/d-8752808/raih-2-penghargaan-ipdn-walkot-agung-resmi-jadi-keluarga-besar-pamong-praja",
+      "source": "Detik",
+      "published": "2026-11-14T07:11:47+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/raih-2-penghargaan-ipdn-walkot-agung-resmi-jadi-keluarga-besar-pamong-praja-1794640146010.jpeg?w=360&q=90"
+    },
+    {
+      "title": "Flyover Pesing Tutup Sementara, Daan Mogot Macet Parah",
+      "summary": "Kemacetan panjang terjadi di Jalan Daan Mogot, Jakarta Barat, akibat penutupan flyover Pesing untuk perbaikan jalan. Arus kendaraan dialihkan ke jalur bawah.",
+      "url": "https://www.cnnindonesia.com/nasional/20261114134444-20-1427164/flyover-pesing-tutup-sementara-daan-mogot-macet-parah",
+      "source": "CNN Indonesia",
+      "published": "2026-11-14T07:06:38+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/14/flyover-pesing-ditutup-kemacetan-panjang-terjadi-di-daan-mogot-1794639130771_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Menhut: Presiden dorong perhutanan sosial tingkatkan kesejahteraan",
       "summary": "Menteri Kehutanan (Menhut) Raja Juli Antoni mengatakan Presiden Prabowo Subianto mendorong perhutanan sosial untuk ...",
@@ -8,25 +24,17 @@
       "source": "ANTARA",
       "published": "2026-11-14T06:58:32+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/14/d9430e2d-0b71-4d96-a974-5ddc41cc3830.jpeg"
-    },
-    {
-      "title": "Peringati HUT ke-81, Brimob Polda Metro Jaya Gelar Ziarah hingga Anjangsana",
-      "summary": "Satbrimob Polda Metro merayakan HUT ke-81 dengan ziarah, anjangsana, dan memperkuat sinergitas TNI-Polri. Komitmen untuk pelayanan humanis terus ditegaskan.",
-      "url": "https://news.detik.com/berita/d-8752797/peringati-hut-ke-81-brimob-polda-metro-jaya-gelar-ziarah-hingga-anjangsana",
-      "source": "Detik",
-      "published": "2026-11-14T06:53:38+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/brimob-polda-metro-jaya-memperingati-hari-jadi-yang-ke-81-1794638868181_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Polisi Ungkap Kronologi Tower Crane Kuningan Jatuh Tewaskan 1 Orang",
-      "summary": "Polisi ungkap kronologi crane jatuh di Mega Kuningan Jakarta hingga menewaskan satu orang.",
-      "url": "https://www.cnnindonesia.com/nasional/20261114130920-12-1427161/polisi-ungkap-kronologi-tower-crane-kuningan-jatuh-tewaskan-1-orang",
-      "source": "CNN Indonesia",
-      "published": "2026-11-14T06:40:13+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/06/02/ilustrasi-garis-polisi-1780390194078_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
+    {
+      "title": "The ANC’s implosion was decades in the making",
+      "summary": "Zuma squandered Mbeki’s gains, while Ramaphosa’s dithering turned the ANC’s promised renewal into a fight for survival.",
+      "url": "https://www.aljazeera.com/opinions/2026/11/14/the-ancs-implosion-was-decades-in-the-making?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-14T06:52:40+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af7169a60b0-1794578074.jpg?resize=1920%2C1440"
+    },
     {
       "title": "Microsoft says services fully restored after for day-long global outage",
       "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
@@ -34,14 +42,6 @@
       "source": "BBC",
       "published": "2026-11-14T06:42:27+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f18/live/9b3a5370-df98-11f1-a9ad-6774a3284d10.jpg"
-    },
-    {
-      "title": "Ukraine is running out of options, and Russia knows it",
-      "summary": "The Abu Dhabi talks reveal Moscow’s growing leverage over Ukraine and a shifting Western approach to peace.",
-      "url": "https://www.aljazeera.com/opinions/2026/11/14/ukraine-is-running-out-of-options-and-russia-knows-it?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-14T06:39:09+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af349df5d52-1794329055.jpg?resize=1920%2C1440"
     },
     {
       "title": "Microsoft ‘deeply sorry’ for global outage that could have billion-dollar impact on Australia",
