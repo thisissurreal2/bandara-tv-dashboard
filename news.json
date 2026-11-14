@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T19:30:35.301427+00:00",
+  "updated_at": "2026-11-14T19:45:25.553990+00:00",
   "national": [
     {
       "title": "Arab Saudi Cegat Serangan Drone Houthi yang Sasar Wilayah Riyadh",
@@ -36,21 +36,25 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
     },
     {
+      "title": "Pope Leo urges end to violence in Peru during visit to remote Andes town",
+      "summary": "In Santa Cruz de Succhabamba, the pope told people not to respond to injustice with brutality.",
+      "url": "https://www.aljazeera.com/news/2026/11/14/pope-leo-urges-end-to-violence-in-peru-during-visit-to-remote-andes-town?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-14T19:20:11+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af8ab157889-1794681621.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "Philippines’ Carmelle wins first Eurovision contest in Asia",
       "summary": "Filipino entry, pop and rap song Sobra-Sobra, takes 19-year-old to victory at grand final in Bangkok Carmelle Collado has won the first Eurovision song contest Asia, taking the Philippines’ entry, Sobra-Sobra , to victory in Bangkok on Saturday night, at the first regional edition of the contest to be staged outside Europe. Eleven countries competed at the One Bangkok Forum in central Bangkok, and the show ran for two and a half hours including advertising. Continue reading...",
       "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
       "source": "The Guardian",
       "published": "2026-11-14T19:01:32+00:00",
       "image": "https://i.guim.co.uk/img/media/e086ead12105dc2c27d05464ce6db1d81b380886/300_0_3206_2564/master/3206.jpg?width=140&quality=85&auto=format&fit=max&s=6824875970409bb022b0fe92c92ae52e"
-    },
-    {
-      "title": "US blames outdated technology for nationwide flight disruption",
-      "summary": "US blames outdated technology for nationwide flight disruption",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/us-blames-outdated-technology-for-nationwide-flight-disruption?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-14T18:32:40+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794681142.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
