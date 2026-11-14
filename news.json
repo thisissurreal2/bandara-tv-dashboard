@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T11:30:39.498072+00:00",
+  "updated_at": "2026-11-14T11:45:26.764222+00:00",
   "national": [
     {
       "title": "Prabowo Cerita 'Suara dari Atas' saat Pilih Suyudi: Alhamdulillah Negara Terselamatkan",
@@ -28,20 +28,12 @@
   ],
   "international": [
     {
-      "title": "Watch: Cruise ship seen sinking after collision with cargo ship in New Orleans",
-      "summary": "Around 130 people were rescued from a cruise ship after it was struck by a tanker while docked in New Orleans, Louisiana on Friday.",
-      "url": "https://www.bbc.co.uk/news/videos/ck4gn4y77m40o?at_medium=RSS&at_campaign=rss",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-14T11:30:10+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/880d/live/7334ea60-dfad-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "Eight sentenced to jail over Nurmagomedov-Dvalishvili Abu Dhabi hotel brawl",
-      "summary": "A brawl broke out between the two MMA fighters and their teams inside a hotel before a wrestling event.",
-      "url": "https://www.aljazeera.com/sports/2026/11/14/usman-nurmagomedov-merab-dvalishvili-abu-dhabi-hotel-brawl-jail-sentence?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-14T11:14:18+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2238308540-1794651132.jpg?resize=1920%2C1440"
+      "published": "2026-11-14T11:41:20+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg"
     },
     {
       "title": "Eisenkot condemns Netanyahu’s ‘racist’ campaign against Israel’s Arab citizens",
@@ -50,7 +42,19 @@
       "source": "The Guardian",
       "published": "2026-11-14T11:11:03+00:00",
       "image": "https://i.guim.co.uk/img/media/caafae25c0bca6314b12439ac03f6e61770f8341/308_0_3083_2466/master/3083.jpg?width=140&quality=85&auto=format&fit=max&s=94d792291c0caa876c75116721318aaf"
+    },
+    {
+      "title": "Ukraine, Russia race to build military satellite networks as war rages on",
+      "summary": "Kyiv seeks to break reliance on Starlink as Moscow develops its own satellite constellation for military communications.",
+      "url": "https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-14T11:00:39+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af838772b-1794652279.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
