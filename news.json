@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T17:45:26.705188+00:00",
+  "updated_at": "2026-11-14T18:00:36.956815+00:00",
   "national": [
     {
       "title": "Bawa Mobil dalam Kondisi Mabuk di Jepang, Kapten Angkatan Udara AS Ditangkap",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Rising costs and arrests fuel protests in Central African Republic",
+      "summary": "Hundreds take to the streets of Bangui to protest rising fuel prices and arrests in the Central African Republic.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/rising-costs-and-arrests-fuel-protests-in-central-african-republic?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-14T17:50:28+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794678621.jpg?resize=1918%2C1080&quality=80"
+    },
+    {
       "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
       "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
       "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
@@ -42,19 +50,7 @@
       "source": "The Guardian",
       "published": "2026-11-14T17:11:18+00:00",
       "image": "https://i.guim.co.uk/img/media/6934b82431c8fab49bd4a56b9baaca81b07d75ae/0_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=b2b556b1036b2ad108c6ca8de27291e7"
-    },
-    {
-      "title": "US suggested Ukraine cede parts of Donbas to Russia to become part of NATO",
-      "summary": "Zelenskyy rejected the possibility of Ukraine committing to neutrality and said he refused to cede territory to Russia.",
-      "url": "https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-14T16:53:39+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af8821db843-1794671133.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: TimeoutError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
