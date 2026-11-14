@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-14T22:00:36.347431+00:00",
+  "updated_at": "2026-11-14T22:15:28.618838+00:00",
   "national": [
     {
-      "title": "Untuk Pertama Kalinya, AS Usul ke Zelensky Serahkan Wilayah Ukraina ke Rusia",
-      "summary": "AS usulkan Ukraina menyerahkan wilayah ke Rusia untuk bergabung dengan NATO. Zelensky menegaskan Rusia menolak gencatan senjata.",
-      "url": "https://news.detik.com/internasional/d-8753459/untuk-pertama-kalinya-as-usul-ke-zelensky-serahkan-wilayah-ukraina-ke-rusia",
+      "title": "Jambret Bersajam Dikejar Korban Saat Beraksi, lalu Ditangkap Warga Bekasi",
+      "summary": "Polres Metro Bekasi amankan dua pelaku jambret bersenjata tajam setelah dikejar korban. Pelaku kini menjalani pemeriksaan intensif dan proses hukum.",
+      "url": "https://news.detik.com/berita/d-8753461/jambret-bersajam-dikejar-korban-saat-beraksi-lalu-ditangkap-warga-bekasi",
       "source": "Detik",
-      "published": "2026-11-14T21:37:19+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2025/09/24/zelensky-dan-trump-menggelar-pertemuan-di-sela-sela-sidang-umum-pbb-1758690337611_169.jpeg?w=360&q=90"
+      "published": "2026-11-14T22:03:48+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/15/jambret-di-bekasi-1794688981384_169.jpeg?w=360&q=90"
     },
     {
       "title": "Presiden Prabowo tiba di Manila, Filipina untuk hadiri KTT ke-49 ASEAN",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine",
-      "summary": "Europe's direct engagement with Moscow as part of Ukraine-Russia peace talks is edging closer to becoming a reality.",
-      "url": "https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-14T21:10:26+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af8c810ac51-1794689040.jpg?resize=1920%2C1440"
+      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+      "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-14T22:09:40+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeb5/live/e1baf430-e074-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "title": "Second catch attempt as SpaceX Starship rocket heads back to Earth",
-      "summary": "The attempt follows an unsuccessful effort to catch of the rocket’s booster which instead came down in the ocean.",
-      "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-14T21:05:14+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e6d/live/64bc2ef0-e03c-11f1-b441-2b33b063138f.jpg"
+      "title": "Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League",
+      "summary": "Rasmus Hojlund stars with brace on as Denmark close in on a spot in the Nations League quarterfinals.",
+      "url": "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-14T22:00:45+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af8cefae487b-1794690810.jpg?resize=1920%2C1440"
     },
     {
       "title": "Evacuation zone lifted after bomb found at Illinois ethanol plant",
