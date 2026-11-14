@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-14T02:45:26.676960+00:00",
+  "updated_at": "2026-11-14T03:00:43.117900+00:00",
   "national": [
+    {
+      "title": "Preman Pemalak Pedagang Cimol di Ciputat Diamankan Polisi",
+      "summary": "Polsek Ciputat Timur amankan tiga pelaku pemalakan pedagang cimol di dekat Stasiun Jombang. Kasus diselesaikan secara damai.",
+      "url": "https://news.detik.com/berita/d-8752511/preman-pemalak-pedagang-cimol-di-ciputat-diamankan-polisi",
+      "source": "Detik",
+      "published": "2026-11-14T02:55:27+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/polsek-ciputat-timur-mengamankan-tiga-orang-preman-pelaku-pemalakan-pedagang-cimol-1794624886858_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "Golkar Ungkap 8 Nama Berpotensi Jadi Wapres Pengganti Gibran",
+      "summary": "Golkar mengungkapkan delapan nama berpotensi jadi Wapres pengganti Gibran, seperti Puan, Bahlil, hingga Dasco.",
+      "url": "https://www.cnnindonesia.com/nasional/20261114093728-32-1427090/golkar-sebut-puan-hingga-bahlil-masuk-bursa-wapres-pengganti-gibran",
+      "source": "CNN Indonesia",
+      "published": "2026-11-14T02:50:06+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2022/06/04/momen-jokowi-puan-dan-anies-di-formula-e-3_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Microsoft bantah layanannya picu penghentian penerbangan AS",
       "summary": "Microsoft, Jumat (13/11), menyatakan bahwa mereka \"tidak melihat adanya indikasi\" bahwa penghentian ...",
@@ -8,40 +24,24 @@
       "source": "ANTARA",
       "published": "2026-11-14T02:31:01+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/13/img_71303bf090aed68824f68885e268a186625988-1.jpg"
-    },
-    {
-      "title": "Pansel KND Umumkan 14 Nama Lolos Seleksi Calon Anggota Periode 2026-2031",
-      "summary": "Panitia Seleksi mengumumkan 14 calon anggota Komisi Nasional Disabilitas periode 2026-2031. Proses seleksi berlangsung transparan dan akuntabel.",
-      "url": "https://news.detik.com/berita/d-8752472/pansel-knd-umumkan-14-nama-lolos-seleksi-calon-anggota-periode-2026-2031",
-      "source": "Detik",
-      "published": "2026-11-14T02:01:03+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/pansel-knd-umumkan-14-nama-lolos-seleksi-calon-anggota-periode-20262031-1794621507836.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Tersangka Kasus Ijazah Jokowi Rizal Fadillah Meninggal Usai Masuk ICU",
-      "summary": "Muhammad Rizal Fadillah, salah satu tersangka kasus dugaan pencemaran nama baik terkait tudingan ijazah palsu Presiden ke-7 RI Joko Widodo, meninggal.",
-      "url": "https://www.cnnindonesia.com/nasional/20261114073915-12-1427078/tersangka-kasus-ijazah-jokowi-rizal-fadillah-meninggal-usai-masuk-icu",
-      "source": "CNN Indonesia",
-      "published": "2026-11-14T01:20:41+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2024/01/05/ilustrasi-meninggal-dunia-6_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
     {
       "title": "US flight outage live updates: FAA lifts nationwide ground stop; Trump officials suggest new tech overwhelmed old equipment",
-      "summary": "Sean Duffy says ‘it’s going to take us some time to unwind what’s happened’ but also points finger at Congress, claiming lack of funding for systems upgrades US aviation agency lifts nationwide ground stop affecting all air travel Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted earlier, the calls for Howard Lutnick to appear before lawmakers on Capitol Hill have been answered. Continue reading...",
+      "summary": "Sean Duffy says ‘it’s going to take us some time to unwind what’s happened’ but also points finger at Congress, claiming lack of funding for systems upgrades US aviation agency lifts nationwide ground stop affecting all air travel Chaos at US airports as flight stoppage grinds travel plans to a halt Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted earlier, the calls for Howard Lutnick to appear before lawmakers on Capitol Hill have been answered. Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
       "source": "The Guardian",
       "published": "2026-11-14T02:37:33+00:00",
       "image": "https://i.guim.co.uk/img/media/b253768714365e4818d3fcf51ed796d8355c4e6d/278_0_2096_1677/master/2096.jpg?width=140&quality=85&auto=format&fit=max&s=b3473cf019d629ffa5a98aa182c75153"
     },
     {
-      "title": "Tanker collision leaves riverboat passengers clinging to railings",
-      "summary": "Passengers were rescued after a tanker ship collided with a riverboat docked on the Mississippi River in New Orleans.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss",
+      "title": "Measles-associated deaths reach 10 in US after two more deaths reported",
+      "summary": "More than 5,400 confirmed measles cases have been recorded in the US to date this year.",
+      "url": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-14T01:37:08+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794620220.jpg?resize=1920%2C1080&quality=80"
+      "published": "2026-11-14T02:34:50+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af79d0e-1794612494.jpg?resize=1920%2C1440"
     },
     {
       "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8212/live/9b2ab3f0-df54-11f1-93e1-3b657b665bcf.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
