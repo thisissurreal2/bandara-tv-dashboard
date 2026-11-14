@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-14T13:00:40.632862+00:00",
+  "updated_at": "2026-11-14T13:15:29.759992+00:00",
   "national": [
+    {
+      "title": "Muhammadiyah Ungkap Kriteria Wapres yang Cocok Dampingi Prabowo",
+      "summary": "Ketum PP Muhammadiyah Haedar Nashir menyampaikan beberapa kriteria calon wapres yang cocok menjadi pendamping Presiden Prabowo.",
+      "url": "https://www.cnnindonesia.com/nasional/20261114194109-20-1427244/muhammadiyah-ungkap-kriteria-wapres-yang-cocok-dampingi-prabowo",
+      "source": "CNN Indonesia",
+      "published": "2026-11-14T13:05:10+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/12/puja-puji-prabowo-terima-pengunduran-diri-gibran-1794473873141_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Aliansi Masyarakat Sipil Jelaskan soal Foto Gibran Terbalik di DPRD Jabar",
       "summary": "Aliansi Masyarakat Sipil Jabar menjelaskan penurunan foto Gibran Rakabuming Raka terbalik di DPRD sebagai aksi spontan setelah audiensi.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-14T12:49:00+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/aliansi-masyarakat-sipil-menurunkan-foto-gibran-rakabuming-raka-di-ruang-banggar-dprd-jawa-barat-1794556278512_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Dugaan Pemerkosaan Bupati Kupang, Polisi Periksa 2 Pengantar Korban",
-      "summary": "Polda NTT akan memanggil dua saksi terkait dugaan pemerkosaan Bupati Kupang, Yosef Lede. Kasus ini masih dalam penyelidikan dan mendapat perhatian publik.",
-      "url": "https://www.cnnindonesia.com/nasional/20261114192903-12-1427243/dugaan-pemerkosaan-bupati-kupang-polisi-periksa-2-pengantar-korban",
-      "source": "CNN Indonesia",
-      "published": "2026-11-14T12:45:04+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2018/09/20/19edb1f6-d9a2-43ce-b525-9b4b34612d7b_169.jpeg?w=360&q=90"
     },
     {
       "title": "Presiden akan cari pengganti wapres sepulang dari Manila dan Shenzhen",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Interest rate rises likely in coming months, Bank of England’s chief economist says",
-      "summary": "‘We have further to go,’ says Huw Pill after increase to 4% last month as Bank seeks to tackle rising inflation The Bank of England will probably need to raise interest rates next month and again in early 2027 to combat rising inflation, its chief economist has said. Signalling a sharp rise in mortgage payments for an estimated 2.3 million homeowners who will have to refinance their loans next year, Huw Pill said that while the decision to nudge interest rates from 3.75% to 4% earlier this month was a “significant step” towards getting monetary policy into a better place, “we ⁠have further to go”. Continue reading...",
-      "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rises-inflation-bank-of-england-chief-economist",
+      "title": "Trump ‘whiplash’ on deportations putting Afghans in turmoil: ‘People already survived a war’",
+      "summary": "Members of Congress and advocates warn that returning people to their home countries could be a death sentence Dozens of Afghans who are currently in the US but fear being deported back to Afghanistan along with a larger group and possibly killed by the Taliban are experiencing “fragile relief” this weekend after it appeared that the Trump administration had put on hold plans to remove them within days. Members of Congress and advocates have repeatedly warned that the deportations could effectively be a death sentence. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/14/afghan-deportations-trump-administration",
       "source": "The Guardian",
-      "published": "2026-11-14T12:33:58+00:00",
-      "image": "https://i.guim.co.uk/img/media/a38c96c8800b9c310b145da3b85b637313c9011b/480_0_4783_3829/master/4783.jpg?width=140&quality=85&auto=format&fit=max&s=2206d4b9879d5815c8bcc8ea931461b9"
+      "published": "2026-11-14T13:00:47+00:00",
+      "image": "https://i.guim.co.uk/img/media/864ffb50bade3319fe14e785391a8da94a174334/0_0_4501_3600/master/4501.jpg?width=140&quality=85&auto=format&fit=max&s=297ac37af2c92bf759a2c3b3056279ae"
     },
     {
       "title": "Ethiopia blames Egypt, Eritrea for Tigray attacks",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
