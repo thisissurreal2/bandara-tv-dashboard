@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T00:00:46.370835+00:00",
+  "updated_at": "2026-11-14T00:15:26.189194+00:00",
   "national": [
     {
       "title": "Berapa Gaji Pensiun dan Fasilitas yang Diterima Gibran Usai Mundur?",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
-      "title": "Mamdani and Trump agree to delay on food stamp rules that put benefit at risk for millions",
-      "summary": "New York City mayor says deal will allow bodegas and convenience stores across the country more time to comply Zohran Mamdani, the New York City mayor, has struck a deal with Donald Trump to secure a 90-day delay on new rules for the Supplemental Nutrition Assistance Program (Snap), so that bodegas and corner stores across the country have time to comply. The extension, Mamdani said, starts Friday as a result of conversations he had with Trump and Brooke Rollins, the agriculture secretary. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/13/mamdani-trump-deal-snap-delay",
+      "title": "Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US",
+      "summary": "Transportation secretary said stoppage is due to ‘communication issue’ and homeland security says there’s no indication of ‘nefarious attack’ Flights grounded at all US airports due to communications outage – live The Federal Aviation Administration (FAA) has issued a nationwide ground stop for all flights that are due to take off in the US on Friday, delaying or canceling more than 11,000 US flights, according to aviation tracker FlightAware . In a post on X, Sean Duffy, the US transportation secretary, said the stoppage is due to “a communication issue impacting all Air Route Traffic Control Centers” and that the FAA’s technicians are looking into the matter. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
       "source": "The Guardian",
-      "published": "2026-11-13T23:53:43+00:00",
-      "image": "https://i.guim.co.uk/img/media/2e7444efcda87df4a5d46dbb25d9102f099e8da5/646_0_6457_5166/master/6457.jpg?width=140&quality=85&auto=format&fit=max&s=312b2756177b7c278a3a9469fa907879"
+      "published": "2026-11-14T00:09:06+00:00",
+      "image": "https://i.guim.co.uk/img/media/e0ab041b575c8eedc802a6fc41aa64352628fae1/0_0_3024_2420/master/3024.jpg?width=140&quality=85&auto=format&fit=max&s=ba8fdc5781587a131e79485a0c361fae"
     },
     {
-      "title": "FAA grounds all fights across the US over ‘telecommunication outage’",
-      "summary": "The FAA has issued a ground stop for departing flights in the US after a communications failure disrupted air traffic.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/faa-grounds-all-fights-across-the-us-over-telecommunication?traffic_source=rss",
+      "title": "Afghanistan’s new road to China ends at a closed border",
+      "summary": "Taliban government hopes its Wakhan Corridor road will open new trade routes and reduce reliance on Pakistan.",
+      "url": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-13T23:45:22+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794613441.jpg?resize=1620%2C1080&quality=80"
+      "published": "2026-11-14T00:06:43+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af78e3b3f194-1794608699.jpg?resize=1920%2C1440"
     },
     {
-      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-      "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
-      "url": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+      "summary": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+      "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-13T23:00:31+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c559/live/a40793d0-df4a-11f1-a48c-75dd2efdacb5.jpg"
+      "published": "2026-11-14T00:03:52+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9975/live/51088590-df40-11f1-a48c-75dd2efdacb5.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
