@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-14T07:45:31.759175+00:00",
+  "updated_at": "2026-11-14T08:00:38.669652+00:00",
   "national": [
+    {
+      "title": "Prabowo hadiri Tanwir dan Milad ke-114 Muhammadiyah di Palu",
+      "summary": "Presiden Prabowo Subianto menghadiri Tanwir Muhammadiyah yang digelar bertepatan pada puncak peringatan Milad ke-114 ...",
+      "url": "https://www.antaranews.com/berita/5853923/prabowo-hadiri-tanwir-dan-milad-ke-114-muhammadiyah-di-palu",
+      "source": "ANTARA",
+      "published": "2026-11-14T07:55:14+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/14/IMG_9043.jpg"
+    },
+    {
+      "title": "Prabowo Puji Kapolri Baru: Membanggakan, Melegakan dan Menyejukkan",
+      "summary": "Prabowo memuji Kapolri Jenderal Suyudi sebagai figur yang membanggakan. Menurutnya, Suyudi juga merupakan sosok Kapolri yang melegakan dan menyejukkan.",
+      "url": "https://www.cnnindonesia.com/nasional/20261114144025-20-1427176/prabowo-puji-kapolri-baru-membanggakan-melegakan-dan-menyejukkan",
+      "source": "CNN Indonesia",
+      "published": "2026-11-14T07:52:20+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/10/01/presiden-prabowo-subianto-resmi-melantik-suyudi-ario-seto-sebagai-kapolri-suyudi-dilantik-menggantikan-jenderal-listyo-sigit-p-1790841706437_169.png?w=360&q=90"
+    },
     {
       "title": "Petugas Temukan 44 Ponsel Saat Razia Lapas Tarakan, Ada 1 Napi Pegang 5 HP",
       "summary": "Tim gabungan Polri dan BNN menggeledah Lapas Tarakan, menemukan 44 ponsel dan alat isap sabu. Enam napi diduga kendalikan narkoba dari dalam lapas.",
@@ -8,22 +24,6 @@
       "source": "Detik",
       "published": "2026-11-14T07:35:43+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/polri-dan-bnn-melakukan-razia-narkoba-di-lapas-tarakan-kalimantan-utara-1794626098190_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Barantin Gagalkan Pengeluaran 180 Ribu Benih Lobster di Bandara Soetta",
-      "summary": "Badan Karantina Indonesia gagalkan pengeluaran 180.000 benih lobster dari Bandara Soekarno-Hatta, dukung upaya pemerintah dalam pemberantasan penyelundupan.",
-      "url": "https://www.cnnindonesia.com/nasional/20261114135529-25-1427167/barantin-gagalkan-pengeluaran-180-ribu-benih-lobster-di-bandara-soetta",
-      "source": "CNN Indonesia",
-      "published": "2026-11-14T07:26:30+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/14/barantin-1794639172125_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Menhut: Presiden dorong perhutanan sosial tingkatkan kesejahteraan",
-      "summary": "Menteri Kehutanan (Menhut) Raja Juli Antoni mengatakan Presiden Prabowo Subianto mendorong perhutanan sosial untuk ...",
-      "url": "https://www.antaranews.com/berita/5853779/menhut-presiden-dorong-perhutanan-sosial-tingkatkan-kesejahteraan",
-      "source": "ANTARA",
-      "published": "2026-11-14T06:58:32+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/14/d9430e2d-0b71-4d96-a974-5ddc41cc3830.jpg"
     }
   ],
   "international": [
@@ -52,5 +52,9 @@
       "image": "https://i.guim.co.uk/img/media/c36522e185fdfeb8b91004d73d5cc360a5eb2325/0_0_6830_5464/master/6830.jpg?width=140&quality=85&auto=format&fit=max&s=1e5d9d4359cc7e7c571d6edb15cdbf26"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
