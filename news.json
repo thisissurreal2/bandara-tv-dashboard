@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T16:30:45.191546+00:00",
+  "updated_at": "2026-11-14T16:45:23.909822+00:00",
   "national": [
     {
       "title": "AMM Filipina, Menlu Tata Tegaskan Komitmen RI Perkuat Persatuan ASEAN",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "summary": "The social media giant is accused of not informing about 20 million users it had access to their photos.",
+      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-14T16:29:48+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg"
+    },
+    {
+      "title": "Italy fines Meta $880m over photo privacy",
+      "summary": "Regulator said Meta's 'lack of cooperation' and the large number of people affected contributed to size of the fine.",
+      "url": "https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-14T16:16:15+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af88117a3-1794670871.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "A rapid interest rate rise seems inevitable – and households are expected to pick up the tab",
       "summary": "Raising borrowing costs too far risks laying waste to whatever growth there is in the economy A head of steam is building up behind the Bank of England raising interest rates again. With the latest forecasts by the central bank showing inflation rising to 5% next spring, another increase in the cost of borrowing seems inevitable, and may come as soon as next month. A growing number of analysts predict the Bank’s policymakers will don Scrooge masks when they meet on 17 December to deliver a message of austerity and sacrifice. Continue reading...",
       "url": "https://www.theguardian.com/business/2026/nov/14/interest-rate-rise-phillip-inman-inflation-economy",
       "source": "The Guardian",
       "published": "2026-11-14T16:00:48+00:00",
       "image": "https://i.guim.co.uk/img/media/91a65d8728a29fe09fb1706e308ff8c46b77c4d6/187_0_2954_2363/master/2954.jpg?width=140&quality=85&auto=format&fit=max&s=f97dd0061161f4f38fc8ed6c84f1fd3d"
-    },
-    {
-      "title": "EU calls for immediate humanitarian access to Gaza",
-      "summary": "The EU said that “Israel must enable the work of the UN and its agencies\" after the group was blocked access into Gaza.",
-      "url": "https://www.aljazeera.com/news/2026/11/14/eu-calls-for-immediate-humanitarian-access-to-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-14T15:57:22+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af8704f4a9a8-1794666575.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
-      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-14T15:53:55+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/172e/live/be162960-dfc9-11f1-81be-1f9bcd2a4214.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
