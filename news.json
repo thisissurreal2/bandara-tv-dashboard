@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-14T21:45:27.364193+00:00",
+  "updated_at": "2026-11-14T22:00:36.347431+00:00",
   "national": [
     {
-      "title": "Wisatawan Tewas di Kolam Renang Padusan Mojokerto, Botol Arak Sempat Disita",
-      "summary": "Seorang wisatawan, Firgi Anggri Andana, ditemukan tewas di kolam renang pemandian Padusan, Mojokerto. Aroma alkohol terdeteksi saat pertolongan pertama.",
-      "url": "https://news.detik.com/berita/d-8753458/wisatawan-tewas-di-kolam-renang-padusan-mojokerto-botol-arak-sempat-disita",
+      "title": "Untuk Pertama Kalinya, AS Usul ke Zelensky Serahkan Wilayah Ukraina ke Rusia",
+      "summary": "AS usulkan Ukraina menyerahkan wilayah ke Rusia untuk bergabung dengan NATO. Zelensky menegaskan Rusia menolak gencatan senjata.",
+      "url": "https://news.detik.com/internasional/d-8753459/untuk-pertama-kalinya-as-usul-ke-zelensky-serahkan-wilayah-ukraina-ke-rusia",
       "source": "Detik",
-      "published": "2026-11-14T20:36:09+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/wisatawan-saat-diberikan-pertolongan-pertama-di-kolam-renang-padusan-mojokerto-1794662854143_169.png?w=360&q=90"
+      "published": "2026-11-14T21:37:19+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2025/09/24/zelensky-dan-trump-menggelar-pertemuan-di-sela-sela-sidang-umum-pbb-1758690337611_169.jpeg?w=360&q=90"
     },
     {
       "title": "Presiden Prabowo tiba di Manila, Filipina untuk hadiri KTT ke-49 ASEAN",
@@ -52,9 +52,5 @@
       "image": "https://i.guim.co.uk/img/media/c959bae56a786ff95913cb67d9c97a8fced81672/437_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=51fa3394626d131083ad4af9586ae6bb"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
