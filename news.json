@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T14:59:13.631282+00:00",
+  "updated_at": "2026-11-14T15:00:37.986863+00:00",
   "national": [
     {
       "title": "Cuaca Buruk Saat Melaut, Nelayan di Pandeglang Tewas Tersambar Petir",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
