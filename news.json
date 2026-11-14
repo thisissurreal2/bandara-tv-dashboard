@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-14T11:45:26.764222+00:00",
+  "updated_at": "2026-11-14T12:00:43.565557+00:00",
   "national": [
     {
-      "title": "Prabowo Cerita 'Suara dari Atas' saat Pilih Suyudi: Alhamdulillah Negara Terselamatkan",
-      "summary": "Presiden Prabowo Subianto mengungkap proses pemilihan Jenderal Suyudi Ario Seto sebagai Kapolri, menyatakan rasa syukur dan penjelasan di acara Muhammadiyah.",
-      "url": "https://news.detik.com/berita/d-8753187/prabowo-cerita-suara-dari-atas-saat-pilih-suyudi-alhamdulillah-negara-terselamatkan",
+      "title": "Penyelundupan 180 Ribu Benih Lobster ke Batam Digagalkan di Soetta",
+      "summary": "Petugas Karantina menggagalkan penyelundupan 180 ribu benih lobster di Bandara Soekarno-Hatta. Koper berisi benih ditemukan tanpa pemiliknya.",
+      "url": "https://news.detik.com/berita/d-8753195/penyelundupan-180-ribu-benih-lobster-ke-batam-digagalkan-di-soetta",
       "source": "Detik",
-      "published": "2026-11-14T11:26:37+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/presiden-prabowo-subianto-1794641873841_169.jpeg?w=360&q=90"
+      "published": "2026-11-14T11:40:01+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/sebanyak-180-ribu-benih-bening-lobster-bbl-yang-akan-diselundupkan-ke-batam-digagalkan-petugas-di-bandara-soekarno-hatta-1794656385839_169.jpeg?w=360&q=90"
     },
     {
       "title": "Aliansi Masyarakat Sipil Jabar Respons Polemik Foto Gibran Terbalik",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+      "summary": "Zelenskyy says the US asked for the first time whether Kyiv would cede land to Moscow in exchange for the NATO bid.",
+      "url": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-14T11:43:06+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/getty_6acfd9a7b9-1792006567.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
       "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
       "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
@@ -42,19 +50,7 @@
       "source": "The Guardian",
       "published": "2026-11-14T11:11:03+00:00",
       "image": "https://i.guim.co.uk/img/media/caafae25c0bca6314b12439ac03f6e61770f8341/308_0_3083_2466/master/3083.jpg?width=140&quality=85&auto=format&fit=max&s=94d792291c0caa876c75116721318aaf"
-    },
-    {
-      "title": "Ukraine, Russia race to build military satellite networks as war rages on",
-      "summary": "Kyiv seeks to break reliance on Starlink as Moscow develops its own satellite constellation for military communications.",
-      "url": "https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-14T11:00:39+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af838772b-1794652279.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
