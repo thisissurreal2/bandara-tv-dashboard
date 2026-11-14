@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-14T01:15:36.256615+00:00",
+  "updated_at": "2026-11-14T01:30:36.319284+00:00",
   "national": [
+    {
+      "title": "Tersangka Kasus Ijazah Jokowi Rizal Fadillah Meninggal Usai Masuk ICU",
+      "summary": "Muhammad Rizal Fadillah, salah satu tersangka kasus dugaan pencemaran nama baik terkait tudingan ijazah palsu Presiden ke-7 RI Joko Widodo, meninggal.",
+      "url": "https://www.cnnindonesia.com/nasional/20261114073915-12-1427078/tersangka-kasus-ijazah-jokowi-rizal-fadillah-meninggal-usai-masuk-icu",
+      "source": "CNN Indonesia",
+      "published": "2026-11-14T01:20:41+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2024/01/05/ilustrasi-meninggal-dunia-6_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "BNPPDT petakan infrastruktur perbatasan di Pulau Rondo dan Sabang",
+      "summary": "Kepala Badan Nasional Pengelola Perbatasan dan Daerah Terpencil (BNPPDT) Jenderal TNI Maruli Simanjuntak melaksanakan ...",
+      "url": "https://www.antaranews.com/berita/5853311/bnppdt-petakan-infrastruktur-perbatasan-di-pulau-rondo-dan-sabang",
+      "source": "ANTARA",
+      "published": "2026-11-14T01:19:45+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/14/1000664941.jpg"
+    },
     {
       "title": "BPJS Ketenagakerjaan Dorong SIER Jadi Hub Perlindungan Pekerja",
       "summary": "BPJS Ketenagakerjaan dorong SIER jadi hub perlindungan pekerja. Kolaborasi penting untuk tingkatkan kesejahteraan dan produktivitas di kawasan industri.",
@@ -8,31 +24,15 @@
       "source": "Detik",
       "published": "2026-11-14T01:00:29+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/bpjs-ketenagakerjaan-dorong-sier-jadi-hub-perlindungan-pekerja-1794617930632.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Foto Gibran Mulai Dicopot di Sejumlah Gedung Pemerintahan",
-      "summary": "Foto Gibran Rakabuming Raka mulai dicopot dari sejumlah gedung pemerintahan setelah ia mengundurkan diri dari jabatan Wakil Presiden RI.",
-      "url": "https://www.cnnindonesia.com/nasional/20261114072421-20-1427076/foto-gibran-mulai-dicopot-di-sejumlah-gedung-pemerintahan",
-      "source": "CNN Indonesia",
-      "published": "2026-11-14T00:50:20+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/13/foto-gibran-dicopot-di-grahadi-usai-mundur-wapres-1794572148217_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Pameran World Press Photo 2026",
-      "summary": "Pengunjung mengamati karya foto jurnalistik terbaik tahun ini (Photo of the Year) World Press Photo 2026 karya Carol ...",
-      "url": "https://www.antaranews.com/foto/5853291/pameran-world-press-photo-2026",
-      "source": "ANTARA",
-      "published": "2026-11-14T00:35:54+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/14/Pameran-World-Press-Photo-2026-Di-Pontianak-131126-jw-3.jpg"
     }
   ],
   "international": [
     {
       "title": "US flight outage live updates: FAA grounds thousands of flights as Trump administration looks for cause of nationwide delays",
-      "summary": "Sean Duffy says technicians from Federal Aviation Administration are investigating; Trump’s homeland security secretary says ‘no indication as of yet’ of cyberattack FAA issues nationwide ground-stop order, delaying or canceling nearly 7,000 flights Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted earlier, the calls for Howard Lutnick to appear before lawmakers on Capitol Hill have been answered. Continue reading...",
+      "summary": "Democratic lawmakers press Trump officials for more details about communication system failures that sparked nationwide flight fiasco FAA issues nationwide ground-stop order, delaying or canceling nearly 7,000 flights Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted earlier, the calls for Howard Lutnick to appear before lawmakers on Capitol Hill have been answered. Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
       "source": "The Guardian",
-      "published": "2026-11-14T00:58:13+00:00",
+      "published": "2026-11-14T01:13:11+00:00",
       "image": "https://i.guim.co.uk/img/media/83ccb1e6582aa694e45d643abd29d837c8f217a2/451_0_4510_3608/master/4510.jpg?width=140&quality=85&auto=format&fit=max&s=f11dd51ed640dac66df42ee7190c2ac3"
     },
     {
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8212/live/9b2ab3f0-df54-11f1-93e1-3b657b665bcf.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
