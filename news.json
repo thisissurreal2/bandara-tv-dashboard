@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-14T01:45:26.560655+00:00",
+  "updated_at": "2026-11-14T02:00:40.422143+00:00",
   "national": [
+    {
+      "title": "Kualifikasi Piala Afrika: Mesir dan Maroko pesta lima gol",
+      "summary": "Timnas Mesir dan Maroko berpesta lima gol ke gawang lawan-lawannya pada laga ketiga babak Kualifikasi Piala Afrika 2027 ...",
+      "url": "https://www.antaranews.com/berita/5853363/kualifikasi-piala-afrika-mesir-dan-maroko-pesta-lima-gol",
+      "source": "ANTARA",
+      "published": "2026-11-14T01:45:53+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/06/22/XxjpbeE000301_20260622_PEPFN0A001.jpg"
+    },
     {
       "title": "Tersangka Kasus Ijazah Jokowi Rizal Fadillah Meninggal Usai Masuk ICU",
       "summary": "Muhammad Rizal Fadillah, salah satu tersangka kasus dugaan pencemaran nama baik terkait tudingan ijazah palsu Presiden ke-7 RI Joko Widodo, meninggal.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-14T01:20:41+00:00",
       "image": "https://akcdn.detik.net.id/visual/2024/01/05/ilustrasi-meninggal-dunia-6_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "BNPPDT petakan infrastruktur perbatasan di Pulau Rondo dan Sabang",
-      "summary": "Kepala Badan Nasional Pengelola Perbatasan dan Daerah Terpencil (BNPPDT) Jenderal TNI Maruli Simanjuntak melaksanakan ...",
-      "url": "https://www.antaranews.com/berita/5853311/bnppdt-petakan-infrastruktur-perbatasan-di-pulau-rondo-dan-sabang",
-      "source": "ANTARA",
-      "published": "2026-11-14T01:19:45+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/14/1000664941_1.jpg"
     },
     {
       "title": "BPJS Ketenagakerjaan Dorong SIER Jadi Hub Perlindungan Pekerja",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "US flight outage live updates: Trump officials set to brief public hours after FAA grounds thousands of flights",
-      "summary": "Democratic lawmakers press Trump officials for more details about communication system failures as nationwide flight fiasco continues FAA issues nationwide ground-stop order, delaying or canceling nearly 7,000 flights Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted earlier, the calls for Howard Lutnick to appear before lawmakers on Capitol Hill have been answered. Continue reading...",
+      "title": "US flight outage live updates: FAA lifts nationwide ground stop as Trump transport secretary holds press briefing",
+      "summary": "The nationwide ground stop on departures from US airports has been lifted, the US Federal ⁠Aviation Administration said in an advisory on its website Friday Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted earlier, the calls for Howard Lutnick to appear before lawmakers on Capitol Hill have been answered. Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
       "source": "The Guardian",
-      "published": "2026-11-14T01:38:31+00:00",
+      "published": "2026-11-14T01:43:55+00:00",
       "image": "https://i.guim.co.uk/img/media/83ccb1e6582aa694e45d643abd29d837c8f217a2/451_0_4510_3608/master/4510.jpg?width=140&quality=85&auto=format&fit=max&s=f11dd51ed640dac66df42ee7190c2ac3"
     },
     {
-      "title": "UK police open sex offence probe into comedian and author David Walliams",
-      "summary": "The British TV personality, 55, denies sexual assault allegations, saying he has not broken the law.",
-      "url": "https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss",
+      "title": "Tanker collision leaves riverboat passengers clinging to railings",
+      "summary": "Passengers were rescued after a tanker ship collided with a riverboat docked on the Mississippi River in New Orleans.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-14T00:22:07+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af7941c1aac-1794610204.jpg?resize=1920%2C1440"
+      "published": "2026-11-14T01:37:08+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794620220.jpg?resize=1920%2C1080&quality=80"
     },
     {
       "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
@@ -53,7 +53,7 @@
     }
   ],
   "feed_warnings": [
-    "Detik: TimeoutError",
+    "Detik: URLError",
     "Detik: no fresh stories",
     "Detik: keeping previous story"
   ]
