@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T22:30:38.237687+00:00",
+  "updated_at": "2026-11-14T22:45:27.169655+00:00",
   "national": [
     {
       "title": "Netanyahu Serukan Bentuk Pemerintahan Israel, Eisenkot Bilang Tipu Muslihat",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
-      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-      "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
-      "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-14T22:09:40+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aeb5/live/e1baf430-e074-11f1-a701-fddedf244c16.jpg"
+      "published": "2026-11-14T22:37:25+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League",
-      "summary": "Rasmus Hojlund stars with brace on as Denmark close in on a spot in the Nations League quarterfinals.",
-      "url": "https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-14T22:00:45+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af8cefae487b-1794690810.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Evacuation zone lifted after bomb found at Illinois ethanol plant",
-      "summary": "Peoria officials said a bomb was found at BioUrja Renewables and later defused; FBI said it is investigating Residents were ordered to evacuate parts of an Illinois community on Friday after the mayor there said authorities found a bomb at a local ethanol- and alcohol-production plant. The discovery reported at BioUrja Renewables in Peoria triggered a mandatory evacuation over a one-mile evacuation zone encompassing sections of that city as well as the adjacent municipality of East Peoria. Officials ultimately lifted the evacuation zone at about 1.25pm local time on Saturday – but only after making it clear there had genuinely been a bomb found and ruling out the presence of any other explosives. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb",
+      "title": "SpaceX’s Starship returns to launch pad from orbit in victory for company",
+      "summary": "Although booster exploded, company caught upper stage for first time in campaign to make megarocket reusable SpaceX’s megarocket Starship returned to its Texas launch tower on Saturday, a milestone in the company’s efforts to make the craft suitable for human spaceflight. The 171ft (52-meter) bullet-shaped upper stage descended into the clutch of the tower’s mechanical arms, ending a 22hr mission where the craft orbited Earth 14 times. Continue reading...",
+      "url": "https://www.theguardian.com/science/2026/nov/14/spacex-starship-double-catch",
       "source": "The Guardian",
-      "published": "2026-11-14T20:14:27+00:00",
-      "image": "https://i.guim.co.uk/img/media/c959bae56a786ff95913cb67d9c97a8fced81672/437_0_4680_3744/master/4680.jpg?width=140&quality=85&auto=format&fit=max&s=51fa3394626d131083ad4af9586ae6bb"
+      "published": "2026-11-14T22:35:06+00:00",
+      "image": "https://i.guim.co.uk/img/media/8d43d90555e696b8b0c519ba0b4fd459453f0aab/304_0_3038_2430/master/3038.jpg?width=140&quality=85&auto=format&fit=max&s=dda7e62a63c3fd758825b1e756002abf"
+    },
+    {
+      "title": "Palestinian stories set for major presence at 2027 Oscars",
+      "summary": "Al Jazeera spoke to the director and cast of Who Is Still Alive, Switzerland’s Oscar entry for Best International Film.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/palestinian-stories-set-for-major-presence-at-2027-oscars?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-14T22:28:47+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794695312.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
