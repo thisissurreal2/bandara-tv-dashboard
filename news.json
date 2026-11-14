@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-14T08:15:26.558787+00:00",
+  "updated_at": "2026-11-14T08:30:32.162232+00:00",
   "national": [
     {
-      "title": "Prabowo Cerita Kursi Mendes Sempat Disiapkan untuk Bahlil",
-      "summary": "Presiden Prabowo Subianto menjelaskan penunjukan Yandri Susanto sebagai Mendes PDT, awalnya untuk Bahlil. Ia juga mengapresiasi program pemerintah di Palu.",
-      "url": "https://www.cnnindonesia.com/nasional/20261114144854-20-1427179/prabowo-cerita-kursi-mendes-sempat-disiapkan-untuk-bahlil",
+      "title": "Prabowo Sindir Pihak Ngaku WNI Izin Keruk SDA: Untung Ditaruh di Luar",
+      "summary": "Prabowo menyindir pihak-pihak yang mengajukan izin pengelolaan SDA dengan mengaku sebagai WNI, tetapi keuntungannya justru dibawa ke luar negeri.",
+      "url": "https://www.cnnindonesia.com/nasional/20261114150409-20-1427189/prabowo-sindir-pihak-ngaku-wni-izin-keruk-sda-untung-ditaruh-di-luar",
       "source": "CNN Indonesia",
-      "published": "2026-11-14T08:06:17+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/11/pidato-presiden-prabowo-subianto-di-hut-partai-nasdem-ke-15-1794409438652_169.png?w=360&q=90"
+      "published": "2026-11-14T08:25:21+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/10/21/sidang-kabinet-paripurna-di-istana-kepresidenan-1792576755843_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "Haedar Nashir Apresiasi Prabowo: Kami Tak Biasa Memuji Jika Realitas Tak Begitu",
+      "summary": "Ketua Umum PP Muhammadiyah, Haedar Nashir, memuji komitmen Prabowo Subianto dalam menegakkan kedaulatan dan mencerdaskan bangsa.",
+      "url": "https://news.detik.com/berita/d-8752908/haedar-nashir-apresiasi-prabowo-kami-tak-biasa-memuji-jika-realitas-tak-begitu",
+      "source": "Detik",
+      "published": "2026-11-14T08:16:12+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/ketum-pp-muhammadiyah-haedar-nashir-1794644147730_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo hadiri Tanwir dan Milad ke-114 Muhammadiyah di Palu",
@@ -16,14 +24,6 @@
       "source": "ANTARA",
       "published": "2026-11-14T07:55:14+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/14/IMG_9043.jpg"
-    },
-    {
-      "title": "Petugas Temukan 44 Ponsel Saat Razia Lapas Tarakan, Ada 1 Napi Pegang 5 HP",
-      "summary": "Tim gabungan Polri dan BNN menggeledah Lapas Tarakan, menemukan 44 ponsel dan alat isap sabu. Enam napi diduga kendalikan narkoba dari dalam lapas.",
-      "url": "https://news.detik.com/berita/d-8752830/petugas-temukan-44-ponsel-saat-razia-lapas-tarakan-ada-1-napi-pegang-5-hp",
-      "source": "Detik",
-      "published": "2026-11-14T07:35:43+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/polri-dan-bnn-melakukan-razia-narkoba-di-lapas-tarakan-kalimantan-utara-1794626098190_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: TimeoutError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
