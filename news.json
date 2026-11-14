@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-14T00:15:26.189194+00:00",
+  "updated_at": "2026-11-14T00:30:32.884542+00:00",
   "national": [
+    {
+      "title": "Balasan PDIP Usai Gibran Singgung Partai Lama",
+      "summary": "PDIP merespons cerita Gibran soal beratnya meninggalkan partai demi menerima pinangan Prabowo di Pilpres 2024. PDIP menilai pengakuan tersebut sudah terlambat.",
+      "url": "https://news.detik.com/berita/d-8752396/balasan-pdip-usai-gibran-singgung-partai-lama",
+      "source": "Detik",
+      "published": "2026-11-14T00:22:40+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2018/01/03/05e515be-11e4-44a2-aa22-616b22b90046_169.jpg?w=360&q=90"
+    },
     {
       "title": "Berapa Gaji Pensiun dan Fasilitas yang Diterima Gibran Usai Mundur?",
       "summary": "Gibran Rakabuming Raka resmi mengundurkan diri sebagai wakil presiden. Ia berhak atas hak keuangan dan fasilitas sesuai UU setelah pemberhentian.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-13T23:40:57+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/12/gibran-bertolak-ke-istana-presiden-1794472510158_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Yang Bersuara Kala Diisukan Jadi Cawapres Pengganti Gibran",
-      "summary": "Jabatan Wakil Presiden RI kosong setelah Gibran mundur. Beberapa nama, termasuk Ahmad Muzani dan Sultan HB X, muncul sebagai calon pengganti",
-      "url": "https://news.detik.com/berita/d-8752382/yang-bersuara-kala-diisukan-jadi-cawapres-pengganti-gibran",
-      "source": "Detik",
-      "published": "2026-11-13T23:33:07+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/momen-gibran-berpamitan-dengan-relawan-dan-karyawan-di-istana-wapres-1794472497632_169.jpeg?w=360&q=90"
     },
     {
       "title": "Tijjani Reijnders hattrick, Belanda bantai Yunani 7-0",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US",
-      "summary": "Transportation secretary said stoppage is due to ‘communication issue’ and homeland security says there’s no indication of ‘nefarious attack’ Flights grounded at all US airports due to communications outage – live The Federal Aviation Administration (FAA) has issued a nationwide ground stop for all flights that are due to take off in the US on Friday, delaying or canceling more than 11,000 US flights, according to aviation tracker FlightAware . In a post on X, Sean Duffy, the US transportation secretary, said the stoppage is due to “a communication issue impacting all Air Route Traffic Control Centers” and that the FAA’s technicians are looking into the matter. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
+      "title": "US flight outage live updates: FAA grounds thousands of flights as Trump administration looks for cause of nationwide delays",
+      "summary": "Sean Duffy says technicians from Federal Aviation Administration are investigating; Trump’s homeland security secretary says ‘no indication as of yet’ of cyberattack FAA issues nationwide ground-stop order, delaying or canceling nearly 7,000 flights Sign up for the Breaking News US email In other tech-related news, the Microsoft outage is still going. The longest in the company’s history. My colleagues are covering the latest and how it’s affecting millions and pretty much every industry … As I noted earlier, the calls for Howard Lutnick to appear before lawmakers on Capitol Hill have been answered. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/us-politics-latest-news-updates-democrats-republicans-donald-trump-van-hollen-chuck-schumer",
       "source": "The Guardian",
-      "published": "2026-11-14T00:09:06+00:00",
-      "image": "https://i.guim.co.uk/img/media/e0ab041b575c8eedc802a6fc41aa64352628fae1/0_0_3024_2420/master/3024.jpg?width=140&quality=85&auto=format&fit=max&s=ba8fdc5781587a131e79485a0c361fae"
+      "published": "2026-11-14T00:19:28+00:00",
+      "image": "https://i.guim.co.uk/img/media/83ccb1e6582aa694e45d643abd29d837c8f217a2/451_0_4510_3608/master/4510.jpg?width=140&quality=85&auto=format&fit=max&s=f11dd51ed640dac66df42ee7190c2ac3"
     },
     {
       "title": "Afghanistan’s new road to China ends at a closed border",
@@ -44,17 +44,13 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af78e3b3f194-1794608699.jpg?resize=1920%2C1440"
     },
     {
-      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
-      "summary": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
-      "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+      "summary": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
+      "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-14T00:03:52+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9975/live/51088590-df40-11f1-a48c-75dd2efdacb5.jpg"
+      "published": "2026-11-14T00:03:56+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8212/live/9b2ab3f0-df54-11f1-93e1-3b657b665bcf.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
