@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T17:30:32.034663+00:00",
+  "updated_at": "2026-11-14T17:45:26.705188+00:00",
   "national": [
     {
       "title": "Bawa Mobil dalam Kondisi Mabuk di Jepang, Kapten Angkatan Udara AS Ditangkap",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-14T17:16:36+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce07/live/190ced90-e04c-11f1-88e1-eb4e155225b3.jpg"
+    },
+    {
       "title": "US air travel slowly recovers from nationwide flight ground stop as chaos continues",
       "summary": "Thousands of flights still canceled as officials blamed ageing air control system for nationwide grounding Travel chaos continued across the US on Saturday morning as airlines worked to recover from Friday’s four-hour nationwide Federal Aviation Administration (FAA) ground stop that delayed or canceled thousands of flights. By of 11am ET on Saturday morning, more than 4,000 flights within, into or out of the US had already been canceled, according to FlightAware , adding to the more than 8,000 cancellations recorded on Friday. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
@@ -42,15 +50,11 @@
       "source": "Al Jazeera",
       "published": "2026-11-14T16:53:39+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af8821db843-1794671133.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Italy fines Meta €805m over accessing users' photos",
-      "summary": "The social media giant is accused of not informing about 20 million users it had access to their photos.",
-      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-14T16:29:48+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6be/live/f51842e0-e041-11f1-88e1-eb4e155225b3.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: TimeoutError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
