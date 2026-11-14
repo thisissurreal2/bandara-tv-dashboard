@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-14T12:45:25.643284+00:00",
+  "updated_at": "2026-11-14T13:00:40.632862+00:00",
   "national": [
     {
-      "title": "Menteri LH Bawa 'Gerakan Tobat Ekologis' ke Forum OKI di COP31",
-      "summary": "Menteri Lingkungan Hidup Jumhur Hidayat mengusung gerakan 'tobat ekologis' di forum OKI saat COP31. Indonesia tawarkan tiga agenda strategis untuk krisis iklim.",
-      "url": "https://news.detik.com/berita/d-8753240/menteri-lh-bawa-gerakan-tobat-ekologis-ke-forum-oki-di-cop31",
+      "title": "Aliansi Masyarakat Sipil Jelaskan soal Foto Gibran Terbalik di DPRD Jabar",
+      "summary": "Aliansi Masyarakat Sipil Jabar menjelaskan penurunan foto Gibran Rakabuming Raka terbalik di DPRD sebagai aksi spontan setelah audiensi.",
+      "url": "https://news.detik.com/berita/d-8753279/aliansi-masyarakat-sipil-jelaskan-soal-foto-gibran-terbalik-di-dprd-jabar",
       "source": "Detik",
-      "published": "2026-11-14T12:24:29+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/menteri-lingkungan-hidup-jumhur-hidayat-1794658973899_169.jpeg?w=360&q=90"
+      "published": "2026-11-14T12:49:00+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/aliansi-masyarakat-sipil-menurunkan-foto-gibran-rakabuming-raka-di-ruang-banggar-dprd-jawa-barat-1794556278512_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Canda Prabowo: Bintang 4, Presiden tapi di Muhammadiyah Anggota",
-      "summary": "Presiden Prabowo Subianto melontarkan candaan saat membuka Tanwir dan Milad ke-114 Muhammadiyah di Palu, menegaskan perannya sebagai anggota organisasi.",
-      "url": "https://www.cnnindonesia.com/nasional/20261114184203-20-1427241/canda-prabowo-bintang-4-presiden-tapi-di-muhammadiyah-anggota",
+      "title": "Dugaan Pemerkosaan Bupati Kupang, Polisi Periksa 2 Pengantar Korban",
+      "summary": "Polda NTT akan memanggil dua saksi terkait dugaan pemerkosaan Bupati Kupang, Yosef Lede. Kasus ini masih dalam penyelidikan dan mendapat perhatian publik.",
+      "url": "https://www.cnnindonesia.com/nasional/20261114192903-12-1427243/dugaan-pemerkosaan-bupati-kupang-polisi-periksa-2-pengantar-korban",
       "source": "CNN Indonesia",
-      "published": "2026-11-14T12:10:04+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/14/pembukaan-tanwir-dan-milad-ke-114-muhammadiyah-1794644580985_169.png?w=360&q=90"
+      "published": "2026-11-14T12:45:04+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2018/09/20/19edb1f6-d9a2-43ce-b525-9b4b34612d7b_169.jpeg?w=360&q=90"
     },
     {
       "title": "Presiden akan cari pengganti wapres sepulang dari Manila dan Shenzhen",
@@ -36,12 +36,12 @@
       "image": "https://i.guim.co.uk/img/media/a38c96c8800b9c310b145da3b85b637313c9011b/480_0_4783_3829/master/4783.jpg?width=140&quality=85&auto=format&fit=max&s=2206d4b9879d5815c8bcc8ea931461b9"
     },
     {
-      "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
-      "summary": "A nuclear treaty and the US's war on Iran are among priority topics for China, Russia and US leaders.",
-      "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect?traffic_source=rss",
+      "title": "Ethiopia blames Egypt, Eritrea for Tigray attacks",
+      "summary": "Ethiopia accuses Eritrea of leading TPLF attacks in Tigray, with Egypt providing logistical support.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/ethiopia-blames-egypt-eritrea-for-tigray-attacks?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-14T12:14:14+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aabdae2-1789647586_0fb93c-1789656369.jpg?resize=1200%2C630&quality=80"
+      "published": "2026-11-14T12:28:19+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/WIDE-THUMB-ETHIOPIA-1411-1794659235.png?resize=1920%2C1080&quality=80"
     },
     {
       "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d028/live/47c10ab0-e013-11f1-b441-2b33b063138f.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
