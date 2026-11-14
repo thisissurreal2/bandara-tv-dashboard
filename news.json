@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T05:15:27.871432+00:00",
+  "updated_at": "2026-11-14T05:30:33.426953+00:00",
   "national": [
     {
       "title": "Warga Temukan Tas Isi 7 Mata Kunci di Bogor, Diduga Milik Maling Motor",
@@ -36,12 +36,12 @@
       "image": "https://i.guim.co.uk/img/media/8ca795707b5c5b5c8936bdd665604906c2712ffe/405_0_4640_3712/master/4640.jpg?width=140&quality=85&auto=format&fit=max&s=860402a67258d4737d3e72f279394bd5"
     },
     {
-      "title": "Lagos Art Week confronts history, identity and belonging",
-      "summary": "ART X Lagos celebrates Africa's heritage and contemporary creativity.",
-      "url": "https://www.aljazeera.com/news/2026/11/14/lagos-art-week-confronts-history-identity-and-belonging?traffic_source=rss",
+      "title": "Trump, Xi and Putin to hold first three-way summit in China",
+      "summary": "White House says Trump plans to discuss the Iran war and nuclear arms at a meeting on the sidelines of APEC next week.",
+      "url": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-14T04:46:01+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Gallerygoers-in-front-of-a-metal-sculpture-by-Dotun-Popoola-at-Art-X-Lagos-1794584865.jpg?resize=1920%2C1440"
+      "published": "2026-11-14T04:55:58+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af7e44a439aa-1794630730.jpg?resize=1920%2C1440"
     },
     {
       "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/41c9/live/7d390f90-dfcc-11f1-b441-2b33b063138f.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
