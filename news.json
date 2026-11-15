@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-15T02:30:42.530841+00:00",
+  "updated_at": "2026-11-15T02:45:29.064841+00:00",
   "national": [
+    {
+      "title": "Program Kecamatan Berdaya Jateng Hadirkan Beragam Layanan untuk Warga",
+      "summary": "Program Kecamatan Berdaya di Juwiring, Jawa Tengah, menunjukkan manfaat nyata bagi masyarakat dengan layanan publik yang lebih dekat dan beragam.",
+      "url": "https://www.cnnindonesia.com/nasional/20261115091903-25-1427297/program-kecamatan-berdaya-jateng-hadirkan-beragam-layanan-untuk-warga",
+      "source": "CNN Indonesia",
+      "published": "2026-11-15T02:42:04+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/15/pemprov-jateng-1794708716452_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Habiburokhman Dorong MPR Proaktif Koordinasi Persiapkan Pemilihan Wapres",
       "summary": "Ketua Fraksi Gerindra, Habiburokhman, mendorong MPR untuk proaktif mempersiapkan pemilihan Wakil Presiden baru sebelum reses 18 Desember 2026.",
@@ -10,20 +18,12 @@
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/habiburokhman-1794556095571_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Prabowo tiba hadiri pembukaan KTT ke-49 ASEAN di Manila",
-      "summary": "Presiden RI Prabowo Subianto tiba di Philippine International Convention Center (PICC), Pasay City, Filipina, Minggu, ...",
-      "url": "https://www.antaranews.com/berita/5854971/prabowo-tiba-hadiri-pembukaan-ktt-ke-49-asean-di-manila",
+      "title": "Polri masifkan pemberantasan narkoba dengan gerebek tiga lapas",
+      "summary": "Polri memasifkan upaya pemberantasan narkoba dengan menggerebek tiga lembaga pemasyarakatan (lapas) yang berlokasi di ...",
+      "url": "https://www.antaranews.com/berita/5855035/polri-masifkan-pemberantasan-narkoba-dengan-gerebek-tiga-lapas",
       "source": "ANTARA",
-      "published": "2026-11-15T01:25:44+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/15/1000044117.jpg"
-    },
-    {
-      "title": "Selain Uang Pensiun, Apa Saja yang Didapat Gibran Usai Mundur?",
-      "summary": "Fasilitas yang akan didapat Gibran Rakabuming Raka usai mundur dari kursi Wakil Presiden RI terus menjadi sorotan.",
-      "url": "https://www.cnnindonesia.com/nasional/20261115074710-32-1427287/selain-uang-pensiun-apa-saja-yang-didapat-gibran-usai-mundur",
-      "source": "CNN Indonesia",
-      "published": "2026-11-15T01:10:10+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/12/gibran-bertolak-ke-istana-presiden-1794472510304_169.jpeg?w=360&q=90"
+      "published": "2026-11-15T02:25:04+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/15/1000095599.jpg"
     }
   ],
   "international": [
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94d8/live/8fe15d90-df82-11f1-b441-2b33b063138f.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
