@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T01:45:26.981563+00:00",
+  "updated_at": "2026-11-15T02:00:39.939708+00:00",
   "national": [
     {
       "title": "PKB soal Sosok Cawapres: Pengalaman Panjang Kerja dengan Prabowo",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94d8/live/8fe15d90-df82-11f1-b441-2b33b063138f.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
