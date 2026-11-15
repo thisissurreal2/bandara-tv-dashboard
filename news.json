@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-15T22:45:26.704471+00:00",
+  "updated_at": "2026-11-15T23:00:39.557888+00:00",
   "national": [
     {
-      "title": "Yaman Membara, Houthi Mulai Merangsek Dekati Kota yang Dikuasai Pemerintah",
-      "summary": "Situasi di Yaman semakin bergejolak. Kelompok Houthi kini terus bergerak maju mendekati kota Aden, tempat yang menjadi pusat pemerintahan sementara Yaman.",
-      "url": "https://news.detik.com/internasional/d-8754438/yaman-membara-houthi-mulai-merangsek-dekati-kota-yang-dikuasai-pemerintah",
-      "source": "Detik",
-      "published": "2026-11-15T21:50:16+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2023/12/04/potret-ribuan-pasukan-houthi-siap-bantu-hamas-lawan-israel-3_169.jpeg?w=360&q=90"
+      "title": "Inggris tumbangkan Spanyol 3-2 dan akhiri rekor tak terkalahkan",
+      "summary": "Tim nasional Inggris mengakhiri rekor 43 pertandingan tak terkalahkan Spanyol setelah menang 3-2 dalam laga terakhir ...",
+      "url": "https://www.antaranews.com/berita/5856131/inggris-tumbangkan-spanyol-3-2-dan-akhiri-rekor-tak-terkalahkan",
+      "source": "ANTARA",
+      "published": "2026-11-15T22:39:57+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/16/1000087194.jpg"
     },
     {
-      "title": "Maruarar: Sertifikat gratis beri kepastian hukum bagi warga",
-      "summary": "Menteri Perumahan dan Kawasan Permukiman (PKP) Maruarar Sirait mengatakan program sertifikat tanah gratis membantu ...",
-      "url": "https://www.antaranews.com/berita/5856059/maruarar-sertifikat-gratis-beri-kepastian-hukum-bagi-warga",
-      "source": "ANTARA",
-      "published": "2026-11-15T17:33:48+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/16/1003551907.jpg"
+      "title": "Pemuda di Grobogan Tewas Dikeroyok Belasan Orang, Diduga Korban Salah Sasaran",
+      "summary": "Pemuda bernama Tegar Gilang Pradita (19) tewas usai dikeroyok belasan orang di Jalan Purwodadi-Blora, Grobogan. Dia diduga menjadi korban salah sasaran.",
+      "url": "https://news.detik.com/berita/d-8754447/pemuda-di-grobogan-tewas-dikeroyok-belasan-orang-diduga-korban-salah-sasaran",
+      "source": "Detik",
+      "published": "2026-11-15T22:26:05+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2022/05/15/ilustrasi-pengeroyokan_169.jpeg?w=360&q=90"
     },
     {
       "title": "Oknum Prajurit Diduga Aniaya Santri, TNI AD Proses Hukum Pelaku",
@@ -52,9 +52,5 @@
       "image": "https://i.guim.co.uk/img/media/682a0487f17cbff2735306182cdbb7ec07b2d56c/785_0_3912_3131/master/3912.jpg?width=140&quality=85&auto=format&fit=max&s=f7bf201bcb081c3480d5b33a65ba7ba5"
     }
   ],
-  "feed_warnings": [
-    "Detik: TimeoutError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
