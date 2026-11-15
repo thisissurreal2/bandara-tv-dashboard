@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T09:00:36.075965+00:00",
+  "updated_at": "2026-11-15T09:15:31.763740+00:00",
   "national": [
     {
       "title": "Ahmad Luthfi Membaur dengan Ribuan Pelari di Borobudur Marathon 2026",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "De la Fuente denies racism in Spain despite Yamal, Vinicius avowals",
-      "summary": "Yamal and Vinicius have publicly said they face racist abuse in Spain, which has faced FIFA punishment over the issue.",
-      "url": "https://www.aljazeera.com/sports/2026/11/15/de-la-fuente-denies-racism-in-spain-despite-yamal-vinicius-avowals?traffic_source=rss",
+      "title": "AI cheating scandal rattles South Korea as annual college exam looms",
+      "summary": "Fears for national entrance exam next week, as top scorer on tax exam admits sending photos of questions to AI tool The marks attained by the top scorer ⁠on South Korea’s national exam for aspiring tax accountants this year seemed too good to be true. On Sunday, sceptics were ⁠proven right when he ⁠confessed to ​using generative AI to cheat. The scandal follows months of speculation after he scored near-perfect marks on hundreds of questions over two exams ⁠taken in April and July. It has also raised the stakes for organisers of South Korea’s annual college entrance exam this Thursday. Continue reading...",
+      "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+      "source": "The Guardian",
+      "published": "2026-11-15T08:56:11+00:00",
+      "image": "https://i.guim.co.uk/img/media/a5f3ffab9cd63da939e5c4cfbd21bff5a434ce93/747_0_4581_3664/master/4581.jpg?width=140&quality=85&auto=format&fit=max&s=653a5ed8aed2d8882aaba908007315a7"
+    },
+    {
+      "title": "India pulled 500m people out of poverty. Many of them still barely survive",
+      "summary": "World Bank says India pulled a record number of citizens out of poverty, but millions of them still live on the edge.",
+      "url": "https://www.aljazeera.com/features/2026/11/15/india-pulled-500m-people-out-of-poverty-since-2011-why-doesnt-it-feel-so?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-15T08:29:18+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261114__D7GT2JP__v1__HighRes__FblEurNationsEspTraining-1794728196.jpg?resize=1920%2C1440"
+      "published": "2026-11-15T08:49:47+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2023/05/AP23020274965956-1683103065.jpg?resize=1920%2C1440"
     },
     {
       "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
@@ -42,14 +50,6 @@
       "source": "BBC",
       "published": "2026-11-15T08:17:41+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c19/live/fcdf6660-e0ce-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
-      "summary": "‘We think dialogue is a good thing,’ Australian PM says after German chancellor urges the US to work with Europe for peace in Ukraine Australia has endorsed this week’s historic summit between Donald Trump, Xi Jinping and Vladimir Putin in China, even as European leaders warn that the US president must not make major concessions over the war in Ukraine. The three-way summit is planned to take place in Shenzhen, where the leaders will gather for the Asia-Pacific Economic Cooperation (Apec) meeting. Likened to the 1945 summit at Yalta , the Ukrainian president, Volodymyr Zelenskyy, has warned the talks must not lead to a redistribution of influence among world powers or the abandonment of his country, more than four years into the war sparked by Putin’s full-scale invasion. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
-      "source": "The Guardian",
-      "published": "2026-11-15T06:22:32+00:00",
-      "image": "https://i.guim.co.uk/img/media/bdce7545dc691e9936e076cd03bde7e3cc7e3a2a/264_0_3267_2614/master/3267.jpg?width=140&quality=85&auto=format&fit=max&s=3d2b7ab32c9547d61fbc8e221d4002cf"
     }
   ],
   "feed_warnings": [
