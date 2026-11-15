@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-15T13:15:34.091066+00:00",
+  "updated_at": "2026-11-15T13:30:33.407851+00:00",
   "national": [
+    {
+      "title": "Kemenhut: Alas Purwo Belum Pasti Layak Jadi Habitat Kedua Badak Jawa",
+      "summary": "Kemenhut menyebut gagasan habitat kedua badak jawa di TN Alas Purwo masih memerlukan kajian ilmiah dan penilaian menyeluruh.",
+      "url": "https://www.cnnindonesia.com/nasional/20261115174833-20-1427417/kemenhut-alas-purwo-belum-pasti-layak-jadi-habitat-kedua-badak-jawa",
+      "source": "CNN Indonesia",
+      "published": "2026-11-15T13:21:17+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/02/05/momen-langka-induk-dan-anakan-badak-jawa-terekam-di-tn-ujung-kulon-1770246469633_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Waka MPR Ingatkan Anggaran Riset Rp 6 T di 2027 Harus Terukur Hasilnya",
       "summary": "Wakil Ketua MPR Lestari Moerdijat menekankan bahwa penambahan anggaran riset 2027 harus diukur efektivitasnya, bukan hanya nominal.",
@@ -16,14 +24,6 @@
       "source": "ANTARA",
       "published": "2026-11-15T12:23:25+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/15/IMG_6105.jpeg"
-    },
-    {
-      "title": "Komnas HAM Ikut Investigasi Kasus Dugaan Pemerkosaan Bupati Kupang",
-      "summary": "Komnas HAM turut meminta informasi dari sejumlah pihak terkait kasus dugaan pemerkosaan yang dilakukan Bupati Kupang NTT Yosef Lede terhadap seorang mahasiswi.",
-      "url": "https://www.cnnindonesia.com/nasional/20261115165806-12-1427409/komnas-ham-ikut-investigasi-kasus-dugaan-pemerkosaan-bupati-kupang",
-      "source": "CNN Indonesia",
-      "published": "2026-11-15T10:05:27+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2024/09/06/koordinator-subkomisi-pemajuan-ham-komnas-ham-anis-hidayah-1_169.png?w=360&q=90"
     }
   ],
   "international": [
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fb0/live/ed275c50-e0dd-11f1-a701-fddedf244c16.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
