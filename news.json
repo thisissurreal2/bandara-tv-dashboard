@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T19:30:32.608706+00:00",
+  "updated_at": "2026-11-15T19:45:24.654812+00:00",
   "national": [
     {
       "title": "Rentetan Serangan Udara Houthi ke Saudi, 2 Rudal Ditembak Jatuh di Riyadh",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
+      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-15T19:32:39+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg"
+    },
+    {
+      "title": "Texas puts to death man who beheaded three children, hours after Oklahoma execution",
+      "summary": "Oklahoma man, 73, executed for killing ex’s estranged husband, as US nears 40 executions for second straight year A Texas man convicted of fatally stabbing and beheading his three young children in a squalid, windowless apartment in 2003 was recently executed. John Allen Rubio, 46, was pronounced dead at 6.47 pm on Thursday after a lethal injection at the state prison in Huntsville, Texas. His killings of his baby girl and two toddlers so rocked the city of Brownsville on the US border with Mexico that the apartment building was later demolished – and the land turned into a park and community garden. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/15/texas-execution-john-allen-rubio-oklahoma-james-pavatt",
+      "source": "The Guardian",
+      "published": "2026-11-15T19:27:24+00:00",
+      "image": "https://i.guim.co.uk/img/media/d4d6a76c012facd782c4b989badcf7516260404c/0_69_3352_2682/master/3352.jpg?width=140&quality=85&auto=format&fit=max&s=3df23a284c8724fefc52ded224b26c9d"
+    },
+    {
       "title": "Israeli drone filmed flying low outside homes in southern Lebanon",
       "summary": "Video shows an Israeli drone flying at low altitude over a residential area in southern Lebanon.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/israeli-drone-filmed-flying-low-outside-homes-in-southern-lebanon?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-11-15T19:02:21+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794769333.jpg?resize=1918%2C1080&quality=80"
-    },
-    {
-      "title": "Trident nuclear submarine concludes record underwater deployment",
-      "summary": "HMS Vengeance’s seven-month patrol prompts concerns about slow pace of maintenance of ageing fleet and impact on crew A Trident nuclear submarine has concluded a record seven-month deployment, returning to the Faslane naval base in Scotland where its crew was greeted by the defence secretary, Wes Streeting. HMS Vengeance began its patrol on 12 April and spent 217 days submerged before returning on Sunday, having left the country when Keir Starmer was in Downing Street and Manchester United were third in the Premier League. Continue reading...",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/15/trident-nuclear-submarine-hms-vengeance-record-tour",
-      "source": "The Guardian",
-      "published": "2026-11-15T18:50:33+00:00",
-      "image": "https://i.guim.co.uk/img/media/f5e678146cc65995b5212627db9370abe77833fe/487_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=060b100512481e4a203df065f811f89d"
-    },
-    {
-      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
-      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-15T18:08:20+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
