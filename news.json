@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-15T04:30:31.855959+00:00",
+  "updated_at": "2026-11-15T04:45:28.917756+00:00",
   "national": [
     {
-      "title": "Gerindra Riau Dukung Penuh Dasco Jadi Wapres: Sosok Loyal, Terbukti",
-      "summary": "Ketua DPD Gerindra Riau, Muhammad Rahul, dukung Dasco sebagai calon wakil presiden. Dasco dinilai berpengalaman dan loyal kepada Prabowo.",
-      "url": "https://news.detik.com/berita/d-8753672/gerindra-riau-dukung-penuh-dasco-jadi-wapres-sosok-loyal-terbukti",
+      "title": "BULOG Gelar Gerakan Pangan Murah Serentak di CFD Seluruh Indonesia",
+      "summary": "BULOG melaksanakan Gerakan Pangan Murah di Car Free Day untuk stabilisasi harga beras. Kegiatan ini mendukung ketersediaan pangan terjangkau bagi masyarakat.",
+      "url": "https://news.detik.com/berita/d-8753697/bulog-gelar-gerakan-pangan-murah-serentak-di-cfd-seluruh-indonesia",
       "source": "Detik",
-      "published": "2026-11-15T04:06:15+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2024/12/24/ketua-dpd-gerindra-riau-muhammad-rahul-dok-istimewa_169.jpeg?w=360&q=90"
+      "published": "2026-11-15T04:36:56+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/15/bulog-gelar-gerakan-pangan-murah-serentak-di-cfd-seluruh-indonesia-1794717387995_169.jpeg?w=360&q=90"
     },
     {
       "title": "Svitolina tantang Andreeva pada final WTA Finals",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
