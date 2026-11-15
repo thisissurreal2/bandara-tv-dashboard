@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-15T10:00:38.529403+00:00",
+  "updated_at": "2026-11-15T10:15:28.057807+00:00",
   "national": [
+    {
+      "title": "Komnas HAM Ikut Investigasi Kasus Dugaan Pemerkosaan Bupati Kupang",
+      "summary": "Komnas HAM turut meminta informasi dari sejumlah pihak terkait kasus dugaan pemerkosaan yang dilakukan Bupati Kupang NTT Yosef Lede terhadap seorang mahasiswi.",
+      "url": "https://www.cnnindonesia.com/nasional/20261115165806-12-1427409/komnas-ham-ikut-investigasi-kasus-dugaan-pemerkosaan-bupati-kupang",
+      "source": "CNN Indonesia",
+      "published": "2026-11-15T10:05:27+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2024/09/06/koordinator-subkomisi-pemajuan-ham-komnas-ham-anis-hidayah-1_169.png?w=360&q=90"
+    },
     {
       "title": "Mobil Wisatawan Asal Tangerang Terjun ke Tebing di Sukamakmur Bogor",
       "summary": "Mobil mengangkut 17 wisatawan asal Tangerang terperosok ke tebingan hingga jatuh di depan rumah warga di Jalur Puncak 2, Sukamakmur, Bogor. 4 orang luka.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-15T09:56:26+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/15/mobil-jatuh-ke-tebing-di-bogor-dok-ist-1794736578244_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Ketum PAN Sebut Tak Ajukan Kader Jadi Cawapres",
-      "summary": "Ketua Umum PAN menyatakan partainya tidak mengusulkan kader untuk mengisi posisi Wakil Presiden.",
-      "url": "https://www.cnnindonesia.com/nasional/20261115130503-36-1427342/ketum-pan-sebut-tak-ajukan-kader-jadi-cawapres",
-      "source": "CNN Indonesia",
-      "published": "2026-11-15T09:50:19+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/15/ketum-pan-sebut-partainya-tak-ajukan-kader-jadi-cawapres-1794723343634_169.jpeg?w=360&q=90"
     },
     {
       "title": "Pesona Bromo kembali pulih! Intip panorama hijau Taman Nasional Bromo Tengger Semeru usai kebakaran lahan",
@@ -28,28 +28,28 @@
   ],
   "international": [
     {
+      "title": "Polls open in Cape Verde in race with first female presidential candidate",
+      "summary": "Joana Rosa and four other opposition candidates face off against President Jose Maria Neves, who wants a second term.",
+      "url": "https://www.aljazeera.com/news/2026/11/15/polls-open-in-cape-verde-in-race-with-first-female-presidential-candidate?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-15T10:03:02+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-13T064448Z_171364927_RC2WLOA8736U_RTRMADP_3_CAPEVERDE-ELECTION-PREVIEW-1794732338.jpg?resize=1920%2C1440"
+    },
+    {
+      "title": "Russell Brand accuser waives anonymity to call for consent law change",
+      "summary": "Mia Latter says she was in an abusive relationship with the convicted rapist when he was 30 and she was 16 A woman who alleges she was raped by Russell Brand when she was 16 has waived her right to anonymity to campaign for a staggered age of consent. Mia Latter says she was in an abusive three-month relationship with Brand when he was 30 and she was 16. Continue reading...",
+      "url": "https://www.theguardian.com/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand",
+      "source": "The Guardian",
+      "published": "2026-11-15T09:58:50+00:00",
+      "image": "https://i.guim.co.uk/img/media/36adee7d1aea2fce8a66550d02c86c4385f1808c/238_0_2742_2194/master/2742.jpg?width=140&quality=85&auto=format&fit=max&s=924936c31699e9137998e6737a4e0404"
+    },
+    {
       "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
       "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the Pope served as bishop from 2015 to 2023.",
       "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-15T09:57:25+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80df/live/ea970890-e09d-11f1-a298-b1f4784d44cc.jpg"
-    },
-    {
-      "title": "Protesters condemn US policies as ASEAN summit begins in Manila",
-      "summary": "Southeast Asian leaders arriving in the Philippines for the ASEAN summit have been met with protests.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/protesters-condemn-us-policies-as-asean-summit-begins-in-manila?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-15T09:49:43+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794736177.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "title": "UK government to consider changing age of consent after allegations against Russell Brand",
-      "summary": "Deputy prime minister says change would be a massive step but ‘deserves proper consideration and scrutiny’ The government has said it will consider calls to change the age of consent after a woman waived her right to anonymity to publicly claim she was raped by Russell Brand as a 16-year-old schoolgirl. Mia Latter, now 37, alleged she had been orally raped by the jailed comedian when she was a teenager and he was 30 years old. Continue reading...",
-      "url": "https://www.theguardian.com/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand",
-      "source": "The Guardian",
-      "published": "2026-11-15T09:31:32+00:00",
-      "image": "https://i.guim.co.uk/img/media/36adee7d1aea2fce8a66550d02c86c4385f1808c/238_0_2742_2194/master/2742.jpg?width=140&quality=85&auto=format&fit=max&s=924936c31699e9137998e6737a4e0404"
     }
   ],
   "feed_warnings": []
