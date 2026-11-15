@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-15T19:00:35.230831+00:00",
+  "updated_at": "2026-11-15T19:15:31.223758+00:00",
   "national": [
     {
-      "title": "Tawuran di Matraman Dipicu Saling Ejek, 13 Orang Diamankan Polisi",
-      "summary": "Aksi tawuran kembali pecah di kawasan Matraman, Jakarta Timur. Sebanyak 13 orang diamankan dari lokasi kejadian.",
-      "url": "https://news.detik.com/berita/d-8754430/tawuran-di-matraman-dipicu-saling-ejek-13-orang-diamankan-polisi",
+      "title": "Rentetan Serangan Udara Houthi ke Saudi, 2 Rudal Ditembak Jatuh di Riyadh",
+      "summary": "Serangan itu terjadi pada hari Minggu (15/11). Dua rudal balistik dari Houthi itu berhasil dicegat sebelum memasuki wilayah Riyadh.",
+      "url": "https://news.detik.com/internasional/d-8754431/rentetan-serangan-udara-houthi-ke-saudi-2-rudal-ditembak-jatuh-di-riyadh",
       "source": "Detik",
-      "published": "2026-11-15T18:08:08+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/16/aksi-tawuran-kembali-pecah-di-kawasan-matraman-jakarta-timur-sebanyak-13-orang-diamankan-dari-lokasi-kejadian-dokistimewa-1794763839013_169.jpeg?w=360&q=90"
+      "published": "2026-11-15T18:52:49+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2018/08/24/d387f18b-3dde-4bb3-8a02-eaee00ef5800_169.jpeg?w=360&q=90"
     },
     {
       "title": "Oknum Prajurit Diduga Aniaya Santri, TNI AD Proses Hukum Pelaku",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Senator-elect Scott Colom vows to ensure Trump follows through on his promises",
-      "summary": "Mississippi Democrat points to commitments Trump made: lower prices, halt endless wars and release Epstein files After recently becoming the first Mississippi Democrat elected to the US Senate in more than four decades, Scott Colom pledged to try to ensure Donald Trump “follows through on the commitments” he made while successfully running for a second presidency in 2024. Colom, while being interviewed by CNN host Dana Bash on Sunday, alluded to various campaign promises made by Trump – including lowering consumer prices, halting the seemingly endless wars waged under other presidential administrations, and fully releasing files related to the prosecution of Jeffrey Epstein, the late accused sex trafficker whose social circle encompassed the US and global elite. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/15/scott-colom-mississippi-senate-trump",
+      "title": "Trident nuclear submarine concludes record underwater deployment",
+      "summary": "HMS Vengeance’s seven-month patrol prompts concerns about slow pace of maintenance of ageing fleet and impact on crew A Trident nuclear submarine has concluded a record seven-month deployment, returning to the Faslane naval base in Scotland where its crew was greeted by the defence secretary, Wes Streeting. HMS Vengeance began its patrol on 12 April and spent 217 days submerged before returning on Sunday, having left the country when Keir Starmer was in Downing Street and Manchester United were third in the Premier League. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/15/trident-nuclear-submarine-hms-vengeance-record-tour",
       "source": "The Guardian",
-      "published": "2026-11-15T18:48:10+00:00",
-      "image": "https://i.guim.co.uk/img/media/4abbdc3b45c3f90c56abf04023eb18752ef75fce/750_0_6515_5212/master/6515.jpg?width=140&quality=85&auto=format&fit=max&s=c2aa9252e91f0fe2ac6aa483b2825c0b"
+      "published": "2026-11-15T18:50:33+00:00",
+      "image": "https://i.guim.co.uk/img/media/f5e678146cc65995b5212627db9370abe77833fe/487_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=060b100512481e4a203df065f811f89d"
     },
     {
       "title": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
