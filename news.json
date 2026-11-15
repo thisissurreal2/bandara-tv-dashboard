@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-14T23:45:27.092626+00:00",
+  "updated_at": "2026-11-15T00:00:38.465226+00:00",
   "national": [
     {
-      "title": "Legislator DKI Minta Lapangan Padel Diawasi Ketat Buntut Longsor di Kemang",
-      "summary": "Lahan parkir lapangan Padel di Kemang longsor, menimpa rumah warga. DPRD DKI minta audit menyeluruh bangunan dan penegakan hukum bagi pelanggar.",
-      "url": "https://news.detik.com/berita/d-8753489/legislator-dki-minta-lapangan-padel-diawasi-ketat-buntut-longsor-di-kemang",
+      "title": "Demokrat Spill Isi Pertemuan Prabowo dan Ketum Parpol di Istana Bogor",
+      "summary": "Presiden Prabowo Subianto bertemu petinggi partai koalisi di Istana Bogor. Demokrat spill isi pertemuan.",
+      "url": "https://news.detik.com/berita/d-8753498/demokrat-spill-isi-pertemuan-prabowo-dan-ketum-parpol-di-istana-bogor",
       "source": "Detik",
-      "published": "2026-11-14T23:15:20+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2025/09/21/anggota-dprd-dki-jakarta-f-gerindra-ali-lubis-1758466406048_169.jpeg?w=360&q=90"
+      "published": "2026-11-14T23:46:09+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2025/09/16/sekjen-demokrat-1757996511726_169.jpeg?w=360&q=90"
     },
     {
       "title": "Portugal kalah 1-4 dari Denmark setelah Cristiano Ronaldo pensiun",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
+      "summary": "Iraq’s PM has dismissed nine senior security officials over an alleged oil smuggling network worth up to $30m monthly.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-14T23:34:37+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794699268.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
       "title": "How telecoms upgrade work sparked US flight chaos",
       "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
       "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-14T23:11:27+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14ef/live/f4aae840-dfd7-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "Netanyahu says only a unity government can guarantee Israel’s security",
-      "summary": "Eisenkot, in charge of forming a government, dismisses the appeal as ‘tricks’ as talks and a Knesset speaker vote loom.",
-      "url": "https://www.aljazeera.com/news/2026/11/14/netanyahu-says-only-a-unity-government-can-guarantee-israels-security?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-14T23:01:30+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af59859b365e-1794480217.jpg?resize=1920%2C1440"
     },
     {
       "title": "David Jones’ future looks grim. Is Myer next?",
@@ -52,9 +52,5 @@
       "image": "https://i.guim.co.uk/img/media/82c9ce7a67d4a13f3e62473874a5e3ca49f73724/435_0_4348_3478/master/4348.jpg?width=140&quality=85&auto=format&fit=max&s=0b71d0a7d05365bcdc5bd2074d733ce8"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
