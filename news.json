@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-15T16:45:29.055478+00:00",
+  "updated_at": "2026-11-15T17:00:41.714449+00:00",
   "national": [
+    {
+      "title": "5 Kali Beraksi, Maling Burung Cucak Hijau di Jakbar Ditangkap",
+      "summary": "Polsek Kalideres menangkap pria berinisial M (27) yang mencuri seekor burung kicau jenis cucak hijau milik warga di kawasan Kampung Bali, Kalideres.",
+      "url": "https://news.detik.com/berita/d-8754424/5-kali-beraksi-maling-burung-cucak-hijau-di-jakbar-ditangkap",
+      "source": "Detik",
+      "published": "2026-11-15T16:50:49+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2022/12/14/pencurian-benda-sakral_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Oknum Prajurit Diduga Aniaya Santri, TNI AD Proses Hukum Pelaku",
       "summary": "Oknum TNI AD yang diduga melakukan tindakan penganiayaan terhadap sejumlah santri di Pangandaran, Jabar akan diproses sesuai hukum yang berlaku.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-15T16:30:12+00:00",
       "image": "https://akcdn.detik.net.id/visual/2018/08/31/02182152-d247-457f-bd4d-4f273637f701_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "ODGJ Penendang Kucing sampai Mati di Bekasi Diserahkan Keluarga ke Polisi",
-      "summary": "Polisi menyelidiki viral pria yang menendang anak kucing hingga mati di Kecamatan Babelan. Pria berinisial K (30) diserahkan pihak keluarga ke Polsek Babelan.",
-      "url": "https://news.detik.com/berita/d-8754417/odgj-penendang-kucing-sampai-mati-di-bekasi-diserahkan-keluarga-ke-polisi",
-      "source": "Detik",
-      "published": "2026-11-15T15:59:31+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/video-seorang-pria-di-babelan-kabupaten-bekasi-diduga-menganiaya-kucing-hingga-mati-viral-di-medsos-polisi-mengecek-kebenaran--1794462252057_169.png?w=360&q=90"
     },
     {
       "title": "Indonesia bidik pasar digital ASEAN untuk perluas peluang UMKM",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Protest in Prague over media freedom expected to be one of biggest in Czechia’s history",
-      "summary": "Hundreds of thousands rally against plan to scrap licence fees and fund broadcasters from state budget Hundreds of thousands of Czechs are rallying in Prague to protest against what they say is a government attempt to stifle media freedom. The gathering on Sunday to save the mandatory licence fees that fund Czechia’s public broadcasters could be one of the biggest in the country’s history, organisers say. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/nov/15/czechia-protest-prague-media-freedom",
+      "title": "Planned asylum seeker detention centre next to Oxfordshire sewage works criticised",
+      "summary": "Thames Water says detainees at proposed accommodation should expect to experience insect swarms and strong smells A Home Office plan to build asylum seeker detention facilities next to a sewage pump is facing objections after water company officials warned that detainees should expect to experience insect swarms and strong smells. Proposed secure accommodation blocks at Campsfield House immigration removal centre in Oxfordshire will be 20 metres from a sewage pumping station, according to a written submission from Thames Water. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/15/planned-asylum-seeker-detention-centre-next-to-oxfordshire-sewage-works-criticised",
       "source": "The Guardian",
-      "published": "2026-11-15T16:39:02+00:00",
-      "image": "https://i.guim.co.uk/img/media/95975b1bec64815ceed42fb90d5215d3bbf2f3f8/543_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=ee2294d72c354e735186b306b7fe1328"
+      "published": "2026-11-15T16:47:39+00:00",
+      "image": "https://i.guim.co.uk/img/media/d09ed18d9dd0cdd685e28614ca19c5a774a69750/268_0_2268_1816/master/2268.jpg?width=140&quality=85&auto=format&fit=max&s=a94ae645f7999f7bde5d4240fd8be790"
     },
     {
       "title": "Czechs rally against plan to switch funding of public media",
@@ -44,12 +44,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d10d/live/fe22eed0-e10e-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "title": "British tourist smashes Jesus statue outside Vilnius church",
-      "summary": "A man removed a statue of the crucified Jesus from a church in Vilnius and it smashed to the ground.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/british-tourist-smashes-jesus-statue-outside-vilnius-church?traffic_source=rss",
+      "title": "Thousands rally in Czech Republic against state media funding changes",
+      "summary": "Critics say proposed funding changes will give the government more control of state media.",
+      "url": "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-15T16:04:22+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794758601.jpg?resize=1774%2C1080&quality=80"
+      "published": "2026-11-15T16:32:22+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af9c44d-1794753613.jpg?resize=1920%2C1440"
     }
   ],
   "feed_warnings": []
