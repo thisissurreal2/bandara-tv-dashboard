@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-15T14:30:34.937582+00:00",
+  "updated_at": "2026-11-15T14:45:30.624232+00:00",
   "national": [
     {
-      "title": "BPBD Kaltim Ingatkan Warga Waspada Banjir Tiga Hari ke Depan",
-      "summary": "BPBD Kaltim meminta warga di daerah rawan banjir dan longsor meningkatkan kewaspadaan menyusul peringatan dini BMKG.",
-      "url": "https://www.cnnindonesia.com/nasional/20261115135040-20-1427356/bpbd-kaltim-ingatkan-warga-waspada-banjir-tiga-hari-ke-depan",
-      "source": "CNN Indonesia",
-      "published": "2026-11-15T14:10:57+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2020/01/20/e938dd54-e364-43f3-9dd1-9c92337c93d7_169.jpeg?w=360&q=90"
+      "title": "Di KTT Manila, Prabowo Bicara Penanganan Karhutla: 104 Korporasi Ditindak",
+      "summary": "Prabowo menegaskan bahwa pemerintah tidak akan memberikan toleransi terhadap korporasi yang terlibat dalam kasus kebakaran hutan",
+      "url": "https://news.detik.com/berita/d-8754356/di-ktt-manila-prabowo-bicara-penanganan-karhutla-104-korporasi-ditindak",
+      "source": "Detik",
+      "published": "2026-11-15T14:36:03+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/15/presiden-ri-prabowo-subianto-saat-menghadiri-sesi-pleno-ktt-ke-49-asean-di-filipina-1794734596466_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Pura-pura Mau Usir Tikus, Wanita di Medan Malah Rampok Rumah Tetangga",
-      "summary": "Seorang wanita bernama Sagita (34) merampok rumah tetangganya yang sudah lanjut usia (lansia). Pelaku juga sempat menganiaya korban.",
-      "url": "https://news.detik.com/berita/d-8754327/pura-pura-mau-usir-tikus-wanita-di-medan-malah-rampok-rumah-tetangga",
-      "source": "Detik",
-      "published": "2026-11-15T14:09:47+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2018/11/26/eca947d4-10da-4206-bfe2-004868a8200d_169.jpeg?w=360&q=90"
+      "title": "Balita Tewas Tertimbun Longsor di Aceh Tengah",
+      "summary": "Seorang balita meninggal dunia setelah tertimbun longsor di ruas jalan Isaq-Pantan, Aceh Tengah, saat melintas bersama keluarganya.",
+      "url": "https://www.cnnindonesia.com/nasional/20261115174057-20-1427415/balita-tewas-tertimbun-longsor-di-aceh-tengah",
+      "source": "CNN Indonesia",
+      "published": "2026-11-15T14:35:44+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2018/12/08/4c2b49ed-14fb-4630-ad8c-97ec6e66cb3c_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo: DEFA buka potensi ekonomi digital ASEAN 2 triliun dolar AS",
@@ -27,6 +27,14 @@
     }
   ],
   "international": [
+    {
+      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+      "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
+      "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-15T14:33:59+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6592/live/907a90a0-e090-11f1-a701-fddedf244c16.jpg"
+    },
     {
       "title": "‘Almost magic’ as SpaceX craft caught mid-air: Why it matters",
       "summary": "SpaceX's Starship successfully returned to its launchpad after orbiting in space.",
@@ -42,14 +50,6 @@
       "source": "The Guardian",
       "published": "2026-11-15T14:01:32+00:00",
       "image": "https://i.guim.co.uk/img/media/f21995728d72a07555a435312b9559c41a077680/1027_40_4900_3920/master/4900.jpg?width=140&quality=85&auto=format&fit=max&s=a304647680eeed4434a28ec5521a88d9"
-    },
-    {
-      "title": "Iran targets US military base in Bahrain with drone attack",
-      "summary": "It marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
-      "url": "https://www.bbc.co.uk/news/articles/cqn4e2py48kwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-15T13:42:58+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adcc/live/783de3c0-e0f4-11f1-b441-2b33b063138f.jpg"
     }
   ],
   "feed_warnings": []
