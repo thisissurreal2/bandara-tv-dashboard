@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T22:30:33.353365+00:00",
+  "updated_at": "2026-11-15T22:45:26.704471+00:00",
   "national": [
     {
       "title": "Yaman Membara, Houthi Mulai Merangsek Dekati Kota yang Dikuasai Pemerintah",
@@ -28,32 +28,32 @@
   ],
   "international": [
     {
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-15T22:24:20+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "title": "Estonia to close all border crossings with Russia after attack on drone maker",
-      "summary": "Authorities say Russian intelligence service ordered attack which Estonian PM links to Tallinn’s support for Ukraine Estonia will close all its border crossings with Russia from 1 December after a suspected sabotage attack on a drone maker in the Baltic state over the weekend, which authorities said was ordered by Russia’s GRU military intelligence service. On Saturday morning, eight people were detained during an attempted attack on Threod Systems, a defence company that manufactures long-range attack and reconnaissance drones. No injuries or damage were reported after the company’s security team responded to the incident. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
-      "source": "The Guardian",
-      "published": "2026-11-15T22:17:09+00:00",
-      "image": "https://i.guim.co.uk/img/media/871b52d53845d358d898e60304c0661c3bf28013/293_0_4672_3738/master/4672.jpg?width=140&quality=85&auto=format&fit=max&s=4699c1636ab8599033326f36694ff0a4"
-    },
-    {
-      "title": "Australia, Canada, Italy and the UK urge Israel to allow aid into Gaza",
-      "summary": "The countries accuse Israel of preventing tents and other supplies from entering Gaza, despite the humanitarian crisis.",
-      "url": "https://www.aljazeera.com/news/2026/11/15/australia-canada-italy-and-the-uk-urge-israel-to-allow-aid-into-gaza?traffic_source=rss",
+      "title": "England stun Spain to end La Roja’s 43-game unbeaten run",
+      "summary": "Spain suffer first defeat since March 2024 after losing 3-2 to England in Madrid despite grandstand finish.",
+      "url": "https://www.aljazeera.com/sports/2026/11/15/england-stun-spain-to-end-la-rojas-43-game-unbeaten-run?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-15T22:06:38+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afa1775392d4-1794774901.jpg?resize=1920%2C1440"
+      "published": "2026-11-15T22:40:01+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-15T220328Z_644538581_UP1EMBF1P9S09_RTRMADP_3_SOCCER-UEFANATIONS-ESP-ENG-1794780677.jpg?resize=1920%2C1440"
+    },
+    {
+      "title": "Police ban protests near 10 schools and five universities in Paris",
+      "summary": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
+      "url": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-15T22:28:54+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff1f/live/556dd490-e13a-11f1-9d9b-d15c0ae9fc2e.jpg"
+    },
+    {
+      "title": "Australia, UK, Canada and Italy urge Israel to allow critical aid to Gaza ahead of winter",
+      "summary": "Four countries call situation ‘entirely reversible’ in joint statement as flooding exacerbates humanitarian crisis Australia, Canada, the United Kingdom and Italy have urged Israel to allow critical humanitarian aid to enter Gaza, describing the situation on the ground as “dire”. The four countries released a joint statement on Monday morning, urging Israel to allow 150,000 tents and other vital supplies being held at the border into Gaza ahead of winter. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/16/australia-uk-canada-italy-urge-israel-critical-aid-gaza-winter-ntwnfb",
+      "source": "The Guardian",
+      "published": "2026-11-15T22:28:02+00:00",
+      "image": "https://i.guim.co.uk/img/media/682a0487f17cbff2735306182cdbb7ec07b2d56c/785_0_3912_3131/master/3912.jpg?width=140&quality=85&auto=format&fit=max&s=f7bf201bcb081c3480d5b33a65ba7ba5"
     }
   ],
   "feed_warnings": [
-    "Detik: URLError",
+    "Detik: TimeoutError",
     "Detik: no fresh stories",
     "Detik: keeping previous story"
   ]
