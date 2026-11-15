@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-15T01:15:24.602354+00:00",
+  "updated_at": "2026-11-15T01:30:33.496347+00:00",
   "national": [
+    {
+      "title": "Prabowo tiba hadiri pembukaan KTT ke-49 ASEAN di Manila",
+      "summary": "Presiden RI Prabowo Subianto tiba di Philippine International Convention Center (PICC), Pasay City, Filipina, Minggu, ...",
+      "url": "https://www.antaranews.com/berita/5854971/prabowo-tiba-hadiri-pembukaan-ktt-ke-49-asean-di-manila",
+      "source": "ANTARA",
+      "published": "2026-11-15T01:25:44+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/15/1000044117.jpg"
+    },
+    {
+      "title": "Komisi I DPR Minta Santri Korban Penganiayaan Oknum TNI Diberi Pendampingan",
+      "summary": "Wakil Ketua Komisi I DPR, Dave Laksono, menyesalkan dugaan penganiayaan santri oleh oknum TNI di Pangandaran.",
+      "url": "https://news.detik.com/berita/d-8753521/komisi-i-dpr-minta-santri-korban-penganiayaan-oknum-tni-diberi-pendampingan",
+      "source": "Detik",
+      "published": "2026-11-15T01:18:05+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2025/05/05/dave-laksono-1746436050337_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Selain Uang Pensiun, Apa Saja yang Didapat Gibran Usai Mundur?",
       "summary": "Fasilitas yang akan didapat Gibran Rakabuming Raka usai mundur dari kursi Wakil Presiden RI terus menjadi sorotan.",
@@ -8,22 +24,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-15T01:10:10+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/12/gibran-bertolak-ke-istana-presiden-1794472510304_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Yang Diketahui soal Crane Jatuh Tewaskan Pekerja di Kuningan Jaksel",
-      "summary": "Insiden tower crane jatuh di Mega Kuningan, Jakarta, menewaskan satu pekerja. Polisi masih menyelidiki penyebabnya dan proyek dihentikan sementara.",
-      "url": "https://news.detik.com/berita/d-8753511/yang-diketahui-soal-crane-jatuh-tewaskan-pekerja-di-kuningan-jaksel",
-      "source": "Detik",
-      "published": "2026-11-15T00:45:04+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/garis-polisi-dipasang-di-lokasi-crane-jatuh-di-kuningan-proyek-dihentikan-sementara-1794646009910_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Kabakom: Muhammadiyah mitra strategis bangun Indonesia berkeadilan",
-      "summary": "Kepala Badan Komunikasi Pemerintah (Bakom) Syahganda Nainggolan menyampaikan pemerintah menempatkan Muhammadiyah ...",
-      "url": "https://www.antaranews.com/berita/5854927/kabakom-muhammadiyah-mitra-strategis-bangun-indonesia-berkeadilan",
-      "source": "ANTARA",
-      "published": "2026-11-15T00:35:57+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/14/Prabowo-Hadiri-Tanwir-Dan-Milad-Dipalu-14112026-Rif-2.jpg"
     }
   ],
   "international": [
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94d8/live/8fe15d90-df82-11f1-b441-2b33b063138f.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
