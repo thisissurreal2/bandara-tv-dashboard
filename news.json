@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-15T06:30:37.735486+00:00",
+  "updated_at": "2026-11-15T06:45:27.546435+00:00",
   "national": [
+    {
+      "title": "Alasan Pemerintah Ingin Pindahkan Badak Jawa ke Alas Purwo",
+      "summary": "Pemerintah berencana memindahkan sebagian populasi badak Jawa dari Ujung Kulon, Banten, ke Alas Purwo, Jawa Timur, untuk mengantisipasi ancaman bencana alam.",
+      "url": "https://www.cnnindonesia.com/nasional/20261115132648-20-1427354/alasan-pemerintah-ingin-pindahkan-badak-jawa-ke-alas-purwo",
+      "source": "CNN Indonesia",
+      "published": "2026-11-15T06:35:04+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2015/09/08/29c9ca69-00a8-4bd4-8cd2-205d51be71c0_169.jpg?w=360&q=90"
+    },
     {
       "title": "Bencana Lahar Mematikan yang Kubur Satu Kota",
       "summary": "Bencana lahar erupsi gunung berapi Nevado del Ruiz di Kolombia begitu mematikan. Peristiwa tahun 1985 ini pernah mengubur satu kota di negara itu.",
@@ -16,14 +24,6 @@
       "source": "ANTARA",
       "published": "2026-11-15T05:16:35+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/15/KTT-Ke-49-ASEAN-Di-Manila-151126-ea-2.jpg"
-    },
-    {
-      "title": "Zulhas Sebut Semua Ketum Parpol Sepakat Wapres dari Gerindra",
-      "summary": "Ketua Umum PAN Zulkifli Hasan mengatakan, semua parpol koalisi sepakat wakil presiden pengganti Gibran Rakabuming berasal dari Gerindra.",
-      "url": "https://www.cnnindonesia.com/nasional/20261115120803-32-1427332/zulhas-sebut-semua-ketum-parpol-sepakat-wapres-dari-gerindra",
-      "source": "CNN Indonesia",
-      "published": "2026-11-15T05:15:18+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/10/19/menteri-koordinator-bidang-pangan-zulkifli-hasan-di-cnn-indonesia-agrifood-forum-2026-1792384625917_169.png?w=360&q=90"
     }
   ],
   "international": [
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
