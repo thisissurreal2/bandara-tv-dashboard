@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-15T19:45:24.654812+00:00",
+  "updated_at": "2026-11-15T20:00:34.038030+00:00",
   "national": [
     {
-      "title": "Rentetan Serangan Udara Houthi ke Saudi, 2 Rudal Ditembak Jatuh di Riyadh",
-      "summary": "Serangan itu terjadi pada hari Minggu (15/11). Dua rudal balistik dari Houthi itu berhasil dicegat sebelum memasuki wilayah Riyadh.",
-      "url": "https://news.detik.com/internasional/d-8754431/rentetan-serangan-udara-houthi-ke-saudi-2-rudal-ditembak-jatuh-di-riyadh",
+      "title": "8 Napi Positif Narkoba Saat Sidak Dini Hari di Lapas Sukabumi, 5 HP Disita",
+      "summary": "Sidak digelar pada Kamis (12/11) dini hari. Dalam operasi tersebut, petugas menemukan lima unit ponsel hingga delapan warga binaan positif amfetamin.",
+      "url": "https://news.detik.com/berita/d-8754432/8-napi-positif-narkoba-saat-sidak-dini-hari-di-lapas-sukabumi-5-hp-disita",
       "source": "Detik",
-      "published": "2026-11-15T18:52:49+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2018/08/24/d387f18b-3dde-4bb3-8a02-eaee00ef5800_169.jpeg?w=360&q=90"
+      "published": "2026-11-15T19:45:47+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/15/sidak-di-lapas-sukabumi-dokistimewa-1794758274393_169.jpeg?w=360&q=90"
     },
     {
       "title": "Oknum Prajurit Diduga Aniaya Santri, TNI AD Proses Hukum Pelaku",
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794769333.jpg?resize=1918%2C1080&quality=80"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
