@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-15T00:30:38.614290+00:00",
+  "updated_at": "2026-11-15T00:45:28.478743+00:00",
   "national": [
+    {
+      "title": "Kabakom: Muhammadiyah mitra strategis bangun Indonesia berkeadilan",
+      "summary": "Kepala Badan Komunikasi Pemerintah (Bakom) Syahganda Nainggolan menyampaikan pemerintah menempatkan Muhammadiyah ...",
+      "url": "https://www.antaranews.com/berita/5854927/kabakom-muhammadiyah-mitra-strategis-bangun-indonesia-berkeadilan",
+      "source": "ANTARA",
+      "published": "2026-11-15T00:35:57+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/14/Prabowo-Hadiri-Tanwir-Dan-Milad-Dipalu-14112026-Rif-2.jpg"
+    },
     {
       "title": "Prabowo Cari Pengganti Gibran Usai Pulang dari China",
       "summary": "Presiden Indonesia Prabowo Subianto akan mencari wakil presiden pengganti Gibran Rakabuming Raka setelah melawat ke China.",
@@ -16,14 +24,6 @@
       "source": "Detik",
       "published": "2026-11-14T23:46:09+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2025/09/16/sekjen-demokrat-1757996511726_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Portugal kalah 1-4 dari Denmark setelah Cristiano Ronaldo pensiun",
-      "summary": "Timnas Portugal menelan kekalahan telak 1-4 dari Denmark dalam pertandingan matchday kelima Nations League 2026/27 di ...",
-      "url": "https://www.antaranews.com/berita/5854903/portugal-kalah-1-4-dari-denmark-setelah-cristiano-ronaldo-pensiun",
-      "source": "ANTARA",
-      "published": "2026-11-14T22:50:21+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/15/1000086617.jpg"
     }
   ],
   "international": [
@@ -36,20 +36,20 @@
       "image": "https://i.guim.co.uk/img/media/36adee7d1aea2fce8a66550d02c86c4385f1808c/238_0_2742_2194/master/2742.jpg?width=140&quality=85&auto=format&fit=max&s=924936c31699e9137998e6737a4e0404"
     },
     {
+      "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
+      "summary": "SpaceX officials say catch by mechanical arms shows Starship's full reusability, crucial for rapid, low-cost recycling.",
+      "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-15T00:14:22+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af8f2594aa1-1794699865.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
       "summary": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
       "url": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-15T00:06:55+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94d8/live/8fe15d90-df82-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "Iran war live: Israel vows Gaza ‘offensive policy’ despite caretaker status",
-      "summary": "Israel has pledged to continue its 'offensive policy' on Gaza as fighting in Yemen grips the region.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/15/iran-war-live-israel-vows-gaza-offensive-policy-despite-caretaker-status?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-15T00:00:08+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6af8f20a72c9-1794699786.jpg?resize=1920%2C1440"
     }
   ],
   "feed_warnings": [
