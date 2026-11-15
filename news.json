@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-15T02:00:39.939708+00:00",
+  "updated_at": "2026-11-15T02:15:25.117739+00:00",
   "national": [
     {
-      "title": "PKB soal Sosok Cawapres: Pengalaman Panjang Kerja dengan Prabowo",
-      "summary": "Waketum PKB Jazilul Fawaid menyatakan Prabowo Subianto masih mencari cawapres pengganti Gibran.",
-      "url": "https://news.detik.com/berita/d-8753529/pkb-soal-sosok-cawapres-pengalaman-panjang-kerja-dengan-prabowo",
+      "title": "TNI AD Minta Maaf Oknum Prajurit Diduga Aniaya Santri: Diproses Hukum",
+      "summary": "TNI AD minta maaf atas dugaan penganiayaan santri oleh oknum prajurit. Proses hukum sedang berjalan.",
+      "url": "https://news.detik.com/berita/d-8753546/tni-ad-minta-maaf-oknum-prajurit-diduga-aniaya-santri-diproses-hukum",
       "source": "Detik",
-      "published": "2026-11-15T01:37:04+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2024/11/30/women-leadership-forum-beri-peran-luas-bagi-perempuan-4_169.jpeg?w=360&q=90"
+      "published": "2026-11-15T02:10:12+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/07/16/kepala-dinas-penerangan-tni-ad-kadispenad-brigjen-tni-donny-pramono-saat-jumpa-pers-di-malacca-toast-jakarta-pusat-jumat-29520-1784207511399_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo tiba hadiri pembukaan KTT ke-49 ASEAN di Manila",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "SpaceX’s Starship nails a smooth return with historic catch",
-      "summary": "SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical ‘chopsticks’.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss",
+      "title": "Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold",
+      "summary": "Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah.",
+      "url": "https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-15T01:22:01+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794705713.jpg?resize=1920%2C1080&quality=80"
+      "published": "2026-11-15T01:54:55+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/04/Iraqi-PM-Horizontal-thumb-1777368476.jpg?resize=1920%2C1080&quality=80"
     },
     {
-      "title": "UK government to consider changing age of consent after allegations against Russell Brand",
-      "summary": "Deputy prime minister says change would be a massive step but ‘deserves proper consideration and scrutiny’ The government has said it will consider calls to change the age of consent after a woman waived her right to anonymity to publicly claim she was raped by Russell Brand as a 16-year-old schoolgirl. Mia Latter, now 37, alleged she had been orally raped by the jailed comedian when she was a teenager and he was 30 years old. Continue reading...",
-      "url": "https://www.theguardian.com/law/2026/nov/15/uk-government-to-consider-changing-age-of-consent-after-allegations-against-russell-brand",
+      "title": "Thunderstorms, giant hail and powerful winds forecast for NSW as wild weather hits east coast",
+      "summary": "Volatile weather predicted after storms on Saturday, with a man in his 20s struck by lightning while swimming on NSW Central Coast Get our breaking news email , free app or daily news podcast Dangerous and severe “supercell” thunderstorms with the potential for giant hail and destructive winds were forecast for parts of New South Wales on Sunday, as volatile weather continued in the eastern states over the weekend. Storms dumped heavy rain across large parts of northern and eastern NSW and much of Queensland on Saturday, with strong winds recorded up to 98km/h in Goulburn and rainfall totals of between 30mm and 50mm in the Coffs Harbour area. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/15/australia-weather-east-coast-thunderstorms-giant-hail-and-powerful-winds-ettalong-beach-swimmer-lightning-strike",
       "source": "The Guardian",
-      "published": "2026-11-15T00:17:14+00:00",
-      "image": "https://i.guim.co.uk/img/media/36adee7d1aea2fce8a66550d02c86c4385f1808c/238_0_2742_2194/master/2742.jpg?width=140&quality=85&auto=format&fit=max&s=924936c31699e9137998e6737a4e0404"
+      "published": "2026-11-15T01:52:37+00:00",
+      "image": "https://i.guim.co.uk/img/media/0ff1f7cb491d3cea7030874a5781c374e23a49b6/586_0_3258_2608/master/3258.jpg?width=140&quality=85&auto=format&fit=max&s=db2094a4a83783cc718c1ec3227c1976"
     },
     {
       "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94d8/live/8fe15d90-df82-11f1-b441-2b33b063138f.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
