@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-15T11:45:26.157396+00:00",
+  "updated_at": "2026-11-15T12:00:44.931373+00:00",
   "national": [
     {
-      "title": "Megawati Hadiri Malam Puncak Fatmawati Trophy 2026",
-      "summary": "Malam puncak penganugerahan Fatmawati Trophy 2026 digelar hari ini. Ketua Umum PDIP Megawati Soekarnoputri hadir.",
-      "url": "https://news.detik.com/berita/d-8754181/megawati-hadiri-malam-puncak-fatmawati-trophy-2026",
+      "title": "Keluarga Bung Karno Dukung Penuh Gelaran Fatmawati Trophy 2026",
+      "summary": "Keluarga Bung Karno dukung gelaran Fatmawati Trophy 2026. Keluarga besar terlibat aktif dalam penyelenggaraan acara ini.",
+      "url": "https://news.detik.com/berita/d-8754200/keluarga-bung-karno-dukung-penuh-gelaran-fatmawati-trophy-2026",
       "source": "Detik",
-      "published": "2026-11-15T11:18:07+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/15/megawati-hadiri-fatmawati-trophy-2026-adrialdetikcom-1794741438254_169.jpeg?w=360&q=90"
+      "published": "2026-11-15T11:54:12+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/15/pdip-1794743572460_169.jpeg?w=360&q=90"
     },
     {
       "title": "Komnas HAM Ikut Investigasi Kasus Dugaan Pemerkosaan Bupati Kupang",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "MMA fighters jailed after Abu Dhabi hotel lobby brawl",
+      "summary": "Ten people have been convicted by the Abu Dhabi Criminal Court over a brawl in a hotel lobby.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/mma-fighters-jailed-after-abu-dhabi-hotel-lobby-brawl?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-15T11:33:49+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794742401.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
       "title": "Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live",
       "summary": "Bahrain lies directly across Persian Gulf from Iran and is home to US Navy Fifth Fleet The US thinks Iran still has between 1,500-2,500 missiles in its arsenal despite the US-Israeli damage done this year to its production facilities, reports the Wall St Journal. That’s the “low confidence” assessment from intelligence analysts, the American paper reports, citing US officials. Continue reading...",
       "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
@@ -42,19 +50,7 @@
       "source": "BBC",
       "published": "2026-11-15T11:06:32+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fb0/live/ed275c50-e0dd-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "title": "Police confront protesters in clashes across France and Germany",
-      "summary": "Tens of thousands took to the streets in cities across France and Germany over rising living costs.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/police-confront-protesters-in-clashes-across-france-and-germany?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-15T11:04:10+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794740522.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
