@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-15T07:00:37.904658+00:00",
+  "updated_at": "2026-11-15T07:15:27.269032+00:00",
   "national": [
     {
-      "title": "BPJS Ketenagakerjaan Beri Perlindungan ke 100 Calon PMI dari Madiun",
-      "summary": "Sebanyak 100 CPMI dari Madiun menerima perlindungan jaminan sosial dari BPJS Ketenagakerjaan. Program SMK Go Global dukung pekerja migran untuk bekerja aman.",
-      "url": "https://news.detik.com/berita/d-8753856/bpjs-ketenagakerjaan-beri-perlindungan-ke-100-calon-pmi-dari-madiun",
+      "title": "Pesona Bromo kembali pulih! Intip panorama hijau Taman Nasional Bromo Tengger Semeru usai kebakaran lahan",
+      "summary": "Wisatawan melihat panorama kawasan Taman Nasional Bromo Tengger Semeru (TNBTS) di Kabupaten Malang, Jawa Timur, Minggu ...",
+      "url": "https://www.antaranews.com/foto/5855435/pesona-bromo-kembali-pulih-intip-panorama-hijau-taman-nasional-bromo-tengger-semeru-usai-kebakaran-lahan",
+      "source": "ANTARA",
+      "published": "2026-11-15T07:06:12+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/15/Bromo-Kembali-Menghijau-Malang-151126-IS-9.jpg"
+    },
+    {
+      "title": "Menlu Tata: Indonesia Lihat ASEAN sebagai Soko Guru Politik Luar Negeri",
+      "summary": "Menlu RI Arrmanatha Nasir menegaskan peran ASEAN sebagai tiang utama politik luar negeri Indonesia.",
+      "url": "https://news.detik.com/berita/d-8753863/menlu-tata-indonesia-lihat-asean-sebagai-soko-guru-politik-luar-negeri",
       "source": "Detik",
-      "published": "2026-11-15T06:59:13+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/15/bpjs-ketenagakerjaan-beri-perlindungan-ke-100-calon-pmi-dari-madiun-1794725494172_169.jpeg?w=360&q=90"
+      "published": "2026-11-15T07:03:14+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/arrmanatha-nasir-1794672829914_169.jpeg?w=360&q=90"
     },
     {
       "title": "Alasan Pemerintah Ingin Pindahkan Badak Jawa ke Alas Purwo",
@@ -16,17 +24,17 @@
       "source": "CNN Indonesia",
       "published": "2026-11-15T06:35:04+00:00",
       "image": "https://akcdn.detik.net.id/visual/2015/09/08/29c9ca69-00a8-4bd4-8cd2-205d51be71c0_169.jpg?w=360&q=90"
-    },
-    {
-      "title": "Hadiri KTT Ke-49 ASEAN di Manila, Presiden Prabowo disambut langsung Ferdinand Marcos Jr. dan Louise Araneta-Marcos",
-      "summary": "Presiden Filipina Ferdinand Marcos Jr. (tengah) bersama Ibu Negara Louise Araneta-Marcos (kanan) menyambut Presiden ...",
-      "url": "https://www.antaranews.com/foto/5855319/hadiri-ktt-ke-49-asean-di-manila-presiden-prabowo-disambut-langsung-ferdinand-marcos-jr-dan-louise-araneta-marcos",
-      "source": "ANTARA",
-      "published": "2026-11-15T05:16:35+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/15/KTT-Ke-49-ASEAN-Di-Manila-151126-ea-2.jpg"
     }
   ],
   "international": [
+    {
+      "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
+      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-15T07:10:31+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3177/live/2aeb3c20-e0c3-11f1-b441-2b33b063138f.jpg"
+    },
     {
       "title": "Israel: Making the Holy Land burn",
       "summary": "For all its greenwashing, the Zionist state has ecologically devastated Palestine more than anyone else.",
@@ -42,14 +50,6 @@
       "source": "The Guardian",
       "published": "2026-11-15T06:22:32+00:00",
       "image": "https://i.guim.co.uk/img/media/bdce7545dc691e9936e076cd03bde7e3cc7e3a2a/264_0_3267_2614/master/3267.jpg?width=140&quality=85&auto=format&fit=max&s=3d2b7ab32c9547d61fbc8e221d4002cf"
-    },
-    {
-      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-      "summary": "It is the latest development in a months-long challenge to the president's plans for East Potomac Golf Links.",
-      "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-15T03:21:04+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg"
     }
   ],
   "feed_warnings": []
