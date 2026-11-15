@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T17:45:27.377290+00:00",
+  "updated_at": "2026-11-15T18:00:40.493323+00:00",
   "national": [
     {
       "title": "Momen Megawati dan Guntur Soekarnoputra Joget Bareng di Fatmawati Trophy 2026",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
+      "title": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
+      "summary": "Nearly 1,500 migrants reach Spain’s Canary Islands in one day",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/nearly-1500-migrants-reach-spains-canary-islands-in-one-day?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-15T17:39:23+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794764357.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
+      "title": "Iran launches drone attacks against US military base in Bahrain",
+      "summary": "Strikes cast further doubt on peace talks between Tehran and Washington with increasing risk of escalation Iran has launched drone attacks against a US military base in Bahrain, casting further doubt on peace talks between Tehran and Washington and raising the spectre of escalation. Blasts sounded over the Gulf nation on Sunday in the second Iranian drone attack in three days in retaliation for US strikes in Iran. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
+      "source": "The Guardian",
+      "published": "2026-11-15T17:36:09+00:00",
+      "image": "https://i.guim.co.uk/img/media/8639b2a492926c5d0ccbdbab7179b3d592cdb751/0_37_1091_873/master/1091.jpg?width=140&quality=85&auto=format&fit=max&s=578cbc0307286c00098fc0760a78406b"
+    },
+    {
       "title": "Czechs rally against plan to switch funding of public media",
       "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
       "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-15T17:23:40+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6233/live/1841dbb0-e118-11f1-a7db-d90284d21c62.jpg"
-    },
-    {
-      "title": "Burnham pledges early intervention and ‘benefits backstop’ to tackle youth jobs crisis",
-      "summary": "Prime minister promises ‘root-and-branch rethink’ of support for young people as Milburn report advises sweeping changes to some benefits Andy Burnham: The crisis facing Britain’s young people is politicians’ fault. To fix it, we need a generational response Andy Burnham has pledged to intervene as early as childhood to tackle youth unemployment before a watershed review, promising “a root-and-branch rethink of how we support childhood in the modern world”. Burnham said the government would intervene at all the stages of life in which young people fell behind, and “long before they find themselves out of work and reliant on the state”, including providing more opportunities for vocational training in schools. Continue reading...",
-      "url": "https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet",
-      "source": "The Guardian",
-      "published": "2026-11-15T17:04:55+00:00",
-      "image": "https://i.guim.co.uk/img/media/b9948bd228b02aa56a0356f2a3f2713b85d83833/290_0_4473_3579/master/4473.jpg?width=140&quality=85&auto=format&fit=max&s=ac37a8f6dd0b557e724874bc86532ce8"
-    },
-    {
-      "title": "Somalia: We would not have recovered without the international community",
-      "summary": "Somalia continues to face al-Shabab rebellion and political friction, leading officials to urge international support.",
-      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/15/somalia-we-would-not-have-recovered-without-the-international-community?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-15T16:47:36+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794761249.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
