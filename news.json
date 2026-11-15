@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-15T07:30:32.066163+00:00",
+  "updated_at": "2026-11-15T07:45:28.940265+00:00",
   "national": [
+    {
+      "title": "Cuaca Ekstrem Aceh, Kasatgas PRR Minta Pemda Perkuat Kesiapsiagaan",
+      "summary": "Masyarakat diimbau tetap tenang, tidak terpancing informasi yang belum terverifikasi, serta mengikuti perkembangan cuaca dan arahan dari instansi resmi.",
+      "url": "https://www.cnnindonesia.com/nasional/20261115142155-25-1427370/cuaca-ekstrem-aceh-kasatgas-prr-minta-pemda-perkuat-kesiapsiagaan",
+      "source": "CNN Indonesia",
+      "published": "2026-11-15T07:29:56+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/15/kemendagri-1794725196856_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Antisipasi Cuaca Ekstrem, Tito Minta Pemda Aceh Siagakan Layanan Dasar",
       "summary": "Tito Karnavian minta pemerintah Aceh siaga hadapi cuaca ekstrem 14-16 November 2026. Kesiapan darurat dan informasi cuaca penting untuk masyarakat.",
@@ -16,17 +24,17 @@
       "source": "ANTARA",
       "published": "2026-11-15T07:06:12+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/15/Bromo-Kembali-Menghijau-Malang-151126-IS-9.jpg"
-    },
-    {
-      "title": "Alasan Pemerintah Ingin Pindahkan Badak Jawa ke Alas Purwo",
-      "summary": "Pemerintah berencana memindahkan sebagian populasi badak Jawa dari Ujung Kulon, Banten, ke Alas Purwo, Jawa Timur, untuk mengantisipasi ancaman bencana alam.",
-      "url": "https://www.cnnindonesia.com/nasional/20261115132648-20-1427354/alasan-pemerintah-ingin-pindahkan-badak-jawa-ke-alas-purwo",
-      "source": "CNN Indonesia",
-      "published": "2026-11-15T06:35:04+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2015/09/08/29c9ca69-00a8-4bd4-8cd2-205d51be71c0_169.jpg?w=360&q=90"
     }
   ],
   "international": [
+    {
+      "title": "Japan stun Brazil 3-2 in stoppage time as Ancelotti, Raphinha sent off",
+      "summary": "Substitute Tatsuhiro Sakamoto’s late goal helps Japan avenge their defeat by Brazil in the World Cup round of 32.",
+      "url": "https://www.aljazeera.com/sports/2026/11/15/japan-stun-brazil-3-2-in-stoppage-time-as-ancelotti-raphinha-sent-off?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-15T07:30:21+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-14T133411Z_1587179867_UP1EMBE0TMZWS_RTRMADP_3_SOCCER-MIZUHOCUP-JPN-BRA-1794725995.jpg?resize=1920%2C1440"
+    },
     {
       "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
       "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
@@ -34,14 +42,6 @@
       "source": "BBC",
       "published": "2026-11-15T07:10:31+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3177/live/2aeb3c20-e0c3-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "title": "Israel: Making the Holy Land burn",
-      "summary": "For all its greenwashing, the Zionist state has ecologically devastated Palestine more than anyone else.",
-      "url": "https://www.aljazeera.com/opinions/2026/11/15/israel-making-the-holy-land-burn?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-15T06:49:14+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-22T070259Z_1448102338_RC264OA6MQFM_RTRMADP_3_ISRAEL-PALESTINIANS-OLIVES-THEFT-1794661177_1cbbb6-1794725498.jpg?resize=1200%2C630&quality=80"
     },
     {
       "title": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
@@ -52,5 +52,9 @@
       "image": "https://i.guim.co.uk/img/media/bdce7545dc691e9936e076cd03bde7e3cc7e3a2a/264_0_3267_2614/master/3267.jpg?width=140&quality=85&auto=format&fit=max&s=3d2b7ab32c9547d61fbc8e221d4002cf"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
