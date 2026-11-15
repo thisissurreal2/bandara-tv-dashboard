@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T04:15:27.713076+00:00",
+  "updated_at": "2026-11-15T04:30:31.855959+00:00",
   "national": [
     {
       "title": "Gerindra Riau Dukung Penuh Dasco Jadi Wapres: Sosok Loyal, Terbukti",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Zimbabwe’s HIV gains face a test among young people",
+      "summary": "New prevention tools offer hope, but reaching young people remains a challenge.",
+      "url": "https://www.aljazeera.com/news/2026/11/15/zimbabwes-hiv-gains-face-a-test-among-young-people?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-15T04:13:00+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/A-patient-receives-ARVs-pills-at-a-clinic-in-Harare-Zimbabwe-credit-Deogracious-Kalima-1794649654.jpg?resize=1200%2C675"
+    },
+    {
       "title": "World leaders head to Asia for back-to-back diplomatic summits",
       "summary": "Tussle for influence as trade, tech and regional security to take centre stage in China, Philippines and Cambodia meetings The global political centre of gravity will be firmly in Asia this week as world leaders fly in for back-to-back high-level summits against the backdrop of the tussle for influence between the superpowers China and the US. Beijing will have the home advantage when it welcomes Donald Trump to its southern technology hub of Shenzhen for the Asia-Pacific Economic Cooperation (Apec) leaders’ meeting. It starts two weeks after the US leader lost midterm elections . Continue reading...",
       "url": "https://www.theguardian.com/world/2026/nov/15/asia-diplomatic-summits-trump-xi-putin-apec-asean",
       "source": "The Guardian",
       "published": "2026-11-15T04:00:02+00:00",
       "image": "https://i.guim.co.uk/img/media/ef4d680eeeb4b13e743836eee5388c60a984dd7c/0_0_5840_4672/master/5840.jpg?width=140&quality=85&auto=format&fit=max&s=5c0edeb347e23bbede89a1c6c3a7ee1c"
-    },
-    {
-      "title": "Monkey attacks woman inside residential complex in India",
-      "summary": "A woman was attacked and repeatedly bitten by a monkey at a residential apartment complex in India’s Gujarat state.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/monkey-attacks-woman-inside-residential-complex-in-india?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-15T03:39:39+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794713964.jpg?resize=1200%2C675"
     },
     {
       "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
