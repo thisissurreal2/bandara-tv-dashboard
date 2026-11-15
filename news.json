@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-15T23:30:35.943557+00:00",
+  "updated_at": "2026-11-15T23:45:26.642351+00:00",
   "national": [
+    {
+      "title": "Tiga Pentolan Gerindra di Bursa Cawapres: Dasco, Sugiono, dan Muzani",
+      "summary": "Peta pencalonan Wapres pengganti Gibran mulai mengerucut menyusul kesepakatan para ketum parpol untuk menyerahkan usulan kandidat kepada kader Partai Gerindra.",
+      "url": "https://www.cnnindonesia.com/nasional/20261116061546-32-1427469/tiga-pentolan-gerindra-di-bursa-cawapres-dasco-sugiono-dan-muzani",
+      "source": "CNN Indonesia",
+      "published": "2026-11-15T23:29:48+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2025/07/16/presiden-tiba-di-tanah-air-usai-kunjungan-kenegaraan-1752671842981_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Pendaki 15 Tahun Ditemukan Selamat Usai 7 Hari Hilang di Gunung Bawakaraeng",
       "summary": "Korban diduga hilang di antara Pos Binanga 4 menuju Pos Binanga 3 ketika hendak menyusul dua rekannya yang sempat berjalan lebih dulu.",
@@ -16,14 +24,6 @@
       "source": "ANTARA",
       "published": "2026-11-15T22:39:57+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/16/1000087194.jpg"
-    },
-    {
-      "title": "Oknum Prajurit Diduga Aniaya Santri, TNI AD Proses Hukum Pelaku",
-      "summary": "Oknum TNI AD yang diduga melakukan tindakan penganiayaan terhadap sejumlah santri di Pangandaran, Jabar akan diproses sesuai hukum yang berlaku.",
-      "url": "https://www.cnnindonesia.com/nasional/20261115100139-12-1427304/oknum-prajurit-diduga-aniaya-santri-tni-ad-proses-hukum-pelaku",
-      "source": "CNN Indonesia",
-      "published": "2026-11-15T16:30:12+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2018/08/31/02182152-d247-457f-bd4d-4f273637f701_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-15T220328Z_644538581_UP1EMBF1P9S09_RTRMADP_3_SOCCER-UEFANATIONS-ESP-ENG-1794780677.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
