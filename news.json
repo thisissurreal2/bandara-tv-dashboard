@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-15T08:00:39.026645+00:00",
+  "updated_at": "2026-11-15T08:15:27.848273+00:00",
   "national": [
+    {
+      "title": "Stasiun LRT Manggarai Sempat Blackout Listrik, Pram Jelaskan Penyebabnya",
+      "summary": "Listrik di Stasiun LRT Manggarai sempat padam hingga gelap gulita pada Sabtu kemarin. Gubernur DKI Pramono Anung menjelaskan penyebabnya.",
+      "url": "https://news.detik.com/berita/d-8753906/stasiun-lrt-manggarai-sempat-blackout-listrik-pram-jelaskan-penyebabnya",
+      "source": "Detik",
+      "published": "2026-11-15T07:49:32+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/26/gubernur-dki-jakarta-pramono-anung-1792987024711_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Cuaca Ekstrem Aceh, Kasatgas PRR Minta Pemda Perkuat Kesiapsiagaan",
       "summary": "Masyarakat diimbau tetap tenang, tidak terpancing informasi yang belum terverifikasi, serta mengikuti perkembangan cuaca dan arahan dari instansi resmi.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-15T07:29:56+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/15/kemendagri-1794725196856_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Antisipasi Cuaca Ekstrem, Tito Minta Pemda Aceh Siagakan Layanan Dasar",
-      "summary": "Tito Karnavian minta pemerintah Aceh siaga hadapi cuaca ekstrem 14-16 November 2026. Kesiapan darurat dan informasi cuaca penting untuk masyarakat.",
-      "url": "https://news.detik.com/berita/d-8753881/antisipasi-cuaca-ekstrem-tito-minta-pemda-aceh-siagakan-layanan-dasar",
-      "source": "Detik",
-      "published": "2026-11-15T07:25:24+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/15/antisipasi-cuaca-ekstrem-tito-minta-pemda-aceh-siagakan-layanan-dasar-1794727209669_169.jpeg?w=360&q=90"
     },
     {
       "title": "Pesona Bromo kembali pulih! Intip panorama hijau Taman Nasional Bromo Tengger Semeru usai kebakaran lahan",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Japan stun Brazil 3-2 in stoppage time as Ancelotti, Raphinha sent off",
-      "summary": "Substitute Tatsuhiro Sakamoto’s late goal helps Japan avenge their defeat by Brazil in the World Cup round of 32.",
-      "url": "https://www.aljazeera.com/sports/2026/11/15/japan-stun-brazil-3-2-in-stoppage-time-as-ancelotti-raphinha-sent-off?traffic_source=rss",
+      "title": "Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather",
+      "summary": "Finishing negotiations for disputed South China Sea agreement will be a 'tall order', analysts say.",
+      "url": "https://www.aljazeera.com/economy/2026/11/15/pact-on-south-china-sea-code-of-conduct-unlikely-as-asean-leaders-gather?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-15T07:30:21+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-14T133411Z_1587179867_UP1EMBE0TMZWS_RTRMADP_3_SOCCER-MIZUHOCUP-JPN-BRA-1794725995.jpg?resize=1920%2C1440"
+      "published": "2026-11-15T08:07:08+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26315082167925-1794647864.jpg?resize=1920%2C1440"
     },
     {
       "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
@@ -52,9 +52,5 @@
       "image": "https://i.guim.co.uk/img/media/bdce7545dc691e9936e076cd03bde7e3cc7e3a2a/264_0_3267_2614/master/3267.jpg?width=140&quality=85&auto=format&fit=max&s=3d2b7ab32c9547d61fbc8e221d4002cf"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
