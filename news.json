@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T12:15:35.146796+00:00",
+  "updated_at": "2026-11-15T12:30:31.953279+00:00",
   "national": [
     {
       "title": "Detik-detik Mobil Wisatawan Tak Kuat Nanjak hingga Terjun ke Tebing di Bogor",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Iran targets Bahrain airbase as strikes resume in Gulf - Middle East crisis live",
+      "summary": "Bahrain lies directly across Persian Gulf from Iran and is home to US Navy Fifth Fleet Iranian media are reporting that their Foreign Minister Abbas Araqchi will be in Oman on Tuesday for talks with his Omani counterpart. Oman, along with Qatar, has been one of the key negotiators in ceasefire and peace talks between Tehran and Washington. The Southern Armed Forces announce the implementation of a redeployment ‌operation for its forces from Dhubab Airport and the Bab el-Mandeb area, west of Taiz Governorate. This step is taken based on the priority of securing the capital, Aden, and the neighbouring governorates, as well as strengthening the front lines and addressing existing threats. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
+      "source": "The Guardian",
+      "published": "2026-11-15T12:21:25+00:00",
+      "image": "https://i.guim.co.uk/img/media/8639b2a492926c5d0ccbdbab7179b3d592cdb751/0_37_1091_873/master/1091.jpg?width=140&quality=85&auto=format&fit=max&s=578cbc0307286c00098fc0760a78406b"
+    },
+    {
       "title": "Siege on Hebron’s Beit Ula industrial zone threatens Palestinian economy",
       "summary": "Israel takes measures to crush Palestinian business in the occupied West Bank.",
       "url": "https://www.aljazeera.com/economy/2026/11/15/siege-on-hebrons-beit-ula-industrial-zone-threatens-palestinian-economy?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-11-15T12:02:45+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/163A5524-1-1794734694.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Reform UK losing support to Labour after ‘difficult year’, says Danny Kruger",
-      "summary": "MP says party is being squeezed by arrival of ‘more plausible’ Labour leader in Andy Burnham Reform UK has been losing support to Labour after “a very difficult year,” Danny Kruger has admitted, just over 12 months after his defection to Nigel Farage’s party. The MP, who has been tasked with preparing Reform for government, denied that he regretted jumping from the Conservatives as recent polls indicated a revival under Kemi Badenoch. Continue reading...",
-      "url": "https://www.theguardian.com/politics/2026/nov/15/reform-uk-losing-support-to-labour-after-difficult-year-says-danny-kruger",
-      "source": "The Guardian",
-      "published": "2026-11-15T11:53:01+00:00",
-      "image": "https://i.guim.co.uk/img/media/69519d357913a1109b72cce7c6bab8d6e86cd732/164_166_2096_1676/master/2096.jpg?width=140&quality=85&auto=format&fit=max&s=4dbfdc6c28b3068643580d7502d2717a"
     },
     {
       "title": "Three men sentenced to death in Jordan over fatal church mass shooting",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fb0/live/ed275c50-e0dd-11f1-a701-fddedf244c16.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
