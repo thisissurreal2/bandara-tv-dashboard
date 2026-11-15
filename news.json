@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-15T00:45:28.478743+00:00",
+  "updated_at": "2026-11-15T01:00:37.317545+00:00",
   "national": [
+    {
+      "title": "Yang Diketahui soal Crane Jatuh Tewaskan Pekerja di Kuningan Jaksel",
+      "summary": "Insiden tower crane jatuh di Mega Kuningan, Jakarta, menewaskan satu pekerja. Polisi masih menyelidiki penyebabnya dan proyek dihentikan sementara.",
+      "url": "https://news.detik.com/berita/d-8753511/yang-diketahui-soal-crane-jatuh-tewaskan-pekerja-di-kuningan-jaksel",
+      "source": "Detik",
+      "published": "2026-11-15T00:45:04+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/14/garis-polisi-dipasang-di-lokasi-crane-jatuh-di-kuningan-proyek-dihentikan-sementara-1794646009910_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Kabakom: Muhammadiyah mitra strategis bangun Indonesia berkeadilan",
       "summary": "Kepala Badan Komunikasi Pemerintah (Bakom) Syahganda Nainggolan menyampaikan pemerintah menempatkan Muhammadiyah ...",
@@ -16,17 +24,17 @@
       "source": "CNN Indonesia",
       "published": "2026-11-15T00:20:33+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/12/puja-puji-prabowo-terima-pengunduran-diri-gibran-1794473873141_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Demokrat Spill Isi Pertemuan Prabowo dan Ketum Parpol di Istana Bogor",
-      "summary": "Presiden Prabowo Subianto bertemu petinggi partai koalisi di Istana Bogor. Demokrat spill isi pertemuan.",
-      "url": "https://news.detik.com/berita/d-8753498/demokrat-spill-isi-pertemuan-prabowo-dan-ketum-parpol-di-istana-bogor",
-      "source": "Detik",
-      "published": "2026-11-14T23:46:09+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2025/09/16/sekjen-demokrat-1757996511726_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
+    {
+      "title": "Hundreds of men march in Switzerland to protest violence against women",
+      "summary": "Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity.",
+      "url": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-15T00:27:14+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6af8e2b2a370-1794695858.jpg?resize=1920%2C1440"
+    },
     {
       "title": "UK government to consider changing age of consent after allegations against Russell Brand",
       "summary": "Deputy prime minister says change would be a massive step but ‘deserves proper consideration and scrutiny’ The government has said it will consider calls to change the age of consent after a woman waived her right to anonymity to publicly claim she was raped by Russell Brand as a 16-year-old schoolgirl. Mia Latter, now 37, alleged she had been orally raped by the jailed comedian when she was a teenager and he was 30 years old. Continue reading...",
@@ -34,14 +42,6 @@
       "source": "The Guardian",
       "published": "2026-11-15T00:17:14+00:00",
       "image": "https://i.guim.co.uk/img/media/36adee7d1aea2fce8a66550d02c86c4385f1808c/238_0_2742_2194/master/2742.jpg?width=140&quality=85&auto=format&fit=max&s=924936c31699e9137998e6737a4e0404"
-    },
-    {
-      "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
-      "summary": "SpaceX officials say catch by mechanical arms shows Starship's full reusability, crucial for rapid, low-cost recycling.",
-      "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-15T00:14:22+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af8f2594aa1-1794699865.jpg?resize=1920%2C1440"
     },
     {
       "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94d8/live/8fe15d90-df82-11f1-b441-2b33b063138f.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
