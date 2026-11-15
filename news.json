@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-15T08:15:27.848273+00:00",
+  "updated_at": "2026-11-15T08:30:34.112269+00:00",
   "national": [
     {
-      "title": "Stasiun LRT Manggarai Sempat Blackout Listrik, Pram Jelaskan Penyebabnya",
-      "summary": "Listrik di Stasiun LRT Manggarai sempat padam hingga gelap gulita pada Sabtu kemarin. Gubernur DKI Pramono Anung menjelaskan penyebabnya.",
-      "url": "https://news.detik.com/berita/d-8753906/stasiun-lrt-manggarai-sempat-blackout-listrik-pram-jelaskan-penyebabnya",
+      "title": "Tragedi Kebakaran Maut Saat Pintu Pabrik Dikunci Agar Pegawai Tak Bolos",
+      "summary": "Ketika mencoba melarikan diri lewat tangga, mereka mendapati pintu keluar dalam keadaan terkunci.",
+      "url": "https://news.detik.com/berita/d-8753739/tragedi-kebakaran-maut-saat-pintu-pabrik-dikunci-agar-pegawai-tak-bolos",
       "source": "Detik",
-      "published": "2026-11-15T07:49:32+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/26/gubernur-dki-jakarta-pramono-anung-1792987024711_169.jpeg?w=360&q=90"
+      "published": "2026-11-15T08:28:02+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/15/pabrik-triangle-shirtwaist-yang-dulu-pernah-kebakaran-1794707045545_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Cuaca Ekstrem Aceh, Kasatgas PRR Minta Pemda Perkuat Kesiapsiagaan",
-      "summary": "Masyarakat diimbau tetap tenang, tidak terpancing informasi yang belum terverifikasi, serta mengikuti perkembangan cuaca dan arahan dari instansi resmi.",
-      "url": "https://www.cnnindonesia.com/nasional/20261115142155-25-1427370/cuaca-ekstrem-aceh-kasatgas-prr-minta-pemda-perkuat-kesiapsiagaan",
+      "title": "Borobudur Marathon Dongkrak Ekonomi, UMKM hingga Ojol Panen Rezeki",
+      "summary": "Para pedagang kuliner, pengemudi ojol, hingga pengelola penginapan mengakui peningkatan pendapatan seiring kedatangan hampir 12.500 pelari dari 38 negara.",
+      "url": "https://www.cnnindonesia.com/nasional/20261115150220-25-1427375/borobudur-marathon-dongkrak-ekonomi-umkm-hingga-ojol-panen-rezeki",
       "source": "CNN Indonesia",
-      "published": "2026-11-15T07:29:56+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/15/kemendagri-1794725196856_169.jpeg?w=360&q=90"
+      "published": "2026-11-15T08:20:10+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/15/pemprov-jateng-1794729916182_169.jpeg?w=360&q=90"
     },
     {
       "title": "Pesona Bromo kembali pulih! Intip panorama hijau Taman Nasional Bromo Tengger Semeru usai kebakaran lahan",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather",
-      "summary": "Finishing negotiations for disputed South China Sea agreement will be a 'tall order', analysts say.",
-      "url": "https://www.aljazeera.com/economy/2026/11/15/pact-on-south-china-sea-code-of-conduct-unlikely-as-asean-leaders-gather?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-15T08:07:08+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26315082167925-1794647864.jpg?resize=1920%2C1440"
+      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-15T08:17:41+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b26/live/e7664d20-e0c0-11f1-970d-f5d89da8a1ad.jpg"
     },
     {
-      "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
-      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-15T07:10:31+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3177/live/2aeb3c20-e0c3-11f1-b441-2b33b063138f.jpg"
+      "title": "Jordan sentences three men to death by hanging after deadly church attack",
+      "summary": "This is a breaking news story.",
+      "url": "https://www.aljazeera.com/news/2026/11/15/jordan-sentences-three-men-to-death-by-hanging-after-deadly-church-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-15T08:15:04+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2020/09/breaking-news%402x.png?resize=1200%2C630"
     },
     {
       "title": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
