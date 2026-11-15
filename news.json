@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T17:15:28.706112+00:00",
+  "updated_at": "2026-11-15T17:27:10.655178+00:00",
   "national": [
     {
       "title": "5 Kali Beraksi, Maling Burung Cucak Hijau di Jakbar Ditangkap",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Czechs rally against plan to switch funding of public media",
+      "summary": "Protesters say the move will stifle media freedom, while the coalition government insists broadcasters need to cut costs.",
+      "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-15T17:23:40+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6233/live/1841dbb0-e118-11f1-a7db-d90284d21c62.jpg"
+    },
+    {
       "title": "Burnham pledges early intervention and ‘benefits backstop’ to tackle youth jobs crisis",
       "summary": "Prime minister promises ‘root-and-branch rethink’ of support for young people as Milburn report advises sweeping changes to some benefits Andy Burnham has pledged to intervene as early as childhood to tackle youth unemployment before a watershed review, promising “a root-and-branch rethink of how we support childhood in the modern world”. Burnham said the government would intervene at all the stages of life in which young people fell behind, and “long before they find themselves out of work and reliant on the state”, including providing more opportunities for vocational training in schools. Continue reading...",
       "url": "https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet",
@@ -42,14 +50,6 @@
       "source": "Al Jazeera",
       "published": "2026-11-15T16:47:36+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794761249.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "title": "Czechs rally against plan to switch funding of public media",
-      "summary": "Protesters say the move will stifle media freedom, while the coalition government insists broadcasters need to cut costs.",
-      "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-15T16:36:42+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d10d/live/fe22eed0-e10e-11f1-b441-2b33b063138f.jpg"
     }
   ],
   "feed_warnings": []
