@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-15T05:45:24.610047+00:00",
+  "updated_at": "2026-11-15T06:00:41.272747+00:00",
   "national": [
+    {
+      "title": "Geger Mayat Pria Tertumpuk Sampah Ditemukan di Sungai Cisadane Bogor",
+      "summary": "Mayat pria tanpa identitas ditemukan di pinggir Sungai Cisadane, Bogor. Diduga sudah meninggal lebih dari seminggu.",
+      "url": "https://news.detik.com/berita/d-8753761/geger-mayat-pria-tertumpuk-sampah-ditemukan-di-sungai-cisadane-bogor",
+      "source": "Detik",
+      "published": "2026-11-15T05:37:50+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/15/mayat-1794720634320_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Hadiri KTT Ke-49 ASEAN di Manila, Presiden Prabowo disambut langsung Ferdinand Marcos Jr. dan Louise Araneta-Marcos",
       "summary": "Presiden Filipina Ferdinand Marcos Jr. (tengah) bersama Ibu Negara Louise Araneta-Marcos (kanan) menyambut Presiden ...",
@@ -16,14 +24,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-15T05:15:18+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/10/19/menteri-koordinator-bidang-pangan-zulkifli-hasan-di-cnn-indonesia-agrifood-forum-2026-1792384625917_169.png?w=360&q=90"
-    },
-    {
-      "title": "BULOG Gelar Gerakan Pangan Murah Serentak di CFD Seluruh Indonesia",
-      "summary": "BULOG melaksanakan Gerakan Pangan Murah di Car Free Day untuk stabilisasi harga beras. Kegiatan ini mendukung ketersediaan pangan terjangkau bagi masyarakat.",
-      "url": "https://news.detik.com/berita/d-8753697/bulog-gelar-gerakan-pangan-murah-serentak-di-cfd-seluruh-indonesia",
-      "source": "Detik",
-      "published": "2026-11-15T04:36:56+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/15/bulog-gelar-gerakan-pangan-murah-serentak-di-cfd-seluruh-indonesia-1794717387995_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
