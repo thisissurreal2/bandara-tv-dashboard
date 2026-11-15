@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T18:45:29.340307+00:00",
+  "updated_at": "2026-11-15T19:00:35.230831+00:00",
   "national": [
     {
       "title": "Tawuran di Matraman Dipicu Saling Ejek, 13 Orang Diamankan Polisi",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Labour rebellion over Rosebank oilfield expected to top 100 MPs",
-      "summary": "Total of 75 have already signed letter to Burnham opposing plans as discontent also grows over Europe and welfare changes As many as 100 Labour MPs could sign a letter opposing the giant Rosebank oilfield, as discontent among backbenchers looks likely to surge this week, with rebellions also brewing over Europe and welfare changes. A total of 75 MPs have already signed the private letter, which is expected to be delivered in the next fortnight to Andy Burnham as part of a campaign in which Labour MPs from the party’s 2024 intake are playing a significant role. Continue reading...",
-      "url": "https://www.theguardian.com/business/2026/nov/15/rosebank-oilfield-mps-rebellion",
+      "title": "Senator-elect Scott Colom vows to ensure Trump follows through on his promises",
+      "summary": "Mississippi Democrat points to commitments Trump made: lower prices, halt endless wars and release Epstein files After recently becoming the first Mississippi Democrat elected to the US Senate in more than four decades, Scott Colom pledged to try to ensure Donald Trump “follows through on the commitments” he made while successfully running for a second presidency in 2024. Colom, while being interviewed by CNN host Dana Bash on Sunday, alluded to various campaign promises made by Trump – including lowering consumer prices, halting the seemingly endless wars waged under other presidential administrations, and fully releasing files related to the prosecution of Jeffrey Epstein, the late accused sex trafficker whose social circle encompassed the US and global elite. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/15/scott-colom-mississippi-senate-trump",
       "source": "The Guardian",
-      "published": "2026-11-15T18:35:10+00:00",
-      "image": "https://i.guim.co.uk/img/media/4ecc02fb0d0fc19818ecb0509a94abb8c809af8d/283_0_6172_4940/master/6172.jpg?width=140&quality=85&auto=format&fit=max&s=087ed29827ad9a46cb71ef1906d4ef63"
+      "published": "2026-11-15T18:48:10+00:00",
+      "image": "https://i.guim.co.uk/img/media/4abbdc3b45c3f90c56abf04023eb18752ef75fce/750_0_6515_5212/master/6515.jpg?width=140&quality=85&auto=format&fit=max&s=c2aa9252e91f0fe2ac6aa483b2825c0b"
     },
     {
       "title": "Prince Harry in Ukraine meeting Invictus 2027 hopefuls",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
