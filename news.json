@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T21:00:38.788127+00:00",
+  "updated_at": "2026-11-15T21:15:29.876475+00:00",
   "national": [
     {
       "title": "Drone Resmi Dilarang Mengudara di Beijing, Pemilik Bisa Kena Denda",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Palestinians reclaim Gaza’s shores with a swim for hope",
-      "summary": "For the first time in more than three years, Gaza’s swimming federation has held a competition.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss",
+      "title": "Czechs rally against plan to switch funding of public media",
+      "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs.",
+      "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-15T21:03:40+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f9f/live/b7b68ac0-e121-11f1-9705-e15ce514cc96.jpg"
+    },
+    {
+      "title": "Photos: Pope Leo visits Peru’s Amazon and Andean regions during 12-day tour",
+      "summary": "The pope has called for the preservation of Indigenous traditions in Peru as he wraps up a 12-day tour of Latin America.",
+      "url": "https://www.aljazeera.com/gallery/2026/11/15/photos-pope-leo-visits-perus-amazon-and-andean-regions-during-12-day-tour?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-15T20:50:15+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794775692.jpg?resize=1920%2C1080&quality=80"
+      "published": "2026-11-15T20:54:13+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af9eede3237-1794764510.jpg?resize=1920%2C1440"
     },
     {
       "title": "LSU star MiLaysia Fulwiley arrested after allegedly striking police officer with car",
@@ -42,15 +50,11 @@
       "source": "The Guardian",
       "published": "2026-11-15T19:53:07+00:00",
       "image": "https://i.guim.co.uk/img/media/d0cdc7ba293e89a7643406bdac809c2973100068/510_0_2548_2039/master/2548.jpg?width=140&quality=85&auto=format&fit=max&s=6f16fa20cf5b814f547ed279890aee40"
-    },
-    {
-      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks.",
-      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-15T19:32:39+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
