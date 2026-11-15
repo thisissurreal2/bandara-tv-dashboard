@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-15T01:30:33.496347+00:00",
+  "updated_at": "2026-11-15T01:45:26.981563+00:00",
   "national": [
+    {
+      "title": "PKB soal Sosok Cawapres: Pengalaman Panjang Kerja dengan Prabowo",
+      "summary": "Waketum PKB Jazilul Fawaid menyatakan Prabowo Subianto masih mencari cawapres pengganti Gibran.",
+      "url": "https://news.detik.com/berita/d-8753529/pkb-soal-sosok-cawapres-pengalaman-panjang-kerja-dengan-prabowo",
+      "source": "Detik",
+      "published": "2026-11-15T01:37:04+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2024/11/30/women-leadership-forum-beri-peran-luas-bagi-perempuan-4_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Prabowo tiba hadiri pembukaan KTT ke-49 ASEAN di Manila",
       "summary": "Presiden RI Prabowo Subianto tiba di Philippine International Convention Center (PICC), Pasay City, Filipina, Minggu, ...",
@@ -8,14 +16,6 @@
       "source": "ANTARA",
       "published": "2026-11-15T01:25:44+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/15/1000044117.jpg"
-    },
-    {
-      "title": "Komisi I DPR Minta Santri Korban Penganiayaan Oknum TNI Diberi Pendampingan",
-      "summary": "Wakil Ketua Komisi I DPR, Dave Laksono, menyesalkan dugaan penganiayaan santri oleh oknum TNI di Pangandaran.",
-      "url": "https://news.detik.com/berita/d-8753521/komisi-i-dpr-minta-santri-korban-penganiayaan-oknum-tni-diberi-pendampingan",
-      "source": "Detik",
-      "published": "2026-11-15T01:18:05+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2025/05/05/dave-laksono-1746436050337_169.jpeg?w=360&q=90"
     },
     {
       "title": "Selain Uang Pensiun, Apa Saja yang Didapat Gibran Usai Mundur?",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Hundreds of men march in Switzerland to protest violence against women",
-      "summary": "Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity.",
-      "url": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
+      "title": "SpaceX’s Starship nails a smooth return with historic catch",
+      "summary": "SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical ‘chopsticks’.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-15T00:27:14+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6af8e2b2a370-1794695858.jpg?resize=1920%2C1440"
+      "published": "2026-11-15T01:22:01+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794705713.jpg?resize=1920%2C1080&quality=80"
     },
     {
       "title": "UK government to consider changing age of consent after allegations against Russell Brand",
