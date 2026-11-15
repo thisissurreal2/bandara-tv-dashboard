@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T00:00:38.465226+00:00",
+  "updated_at": "2026-11-15T00:15:27.782931+00:00",
   "national": [
     {
       "title": "Demokrat Spill Isi Pertemuan Prabowo dan Ketum Parpol di Istana Bogor",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Iraq PM targets powerful militia stronghold in $30m oil smuggling probe",
-      "summary": "Iraq’s PM has dismissed nine senior security officials over an alleged oil smuggling network worth up to $30m monthly.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_iraq-pm-targets-militia-stronghold-in-oil-smuggling-141126?traffic_source=rss",
+      "title": "SpaceX’s Starship captured by launchpad arms in dramatic first",
+      "summary": "Starship's dramatic capture sets up Artemis mission launches from Florida in the next few months.",
+      "url": "https://www.aljazeera.com/news/2026/11/15/spacexs-starship-captured-by-launchpad-arms-in-dramatic-first?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-14T23:34:37+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794699268.jpg?resize=1920%2C1080&quality=80"
+      "published": "2026-11-15T00:14:22+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af8f2594aa1-1794699865.jpg?resize=1920%2C1440"
     },
     {
       "title": "How telecoms upgrade work sparked US flight chaos",
@@ -52,5 +52,9 @@
       "image": "https://i.guim.co.uk/img/media/82c9ce7a67d4a13f3e62473874a5e3ca49f73724/435_0_4348_3478/master/4348.jpg?width=140&quality=85&auto=format&fit=max&s=0b71d0a7d05365bcdc5bd2074d733ce8"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
