@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-15T06:45:27.546435+00:00",
+  "updated_at": "2026-11-15T07:00:37.904658+00:00",
   "national": [
+    {
+      "title": "BPJS Ketenagakerjaan Beri Perlindungan ke 100 Calon PMI dari Madiun",
+      "summary": "Sebanyak 100 CPMI dari Madiun menerima perlindungan jaminan sosial dari BPJS Ketenagakerjaan. Program SMK Go Global dukung pekerja migran untuk bekerja aman.",
+      "url": "https://news.detik.com/berita/d-8753856/bpjs-ketenagakerjaan-beri-perlindungan-ke-100-calon-pmi-dari-madiun",
+      "source": "Detik",
+      "published": "2026-11-15T06:59:13+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/15/bpjs-ketenagakerjaan-beri-perlindungan-ke-100-calon-pmi-dari-madiun-1794725494172_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Alasan Pemerintah Ingin Pindahkan Badak Jawa ke Alas Purwo",
       "summary": "Pemerintah berencana memindahkan sebagian populasi badak Jawa dari Ujung Kulon, Banten, ke Alas Purwo, Jawa Timur, untuk mengantisipasi ancaman bencana alam.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-15T06:35:04+00:00",
       "image": "https://akcdn.detik.net.id/visual/2015/09/08/29c9ca69-00a8-4bd4-8cd2-205d51be71c0_169.jpg?w=360&q=90"
-    },
-    {
-      "title": "Bencana Lahar Mematikan yang Kubur Satu Kota",
-      "summary": "Bencana lahar erupsi gunung berapi Nevado del Ruiz di Kolombia begitu mematikan. Peristiwa tahun 1985 ini pernah mengubur satu kota di negara itu.",
-      "url": "https://news.detik.com/berita/d-8753738/bencana-lahar-mematikan-yang-kubur-satu-kota",
-      "source": "Detik",
-      "published": "2026-11-15T06:27:20+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/15/bencana-lahar-erupsi-gunung-berapi-nevado-del-ruiz-di-kolombia-begitu-mematikan-1794706499686_169.png?w=360&q=90"
     },
     {
       "title": "Hadiri KTT Ke-49 ASEAN di Manila, Presiden Prabowo disambut langsung Ferdinand Marcos Jr. dan Louise Araneta-Marcos",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Israel: Making the Holy Land burn",
+      "summary": "For all its greenwashing, the Zionist state has ecologically devastated Palestine more than anyone else.",
+      "url": "https://www.aljazeera.com/opinions/2026/11/15/israel-making-the-holy-land-burn?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-15T06:49:14+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-22T070259Z_1448102338_RC264OA6MQFM_RTRMADP_3_ISRAEL-PALESTINIANS-OLIVES-THEFT-1794661177_1cbbb6-1794725498.jpg?resize=1200%2C630&quality=80"
+    },
+    {
       "title": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
       "summary": "‘We think dialogue is a good thing,’ Australian PM says after German chancellor urges the US to work with Europe for peace in Ukraine Australia has endorsed this week’s historic summit between Donald Trump, Xi Jinping and Vladimir Putin in China, even as European leaders warn that the US president must not make major concessions over the war in Ukraine. The three-way summit is planned to take place in Shenzhen, where the leaders will gather for the Asia-Pacific Economic Cooperation (Apec) meeting. Likened to the 1945 summit at Yalta , the Ukrainian president, Volodymyr Zelenskyy, has warned the talks must not lead to a redistribution of influence among world powers or the abandonment of his country, more than four years into the war sparked by Putin’s full-scale invasion. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
       "source": "The Guardian",
       "published": "2026-11-15T06:22:32+00:00",
       "image": "https://i.guim.co.uk/img/media/bdce7545dc691e9936e076cd03bde7e3cc7e3a2a/264_0_3267_2614/master/3267.jpg?width=140&quality=85&auto=format&fit=max&s=3d2b7ab32c9547d61fbc8e221d4002cf"
-    },
-    {
-      "title": "Secret votes and vetoes: How will the next UN chief be picked?",
-      "summary": "With no frontrunner for the job, eight candidates are vying for the UN Security Council's recommendation.",
-      "url": "https://www.aljazeera.com/news/2026/11/15/secret-votes-and-vetoes-how-will-the-next-un-chief-be-picked?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-15T06:11:00+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6af56a02ab0ad-1794468354.jpg?resize=1920%2C1440"
     },
     {
       "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be0/live/054b94d0-e09e-11f1-a701-fddedf244c16.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
