@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-16T20:00:42.063419+00:00",
+  "updated_at": "2026-11-16T20:15:26.727199+00:00",
   "national": [
     {
-      "title": "Polda Metro Jaya Awasi Ketat Pangan Jelang Nataru, Waspadai Penimbunan",
-      "summary": "Polda Metro Jaya perketat pengawasan distribusi bahan pokok menjelang Nataru untuk cegah penimbunan dan lonjakan harga pangan.",
-      "url": "https://www.cnnindonesia.com/nasional/20261116222539-12-1427888/polda-metro-jaya-awasi-ketat-pangan-jelang-nataru-waspadai-penimbunan",
+      "title": "Polisi Tangkap 5 Orang Buntut Aksi Tawuran di Petamburan Jakpus",
+      "summary": "Polisi tangkap lima orang terkait tawuran di Jalan Petamburan Jakarta Pusat, yang menyebabkan pembakaran dan kerusakan barang warga.",
+      "url": "https://www.cnnindonesia.com/nasional/20261116184142-12-1427845/polisi-tangkap-5-orang-buntut-aksi-tawuran-di-petamburan-jakpus",
       "source": "CNN Indonesia",
-      "published": "2026-11-16T19:02:00+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/16/polda-metro-perketat-pengawasan-pangan-jelang-nataru-antisipasi-penimbunan-1794832076931_169.jpeg?w=360&q=90"
+      "published": "2026-11-16T20:04:00+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2022/03/30/ilustrasi-tawuran-sahur_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo Ingin ASEAN Jadi Kekuatan Industri Teknologi Bukan Sekadar Pasar",
@@ -28,28 +28,28 @@
   ],
   "international": [
     {
-      "title": "People behind Leave.EU and Vote Leave launch new incarnations of pro-Brexit campaigns",
-      "summary": "Andy Wigmore says he wants his Enough Official group to join forces with Michael Gove-backed Stay Out movement The Brexit wars were a bitter period in political history, fraught with tension and badmouthing – and that was just between the different leave campaigns. Now as a new incarnation of Dominic Cummings’ Vote Leave looks set to re-enter the political fray, so too does a rival anti-EU campaign from the team behind Leave.EU, who ran their own unofficial campaign backed by Nigel Farage. Continue reading...",
-      "url": "https://www.theguardian.com/politics/2026/nov/16/people-behind-vote-leave-eu-launch-new-incarnations-brexit",
-      "source": "The Guardian",
-      "published": "2026-11-16T19:38:45+00:00",
-      "image": "https://i.guim.co.uk/img/media/f3c3c6f70f587ec003b3db770a4f62ade49142c9/80_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a140700e5c4084accbf996e012cb1bc3"
-    },
-    {
-      "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
-      "summary": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
-      "url": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-16T19:30:30+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f3a/live/c50f43d0-e1dd-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "title": "Five EU countries announce plan to send rejected asylum seekers to Rwanda",
-      "summary": "In a joint statement, 47 aid, trade union and rights groups urged ‌the five countries to ​abandon the Rwanda plan.",
-      "url": "https://www.aljazeera.com/news/2026/11/16/five-eu-countries-announce-plan-to-send-rejected-asylum-seekers-to-rwanda?traffic_source=rss",
+      "title": "Nationwide ground stop could cost US airlines hundreds of millions",
+      "summary": "Airline executives support modernising FAA systems as US Transportation Secretary Duffy seeks $50bn from Congress.",
+      "url": "https://www.aljazeera.com/news/2026/11/16/nationwide-ground-stop-could-cost-us-airlines-hundreds-of-millions?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-16T19:26:40+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261116__D7LY8P7__v1__HighRes__AustriaEuPoliticsMigration-1794857577.jpg?resize=1920%2C1440"
+      "published": "2026-11-16T20:05:06+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-14T020833Z_1696795389_RC2DNOANX3MH_RTRMADP_3_USA-FAA-GROUND-STOP-1794844657.jpg?resize=1920%2C1440"
+    },
+    {
+      "title": "Forensic expert says his analysis raises doubts about how Epstein died",
+      "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
+      "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-16T20:03:30+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ce/live/59eafa00-e1c3-11f1-8a52-0b287ff76f43.jpg"
+    },
+    {
+      "title": "Ministers to end Palantir’s contract with NHS in England in 2029",
+      "summary": "DHSC to extend US tech firm’s contract for two more years to allow time to line up British companies to replace it Ministers will end the NHS’s contract with the controversial tech firm Palantir – but not until 2029, to allow time to line up British companies to replace it. The Department of Health and Social Care (DHSC) has decided to extend Palantir’s contract to provide the federated data platform (FDP) – the software that links different healthcare providers – for two more years rather than exercise a break clause that would have let them axe it next spring. Continue reading...",
+      "url": "https://www.theguardian.com/society/2026/nov/16/ministers-to-end-palantir-contract-nhs-england-2029",
+      "source": "The Guardian",
+      "published": "2026-11-16T19:59:31+00:00",
+      "image": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=140&quality=85&auto=format&fit=max&s=7f86011f4d4d9f2a535c3ab895ab5f7e"
     }
   ],
   "feed_warnings": [
