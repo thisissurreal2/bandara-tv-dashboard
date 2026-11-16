@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-16T12:00:42.961261+00:00",
+  "updated_at": "2026-11-16T12:15:28.042142+00:00",
   "national": [
+    {
+      "title": "Gerindra Papua Pegunungan Dukung Dasco Jadi Wapres: Sangat Paham Kondisi RI",
+      "summary": "DPD Gerindra Papua Pegunungan dukung Sufmi Dasco Ahmad sebagai calon wakil presiden. Dasco dinilai memahami kondisi Indonesia dan siap mendampingi Prabowo.",
+      "url": "https://news.detik.com/berita/d-8755727/gerindra-papua-pegunungan-dukung-dasco-jadi-wapres-sangat-paham-kondisi-ri",
+      "source": "Detik",
+      "published": "2026-11-16T12:03:20+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/16/dpd-gerindra-papua-pegunungan-1794830539119_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "4 negara desak Israel buka akses masuk bantuan ke Gaza",
+      "summary": "Pemerintah Australia, Kanada, Italia, dan Inggris pada Senin (16/11) mendesak Israel untuk segera mengizinkan masuknya ...",
+      "url": "https://www.antaranews.com/berita/5857799/4-negara-desak-israel-buka-akses-masuk-bantuan-ke-gaza",
+      "source": "ANTARA",
+      "published": "2026-11-16T11:53:59+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/14/thumbs_b_c_be4a6abd41f75b0eb81c3ce20a72c241.jpg"
+    },
     {
       "title": "Remaja Tewas di Gunung Jatim Diduga Kehabisan Air Bantu Pendaki Lain",
       "summary": "Seorang remaja pendaki, Ratu Ayu Nayla (16), ditemukan meninggal di Gunung Penanggungan setelah terjatuh dua kali.",
@@ -8,25 +24,17 @@
       "source": "CNN Indonesia",
       "published": "2026-11-16T11:48:18+00:00",
       "image": "https://akcdn.detik.net.id/visual/2024/02/04/ilustrasi-korban-tewas_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "OJK yakin kinerja industri perbankan pada 2027 akan terus positif",
-      "summary": "Otoritas Jasa Keuangan (OJK) meyakini kinerja industri perbankan pada 2027 akan terus positif seiring dengan membaiknya ...",
-      "url": "https://www.antaranews.com/berita/5857743/ojk-yakin-kinerja-industri-perbankan-pada-2027-akan-terus-positif",
-      "source": "ANTARA",
-      "published": "2026-11-16T11:39:33+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/05/1000221934.jpg"
-    },
-    {
-      "title": "NasDem Dukung Penuh Dasco Jadi Wapres: Pasti Ringan Pekerjaan Presiden",
-      "summary": "Partai NasDem mendukung Sufmi Dasco Ahmad sebagai Wapres pengganti Gibran. Dukungan ini didasarkan pada rekam jejak dan integritas Dasco yang mumpuni.",
-      "url": "https://news.detik.com/berita/d-8755673/nasdem-dukung-penuh-dasco-jadi-wapres-pasti-ringan-pekerjaan-presiden",
-      "source": "Detik",
-      "published": "2026-11-16T11:25:59+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/02/sufmi-dasco-ahmad-dok-istimewa-1793575198849_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
+    {
+      "title": "‘When the sun came out it felt like it opened a scar’ – This is climate breakdown",
+      "summary": "When the floods hit Pakistan he went out to help. Then the water reached his own family. This is Imran Lodhi’s story Location: Dera Ghazi Khan, Pakistan Disaster: Pakistan intense monsoon rainfall Imran Lodhi is a university lecturer with a doctorate in climate change and sustainable development . The 41-year-old was living in Dera Ghazi Khan , a city in south-western Punjab, when floods devastated provinces across Pakistan . Climate change made the monsoon rainfall that caused the floods more intense . Continue reading...",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/16/when-the-sun-came-out-it-felt-like-it-opened-a-scar-this-is-climate-breakdown",
+      "source": "The Guardian",
+      "published": "2026-11-16T12:00:59+00:00",
+      "image": "https://i.guim.co.uk/img/media/03df085cea47ca4df586d23872f7663cb2637137/320_0_1600_1280/master/1600.jpg?width=140&quality=85&auto=format&fit=max&s=be9cf0165f7c1947cf79549d974164c6"
+    },
     {
       "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
       "summary": "Germany, Denmark, Austria, Greece and the Netherlands are expected to announce a \"return hub\" for failed asylum seekers.",
@@ -34,14 +42,6 @@
       "source": "BBC",
       "published": "2026-11-16T11:55:57+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f790/live/14731cc0-bfcb-11f0-8456-eff94716b162.jpg"
-    },
-    {
-      "title": "First Thing: Trump administration blames travel chaos on former presidents and Congress",
-      "summary": "Donald Trump on Sunday blamed the Biden administration for the four-hour nationwide flight stoppage that led to thousands of canceled flights over the weekend. Plus: How Israel is using Amazon facial recognition to track Palestinians Good morning. A four-hour nationwide flight stoppage on Friday threw the entire weekend into chaos, with thousands of flights getting canceled and even more delays. While air travel is expected to even out again on Monday, nearly 2,000 ​flights within, into or out of the US on Sunday were canceled and more than 8,600 were delayed. What’s the Trump administration saying? “I take responsibility for what was given to me by prior administrations,” the US transportation secretary, Sean Duffy, told CNN’s Dana Bash on Sunday. What has Trump said? Donald Trump did not comment on the ground stop until Sunday, when he posted on Truth Social blaming Joe Biden. “The Biden Administration was an FAA disaster. Everything they touched turned bad,” Trump wrote. “We have the knowledge and plan for the Flight Control Systems, we need Congress to give the money, FAST!” What caused the ground stop? Duffy on Saturday said the issue stemmed from routine maintenance . Who will he be meeting in China? China confirmed on Monday that Trump, Xi Jinping and Vladimir Putin would hold their first trilateral summit on Thursday in Shenzhen. What’s at stake here? Trump is under pressure to speak with Xi about the Nvidia fallout, in which the company’s chief executive, Jensen Huang, was forced to resign amid revelations he had had an affair with a woman suspected of being a Chinese spy. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/16/first-thing-trump-administration-blames-travel-chaos-on-former-presidents-and-congress",
-      "source": "The Guardian",
-      "published": "2026-11-16T11:46:33+00:00",
-      "image": "https://i.guim.co.uk/img/media/3895a73fc525e4b560bc91f0b5480fe71850c3d8/717_0_7144_5719/master/7144.jpg?width=140&quality=85&auto=format&fit=max&s=3029d1ad8d73f54cbd2c9c76388b04d5"
     },
     {
       "title": "Who is Ahmad Tibi, the Arab MP elected deputy speaker of Israel’s Knesset?",
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2020/03/c83ddbc80ee346baa03f767854b184cb_18.jpeg?resize=1200%2C675"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
