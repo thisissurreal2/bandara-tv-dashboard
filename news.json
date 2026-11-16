@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-16T14:30:36.645226+00:00",
+  "updated_at": "2026-11-16T14:45:34.465814+00:00",
   "national": [
+    {
+      "title": "Viral KRL Green Line Ngebut dan Rem Mendadak, KAI Ungkap Ada Gangguan Rem",
+      "summary": "Penumpang KRL Green Line mengeluhkan laju kereta yang kencang dan rem mendadak. KAI Commuter meminta maaf sebab ada kendala sistem pengereman.",
+      "url": "https://news.detik.com/berita/d-8755903/viral-krl-green-line-ngebut-dan-rem-mendadak-kai-ungkap-ada-gangguan-rem",
+      "source": "Detik",
+      "published": "2026-11-16T14:42:44+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2025/12/29/krl-baru-seri-cli-225-buatan-inka-resmi-beroperasi-per-selasa-1612-jabbar-ramdhanidetikcom-1766995985039_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Habiburokhman Gerindra Jadi Ketua Tim Verifikasi Cawapres di MPR",
       "summary": "Ketua Fraksi Gerindra Habiburokhman ditunjuk sebagai Ketua Tim Verifikasi Cawapres untuk pemilihan di MPR.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-16T14:28:25+00:00",
       "image": "https://akcdn.detik.net.id/visual/2025/11/18/dpr-setujui-ruu-kuhap-menjadi-undang-undang-1763445505831_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Flight AS Sempat Lumpuh Total, Trump Tuding 'Warisan' Biden",
-      "summary": "Penerbangan di Amerika Serikat (AS) sempat lumpuh total. Presiden AS Donald Trump menuding hal itu disebabkan warisan era mantan Presiden AS Joe Biden.",
-      "url": "https://news.detik.com/internasional/d-8755857/flight-as-sempat-lumpuh-total-trump-tuding-warisan-biden",
-      "source": "Detik",
-      "published": "2026-11-16T14:06:56+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/03/lincoln-memorial-jadi-panggung-pidato-trump-jelang-pemilu-paruh-waktu-1793676298265_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo dorong penguatan mekanisme ASEAN untuk cegah krisis",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Democrat writes off Trump’s attempt to blame party for flight grounding as ‘absurd’",
-      "summary": "Dan Koh, an incoming House representative and ex-Biden staffer, blasts Trump for blaming previous administration Donald Trump ’s efforts to blame Friday’s four-hour nationwide flight stoppage – and the resulting travel chaos – on Democrats are “absurd”, an incoming Democratic member of Congress said on Sunday. The president remained largely silent and out of public view as air travel shut down on Friday, but on Sunday he emerged to issue a series of posts blaming the incident on the Biden administration. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/16/trump-flight-grounding-democrats-blame",
+      "title": "Passing bill to speed up gas projects and datacenters would be ‘serious mistake’, Al Gore says",
+      "summary": "Former vice-president at Cop31 urges lawmakers to rethink contentious bipartisan Baaja bill advanced by the US Senate It would be a “serious mistake” to pass a contentious bipartisan bill to speed up energy projects and datacenters that has divided Democrats and environmentalists, Al Gore said. The legislation, known as the Bipartisan American Affordability and Jobs Act (Baaja), will make it easier to build large infrastructure projects in the US, from oil and gas pipelines and datacenters to crucial clean energy components such as solar and wind power and transmission lines, scaling back environmental protections and legal challenges in order to do so. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/al-gore-baaja-cop-31-climate",
       "source": "The Guardian",
-      "published": "2026-11-16T14:24:21+00:00",
-      "image": "https://i.guim.co.uk/img/media/a07501dfe2a673b19817618af4cb5f90fb6e5076/629_0_5001_4000/master/5001.jpg?width=140&quality=85&auto=format&fit=max&s=ba4c5589d4d932c4dd1b96fb73f4fc6e"
+      "published": "2026-11-16T14:34:17+00:00",
+      "image": "https://i.guim.co.uk/img/media/d881ae7ec90fe3df31e297b22c8ff5c5d63280cc/758_0_5693_4553/master/5693.jpg?width=140&quality=85&auto=format&fit=max&s=ad190354a5b6655256d150586a7a1daf"
     },
     {
       "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-16T070423Z_715019825_RC2TOOAXD9QD_RTRMADP_3_IRAN-CRISIS-YEMEN-1794814733.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
