@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-16T05:30:31.660091+00:00",
+  "updated_at": "2026-11-16T05:45:51.247387+00:00",
   "national": [
     {
-      "title": "MPR Kembali Rapat Gabungan Bahas Jadwal Paripurna Pemilihan Wapres",
-      "summary": "MPR RI menggelar rapat gabungan untuk membahas ulang jadwal sidang paripurna pemilihan wakil presiden baru. Rapat dijadwalkan pada 9 Desember 2026.",
-      "url": "https://www.cnnindonesia.com/nasional/20261116120818-32-1427596/mpr-kembali-rapat-gabungan-bahas-jadwal-paripurna-pemilihan-wapres",
-      "source": "CNN Indonesia",
-      "published": "2026-11-16T05:25:50+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/10/rapat-paripurna-pembukaan-masa-sidang-1794288033541_169.jpeg?w=360&q=90"
+      "title": "Pramono Pastikan 2 Stasiun LRT Rute Manggarai-Kelapa Gading Segera Dibuka",
+      "summary": "Pramono mengatakan, pembukaan stasiun-stasiun LRT rute Manggarai hingga Kelapa Gading dapat segera menyelesaikan persoalan di bawahnya.",
+      "url": "https://news.detik.com/berita/d-8754924/pramono-pastikan-2-stasiun-lrt-rute-manggarai-kelapa-gading-segera-dibuka",
+      "source": "Detik",
+      "published": "2026-11-16T05:42:29+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/gubernur-pramono-anung-mengatakan-pemprov-dki-akan-mendampingi-santri-korban-kekerasan-seksual-oleh-kiai-di-ponpes-darul-hasbi-1794455035763_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Operasi Zebra Jaya Dimulai, Polisi Gelar Apel Pasukan",
-      "summary": "Polda Metro Jaya mengerahkan 2.939 personel gabungan dalam Operasi Zebra Jaya 2026 yang berlangsung pada 16-29 November.",
-      "url": "https://news.detik.com/foto-news/d-8754788/operasi-zebra-jaya-dimulai-polisi-gelar-apel-pasukan",
-      "source": "Detik",
-      "published": "2026-11-16T04:54:56+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/16/apel-gelar-pasukan-operasi-zebra-jaya-2026-1794802747827.jpeg?w=360&q=90"
+      "title": "Sohibul Iman Resmi Dilantik Jadi Wakil Ketua MPR Gantikan HNW",
+      "summary": "Majelis Permusyawaratan Rakyat (MPR) RI resmi melantik Sohibul Iman menjadi Wakil Ketua MPR menggantikan Hidayat Nur Wahid yang mundur dari jabatan.",
+      "url": "https://www.cnnindonesia.com/nasional/20261116122725-32-1427612/sohibul-iman-resmi-dilantik-jadi-wakil-ketua-mpr-gantikan-hnw",
+      "source": "CNN Indonesia",
+      "published": "2026-11-16T05:37:23+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/16/mpr-lantik-sohibul-iman-jadi-wakil-ketua-mpr-1794807105161_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo: Indonesia dukung aspirasi Timor Leste jabat Ketua ASEAN 2029",
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260408__A7499DR__v1__HighRes__IraqIranIsraelUsWar-1794800174.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
