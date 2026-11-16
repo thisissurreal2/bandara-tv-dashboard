@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T21:02:24.462712+00:00",
+  "updated_at": "2026-11-16T21:15:29.722960+00:00",
   "national": [
     {
       "title": "Kebakaran di Kompleks Kopasgat Bogor, 2 Orang Sesak Napas Dilarikan ke RS",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
+      "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-16T21:05:58+00:00",
+      "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
+    },
+    {
       "title": "Photos: California residents gather to watch massive El Nino-fuelled waves",
       "summary": "National Weather Service warns that waves of more than 10 metres high could impact some parts of US's California coast.",
       "url": "https://www.aljazeera.com/gallery/2026/11/16/photos-california-residents-gather-to-watch-massive-el-nino-fuelled-waves?traffic_source=rss",
@@ -42,15 +50,11 @@
       "source": "BBC",
       "published": "2026-11-16T20:33:57+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ce/live/59eafa00-e1c3-11f1-8a52-0b287ff76f43.jpg"
-    },
-    {
-      "title": "Suspect in custody after bomb found at Illinois ethanol plant",
-      "summary": "The FBI is leading the investigation into the Biourja Renewables incident after it led to a temporary evacuation Authorities investigating a bomb found recently at an ethanol production plant in Peoria, Illinois, have taken a suspect into custody, according to the mayor there. The Peoria mayor, Rita Ali, told the Guardian on Monday that leadership at the BioUrja Renewables plant “have informed me that a suspect is in custody”. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/16/illinois-bomb-ethanol-plant-suspect",
-      "source": "The Guardian",
-      "published": "2026-11-16T20:25:06+00:00",
-      "image": "https://i.guim.co.uk/img/media/331ca93396a5c80784133ac7c3dfbd182ea9ca68/650_0_4618_3695/master/4618.jpg?width=140&quality=85&auto=format&fit=max&s=dbb597bbe12cf4df0a344d475a5af636"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
