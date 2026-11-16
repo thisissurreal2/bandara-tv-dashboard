@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T00:15:38.355676+00:00",
+  "updated_at": "2026-11-16T00:30:45.352619+00:00",
   "national": [
     {
       "title": "Dasco Si Kancil hingga Sugiono Anak Ideologis Prabowo di Bursa Wapres",
@@ -10,12 +10,12 @@
       "image": "https://akcdn.detik.net.id/visual/2026/02/06/peringatan-hut-ke-18-partai-gerindra-1770376035562_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Pendaki 15 Tahun Ditemukan Selamat Usai 7 Hari Hilang di Gunung Bawakaraeng",
-      "summary": "Korban diduga hilang di antara Pos Binanga 4 menuju Pos Binanga 3 ketika hendak menyusul dua rekannya yang sempat berjalan lebih dulu.",
-      "url": "https://news.detik.com/berita/d-8754473/pendaki-15-tahun-ditemukan-selamat-usai-7-hari-hilang-di-gunung-bawakaraeng",
+      "title": "Najwa Shihab hingga Raffi Ahmad Juga Jadi Korban Sadap Listyo Sigit Dkk",
+      "summary": "Data terbaru, pasangan selebriti Raffi Ahmad dan Nagita Slavina hingga Najwa Shihab juga menjadi korban penyadapan Listyo Sigit dkk",
+      "url": "https://news.detik.com/berita/d-8754494/najwa-shihab-hingga-raffi-ahmad-juga-jadi-korban-sadap-listyo-sigit-dkk",
       "source": "Detik",
-      "published": "2026-11-15T23:19:20+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/16/pendaki-bernama-asradin-baju-merah-ditemukan-dalam-kondisi-selamat-usai-7-hari-hilang-di-lembah-ramma-gunung-bawakaraeng-gowa-1794763460805_43.png?w=360&q=90"
+      "published": "2026-11-16T00:11:18+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2025/09/16/najwa-shihab-1758006138578_43.jpeg?w=360&q=90"
     },
     {
       "title": "Inggris tumbangkan Spanyol 3-2 dan akhiri rekor tak terkalahkan",
@@ -27,6 +27,14 @@
     }
   ],
   "international": [
+    {
+      "title": "Russia's mega-rich are already imagining a future after Putin",
+      "summary": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
+      "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-16T00:13:14+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d12/live/ba3084e0-de83-11f1-93e1-3b657b665bcf.jpg"
+    },
     {
       "title": "Digital finance products used to abuse almost 20% of young women and girls, UK report finds",
       "summary": "Survey respondents describe current or former partners controlling bank accounts and taking out credit online without full consent Almost one in five young women and girls in the UK have experienced digital financial products being used as a tool of abuse by a current or former partner , a report has found. Abusers are exploiting banking apps, online payments and digital credit to control young women, causing financial harm and preventing them from leaving relationships, according to research from the charity Surviving Economic Abuse. In the UK, call the national domestic abuse helpline on 0808 2000 247, or visit Women’s Aid . In the US, the domestic violence hotline is 1-800-799-SAFE (7233). In Australia, the national family violence counselling service is on 1800 737 732. Other international helplines may be found via www.befrienders.org Continue reading...",
@@ -42,19 +50,7 @@
       "source": "Al Jazeera",
       "published": "2026-11-16T00:04:28+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2022/09/AP20253536824920.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-      "summary": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
-      "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-16T00:03:29+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b00/live/90c0ff50-e11b-11f1-a7a2-7bb21fac8f0b.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: TimeoutError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
