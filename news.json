@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-16T20:45:28.345707+00:00",
+  "updated_at": "2026-11-16T21:02:24.462712+00:00",
   "national": [
+    {
+      "title": "Kebakaran di Kompleks Kopasgat Bogor, 2 Orang Sesak Napas Dilarikan ke RS",
+      "summary": "Kebakaran di kompleks Kopasgat Bogor menghanguskan 12 rumah. Dua orang dilarikan ke rumah sakit karena syok dan sesak napas akibat asap.",
+      "url": "https://news.detik.com/berita/d-8756028/kebakaran-di-kompleks-kopasgat-bogor-2-orang-sesak-napas-dilarikan-ke-rs",
+      "source": "Detik",
+      "published": "2026-11-16T20:36:26+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/17/kebakaran-di-kompleks-kopasgat-kelurahan-lawang-gintung-kecamatan-bogor-selatan-kota-bogor-dok-istimewa-1794852686083_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Polisi Tangkap 5 Orang Buntut Aksi Tawuran di Petamburan Jakpus",
       "summary": "Polisi tangkap lima orang terkait tawuran di Jalan Petamburan Jakarta Pusat, yang menyebabkan pembakaran dan kerusakan barang warga.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-16T20:04:00+00:00",
       "image": "https://akcdn.detik.net.id/visual/2022/03/30/ilustrasi-tawuran-sahur_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Prabowo Ingin ASEAN Jadi Kekuatan Industri Teknologi Bukan Sekadar Pasar",
-      "summary": "Presiden Prabowo Subianto menekankan pentingnya kemitraan strategis ASEAN-Korea. Prabowo ingin ASEAN jadi kekuatan industri teknologi.",
-      "url": "https://news.detik.com/berita/d-8756021/prabowo-ingin-asean-jadi-kekuatan-industri-teknologi-bukan-sekadar-pasar",
-      "source": "Detik",
-      "published": "2026-11-16T18:57:42+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/17/presiden-prabowo-hadiri-jamuan-makan-malam-ktt-ke-49-asean-yang-digelar-di-philippine-international-convention-center-picc-man-1794850600832_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo dorong penguatan mekanisme ASEAN untuk cegah krisis",
@@ -27,6 +27,14 @@
     }
   ],
   "international": [
+    {
+      "title": "Photos: California residents gather to watch massive El Nino-fuelled waves",
+      "summary": "National Weather Service warns that waves of more than 10 metres high could impact some parts of US's California coast.",
+      "url": "https://www.aljazeera.com/gallery/2026/11/16/photos-california-residents-gather-to-watch-massive-el-nino-fuelled-waves?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-16T20:42:18+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26318749122767-1794854012.jpg?resize=1200%2C675"
+    },
     {
       "title": "Forensic expert says his analysis of autopsy photos suggest Epstein was killed",
       "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
@@ -42,19 +50,7 @@
       "source": "The Guardian",
       "published": "2026-11-16T20:25:06+00:00",
       "image": "https://i.guim.co.uk/img/media/331ca93396a5c80784133ac7c3dfbd182ea9ca68/650_0_4618_3695/master/4618.jpg?width=140&quality=85&auto=format&fit=max&s=dbb597bbe12cf4df0a344d475a5af636"
-    },
-    {
-      "title": "UEFA backs Diallo to challenge Infantino for FIFA presidency",
-      "summary": "UEFA has found its candidate to take on Gianni Infantino in next year’s FIFA presidential election",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/uefa-backs-diallo-to-challenge-infantino-for-fifa-presidency?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-16T20:20:02+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794860386.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
