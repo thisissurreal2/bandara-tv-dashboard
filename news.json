@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T17:15:29.539242+00:00",
+  "updated_at": "2026-11-16T17:30:34.721830+00:00",
   "national": [
     {
       "title": "Longsor Sempat Tutup Jalan Provinsi di Simalungun Akibat Hujan Deras",
@@ -28,32 +28,32 @@
   ],
   "international": [
     {
+      "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
+      "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-16T17:24:31+00:00",
+      "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
+    },
+    {
+      "title": "Iran deploys army to stronghold of Iran-backed Kataib Hezbollah",
+      "summary": "US pressure on Iraq to curb Tehran's influence leaves potential for direct confrontation with Iran-linked armed group.",
+      "url": "https://www.aljazeera.com/news/2026/11/16/iran-deploys-army-to-stronghold-of-iran-backed-kataib-hezbollah?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-16T17:18:14+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6abdc317db24-1790821143.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
       "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
       "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-16T17:07:55+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg"
-    },
-    {
-      "title": "Trump defends commerce secretary Lutnick, under fire for allegedly slow-walking Nvidia chip export restrictions – live",
-      "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-16T17:04:30+00:00",
-      "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
-    },
-    {
-      "title": "UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA election",
-      "summary": "French Football Federation chief Diallo emerges as a strong challenger in FIFA's presidential election before deadline.",
-      "url": "https://www.aljazeera.com/sports/2026/11/16/uefa-backs-frances-philippe-diallo-to-challenge-infantino-in-fifa-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-16T16:46:05+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260626__B8G94LY__v1__HighRes__FblWc2026Match61NorFra-1794846981.jpg?resize=1920%2C1440"
     }
   ],
   "feed_warnings": [
-    "Detik: URLError",
+    "Detik: TimeoutError",
     "Detik: no fresh stories",
     "Detik: keeping previous story"
   ]
