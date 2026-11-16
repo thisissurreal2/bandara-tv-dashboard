@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-16T13:00:42.834958+00:00",
+  "updated_at": "2026-11-16T13:15:25.423448+00:00",
   "national": [
     {
-      "title": "Menhan Temui Keluarga 3 Prajurit TNI Gugur Kecelakaan Heli Karhutla",
-      "summary": "Menteri Pertahanan Sjafrie Sjamsoeddin mengunjungi keluarga tiga prajurit TNI AD yang gugur dalam kecelakaan helikopter saat penanganan karhutla.",
-      "url": "https://www.cnnindonesia.com/nasional/20261116184238-20-1427841/menhan-temui-keluarga-3-prajurit-tni-gugur-kecelakaan-heli-karhutla",
+      "title": "Dokumen Kasus Korupsi ATR/BPN Diduga Bocor, Pegawai KPK Diperiksa",
+      "summary": "KPK mengonfirmasi pemeriksaan pegawai terkait dugaan kebocoran dokumen kasus suap pengurusan HGB di Kementerian ATR/BPN. Delapan tersangka telah ditetapkan.",
+      "url": "https://www.cnnindonesia.com/nasional/20261116200218-12-1427860/dokumen-kasus-korupsi-atr-bpn-diduga-bocor-pegawai-kpk-diperiksa",
       "source": "CNN Indonesia",
-      "published": "2026-11-16T12:54:50+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/01/01/menteri-pertahanan-republik-indonesia-menhan-ri-sjafrie-sjamsoeddin-tinjau-pembangunan-rumah-hunian-danantara-aceh-tamiang-1767260705110_169.png?w=360&q=90"
+      "published": "2026-11-16T13:10:47+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2019/02/07/3b9689be-c836-4379-b36b-772e9e128c83_169.jpeg?w=360&q=90"
     },
     {
       "title": "Polda Metro-Pemprov DKI Koordinasi Jaga Stok dan Harga Sembako Jelang Nataru",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
+      "title": "‘Orwellian’: HIV scientist’s ordeal lays bare Trump officials’ interference in grant-making",
+      "summary": "Researchers forced to scrap original studies as NIH rethinks grants not in ‘alignment’ with administration’s priorities Dr Jade Pagkas-Bather received her first grant from the National Institutes of Health (NIH) in June 2025 – a milestone in any researcher’s career. She planned to study basic income as a medical intervention: her randomized control trial would test whether monthly grants of $500-cash helped poor, HIV-positive young people in Chicago stick with treatment. Her hypothesis was as straightforward as it was cutting. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/hiv-scientist-nih-grant-making-process",
+      "source": "The Guardian",
+      "published": "2026-11-16T13:00:01+00:00",
+      "image": "https://i.guim.co.uk/img/media/7bc9d1e5a2fcc38b045fd00a8be51070726c9d56/435_0_4353_3483/master/4353.jpg?width=140&quality=85&auto=format&fit=max&s=caaf91097142d920be5e8e873fd2fecd"
+    },
+    {
+      "title": "Massive boulder rolls down mountain and slams into car in China",
+      "summary": "A huge boulder came crashing down a mountain slope onto a car stopped in traffic in Li County, Sichuan, China.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/massive-boulder-rolls-down-mountain-and-slams-into-car-in-china?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-16T12:55:16+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794833671.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
       "title": "Five EU countries expected to announce migrant deportation centre in Rwanda",
       "summary": "Germany, Denmark, Austria, Greece and the Netherlands are expected to announce a \"return hub\" for failed asylum seekers.",
       "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-16T12:54:44+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f790/live/14731cc0-bfcb-11f0-8456-eff94716b162.jpg"
-    },
-    {
-      "title": "‘Visceral response’: flag campaigns inspire anti-racism organising across England",
-      "summary": "Exclusive: Study shows people taking action against far-right intimidation such as 75-year-old taking to his bike at 2am to remove flags Flag campaigns and far-right intimidation have sparked a wave of grassroots anti-racism organising across England in the past 12 months, according to new research. The Institute of Race Relations (IRR) warns that the widespread displays of St George’s cross and union jack flags have been accompanied by racist abuse and violence, with flags deliberately placed outside schools, mosques and care homes. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/nov/16/visceral-response-flag-campaigns-inspire-anti-racism-organising-across-england",
-      "source": "The Guardian",
-      "published": "2026-11-16T12:54:27+00:00",
-      "image": "https://i.guim.co.uk/img/media/56ba62f39579dad429dd9d386c394486ed21d838/510_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=48fa365e6fea1c99f449f4710100dede"
-    },
-    {
-      "title": "British farmers hope UK-EU deal with revive post-Brexit trade",
-      "summary": "Al Jazeera’s Charlie Angela speaks to a farmer in Sussex, who hopes a proposed UK-EU deal will ease trade barriers.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/british-farmers-hope-uk-eu-deal-with-revive-post-brexit-trade?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-16T12:38:20+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794832626.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
