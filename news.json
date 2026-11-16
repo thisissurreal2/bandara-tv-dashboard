@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-16T13:15:25.423448+00:00",
+  "updated_at": "2026-11-16T13:30:36.503557+00:00",
   "national": [
     {
-      "title": "Dokumen Kasus Korupsi ATR/BPN Diduga Bocor, Pegawai KPK Diperiksa",
-      "summary": "KPK mengonfirmasi pemeriksaan pegawai terkait dugaan kebocoran dokumen kasus suap pengurusan HGB di Kementerian ATR/BPN. Delapan tersangka telah ditetapkan.",
-      "url": "https://www.cnnindonesia.com/nasional/20261116200218-12-1427860/dokumen-kasus-korupsi-atr-bpn-diduga-bocor-pegawai-kpk-diperiksa",
+      "title": "Petugas Damkar Tangerang Dipukul OTK Saat Akan Padamkan Kebakaran",
+      "summary": "Seorang petugas damkar di Tangerang dipukul pengendara motor saat bertugas. Insiden ini dipicu ketidaksukaan warga tersebut atas bunyi sirine mobil damkar.",
+      "url": "https://www.cnnindonesia.com/nasional/20261116194335-20-1427856/petugas-damkar-tangerang-dipukul-otk-saat-akan-padamkan-kebakaran",
       "source": "CNN Indonesia",
-      "published": "2026-11-16T13:10:47+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2019/02/07/3b9689be-c836-4379-b36b-772e9e128c83_169.jpeg?w=360&q=90"
+      "published": "2026-11-16T13:24:10+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2018/08/31/1222ae3b-03ef-4fda-af13-ef2c6b652868_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Polda Metro-Pemprov DKI Koordinasi Jaga Stok dan Harga Sembako Jelang Nataru",
-      "summary": "Polda Metro Jaya menggelar rapat dengan Pemprov untuk pengawasan stok dan harga bahan pokok jelang Nataru. Stabilitas harga jadi fokus utama.",
-      "url": "https://news.detik.com/berita/d-8755784/polda-metro-pemprov-dki-koordinasi-jaga-stok-dan-harga-sembako-jelang-nataru",
+      "title": "Gerindra Kaltara Dukung Dasco Jadi Wapres: Selalu Bekerja untuk Rakyat",
+      "summary": "DPD Gerindra Kaltara dukung Sufmi Dasco Ahmad sebagai calon wapres. Mereka menilai Dasco sosok berpengalaman dan selalu bekerja untuk rakyat.",
+      "url": "https://news.detik.com/berita/d-8755816/gerindra-kaltara-dukung-dasco-jadi-wapres-selalu-bekerja-untuk-rakyat",
       "source": "Detik",
-      "published": "2026-11-16T12:46:45+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/16/polda-metro-jaya-dan-stakeholder-terkait-rapat-membahas-terkait-pengawasan-bahan-pokok-penting-bapokting-senin-16112026-1794833116135_169.jpeg?w=360&q=90"
+      "published": "2026-11-16T13:23:30+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/07/23/wakil-ketua-dpr-sufmi-dasco-ahmad-1784793195256_169.jpeg?w=360&q=90"
     },
     {
       "title": "4 negara desak Israel buka akses masuk bantuan ke Gaza",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "‘Orwellian’: HIV scientist’s ordeal lays bare Trump officials’ interference in grant-making",
-      "summary": "Researchers forced to scrap original studies as NIH rethinks grants not in ‘alignment’ with administration’s priorities Dr Jade Pagkas-Bather received her first grant from the National Institutes of Health (NIH) in June 2025 – a milestone in any researcher’s career. She planned to study basic income as a medical intervention: her randomized control trial would test whether monthly grants of $500-cash helped poor, HIV-positive young people in Chicago stick with treatment. Her hypothesis was as straightforward as it was cutting. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/16/hiv-scientist-nih-grant-making-process",
+      "title": "US basketball player arrested with 75lb of marijuana at Nigerian airport, say authorities",
+      "summary": "Suspect named as Greene Da’monte Khiree Drug smuggling carries life sentence in Nigeria An American basketball player has been arrested in Nigeria for allegedly attempting to smuggle 33.95kg (75lb) of marijuana into the country. Nigeria’s National Drug Law Enforcement Agency (NDLEA) said a 28-year-old player it named as Greene Da’monte Khiree from the state of Georgia was arrested at Lagos’s main airport last Wednesday after he arrived on a flight from Thailand via the United Arab Emirates. Continue reading...",
+      "url": "https://www.theguardian.com/sport/2026/nov/16/us-basketball-player-arrested-with-75lb-of-marijuana-at-nigerian-airport-say-authorities",
       "source": "The Guardian",
-      "published": "2026-11-16T13:00:01+00:00",
-      "image": "https://i.guim.co.uk/img/media/7bc9d1e5a2fcc38b045fd00a8be51070726c9d56/435_0_4353_3483/master/4353.jpg?width=140&quality=85&auto=format&fit=max&s=caaf91097142d920be5e8e873fd2fecd"
+      "published": "2026-11-16T13:16:36+00:00",
+      "image": "https://i.guim.co.uk/img/media/2023da565632564e99bf6b4e1b1cee8dfc6423ed/508_0_5033_4024/master/5033.jpg?width=140&quality=85&auto=format&fit=max&s=0b2d05b70802cb74cc98c26cb8d6299c"
     },
     {
       "title": "Massive boulder rolls down mountain and slams into car in China",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f790/live/14731cc0-bfcb-11f0-8456-eff94716b162.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
