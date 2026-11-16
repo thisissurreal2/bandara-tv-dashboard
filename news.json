@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-16T08:30:34.572077+00:00",
+  "updated_at": "2026-11-16T08:45:27.809905+00:00",
   "national": [
     {
-      "title": "MPR Terima Surat Prabowo soal Pengisian Wapres Pengganti Gibran",
-      "summary": "MPR RI menerima surat dari Prabowo terkait pemilihan wapres baru pengganti Gibran putra Jokowi.",
-      "url": "https://www.cnnindonesia.com/nasional/20261116150752-32-1427700/mpr-terima-surat-prabowo-soal-pengisian-wapres-pengganti-gibran",
+      "title": "Polda Metro Andalkan ETLE untuk Tindak Pelanggar di Operasi Zebra Jaya",
+      "summary": "Ditlantas Polda Metro Jaya akan menindak pelanggar lalu lintas dengan ETLE dalam Operasi Zebra Jaya 2026. Fokus pada edukasi dan penegakan hukum humanis.",
+      "url": "https://www.cnnindonesia.com/nasional/20261116152616-12-1427719/polda-metro-andalkan-etle-untuk-tindak-pelanggar-di-operasi-zebra-jaya",
       "source": "CNN Indonesia",
-      "published": "2026-11-16T08:27:20+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/16/presiden-prabowo-subianto-gibran-rakabuming-raka-sufmi-dasco-ahmad-1794796075999_169.jpeg?w=360&q=90"
+      "published": "2026-11-16T08:42:30+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2023/09/18/operasi-zebra-jaya-2023-12_169.jpeg?w=360&q=90"
     },
     {
       "title": "Ratusan Drone Ukraina Melesat ke Moskow, Jembatan Crimea Diserang",
@@ -36,12 +36,12 @@
       "image": "https://i.guim.co.uk/img/media/e480adfe7860e9e4439f965fe15e55a5e4ff13f0/555_0_5960_4770/master/5960.jpg?width=140&quality=85&auto=format&fit=max&s=50878ed33290d246ee0c626a144dabdb"
     },
     {
-      "title": "Why is China resisting a nuclear treaty with the US and Russia?",
-      "summary": "Beijing has a smaller arsenal than Washington and Moscow and worries that a pact could limit its nuclear capabilities.",
-      "url": "https://www.aljazeera.com/news/2026/11/16/why-is-china-not-keen-on-a-nuclear-treaty-with-us-and-russia?traffic_source=rss",
+      "title": "Ecuador’s president denies existence of US military base",
+      "summary": "Daniel Noboa says US personnel in the country for 'temporary activities'.",
+      "url": "https://www.aljazeera.com/news/2026/11/16/ecuadors-president-denies-us-has-military-base-in-country?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-16T07:54:09+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad3a28c-1792254604.jpg?resize=1920%2C1440"
+      "published": "2026-11-16T08:14:48+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2025/10/2025-09-13T010659Z_675633451_RC2S9GAHDNCJ_RTRMADP_3_ECUADOR-ECONOMY-1759872890.jpg?resize=1920%2C1440"
     },
     {
       "title": "US basketball player arrested with 34kg of cannabis at Nigerian airport",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb80/live/543bf260-e189-11f1-938f-7d0e2ede1ea5.png"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
