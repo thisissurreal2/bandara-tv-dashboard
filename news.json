@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-16T22:45:25.817010+00:00",
+  "updated_at": "2026-11-16T23:00:45.550050+00:00",
   "national": [
     {
-      "title": "Kasus Dugaan Pemerkosaan, Bupati Kupang Diperiksa Polisi Rabu Besok",
-      "summary": "Penyidik Polda NTT panggil Bupati Kupang, Yosef Lede, terkait dugaan pemerkosaan di rumah dinas. Proses hukum berjalan, delapan saksi akan diperiksa.",
-      "url": "https://www.cnnindonesia.com/nasional/20261116204103-12-1427870/kasus-dugaan-pemerkosaan-bupati-kupang-diperiksa-polisi-rabu-besok",
+      "title": "Irjen Eko Disidang Etik Hari Ini, Listyo Kapan dan Siapa Pengadilnya?",
+      "summary": "Komjen Hendro Pandowo pimpin sidang KKEP terhadap Irjen Eko Hadi terkait penyadapan presiden hari ini. Lantas kapan Eks Kapolri Listyo disidang etik?",
+      "url": "https://www.cnnindonesia.com/nasional/20261116200657-12-1427863/irjen-eko-disidang-etik-hari-ini-listyo-kapan-dan-siapa-pengadilnya",
       "source": "CNN Indonesia",
-      "published": "2026-11-16T22:43:01+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2019/10/10/c4324570-a14c-499e-b481-eedf85b16d87_169.jpeg?w=360&q=90"
+      "published": "2026-11-16T23:00:45+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2025/12/30/rilis-akhir-tahun-2025-polri-1767084135459_169.jpeg?w=360&q=90"
     },
     {
       "title": "Gempa M 7,1 Guncang Laut Banda Maluku Tenggara",
@@ -32,8 +32,16 @@
       "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-16T22:33:02+00:00",
+      "published": "2026-11-16T22:49:33+00:00",
       "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
+    },
+    {
+      "title": "US Pentagon rejects allegations linking deputy to a Goldman Sachs banker",
+      "summary": "Pentagon defends Steve Feinberg, amid claims in Bloomberg he encouraged defence contractors to use a specific banker.",
+      "url": "https://www.aljazeera.com/news/2026/11/16/us-pentagon-rejects-allegations-linking-deputy-to-a-goldman-sachs-banker?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-16T22:40:07+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20250718__678C3LY__v2__HighRes__UsIsraelDiplomacyDefense-1794860753.jpg?resize=1920%2C1440"
     },
     {
       "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
@@ -42,15 +50,11 @@
       "source": "BBC",
       "published": "2026-11-16T22:21:27+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg"
-    },
-    {
-      "title": "Germany thrash Netherlands to book quarterfinal spot",
-      "summary": "Jurgen Klopp's side outclasses the Dutch 5-0 in Berlin to secure top spot in UEFA Nations League Group A2.",
-      "url": "https://www.aljazeera.com/sports/2026/11/16/germany-thrash-netherlands-to-book-quarterfinal-spot?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-16T22:04:31+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-16T212138Z_232702300_UP1EMBG1NC0EI_RTRMADP_3_SOCCER-UEFANATIONS-GER-NLD-1794864309.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
