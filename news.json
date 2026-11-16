@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T18:00:40.140278+00:00",
+  "updated_at": "2026-11-16T18:15:28.051240+00:00",
   "national": [
     {
       "title": "Seniman di Medan Jadi Korban Pungli Rp 500 Ribu, Kadisbud Diperiksa Inspektorat",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
-      "title": "Israeli court upholds detention of Palestinian land activist Ghassan Najjar",
-      "summary": "Occupied West Bank land defender is set to remain in detention until at least February 26 next year.",
-      "url": "https://www.aljazeera.com/news/2026/11/16/israeli-court-upholds-detention-of-palestinian-land-activist-ghassan-najjar?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-16T17:49:16+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/08/Ghassan-Najjar-1788196487.jpeg?resize=1920%2C1440"
+      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-16T18:06:26+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg"
     },
     {
       "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
       "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-16T17:47:48+00:00",
+      "published": "2026-11-16T18:06:19+00:00",
       "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
     },
     {
-      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-16T17:07:55+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg"
+      "title": "Cargo ship capsizes off Bulgaria’s Black Sea coast",
+      "summary": "Bulgaria's Transport Ministry says that all 12 of the ship's crew members were saved in a rescue operation.",
+      "url": "https://www.aljazeera.com/news/2026/11/16/cargo-ship-capsizes-off-bulgarias-black-sea-coast?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-16T17:54:31+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26320546823827-1794851994.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: TimeoutError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
