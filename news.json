@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-16T17:00:51.606040+00:00",
+  "updated_at": "2026-11-16T17:15:29.539242+00:00",
   "national": [
     {
-      "title": "Terduga Curanmor di Bali Kabur Saat Ditangkap Berakhir Tewas Terborgol",
-      "summary": "Seorang terduga pelaku curanmor di Bali ditemukan tewas di Sungai Celuk, dengan tangan terborgol.",
-      "url": "https://www.cnnindonesia.com/nasional/20261116083706-12-1427505/terduga-curanmor-di-bali-kabur-saat-ditangkap-berakhir-tewas-terborgol",
+      "title": "Longsor Sempat Tutup Jalan Provinsi di Simalungun Akibat Hujan Deras",
+      "summary": "Hujan deras menyebabkan longsor yang menutup akses jalan penghubung Dusun Simeluk. Berkat sinergi warga dan Polsek, jalan kini kembali bisa dilintasi.",
+      "url": "https://www.cnnindonesia.com/nasional/20261116224748-20-1427891/longsor-sempat-tutup-jalan-provinsi-di-simalungun-akibat-hujan-deras",
       "source": "CNN Indonesia",
-      "published": "2026-11-16T16:55:21+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2023/05/30/ilustrasi-penangkapan-1_169.jpeg?w=360&q=90"
+      "published": "2026-11-16T17:07:48+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/01/24/ilustrasi-tanah-longsor-1769227133657_169.jpeg?w=360&q=90"
     },
     {
       "title": "Polisi Ungkap Pemicu Truk Tangki Tak Kuat Nanjak Hingga Tewaskan Siswi di Depok",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
-      "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
-      "summary": "As tech industry pushes for return, US president says he thinks Huang ‘learned a big lesson’ Donald Trump has expressed support for the return of Jensen Huang as the chief executive of Nvidia, as he joined Silicon Valley heavyweights in demanding the reinstatement of the AI figurehead. The US president referred to a tech industry campaign for Huang’s rehabilitation, saying a “big group” of people would like him back. Continue reading...",
-      "url": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
-      "source": "The Guardian",
-      "published": "2026-11-16T16:48:47+00:00",
-      "image": "https://i.guim.co.uk/img/media/7f67412f0366dc2ae41bf00eadde0fe0b8e1c6d0/817_89_6141_4914/master/6141.jpg?width=140&quality=85&auto=format&fit=max&s=f383d71329a6f68ee1d040041748f913"
-    },
-    {
-      "title": "Five EU countries announce migrant deportation centre in Rwanda",
-      "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
-      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-16T16:27:24+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg"
+      "published": "2026-11-16T17:07:55+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg"
     },
     {
-      "title": "Oil tankers hit sea mines in the Strait of Hormuz",
-      "summary": "Oil tankers hit sea mines in the Strait of Hormuz",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/oil-tankers-hit-sea-mines-in-the-strait-of-hormuz?traffic_source=rss",
+      "title": "Trump defends commerce secretary Lutnick, under fire for allegedly slow-walking Nvidia chip export restrictions – live",
+      "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-16T17:04:30+00:00",
+      "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
+    },
+    {
+      "title": "UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA election",
+      "summary": "French Football Federation chief Diallo emerges as a strong challenger in FIFA's presidential election before deadline.",
+      "url": "https://www.aljazeera.com/sports/2026/11/16/uefa-backs-frances-philippe-diallo-to-challenge-infantino-in-fifa-election?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-16T15:37:49+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794843461.jpg?resize=1920%2C1080&quality=80"
+      "published": "2026-11-16T16:46:05+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260626__B8G94LY__v1__HighRes__FblWc2026Match61NorFra-1794846981.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
