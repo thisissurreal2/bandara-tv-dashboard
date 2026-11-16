@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-16T15:45:27.862366+00:00",
+  "updated_at": "2026-11-16T16:00:45.371112+00:00",
   "national": [
     {
-      "title": "Solar Panel Alat Pemantau Erupsi Gunung Bromo Raib Dicuri Maling",
-      "summary": "Satu unit solar panel di Pos Pantau Gunung Bromo dicuri maling. Pencurian itu mengancam sistem peringatan dini erupsi.",
-      "url": "https://www.cnnindonesia.com/nasional/20261116221704-20-1427886/solar-panel-alat-pemantau-erupsi-gunung-bromo-raib-dicuri-maling",
+      "title": "Demo Kasus Pemerkosaan, Massa Mahasiswa Segel Rumah Bupati Kupang",
+      "summary": "Massa mahasiswa menggeruduk Rumah Dinas Bupati Kupang, menuntut Bupati Yosef Lede keluar terkait dugaan pemerkosaan. Aksi berujung penyegelan simbolis.",
+      "url": "https://www.cnnindonesia.com/nasional/20261116223412-12-1427889/demo-kasus-pemerkosaan-massa-mahasiswa-segel-rumah-bupati-kupang",
       "source": "CNN Indonesia",
-      "published": "2026-11-16T15:42:07+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/08/11/penutupan-akses-wisata-bromo-akibat-kebakaran-1786418850766_169.jpeg?w=360&q=90"
+      "published": "2026-11-16T15:53:35+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2024/08/23/demo-tolak-revisi-uu-pilkada-di-kpu-1_169.jpeg?w=360&q=90"
     },
     {
       "title": "Pesan Kapolri Agar Jajaran Jaga Etika dan Kepercayaan Masyarakat",
@@ -32,8 +32,16 @@
       "summary": "Brand’s wife Laura read out a message from him on their YouTube show After education questions, there is one urgent question in the Commons and two ministerial statements. They are, with rough timings: 3.30pm: A Home Office minister responds to an urgent question about planning permission being granted for the proposed camp for asylum seekers near Piddington. It’s always a good idea to promote closer cooperation with all of our allies, and there’s always more that you can do to facilitate trade with friends and neighbours. However, what I disagree with is a settlement that will involve us paying hundreds of millions of pounds into the EU and involve the imposition of huge amounts of red tape on all sorts of businesses across the country … I think it’s a really bad step backwards. Continue reading...",
       "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
       "source": "The Guardian",
-      "published": "2026-11-16T15:34:58+00:00",
+      "published": "2026-11-16T15:49:19+00:00",
       "image": "https://i.guim.co.uk/img/media/f1f62e86d5d340fa3e406a388a83d0ba1c0610c4/765_0_3391_2714/master/3391.jpg?width=140&quality=85&auto=format&fit=max&s=580d87f127bfb9aa97243f0b42e7ae42"
+    },
+    {
+      "title": "Oil tankers hit sea mines in the Strait of Hormuz",
+      "summary": "Oil tankers hit sea mines in the Strait of Hormuz",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/oil-tankers-hit-sea-mines-in-the-strait-of-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-16T15:37:49+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794843461.jpg?resize=1920%2C1080&quality=80"
     },
     {
       "title": "Trump says he wouldn't mind seeing Huang return to Nvidia",
@@ -42,15 +50,11 @@
       "source": "BBC",
       "published": "2026-11-16T15:31:20+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg"
-    },
-    {
-      "title": "Students protest as air pollution chokes New Delhi",
-      "summary": "Students have taken to the streets to demand accountability from authorities over toxic air pollution in New Delhi.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/students-protest-as-air-pollution-chokes-new-delhi?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-16T15:27:07+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794842808.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
