@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-16T02:00:37.528297+00:00",
+  "updated_at": "2026-11-16T02:15:28.440568+00:00",
   "national": [
     {
-      "title": "Pernyataan TNI AD soal Prajurit Aniaya Santri di Pangandaran",
-      "summary": "TNI AD meminta maaf atas dugaan penganiayaan santri di Pangandaran oleh prajuritnya. Proses hukum sedang berjalan.",
-      "url": "https://www.cnnindonesia.com/nasional/20261116080056-12-1427496/pernyataan-tni-ad-soal-prajurit-aniaya-santri-di-pangandaran",
+      "title": "Wapres Pengganti Gibran Ditetapkan 2 Desember, Ini Proses Tahapannya",
+      "summary": "Rapat Paripurna untuk pemilihan wakil presiden baru digelar pada 2 Desember 2026. Berikut tahapan pemilihan wapres.",
+      "url": "https://www.cnnindonesia.com/nasional/20261116085214-32-1427512/tahapan-lengkap-pemilihan-wapres-hingga-ditetapkan-2-desember-2026",
       "source": "CNN Indonesia",
-      "published": "2026-11-16T01:55:55+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2018/08/31/02182152-d247-457f-bd4d-4f273637f701_169.jpeg?w=360&q=90"
+      "published": "2026-11-16T02:11:18+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/10/rapat-paripurna-pembukaan-masa-sidang-1794288033541_169.jpeg?w=360&q=90"
     },
     {
       "title": "Normalisasi Kali Ciliwung, Pembebasan Lahan di Cawang-Cililitan Dikebut",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Australian MP who lost both legs in alleged car attack discharged from hospital",
+      "summary": "The MP was allegedly run down by a car outside her electorate office four weeks ago.",
+      "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-16T01:53:19+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/083d/live/b9880d40-e15f-11f1-a6b7-c136ad7bd6e3.jpg"
+    },
+    {
       "title": "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
       "summary": "Pontiff says he supports Indigenous efforts to protect their lands, demands justice for slain environmental defenders.",
       "url": "https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-11-16T01:52:12+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afa52f7e0c2d-1794790135.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "url": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-16T01:47:57+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa43/live/e2a9a870-e10d-11f1-93e1-3b657b665bcf.jpg"
     },
     {
       "title": "MP Helen Haines leaves hospital four weeks after alleged attack and double leg amputation",
@@ -52,5 +52,9 @@
       "image": "https://i.guim.co.uk/img/media/e095e9628412d9e77ce67e0af0ba05d71fc9eca9/698_0_5541_4435/master/5541.jpg?width=140&quality=85&auto=format&fit=max&s=758324403670a0e19ad94c4c31f87257"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
