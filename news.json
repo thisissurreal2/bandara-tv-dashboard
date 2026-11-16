@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T19:30:36.101941+00:00",
+  "updated_at": "2026-11-16T19:45:29.718924+00:00",
   "national": [
     {
       "title": "Polda Metro Jaya Awasi Ketat Pangan Jelang Nataru, Waspadai Penimbunan",
@@ -28,33 +28,29 @@
   ],
   "international": [
     {
+      "title": "People behind Leave.EU and Vote Leave launch new incarnations of pro-Brexit campaigns",
+      "summary": "Andy Wigmore says he wants his Enough Official group to join forces with Michael Gove-backed Stay Out movement The Brexit wars were a bitter period in political history, fraught with tension and badmouthing – and that was just between the different Leave campaigns. Now as a new incarnation of Dominic Cummings’ Vote Leave looks set to re-enter the political fray, so too does a rival anti-EU campaign from the team behind Leave.EU, who ran their own unofficial campaign backed by Nigel Farage. Continue reading...",
+      "url": "https://www.theguardian.com/politics/2026/nov/16/people-behind-vote-leave-eu-launch-new-incarnations-brexit",
+      "source": "The Guardian",
+      "published": "2026-11-16T19:38:45+00:00",
+      "image": "https://i.guim.co.uk/img/media/f3c3c6f70f587ec003b3db770a4f62ade49142c9/80_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=a140700e5c4084accbf996e012cb1bc3"
+    },
+    {
+      "title": "Lindsay Clancy to face retrial next year for deaths of her three children",
+      "summary": "The 36-year-old's first trial this year fell apart when a 12-person jury failed to reach a verdict.",
+      "url": "https://www.bbc.co.uk/news/articles/cw5y1v8de35go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-16T19:30:30+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f3a/live/c50f43d0-e1dd-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
       "title": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
       "summary": "Move comes as government forces withdraw from Red Sea coast to halt Houthi approach to interim capital Aden.",
       "url": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-11-16T19:19:21+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-27T051408Z_91414459_RC28RNAB5C5M_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN-1790501339.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
-      "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-16T19:17:37+00:00",
-      "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
-    },
-    {
-      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-16T19:16:52+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
