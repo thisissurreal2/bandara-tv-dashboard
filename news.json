@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T20:15:26.727199+00:00",
+  "updated_at": "2026-11-16T20:30:33.494825+00:00",
   "national": [
     {
       "title": "Polisi Tangkap 5 Orang Buntut Aksi Tawuran di Petamburan Jakpus",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Nationwide ground stop could cost US airlines hundreds of millions",
-      "summary": "Airline executives support modernising FAA systems as US Transportation Secretary Duffy seeks $50bn from Congress.",
-      "url": "https://www.aljazeera.com/news/2026/11/16/nationwide-ground-stop-could-cost-us-airlines-hundreds-of-millions?traffic_source=rss",
+      "title": "What will Europe do next in Ukraine?",
+      "summary": "There is division within the European Union over diplomatic strategy for efforts to end the Russia-Ukraine war.",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-16T20:05:06+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-14T020833Z_1696795389_RC2DNOANX3MH_RTRMADP_3_USA-FAA-GROUND-STOP-1794844657.jpg?resize=1920%2C1440"
+      "published": "2026-11-16T20:12:21+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794858749.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
+      "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
+      "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-16T20:07:50+00:00",
+      "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
     },
     {
       "title": "Forensic expert says his analysis raises doubts about how Epstein died",
@@ -42,18 +50,10 @@
       "source": "BBC",
       "published": "2026-11-16T20:03:30+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ce/live/59eafa00-e1c3-11f1-8a52-0b287ff76f43.jpg"
-    },
-    {
-      "title": "Ministers to end Palantir’s contract with NHS in England in 2029",
-      "summary": "DHSC to extend US tech firm’s contract for two more years to allow time to line up British companies to replace it Ministers will end the NHS’s contract with the controversial tech firm Palantir – but not until 2029, to allow time to line up British companies to replace it. The Department of Health and Social Care (DHSC) has decided to extend Palantir’s contract to provide the federated data platform (FDP) – the software that links different healthcare providers – for two more years rather than exercise a break clause that would have let them axe it next spring. Continue reading...",
-      "url": "https://www.theguardian.com/society/2026/nov/16/ministers-to-end-palantir-contract-nhs-england-2029",
-      "source": "The Guardian",
-      "published": "2026-11-16T19:59:31+00:00",
-      "image": "https://i.guim.co.uk/img/media/2492145870792c940b152bec952dec99ef8071eb/415_0_4151_3321/master/4151.jpg?width=140&quality=85&auto=format&fit=max&s=7f86011f4d4d9f2a535c3ab895ab5f7e"
     }
   ],
   "feed_warnings": [
-    "Detik: URLError",
+    "Detik: TimeoutError",
     "Detik: no fresh stories",
     "Detik: keeping previous story"
   ]
