@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-16T03:30:33.722141+00:00",
+  "updated_at": "2026-11-16T03:45:28.566629+00:00",
   "national": [
     {
-      "title": "Foto Wapres Gibran Diturunkan Serentak di DKI Jakarta Hari Ini",
-      "summary": "Gubernur DKI Jakarta Pramono Anung mengumumkan penurunan foto Wakil Presiden di seluruh institusi per hari ini, Senin (16/11).",
-      "url": "https://www.cnnindonesia.com/nasional/20261116095333-32-1427527/foto-wapres-gibran-diturunkan-serentak-di-dki-jakarta-hari-ini",
+      "title": "Sekolah Rakyat, Rumah Kedua yang Dampingi Iksan Bangun Percaya Diri",
+      "summary": "Bagi Iksan, Sekolah Rakyat adalah lingkungan yang mendukung proses tumbuh kembang, membangun kebiasaan dan kepercayaan diri, serta mendapat pendampingan.",
+      "url": "https://www.cnnindonesia.com/nasional/20261116102539-25-1427536/sekolah-rakyat-rumah-kedua-yang-dampingi-iksan-bangun-percaya-diri",
       "source": "CNN Indonesia",
-      "published": "2026-11-16T03:18:34+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/16/foto-wapres-diturunkan-secara-serentak-di-dki-jakarta-1794797957867_169.jpeg?w=360&q=90"
+      "published": "2026-11-16T03:40:09+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/16/kemensos-1794799678612_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Rano PKB Dukung Dasco Jadi Wapres: Mampu Rangkul Berbagai Kekuatan Politik",
-      "summary": "Rano mengatakan PKB memiliki pandangan mengenai figur ideal sebagai pendamping Prabowo di pemerintahan. Sosok itu ialah Wakil Ketua DPR RI Sufmi Dasco Ahmad.",
-      "url": "https://news.detik.com/berita/d-8754674/rano-pkb-dukung-dasco-jadi-wapres-mampu-rangkul-berbagai-kekuatan-politik",
+      "title": "Komeng dan Sejumlah Senator Nyatakan Dukung Dasco Jadi Wapres RI",
+      "summary": "Sejumlah anggota DPD RI dukung Dasco sebagai Wapres pendamping Prabowo. Mereka menilai Dasco ideal menjaga stabilitas politik dan ekonomi RI.",
+      "url": "https://news.detik.com/berita/d-8754709/komeng-dan-sejumlah-senator-nyatakan-dukung-dasco-jadi-wapres-ri",
       "source": "Detik",
-      "published": "2026-11-16T03:10:08+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/09/rano-alfath-1791536590603_169.jpeg?w=360&q=90"
+      "published": "2026-11-16T03:32:57+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/16/dpd-ri-1794799773719_169.jpeg?w=360&q=90"
     },
     {
       "title": "Kalasan, 67 tahun kemudian",
@@ -37,7 +37,7 @@
     },
     {
       "title": "Australia’s national medical research body advises conditional use of puberty blockers for transgender children",
-      "summary": "New National Health and Medical Research Council guidelines at odds with public hospital bans in Queensland and NT Get our breaking news email , free app or daily news podcast Australia’s largest medical research organisation has advised puberty blockers are appropriate for the gender-affirming care of young people in certain circumstances, following a year-long review of international evidence. The federal government last year commissioned the commonwealth-funded National Health and Medical Research Council (NHMRC) to develop the advice in response to bans in Queensland and the Northern Territory public hospitals imposed by their governments. Continue reading...",
+      "summary": "New National Health and Medical Research Council guidelines at odds with public hospital bans in Queensland and NT Get our breaking news email , free app or daily news podcast Australia’s largest medical research organisation has advised puberty blockers are appropriate for the gender-affirming care of young people in certain circumstances, after a year-long review of international evidence. The federal government last year commissioned the commonwealth-funded National Health and Medical Research Council (NHMRC) to develop the advice in response to bans in Queensland and Northern Territory public hospitals imposed by their governments. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/nov/16/australias-national-medical-research-body-advises-conditional-use-of-puberty-blockers-for-transgender-children",
       "source": "The Guardian",
       "published": "2026-11-16T03:15:43+00:00",
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26315082167925-1794791273.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
