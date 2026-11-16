@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-16T06:45:27.166899+00:00",
+  "updated_at": "2026-11-16T07:00:42.452907+00:00",
   "national": [
+    {
+      "title": "Kapal Muatan Ikan Tenggelam, 5 Orang Termasuk Nahkoda Hilang",
+      "summary": "Kapal KM Maritim tenggelam di Pulau Semuluk, Natuna, diduga akibat cuaca buruk. Lima awak kapal hilang, tim SAR masih mencari korban.",
+      "url": "https://www.cnnindonesia.com/nasional/20261116132047-20-1427662/kapal-muatan-ikan-tenggelam-5-orang-termasuk-nahkoda-hilang",
+      "source": "CNN Indonesia",
+      "published": "2026-11-16T06:58:09+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2025/08/10/bingkai-sepekan-edisi-11-agustus-2025-1754824380144_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Di KTT ASEAN, Prabowo Apresiasi Sikap Konsisten China Bela Palestina",
       "summary": "Presiden Prabowo Subianto mengapresiasi dukungan Tiongkok untuk Global South dan Palestina dalam KTT ASEAN-China, menekankan pentingnya kerja sama multilateral.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-16T06:35:19+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/15/presiden-ri-prabowo-subianto-saat-menghadiri-sesi-pleno-ktt-ke-49-asean-di-filipina-1794734596466_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Rerie NasDem Jadi Ketua Verifikasi Cawapres, Bambang Pacul Tim Ad Hoc",
-      "summary": "Wakil Ketua MPR mengumumkan pembentukan tim verifikasi dan ad hoc untuk pemilihan wapres baru pengganti Gibran putra Jokowi.",
-      "url": "https://www.cnnindonesia.com/nasional/20261116131604-32-1427628/rerie-nasdem-jadi-ketua-verifikasi-cawapres-bambang-pacul-tim-ad-hoc",
-      "source": "CNN Indonesia",
-      "published": "2026-11-16T06:32:44+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2019/09/27/e113f7b3-d23e-4474-a5ee-94449bd9d7d2_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo apresiasi sikap China bela Palestina dan Global South",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "UK exposed to polycrisis of threats amid government ‘complacency’",
-      "summary": "Lords report calls for urgent new approach to resilience planning in face of cyber-attacks, sabotage and climate crisis Ministers are complacent in the face of fast-changing and increasingly interconnected threats to the UK, and must act quickly to increase national resilience to possibly very major crises, a parliamentary report has found. While Labour recently launched a “Be Ready” campaign, advising households to have stocks of food and water, most of the public are unaware of the scale of potential threats from cyber-attacks, proxy acts of violence or strikes on underseas cables, as well as natural disasters such as extreme weather and flooding, it said. Continue reading...",
-      "url": "https://www.theguardian.com/society/2026/nov/16/uk-exposed-to-polycrisis-of-threats-amid-government-complacency",
+      "title": "Monday briefing: The many stages of the UK-EU relationship – and what’s next",
+      "summary": "In today’s newsletter: From situationship to a possible makeup, a look at the evolving relationship, and the bloc’s big feelings about the future Good morning. Ahead of the hotly anticipated UK-EU summit this Friday, Andy Burnham is expected to make the reset of our relationship with Europe the pivotal theme of his white-tie speech at the lord mayor’s banquet in London tonight. The prospect of closer ties – and the possibility of going “all the way” to reversing Brexit – has been met with jubilation and relief in some quarters and vehement opposition in others, while around Westminster and across the media the psychodrama has been spiralling for weeks. UK news | A woman who alleges she was raped by Russell Brand when she was 16 has waived her right to anonymity to campaign for a staggered age of consent , which would make it illegal for adults over a certain age to have sex with 16- and 17-year-olds. Youth unemployment | Andy Burnham has pledged to intervene as early as childhood to tackle youth unemployment before a watershed review, promising “a root-and-branch rethink of how we support childhood in the modern world”. Environment | The strongest El Niño in centuries has added urgency to UN climate talks in Turkey as vulnerable countries face “compounding” crises. In other Cop31 news, queer and gay protesters defied a crackdown on LGBTQ+ rights in Turkey to lead a civil society climate march. UK news | Two people aged 22 and 23 have died after their car was hit by a BMW being pursued by police . West Yorkshire police said four people had been arrested and appealed for witnesses to come forward. Air transport | The Trump administration says Friday’s four-hour nationwide Federal Aviation Administration (FAA) ground stop that delayed or cancelled thousands of flight stemmed from routine maintenance . The US transportation secretary, Sean Duffy, blamed prior presidents and Congress for the stoppage. Tuesday | The work and pensions secretary Alan Milburn’s long-awaited review into why increasing numbers of young people are falling out of work and education, is expected to be released. Thursday | German chancellor Friedrich Merz, French president Emmanuel Macron and UK prime minister Andy Burnham will be among around 20 heads of state meeting in Berlin to discuss defence funding for Ukraine, and to establish a unified position on future peace negotiations in its war with Russia. Friday | This marks last day of the world’s biggest annual climate conference, Cop31, in Turkey, with final negotiations taking place. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/16/monday-briefing-the-many-stages-of-the-uk-eu-relationship-and-whats-next",
       "source": "The Guardian",
-      "published": "2026-11-16T06:30:35+00:00",
-      "image": "https://i.guim.co.uk/img/media/3ba762c70e9c188fc6533e353ffe9c2e077e95c6/0_0_4183_3347/master/4183.jpg?width=140&quality=85&auto=format&fit=max&s=2e252d83e1e5acf197ba4a3668df8463"
+      "published": "2026-11-16T06:46:27+00:00",
+      "image": "https://i.guim.co.uk/img/media/6e2cfa54b348df466a21d5a1c4d2bce3e5b12346/1359_0_2742_2194/master/2742.jpg?width=140&quality=85&auto=format&fit=max&s=ae9c6d61d35ff9695d3d3fd72f5c401a"
     },
     {
       "title": "US and rivals spar over next UN boss as race lurches towards deadline",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9fe/live/01adab80-e178-11f1-9340-0b32bbf5495e.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
