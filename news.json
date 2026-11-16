@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-16T04:00:36.213465+00:00",
+  "updated_at": "2026-11-16T04:15:30.581717+00:00",
   "national": [
     {
-      "title": "Alasan Kasus Pemerasan SYL Mandek: Firli Sering Mangkir Pemeriksaan",
-      "summary": "Kasus pemerasan mantan Menteri Pertanian Syahrul Yasin Limpo yang melibatkan Firli Bahuri terhambat. Penyidik kesulitan melengkapi berkas perkara.",
-      "url": "https://www.cnnindonesia.com/nasional/20261116102902-12-1427541/alasan-kasus-pemerasan-syl-mandek-firli-sering-mangkir-pemeriksaan",
+      "title": "3 Bulan Dikepung Karhutla, Tanggap Darurat di Kobar Kalteng Berakhir",
+      "summary": "Status tanggap darurat di Kabupaten Kotawaringin Barat Kalimantan Tengah (Kalteng) resmi berakhir setelah tiga bulan dikepung karhutla.",
+      "url": "https://www.cnnindonesia.com/nasional/20261116102530-20-1427537/3-bulan-dikepung-karhutla-tanggap-darurat-di-kobar-kalteng-berakhir",
       "source": "CNN Indonesia",
-      "published": "2026-11-16T03:54:10+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2023/10/06/pertemuan-firli-dan-syl_169.jpeg?w=360&q=90"
+      "published": "2026-11-16T04:08:25+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/10/13/kabut-asap-dampak-karhutla-masih-menyelimuti-palangka-raya-1791858930155_169.jpeg?w=360&q=90"
     },
     {
       "title": "Gerindra Papua Tengah Dukung Dasco Jadi Wapres RI",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Tech failure forces hundreds of University of Melbourne students to abandon final exams mid-test",
-      "summary": "Students left in limbo after digital platform fails during exams, with university saying ‘third-party technical partners’ likely to blame for issue Hundreds of students at the University of Melbourne were forced to abandon their final exams on Monday morning after many were unable to access the digital platform needed to begin them. Jol Scobie, a first-year student at the university, was set to take his Australian politics exam on Monday after preparing for weeks. He had initially been told earlier in the year it was going to be a hand-written essay before instructors changed the test to a digital platform. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/16/university-of-melbourne-students-exams-cancelled-tech-issue",
+      "title": "Coles investigates cyber-attack and apologises to customers",
+      "summary": "Supermarket giant says no customer, team or supplier data compromised but recommends customers update passwords Get our breaking news email , free app or daily news podcast Australia’s second-largest retailer has been targeted in a cyber-attack, though it is still too early to tell whether any of its data has been stolen or compromised. Coles revealed the threat on Monday morning, saying it was investigating with support from the Australian Cyber Security Centre and global security experts. Continue reading...",
+      "url": "https://www.theguardian.com/business/2026/nov/16/coles-cyber-attack-incident-data",
       "source": "The Guardian",
-      "published": "2026-11-16T03:54:54+00:00",
-      "image": "https://i.guim.co.uk/img/media/62856ebe5b86fdb2d68b736ec09618fddad65592/0_0_691_553/master/691.jpg?width=140&quality=85&auto=format&fit=max&s=07f6e984557f5d4570e04119dd5b45f0"
+      "published": "2026-11-16T04:04:37+00:00",
+      "image": "https://i.guim.co.uk/img/media/5d6841423c15f03bccc940dc248768d8adba7384/780_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=9918a374d89f099274e3dc1e83cfae34"
     },
     {
       "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26315082167925-1794791273.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
