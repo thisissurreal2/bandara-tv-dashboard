@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-16T16:45:28.137506+00:00",
+  "updated_at": "2026-11-16T17:00:51.606040+00:00",
   "national": [
     {
-      "title": "KLH Siapkan Aturan Produsen Wajib Tarik Kembali Kemasan Bekas",
-      "summary": "Kementerian Lingkungan Hidup siapkan regulasi EPR untuk produsen, mendorong ekonomi sirkular dan pengelolaan sampah yang lebih baik di Indonesia.",
-      "url": "https://news.detik.com/berita/d-8755991/klh-siapkan-aturan-produsen-wajib-tarik-kembali-kemasan-bekas",
-      "source": "Detik",
-      "published": "2026-11-16T16:13:20+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/16/sekretaris-utama-kementerian-lingkungan-hidup-rosa-vivien-ratnawati-saat-menghadiri-agenda-paviliun-indonesia-di-konferensi-pe-1794845577019_169.jpeg?w=360&q=90"
+      "title": "Terduga Curanmor di Bali Kabur Saat Ditangkap Berakhir Tewas Terborgol",
+      "summary": "Seorang terduga pelaku curanmor di Bali ditemukan tewas di Sungai Celuk, dengan tangan terborgol.",
+      "url": "https://www.cnnindonesia.com/nasional/20261116083706-12-1427505/terduga-curanmor-di-bali-kabur-saat-ditangkap-berakhir-tewas-terborgol",
+      "source": "CNN Indonesia",
+      "published": "2026-11-16T16:55:21+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2023/05/30/ilustrasi-penangkapan-1_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Demo Kasus Pemerkosaan, Massa Mahasiswa Segel Rumah Bupati Kupang",
-      "summary": "Massa mahasiswa menggeruduk Rumah Dinas Bupati Kupang, menuntut Bupati Yosef Lede keluar terkait dugaan pemerkosaan. Aksi berujung penyegelan simbolis.",
-      "url": "https://www.cnnindonesia.com/nasional/20261116223412-12-1427889/demo-kasus-pemerkosaan-massa-mahasiswa-segel-rumah-bupati-kupang",
-      "source": "CNN Indonesia",
-      "published": "2026-11-16T15:53:35+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2024/08/23/demo-tolak-revisi-uu-pilkada-di-kpu-1_169.jpeg?w=360&q=90"
+      "title": "Polisi Ungkap Pemicu Truk Tangki Tak Kuat Nanjak Hingga Tewaskan Siswi di Depok",
+      "summary": "Polisi mengungkap pemicu truk tangki di Depok gagal menanjak dan mundur hingga menewaskan seorang siswi. Sempat terdengar ledakan di transmisi mesin.",
+      "url": "https://news.detik.com/berita/d-8756001/polisi-ungkap-pemicu-truk-tangki-tak-kuat-nanjak-hingga-tewaskan-siswi-di-depok",
+      "source": "Detik",
+      "published": "2026-11-16T16:44:37+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/16/tkp-di-kawasan-grand-depok-city-gdc-kota-depok-1794847454516_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo dorong penguatan mekanisme ASEAN untuk cegah krisis",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Trump’s justice department warns Elizabeth Warren over Democrats’ plans for future investigations – live",
-      "summary": "Letter to likely chair of Senate Banking Committee is latest warning to Democrats about their potential plans after the party’s midterms success Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+      "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
+      "summary": "As tech industry pushes for return, US president says he thinks Huang ‘learned a big lesson’ Donald Trump has expressed support for the return of Jensen Huang as the chief executive of Nvidia, as he joined Silicon Valley heavyweights in demanding the reinstatement of the AI figurehead. The US president referred to a tech industry campaign for Huang’s rehabilitation, saying a “big group” of people would like him back. Continue reading...",
+      "url": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
       "source": "The Guardian",
-      "published": "2026-11-16T16:31:01+00:00",
-      "image": "https://i.guim.co.uk/img/media/7ff330eae5cd3087ea08c69647f4dbf58484c916/363_0_6801_5442/master/6801.jpg?width=140&quality=85&auto=format&fit=max&s=84b5747737aac1f8cef320d0211f08a4"
+      "published": "2026-11-16T16:48:47+00:00",
+      "image": "https://i.guim.co.uk/img/media/7f67412f0366dc2ae41bf00eadde0fe0b8e1c6d0/817_89_6141_4914/master/6141.jpg?width=140&quality=85&auto=format&fit=max&s=f383d71329a6f68ee1d040041748f913"
     },
     {
       "title": "Five EU countries announce migrant deportation centre in Rwanda",
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794843461.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
