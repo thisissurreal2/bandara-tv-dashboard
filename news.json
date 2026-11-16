@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T20:30:33.494825+00:00",
+  "updated_at": "2026-11-16T20:45:28.345707+00:00",
   "national": [
     {
       "title": "Polisi Tangkap 5 Orang Buntut Aksi Tawuran di Petamburan Jakpus",
@@ -28,32 +28,32 @@
   ],
   "international": [
     {
-      "title": "What will Europe do next in Ukraine?",
-      "summary": "There is division within the European Union over diplomatic strategy for efforts to end the Russia-Ukraine war.",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-16T20:12:21+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794858749.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
-      "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-16T20:07:50+00:00",
-      "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
-    },
-    {
-      "title": "Forensic expert says his analysis raises doubts about how Epstein died",
+      "title": "Forensic expert says his analysis of autopsy photos suggest Epstein was killed",
       "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
       "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-16T20:03:30+00:00",
+      "published": "2026-11-16T20:33:57+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ce/live/59eafa00-e1c3-11f1-8a52-0b287ff76f43.jpg"
+    },
+    {
+      "title": "Suspect in custody after bomb found at Illinois ethanol plant",
+      "summary": "The FBI is leading the investigation into the Biourja Renewables incident after it led to a temporary evacuation Authorities investigating a bomb found recently at an ethanol production plant in Peoria, Illinois, have taken a suspect into custody, according to the mayor there. The Peoria mayor, Rita Ali, told the Guardian on Monday that leadership at the BioUrja Renewables plant “have informed me that a suspect is in custody”. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/illinois-bomb-ethanol-plant-suspect",
+      "source": "The Guardian",
+      "published": "2026-11-16T20:25:06+00:00",
+      "image": "https://i.guim.co.uk/img/media/331ca93396a5c80784133ac7c3dfbd182ea9ca68/650_0_4618_3695/master/4618.jpg?width=140&quality=85&auto=format&fit=max&s=dbb597bbe12cf4df0a344d475a5af636"
+    },
+    {
+      "title": "UEFA backs Diallo to challenge Infantino for FIFA presidency",
+      "summary": "UEFA has found its candidate to take on Gianni Infantino in next year’s FIFA presidential election",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/uefa-backs-diallo-to-challenge-infantino-for-fifa-presidency?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-16T20:20:02+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794860386.jpg?resize=1920%2C1080&quality=80"
     }
   ],
   "feed_warnings": [
-    "Detik: TimeoutError",
+    "Detik: URLError",
     "Detik: no fresh stories",
     "Detik: keeping previous story"
   ]
