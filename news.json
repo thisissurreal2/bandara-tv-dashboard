@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-16T19:01:01.787928+00:00",
+  "updated_at": "2026-11-16T19:15:28.795739+00:00",
   "national": [
+    {
+      "title": "Polda Metro Jaya Awasi Ketat Pangan Jelang Nataru, Waspadai Penimbunan",
+      "summary": "Polda Metro Jaya perketat pengawasan distribusi bahan pokok menjelang Nataru untuk cegah penimbunan dan lonjakan harga pangan.",
+      "url": "https://www.cnnindonesia.com/nasional/20261116222539-12-1427888/polda-metro-jaya-awasi-ketat-pangan-jelang-nataru-waspadai-penimbunan",
+      "source": "CNN Indonesia",
+      "published": "2026-11-16T19:02:00+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/16/polda-metro-perketat-pengawasan-pangan-jelang-nataru-antisipasi-penimbunan-1794832076931_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Prabowo Ingin ASEAN Jadi Kekuatan Industri Teknologi Bukan Sekadar Pasar",
       "summary": "Presiden Prabowo Subianto menekankan pentingnya kemitraan strategis ASEAN-Korea. Prabowo ingin ASEAN jadi kekuatan industri teknologi.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-16T18:57:42+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/17/presiden-prabowo-hadiri-jamuan-makan-malam-ktt-ke-49-asean-yang-digelar-di-philippine-international-convention-center-picc-man-1794850600832_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Longsor Sempat Tutup Jalan Provinsi di Simalungun Akibat Hujan Deras",
-      "summary": "Hujan deras menyebabkan longsor yang menutup akses jalan penghubung Dusun Simeluk. Berkat sinergi warga dan Polsek, jalan kini kembali bisa dilintasi.",
-      "url": "https://www.cnnindonesia.com/nasional/20261116224748-20-1427891/longsor-sempat-tutup-jalan-provinsi-di-simalungun-akibat-hujan-deras",
-      "source": "CNN Indonesia",
-      "published": "2026-11-16T17:07:48+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/01/24/ilustrasi-tanah-longsor-1769227133657_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo dorong penguatan mekanisme ASEAN untuk cegah krisis",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Saudi Arabia challenged by Yemeni allies over ceding ground to Houthis",
+      "summary": "Strategy of redeploying forces to try to relieve siege of Taiz and protect Aden comes as Islamist group makes steady gains Saudi Arabia has been accused by anti-Houthi forces over its military strategy after its Yemeni allies withdrew troops from the strategic Bab al-Mandab strait, as well as pulled back forces from parts of Marib in the central part of the country. The Saudi-backed government explained the repositioning by saying the strategic priority is to break the attritional siege on Taiz , Yemen’s third city and to protect Aden, the southern port city in which the Saudi-backed and UN-recognised government is now based. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis",
+      "source": "The Guardian",
+      "published": "2026-11-16T19:04:07+00:00",
+      "image": "https://i.guim.co.uk/img/media/0ecb2503f6896c388697d436947fbafcc58a2e97/345_0_2250_1800/master/2250.jpg?width=140&quality=85&auto=format&fit=max&s=2beb9c59f77d4a48f505b75c6220edf0"
+    },
+    {
       "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
       "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
       "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-16T18:56:42+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg"
-    },
-    {
-      "title": "ICE agents pepper spray pregnant US citizen in California, video shows",
-      "summary": "Lizbeth Vargas Andrade, 23, was taken down by officers and arrested on her stomach during a protest, her attorney says US Immigration and Customs Enforcement (ICE) agents pepper-sprayed a pregnant US citizen and threw her to the ground during a protest in California on Sunday, according to her family’s attorney, who shared footage of the incident. Lizbeth Vargas Andrade, 23, was filming and protesting the presence of several ICE officers outside the Stanislaus county jail in Modesto, in California’s central valley, before she was taken down by officers and arrested on her stomach during a chaotic encounter. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/16/ice-agents-pepper-spray-pregnant-california-citizen",
-      "source": "The Guardian",
-      "published": "2026-11-16T18:48:51+00:00",
-      "image": "https://i.guim.co.uk/img/media/693f5c56a0dc27d3af826f3e8b707a4539e149ad/282_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=274400284c0278eb871c3c1bb95cdf1f"
     },
     {
       "title": "Abdul El-Sayed’s victory is a blow to the politics of Islamophobia",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afb4c36-1794853942.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
