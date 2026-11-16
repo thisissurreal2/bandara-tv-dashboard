@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T18:30:37.167841+00:00",
+  "updated_at": "2026-11-16T18:45:28.871540+00:00",
   "national": [
     {
       "title": "Sempat Terkendala Air, Kebakaran di Kompleks Kopasgat Bogor Padam",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
-      "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+      "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
+      "summary": "As tech industry pushes for return, US president says he thinks Huang ‘learned a big lesson’ Donald Trump has expressed support for the return of Jensen Huang as the chief executive of Nvidia, joining Silicon Valley heavyweights in backing the reinstatement of the AI figurehead. The US president referred to a tech industry campaign for Huang’s rehabilitation, saying a “big group” of people would like him back. Continue reading...",
+      "url": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
       "source": "The Guardian",
-      "published": "2026-11-16T18:20:02+00:00",
-      "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
+      "published": "2026-11-16T18:30:57+00:00",
+      "image": "https://i.guim.co.uk/img/media/7f67412f0366dc2ae41bf00eadde0fe0b8e1c6d0/817_89_6141_4914/master/6141.jpg?width=140&quality=85&auto=format&fit=max&s=f383d71329a6f68ee1d040041748f913"
+    },
+    {
+      "title": "British actor Robert Pattinson named as new James Bond",
+      "summary": "The actor called the studio's decision a 'dream come true'.",
+      "url": "https://www.aljazeera.com/news/2026/11/16/british-actor-robert-pattinson-named-as-new-james-bond?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-16T18:13:14+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afb36bf-1794848447.jpg?resize=1920%2C1440"
     },
     {
       "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
@@ -42,15 +50,11 @@
       "source": "BBC",
       "published": "2026-11-16T18:06:26+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg"
-    },
-    {
-      "title": "Cargo ship capsizes off Bulgaria’s Black Sea coast",
-      "summary": "Bulgaria's Transport Ministry says that all 12 of the ship's crew members were saved in a rescue operation.",
-      "url": "https://www.aljazeera.com/news/2026/11/16/cargo-ship-capsizes-off-bulgarias-black-sea-coast?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-16T17:54:31+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26320546823827-1794851994.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
