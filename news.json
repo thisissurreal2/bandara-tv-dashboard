@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-16T16:00:45.371112+00:00",
+  "updated_at": "2026-11-16T16:15:29.900834+00:00",
   "national": [
+    {
+      "title": "17 Orang Tewas dalam Dua Penembakan Massal di Afrika Selatan",
+      "summary": "Dua insiden penembakan massal di Afrika Selatan menewaskan 17 orang. Polisi menyebut kedua peristiwa terjadi di lokasi berbeda dan tidak saling berkaitan.",
+      "url": "https://news.detik.com/internasional/d-8755987/17-orang-tewas-dalam-dua-penembakan-massal-di-afrika-selatan",
+      "source": "Detik",
+      "published": "2026-11-16T16:03:41+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2024/12/17/ilustrasi-penembakan_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Demo Kasus Pemerkosaan, Massa Mahasiswa Segel Rumah Bupati Kupang",
       "summary": "Massa mahasiswa menggeruduk Rumah Dinas Bupati Kupang, menuntut Bupati Yosef Lede keluar terkait dugaan pemerkosaan. Aksi berujung penyegelan simbolis.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-16T15:53:35+00:00",
       "image": "https://akcdn.detik.net.id/visual/2024/08/23/demo-tolak-revisi-uu-pilkada-di-kpu-1_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Pesan Kapolri Agar Jajaran Jaga Etika dan Kepercayaan Masyarakat",
-      "summary": "Kapolri Jenderal Suyudi menekankan pentingnya jaga etika dan kepercayaan masyarakat. Dia mengatakan tak perlu bayar survei untuk dongkrak citra Polri.",
-      "url": "https://news.detik.com/berita/d-8755958/pesan-kapolri-agar-jajaran-jaga-etika-dan-kepercayaan-masyarakat",
-      "source": "Detik",
-      "published": "2026-11-16T15:39:40+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/16/kapolri-jenderal-suyudi-ario-seto-dok-polri-1794818247540_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo dorong penguatan mekanisme ASEAN untuk cegah krisis",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Brand statement from prison claiming his innocence ‘appalling’ and could breach rules, says No 10 – UK politics live",
-      "summary": "Brand’s wife Laura read out a message from him on their YouTube show After education questions, there is one urgent question in the Commons and two ministerial statements. They are, with rough timings: 3.30pm: A Home Office minister responds to an urgent question about planning permission being granted for the proposed camp for asylum seekers near Piddington. It’s always a good idea to promote closer cooperation with all of our allies, and there’s always more that you can do to facilitate trade with friends and neighbours. However, what I disagree with is a settlement that will involve us paying hundreds of millions of pounds into the EU and involve the imposition of huge amounts of red tape on all sorts of businesses across the country … I think it’s a really bad step backwards. Continue reading...",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/16/ed-miliband-russell-brand-andy-burnham-brexit-eu-milburn-review-young-people-employment-uk-politics-latest-news",
+      "title": "Five EU countries announce migrant deportation centre in Rwanda",
+      "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
+      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-16T16:03:24+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f790/live/14731cc0-bfcb-11f0-8456-eff94716b162.jpg"
+    },
+    {
+      "title": "Surge of US datacenters adds equivalent of Denmark’s annual emissions, study finds",
+      "summary": "‘Hyperscaler’ datacenters across country draw upon dirtier power sources to meet vast energy needs, research shows The frantic buildout of “hyperscaler” datacenters in the US has collectively caused planet-heating emissions of about the same scale as Denmark emits in a year, new research has found. In that period 403 “hyperscalers” – the largest datacenters used primarily to handle the growth of artificial intelligence – emitted about 25.7m metric tons of carbon dioxide, according to the study. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/datacenter-emissions-study",
       "source": "The Guardian",
-      "published": "2026-11-16T15:49:19+00:00",
-      "image": "https://i.guim.co.uk/img/media/f1f62e86d5d340fa3e406a388a83d0ba1c0610c4/765_0_3391_2714/master/3391.jpg?width=140&quality=85&auto=format&fit=max&s=580d87f127bfb9aa97243f0b42e7ae42"
+      "published": "2026-11-16T16:00:47+00:00",
+      "image": "https://i.guim.co.uk/img/media/ddf959b831576c7e97a80916695eafca3a8e4ef4/251_0_7465_5971/master/7465.jpg?width=140&quality=85&auto=format&fit=max&s=3e040e505fc0d81bbb9e1092e5a029d8"
     },
     {
       "title": "Oil tankers hit sea mines in the Strait of Hormuz",
@@ -42,19 +50,7 @@
       "source": "Al Jazeera",
       "published": "2026-11-16T15:37:49+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794843461.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "title": "Trump says he wouldn't mind seeing Huang return to Nvidia",
-      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
-      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-16T15:31:20+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
