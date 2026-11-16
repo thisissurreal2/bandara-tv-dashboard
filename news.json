@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T19:15:28.795739+00:00",
+  "updated_at": "2026-11-16T19:30:36.101941+00:00",
   "national": [
     {
       "title": "Polda Metro Jaya Awasi Ketat Pangan Jelang Nataru, Waspadai Penimbunan",
@@ -28,28 +28,28 @@
   ],
   "international": [
     {
-      "title": "Saudi Arabia challenged by Yemeni allies over ceding ground to Houthis",
-      "summary": "Strategy of redeploying forces to try to relieve siege of Taiz and protect Aden comes as Islamist group makes steady gains Saudi Arabia has been accused by anti-Houthi forces over its military strategy after its Yemeni allies withdrew troops from the strategic Bab al-Mandab strait, as well as pulled back forces from parts of Marib in the central part of the country. The Saudi-backed government explained the repositioning by saying the strategic priority is to break the attritional siege on Taiz , Yemen’s third city and to protect Aden, the southern port city in which the Saudi-backed and UN-recognised government is now based. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/nov/16/saudi-arabia-challenged-yemeni-allies-ceding-ground-houthis",
+      "title": "Saudi Arabia dismisses commander of coalition forces fighting Houthis",
+      "summary": "Move comes as government forces withdraw from Red Sea coast to halt Houthi approach to interim capital Aden.",
+      "url": "https://www.aljazeera.com/news/2026/11/16/saudi-arabia-dismisses-commander-of-coalition-forces-fighting-houthis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-16T19:19:21+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-09-27T051408Z_91414459_RC28RNAB5C5M_RTRMADP_3_IRAN-CRISIS-SAUDI-YEMEN-1790501339.jpg?resize=1920%2C1440"
+    },
+    {
+      "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
+      "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-16T19:04:07+00:00",
-      "image": "https://i.guim.co.uk/img/media/0ecb2503f6896c388697d436947fbafcc58a2e97/345_0_2250_1800/master/2250.jpg?width=140&quality=85&auto=format&fit=max&s=2beb9c59f77d4a48f505b75c6220edf0"
+      "published": "2026-11-16T19:17:37+00:00",
+      "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
     },
     {
       "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
       "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
       "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-16T18:56:42+00:00",
+      "published": "2026-11-16T19:16:52+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg"
-    },
-    {
-      "title": "Abdul El-Sayed’s victory is a blow to the politics of Islamophobia",
-      "summary": "He embraced his Muslim identity, put Gaza on the ballot and showed Democrats a different way forward.",
-      "url": "https://www.aljazeera.com/opinions/2026/11/16/abdul-el-sayeds-victory-is-a-blow-to-the-politics-of-islamophobia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-16T18:38:16+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afb4c36-1794853942.jpg?resize=1920%2C1440"
     }
   ],
   "feed_warnings": [
