@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-16T08:04:44.338595+00:00",
+  "updated_at": "2026-11-16T08:15:25.497634+00:00",
   "national": [
+    {
+      "title": "Komjen Hendro Pandowo Pimpin Sidang Etik Eko Hadi di Kasus Penyadapan",
+      "summary": "Komjen Hendro Pandowo akan memimpin sidang KKEP Polri terhadap Irjen Eko Hadi Santoso terkait penyadapan ilegal. Sidang digelar besok.",
+      "url": "https://www.cnnindonesia.com/nasional/20261116145240-12-1427696/komjen-hendro-pandowo-pimpin-sidang-etik-eko-hadi-di-kasus-penyadapan",
+      "source": "CNN Indonesia",
+      "published": "2026-11-16T08:12:08+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2019/11/28/dda05193-d83d-4c45-9fc7-372ddeca494b_169.jpeg?w=360&q=90"
+    },
     {
       "title": "NasDem Ketuai Tim Verifikasi Cawapres Usulan Prabowo, PDIP Pimpin Ad Hoc",
       "summary": "Waka MPR Sohibul Iman sebut tim verifikasi usulan cawapres Prabowo dipimpin Lestari NasDem. Bambang Pacul ketuai tim ad hoc.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-16T07:59:17+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2024/10/01/sohibul-iman_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Kapolri Bicara Dinamika Internal: Jangan Ragu, Jangan Mundur",
-      "summary": "Kapolri Jenderal Suyudi menegaskan pentingnya soliditas Polri pasca kasus penyadapan ilegal. Ia mendorong anggota untuk berpegang pada kebenaran dan integritas.",
-      "url": "https://www.cnnindonesia.com/nasional/20261116143231-12-1427686/kapolri-bicara-dinamika-internal-jangan-ragu-jangan-mundur",
-      "source": "CNN Indonesia",
-      "published": "2026-11-16T07:53:27+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/12/rapat-kerja-polri-dengan-komisi-iii-dpr-1794452360576_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo dorong ASEAN-China perkuat komitmen perdamaian dan dialog",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+      "summary": "Push to reinstate CEO ousted after affair with suspected Chinese spy, as US treasury secretary urges ‘dramatic shake-up’ at tech firm Megaspeed says it’s a ‘legitimate and lawful business’ Business live – latest updates Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. An open letter, which has more than 165,000 signatories, demands that the company’s board members “bring Jensen back while an independent investigation establishes the facts”. Continue reading...",
+      "url": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
+      "source": "The Guardian",
+      "published": "2026-11-16T08:03:29+00:00",
+      "image": "https://i.guim.co.uk/img/media/e480adfe7860e9e4439f965fe15e55a5e4ff13f0/555_0_5960_4770/master/5960.jpg?width=140&quality=85&auto=format&fit=max&s=50878ed33290d246ee0c626a144dabdb"
+    },
+    {
       "title": "Why is China resisting a nuclear treaty with the US and Russia?",
       "summary": "Beijing has a smaller arsenal than Washington and Moscow and worries that a pact could limit its nuclear capabilities.",
       "url": "https://www.aljazeera.com/news/2026/11/16/why-is-china-not-keen-on-a-nuclear-treaty-with-us-and-russia?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-11-16T07:54:09+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ad3a28c-1792254604.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Burnham pledges early intervention and ‘benefits backstop’ to tackle youth jobs crisis",
-      "summary": "Prime minister promises ‘root-and-branch rethink’ of support for young people as Milburn report advises sweeping changes to some benefits Andy Burnham: The crisis facing Britain’s young people is politicians’ fault. To fix it, we need a generational response Andy Burnham has pledged to intervene as early as childhood to tackle youth unemployment before a watershed review, promising “a root-and-branch rethink of how we support childhood in the modern world”. Burnham said the government would intervene at all the stages of life in which young people fell behind, and “long before they find themselves out of work and reliant on the state”, including providing more opportunities for vocational training in schools. Continue reading...",
-      "url": "https://www.theguardian.com/society/2026/nov/15/no-free-lunch-milburn-mcfadden-kuenssberg-uk-benefits-youth-unemployment-neet",
-      "source": "The Guardian",
-      "published": "2026-11-16T07:43:22+00:00",
-      "image": "https://i.guim.co.uk/img/media/b9948bd228b02aa56a0356f2a3f2713b85d83833/290_0_4473_3579/master/4473.jpg?width=140&quality=85&auto=format&fit=max&s=ac37a8f6dd0b557e724874bc86532ce8"
     },
     {
       "title": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
