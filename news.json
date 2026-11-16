@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-16T03:00:38.355093+00:00",
+  "updated_at": "2026-11-16T03:15:28.842057+00:00",
   "national": [
     {
-      "title": "Wamensos: Sekolah Rakyat Memutus Rantai Kemiskinan Antargenerasi",
-      "summary": "Sebanyak 76 persen orang tua menyatakan tidak mampu menyekolahkan anak karena faktor ekonomi.",
-      "url": "https://www.cnnindonesia.com/nasional/20261116092535-25-1427519/wamensos-sekolah-rakyat-memutus-rantai-kemiskinan-antargenerasi",
+      "title": "Rano PKB Dukung Dasco Jadi Wapres: Mampu Rangkul Berbagai Kekuatan Politik",
+      "summary": "Rano mengatakan PKB memiliki pandangan mengenai figur ideal sebagai pendamping Prabowo di pemerintahan. Sosok itu ialah Wakil Ketua DPR RI Sufmi Dasco Ahmad.",
+      "url": "https://news.detik.com/berita/d-8754674/rano-pkb-dukung-dasco-jadi-wapres-mampu-rangkul-berbagai-kekuatan-politik",
+      "source": "Detik",
+      "published": "2026-11-16T03:10:08+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/09/rano-alfath-1791536590603_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "Beda Gibran dan Bung Hatta soal Mundur dari Wapres",
+      "summary": "Dalam sejarah Indonesia, Gibran bukanlah sosok pertama yang memutuskan berhenti sebagai wakil presiden. Pada Desember 1956, M Hatta juga menyatakan berhenti.",
+      "url": "https://www.cnnindonesia.com/nasional/20261116094127-32-1427524/beda-gibran-dan-bung-hatta-soal-mundur-dari-wapres",
       "source": "CNN Indonesia",
-      "published": "2026-11-16T02:54:08+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2025/07/09/simulasi-kbm-sekolah-rakyat-sentra-handayani-jakarta-1752049091758_169.jpeg?w=360&q=90"
+      "published": "2026-11-16T03:08:16+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/16/presiden-prabowo-subianto-gibran-rakabuming-raka-sufmi-dasco-ahmad-1794796075999_169.jpeg?w=360&q=90"
     },
     {
       "title": "Kalasan, 67 tahun kemudian",
@@ -16,17 +24,17 @@
       "source": "ANTARA",
       "published": "2026-11-16T02:44:25+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/08/12/obat-malaria.jpg"
-    },
-    {
-      "title": "Normalisasi Kali Ciliwung, Pembebasan Lahan di Cawang-Cililitan Dikebut",
-      "summary": "Pemprov DKI Jakarta percepat pembebasan 97 bidang tanah untuk normalisasi Kali Ciliwung, mencegah banjir di Cawang dan Cililitan. Anggaran Rp 300 m disiapkan.",
-      "url": "https://news.detik.com/berita/d-8754561/normalisasi-kali-ciliwung-pembebasan-lahan-di-cawang-cililitan-dikebut",
-      "source": "Detik",
-      "published": "2026-11-16T01:38:43+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2025/11/02/begini-potret-terkini-beton-normalisasi-kali-ciliwung-di-manggarai-1762065864586_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
+    {
+      "title": "Australian MP 'full of gratitude' upon leaving hospital after alleged car attack",
+      "summary": "The MP lost both of her legs after the alleged attack outside her electorate office four weeks ago.",
+      "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-16T03:09:49+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/083d/live/b9880d40-e15f-11f1-a6b7-c136ad7bd6e3.jpg"
+    },
     {
       "title": "ASEAN, China fall short of agreeing on South China Sea code",
       "summary": "Southeast Asian leaders also denounce violence in Myanmar and extend ban on country's leader attending bloc's summits.",
@@ -37,24 +45,12 @@
     },
     {
       "title": "MP Helen Haines leaves hospital four weeks after alleged attack and double leg amputation",
-      "summary": "Independent MP says she is ‘overwhelmed’ by thousands of warm wishes and thanked Australians for donations The independent Australian MP Helen Haines has been discharged from hospital, four weeks after she was allegedly attacked by a man outside her electorate office in Victoria resulting in the double amputation of her legs. In a statement, Haines said she has moved to the rehabilitation stage of her recovery, which would continue in Melbourne, and that she was full of gratitude. Continue reading...",
+      "summary": "Independent MP says she is ‘overwhelmed’ by thousands of warm wishes and thanked Australians for charity donations Get our breaking news email , free app or daily news podcast The independent Australian MP Helen Haines has been discharged from hospital, four weeks after she was allegedly attacked by a man outside her electorate office in Victoria resulting in the double amputation of her legs. In a statement, Haines said she had moved to the rehabilitation stage of her recovery, which would continue in Melbourne. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/nov/16/mp-helen-haines-out-of-hospital-after-attack-leg-amputation-ntwnfb",
       "source": "The Guardian",
       "published": "2026-11-16T02:26:24+00:00",
       "image": "https://i.guim.co.uk/img/media/e095e9628412d9e77ce67e0af0ba05d71fc9eca9/698_0_5541_4435/master/5541.jpg?width=140&quality=85&auto=format&fit=max&s=758324403670a0e19ad94c4c31f87257"
-    },
-    {
-      "title": "Australian MP who lost both legs in alleged car attack discharged from hospital",
-      "summary": "The MP was allegedly run down by a car outside her electorate office four weeks ago.",
-      "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-16T01:53:19+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/083d/live/b9880d40-e15f-11f1-a6b7-c136ad7bd6e3.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
