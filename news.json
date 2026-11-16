@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-16T18:45:28.871540+00:00",
+  "updated_at": "2026-11-16T19:01:01.787928+00:00",
   "national": [
     {
-      "title": "Sempat Terkendala Air, Kebakaran di Kompleks Kopasgat Bogor Padam",
-      "summary": "Kebakaran melanda 12 rumah di kompleks Kopasgat, Bogor. Pemadaman berlangsung 3,5 jam dan api kini sudah padam.",
-      "url": "https://news.detik.com/berita/d-8756019/sempat-terkendala-air-kebakaran-di-kompleks-kopasgat-bogor-padam",
+      "title": "Prabowo Ingin ASEAN Jadi Kekuatan Industri Teknologi Bukan Sekadar Pasar",
+      "summary": "Presiden Prabowo Subianto menekankan pentingnya kemitraan strategis ASEAN-Korea. Prabowo ingin ASEAN jadi kekuatan industri teknologi.",
+      "url": "https://news.detik.com/berita/d-8756021/prabowo-ingin-asean-jadi-kekuatan-industri-teknologi-bukan-sekadar-pasar",
       "source": "Detik",
-      "published": "2026-11-16T18:24:31+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/17/kebakaran-di-kompleks-kopasgat-kelurahan-lawang-gintung-kecamatan-bogor-selatan-kota-bogor-dok-istimewa-1794852686083_169.jpeg?w=360&q=90"
+      "published": "2026-11-16T18:57:42+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/17/presiden-prabowo-hadiri-jamuan-makan-malam-ktt-ke-49-asean-yang-digelar-di-philippine-international-convention-center-picc-man-1794850600832_169.jpeg?w=360&q=90"
     },
     {
       "title": "Longsor Sempat Tutup Jalan Provinsi di Simalungun Akibat Hujan Deras",
@@ -28,33 +28,29 @@
   ],
   "international": [
     {
-      "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
-      "summary": "As tech industry pushes for return, US president says he thinks Huang ‘learned a big lesson’ Donald Trump has expressed support for the return of Jensen Huang as the chief executive of Nvidia, joining Silicon Valley heavyweights in backing the reinstatement of the AI figurehead. The US president referred to a tech industry campaign for Huang’s rehabilitation, saying a “big group” of people would like him back. Continue reading...",
-      "url": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
-      "source": "The Guardian",
-      "published": "2026-11-16T18:30:57+00:00",
-      "image": "https://i.guim.co.uk/img/media/7f67412f0366dc2ae41bf00eadde0fe0b8e1c6d0/817_89_6141_4914/master/6141.jpg?width=140&quality=85&auto=format&fit=max&s=f383d71329a6f68ee1d040041748f913"
-    },
-    {
-      "title": "British actor Robert Pattinson named as new James Bond",
-      "summary": "The actor called the studio's decision a 'dream come true'.",
-      "url": "https://www.aljazeera.com/news/2026/11/16/british-actor-robert-pattinson-named-as-new-james-bond?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-16T18:13:14+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afb36bf-1794848447.jpg?resize=1920%2C1440"
-    },
-    {
       "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
       "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
       "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-16T18:06:26+00:00",
+      "published": "2026-11-16T18:56:42+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg"
+    },
+    {
+      "title": "ICE agents pepper spray pregnant US citizen in California, video shows",
+      "summary": "Lizbeth Vargas Andrade, 23, was taken down by officers and arrested on her stomach during a protest, her attorney says US Immigration and Customs Enforcement (ICE) agents pepper-sprayed a pregnant US citizen and threw her to the ground during a protest in California on Sunday, according to her family’s attorney, who shared footage of the incident. Lizbeth Vargas Andrade, 23, was filming and protesting the presence of several ICE officers outside the Stanislaus county jail in Modesto, in California’s central valley, before she was taken down by officers and arrested on her stomach during a chaotic encounter. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/ice-agents-pepper-spray-pregnant-california-citizen",
+      "source": "The Guardian",
+      "published": "2026-11-16T18:48:51+00:00",
+      "image": "https://i.guim.co.uk/img/media/693f5c56a0dc27d3af826f3e8b707a4539e149ad/282_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=274400284c0278eb871c3c1bb95cdf1f"
+    },
+    {
+      "title": "Abdul El-Sayed’s victory is a blow to the politics of Islamophobia",
+      "summary": "He embraced his Muslim identity, put Gaza on the ballot and showed Democrats a different way forward.",
+      "url": "https://www.aljazeera.com/opinions/2026/11/16/abdul-el-sayeds-victory-is-a-blow-to-the-politics-of-islamophobia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-16T18:38:16+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afb4c36-1794853942.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
