@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T21:45:25.620113+00:00",
+  "updated_at": "2026-11-16T22:00:39.800100+00:00",
   "national": [
     {
       "title": "Di Tengah Wacana Habitat Dipindahkan, Bayi Badak Lahir di Ujung Kulon",
@@ -32,25 +32,29 @@
       "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-16T21:19:45+00:00",
+      "published": "2026-11-16T21:41:29+00:00",
       "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
     },
     {
-      "title": "Mamdani to disband NYPD unit deployed at Columbia protests",
-      "summary": "New York City Mayor Zohran Mamdani says he is disbanding the NYPD’s Strategic Response Group or SRG.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/mamdani-to-disband-nypd-unit-deployed-at-columbia-protests?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-16T21:16:02+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/thumb-wide-mamdani-1794863687.png?resize=1200%2C675"
+      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+      "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-16T21:40:07+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb50/live/f528e3c0-e1f9-11f1-a094-5fdc692f3e33.jpg"
     },
     {
-      "title": "Forensic expert says his analysis of autopsy photos suggest Epstein was killed",
-      "summary": "Professor Michael Freeman tells BBC Newsnight that he believes the convicted sex offender's injuries are consistent with a homicide.",
-      "url": "https://www.bbc.co.uk/news/articles/c5n4exg1kkmyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-16T20:33:57+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ce/live/59eafa00-e1c3-11f1-8a52-0b287ff76f43.jpg"
+      "title": "California files lawsuit against OpenAI alleging lack of proper safeguards",
+      "summary": "Attorney General Rob Bonta says Hugging Face attack was 'entirely predictable' result of emphasis on rapid growth.",
+      "url": "https://www.aljazeera.com/news/2026/11/16/california-files-lawsuit-against-openai-alleging-lack-of-proper-safeguards?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-16T21:35:51+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afb6095-1794859157.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
