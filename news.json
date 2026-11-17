@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-17T05:15:25.915554+00:00",
+  "updated_at": "2026-11-17T05:30:32.146232+00:00",
   "national": [
     {
-      "title": "Potret Irjen Eko Hadi Berseragam Lengkap Jalani Sidang Etik Kasus Penyadapan",
-      "summary": "Irjen Eko Hadi menjalani sidang etik di Polri terkait kasus penyadapan ilegal. Sidang dipimpin oleh lima perwira tinggi dan berlangsung tertutup.",
-      "url": "https://news.detik.com/berita/d-8756500/potret-irjen-eko-hadi-berseragam-lengkap-jalani-sidang-etik-kasus-penyadapan",
-      "source": "Detik",
-      "published": "2026-11-17T05:11:44+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/17/irjen-eko-hadi-santoso-saat-menjalani-sidang-komisi-kode-etik-profesi-kkep-1794892120422_169.jpeg?w=360&q=90"
+      "title": "Sosok Wapres Seperti Apa yang Dibutuhkan Prabowo Saat Ini?",
+      "summary": "Prabowo saat ini dinilai membutuhkan sosok wakil presiden seorang administrator yang andal, teknokrat yang unggul dan profesional yang punya jam terbang.",
+      "url": "https://www.cnnindonesia.com/nasional/20261117112504-32-1428028/kursi-kosong-wapres-dan-ujian-soliditas-koalisi",
+      "source": "CNN Indonesia",
+      "published": "2026-11-17T05:21:46+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/16/presiden-prabowo-subianto-gibran-rakabuming-raka-sufmi-dasco-ahmad-1794796075999_169.jpeg?w=360&q=90"
     },
     {
-      "title": "14 Tahun Tertunda, Pramono Lanjutkan Pembangunan Pasar Senen Blok VI",
-      "summary": "Selama proses pembangunan, para pedagang Pasar Senin Blok VI akan menjalankan aktivitas perdagangan di tempat penampungan sementara.",
-      "url": "https://www.cnnindonesia.com/nasional/20261117120504-25-1428049/14-tahun-tertunda-pramono-lanjutkan-pembangunan-pasar-senen-blok-vi",
-      "source": "CNN Indonesia",
-      "published": "2026-11-17T05:07:55+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/17/pemprov-dki-1794892050120_169.png?w=360&q=90"
+      "title": "Alvin Tedjo, Pria Berdarah Indonesia Resmi Jadi Wali Kota di Kanada",
+      "summary": "Pria keturunan Indonesia, Alvin Tedjo, resmi mengucap sumpah sebagai Wali Kota Mississauga di Kanada. Dia akan menjabat untuk periode 2026-2030.",
+      "url": "https://news.detik.com/internasional/d-8756502/alvin-tedjo-pria-berdarah-indonesia-resmi-jadi-wali-kota-di-kanada",
+      "source": "Detik",
+      "published": "2026-11-17T05:12:49+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/17/alvin-tedjo-tengah-situs-resmi-mississauga-1794892350388_169.jpeg?w=360&q=90"
     },
     {
       "title": "Badan Geologi ungkap faktor gempa 7,1 di Maluku tak berpotensi tsunami",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "US bank outage: What caused Chase problems and Zelle payment delays?",
+      "summary": "A Chase software bug disrupted US banking transactions and delayed some Zelle payments. Here's what happened.",
+      "url": "https://www.aljazeera.com/news/2026/11/17/us-bank-outage-what-caused-chase-problems-and-zelle-payment-delays?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-17T05:19:34+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-27T154639Z_946471081_RC2HGKAET3NA_RTRMADP_3_JPMORGAN-CHASE-BANKER-LAWSUIT-1794886787.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "Russia, Saudi Arabia and Australia named as biggest CO2 exporters in history",
       "summary": "Analysis of fossil fuel exports since 1850 differs from most assessments – which look at countries where CO 2 is released Russia, Saudi Arabia and Australia are the three biggest exporters of carbon dioxide in history, according to analysis of fossil fuels since 1850. Russia tops the list of global exporters of fossil fuels, with its vast coal, oil and gas deposits. Accounting for the CO 2 produced by burning these exports, Russia has been responsible for more than 70 gigatonnes, up to the end of 2025. Continue reading...",
       "url": "https://www.theguardian.com/environment/2026/nov/17/russia-saudi-arabia-and-australia-named-as-biggest-co2-exporters-in-history",
       "source": "The Guardian",
       "published": "2026-11-17T05:00:06+00:00",
       "image": "https://i.guim.co.uk/img/media/9ca4aa4b72bed052fa70d1c1f61c2365cff20084/1226_0_4085_3268/master/4085.jpg?width=140&quality=85&auto=format&fit=max&s=22bd7d2816ff23f468a507a9825c140e"
-    },
-    {
-      "title": "Gunfire erupts in occupied West Bank settler attack",
-      "summary": "Israeli settlers opened fire in the village of al Duyuk near Jericho killing one woman and injuring several others.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/gunfire-erupts-in-occupied-west-bank-settler-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-17T04:00:08+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794888000.jpg?resize=1200%2C675"
     },
     {
       "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
