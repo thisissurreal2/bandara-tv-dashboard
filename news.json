@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T15:30:33.902169+00:00",
+  "updated_at": "2026-11-17T15:45:28.248953+00:00",
   "national": [
     {
       "title": "Kapolda Sulsel Respons Polisi Digerebek Pesta Sabu Bareng Perempuan",
@@ -10,12 +10,12 @@
       "image": "https://akcdn.detik.net.id/visual/2023/05/30/ilustrasi-penangkapan-3_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Duka Alya Si Hafizah Berpulang Jadi Korban Truk Gagal Nanjak di Depok",
-      "summary": "Siswi SMA Alya Rahma Mufida meninggal setelah ditabrak truk tangki di Depok. Kecelakaan ini menyisakan duka mendalam bagi keluarga dan teman-temannya.",
-      "url": "https://news.detik.com/berita/d-8757594/duka-alya-si-hafizah-berpulang-jadi-korban-truk-gagal-nanjak-di-depok",
+      "title": "UMKM Terdampak Bencana Sumatera Mulai Terima Banpres Rp 3 Juta",
+      "summary": "Penyaluran Bantuan Presiden Rp3 juta untuk usaha mikro di Aceh, Sumut, dan Sumbar dimulai. Program ini mendukung pemulihan ekonomi pascabencana.",
+      "url": "https://news.detik.com/berita/d-8757605/umkm-terdampak-bencana-sumatera-mulai-terima-banpres-rp-3-juta",
       "source": "Detik",
-      "published": "2026-11-17T15:02:26+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2020/03/03/20b962af-75a7-4301-99b3-ce5be5571a93_169.jpeg?w=360&q=90"
+      "published": "2026-11-17T15:15:37+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/17/umkm-terdampak-bencana-sumatera-mulai-terima-banpres-rehabilitasi-rp3-juta-1794928486596.jpeg?w=360&q=90"
     },
     {
       "title": "IRGC: Dua kapal tanker terbakar usai hantam ranjau di Hormuz",
@@ -32,29 +32,25 @@
       "summary": "Author of Neets report will be in charge of ‘unblocking delivery and driving progress’ Full story: Milburn says plan will save only £200m a year Explainer: what’s in the report? This chart, from the Milburn report, shows what is likely to happen to the Neet rate, with or without the Milburn policies. The Alan Milburn report has now formally been published. It should be online here very soon. Continue reading...",
       "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-17T15:24:19+00:00",
+      "published": "2026-11-17T15:38:01+00:00",
       "image": "https://i.guim.co.uk/img/media/7902cdb79f148d1d0391151d406f13d8457d1446/541_134_3999_3200/master/3999.jpg?width=140&quality=85&auto=format&fit=max&s=cdf521cc74be3c957f7e6b5764336bab"
     },
     {
-      "title": "Mozambique opposition leader goes on trial for terrorism over deadly election protests",
-      "summary": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
-      "url": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
+      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+      "summary": "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked.",
+      "url": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-17T15:19:19+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8344/live/da8191f0-e27d-11f1-bd1e-f9c53347c5a6.jpg"
+      "published": "2026-11-17T15:36:11+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d277/live/17a72100-e286-11f1-a094-5fdc692f3e33.jpg"
     },
     {
-      "title": "Trump warns Iran over reported ‘dirty bomb’ threat plans against Washington",
-      "summary": "President Donald Trump responded to a CNN report that Iran was working on plans to attack Washington, DC",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-warns-iran-over-reported-dirty-bomb-threat-plans-against-washington?traffic_source=rss",
+      "title": "Houthi advance on Aden may spur resurgence of Yemen’s southern separatists",
+      "summary": "Southern separatists try to regain power to defend Aden as Saudi Arabia reshuffles its military command against Houthis.",
+      "url": "https://www.aljazeera.com/news/2026/11/17/houthi-advance-on-aden-sparks-resurgence-of-yemens-southern-separatists?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-17T15:13:57+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794928429.jpg?resize=1920%2C1080&quality=80"
+      "published": "2026-11-17T15:26:55+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/2025-12-15T165556Z_678996810_RC22HIAH0IRP_RTRMADP_3_YEMEN-SECURITY-1792006124.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
