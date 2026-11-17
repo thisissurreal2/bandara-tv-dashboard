@@ -1,60 +1,56 @@
 {
-  "updated_at": "2026-11-17T01:45:29.307817+00:00",
+  "updated_at": "2026-11-17T02:00:42.295247+00:00",
   "national": [
     {
-      "title": "Kadis LH Jatim Nurkholis Jadi Tersangka Kasus Pungli Izin Tambang",
-      "summary": "Kejati Jatim menetapkan Nurkholis, Kepala DLH Jatim, sebagai tersangka korupsi pungutan liar dalam perizinan. Total kerugian mencapai Rp1,2 miliar.",
-      "url": "https://www.cnnindonesia.com/nasional/20261117082501-12-1427957/kadis-lh-jatim-nurkholis-jadi-tersangka-kasus-pungli-izin-tambang",
+      "title": "588 Rumah Rusak Diterjang Angin Kencang di Bandung Barat",
+      "summary": "BNPB melaporkan sebanyak 588 rumah rusak akibat angin kencang yang terjadi di Kabupaten Bandung Barat, Provinsi Jawa Barat pada Jumat (13/11).",
+      "url": "https://www.cnnindonesia.com/nasional/20261117084535-20-1427969/588-rumah-rusak-diterjang-angin-kencang-di-bandung-barat",
       "source": "CNN Indonesia",
-      "published": "2026-11-17T01:33:27+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2022/02/21/ilustrasi-korupsi_169.jpeg?w=360&q=90"
+      "published": "2026-11-17T01:49:28+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/16/detik-detik-atap-rumah-terangkat-usai-diterjang-angin-puting-beliung-1794810944175_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Gempa M 4,8 Guncang Manggarai NTT",
-      "summary": "Gempa bumi berkekuatan magnitudo 4,8 mengguncang laut Ruteng Kabupaten Manggarai, Nusa Tenggara Timur (NTT), pagi ini.",
-      "url": "https://news.detik.com/berita/d-8756119/gempa-m-4-8-guncang-manggarai-ntt",
+      "title": "Menerka Makna Dasi Merah yang Dikenakan Gibran Saat Mundur dari Wapres",
+      "summary": "Gibran Rakabuming Raka mengenakan dasi merah saat pengunduran diri. Makna dasi tersebut diinterpretasikan sebagai simbol perlawanan dan keterkaitan dengan PDIP.",
+      "url": "https://news.detik.com/berita/d-8756146/menerka-makna-dasi-merah-yang-dikenakan-gibran-saat-mundur-dari-wapres",
       "source": "Detik",
-      "published": "2026-11-17T01:28:18+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2023/01/09/ilustrasi-gempa_169.jpeg?w=360&q=90"
+      "published": "2026-11-17T01:44:50+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/dasi-merah-jadi-sorotan-gibran-tiba-di-istana-wapres-usai-temui-mpr-1794464068941_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Menaker: Penetapan upah minimum 2027 mengacu UU Pelindungan Pekerja",
-      "summary": "Menteri Ketenagakerjaan (Menaker) Yassierli mengatakan mekanisme penetapan upah minimum 2027 merujuk pada Pasal 137 ...",
-      "url": "https://www.antaranews.com/berita/5858651/menaker-penetapan-upah-minimum-2027-mengacu-uu-pelindungan-pekerja",
+      "title": "Menkomdigi serap saran pelajar perkuat keamanan ruang digital",
+      "summary": "Menteri Komunikasi dan Digital (Menkomdigi) Meutya Hafid menyampaikan bahwa pemerintah menyerap saran dari pelajar ...",
+      "url": "https://www.antaranews.com/berita/5858675/menkomdigi-serap-saran-pelajar-perkuat-keamanan-ruang-digital",
       "source": "ANTARA",
-      "published": "2026-11-17T01:18:27+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/17/Rencana-kenaikan-upah-buruh-171123-sth-2.jpg"
+      "published": "2026-11-17T01:36:42+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/17/1000987279.jpg"
     }
   ],
   "international": [
     {
-      "title": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
-      "summary": "Yemen's army reports 173 Houthi fighters killed or wounded as government forces reposition to defend Aden.",
-      "url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-17T01:38:13+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261026__D4GV6KE__v1__HighRes__YemenSaudiIsranUsIsraelWar-1794853871.jpg?resize=1920%2C1440"
+      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
+      "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
+      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-17T01:49:26+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg"
     },
     {
       "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
       "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-17T01:37:30+00:00",
+      "published": "2026-11-17T01:41:01+00:00",
       "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
     },
     {
-      "title": "Five EU countries announce migrant deportation centre in Rwanda",
-      "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers.",
-      "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-16T23:20:45+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg"
+      "title": "Irish court jails man for life over Dublin knife attack that sparked riots",
+      "summary": "Three children and a woman were injured in the attack outside a central Dublin school in 2023.",
+      "url": "https://www.aljazeera.com/news/2026/11/17/irish-court-jails-man-for-life-over-dublin-knife-attack-that-sparked-riots?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-17T01:19:56+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261116__D7LQ8CQ__v1__HighRes__FilesIrelandAlgeriaUnrestCrimeChildren-1794874440.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
