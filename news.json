@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T02:15:37.049502+00:00",
+  "updated_at": "2026-11-17T02:30:34.023878+00:00",
   "national": [
     {
       "title": "Riwayat Pendidikan Dasco, Sugiono dan Muzani di Bursa Cawapres",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Rio Tinto agrees to pay US$250m to begin repairing ‘devastation’ left by Panguna mine",
-      "summary": "Bougainville cabinet minister says fund gives chance to find solutions to ‘huge problems we have been living with since the days of the mine’s operation’ Anglo-Australian miner Rio Tinto has agreed to pay a quarter-of-a-billion dollars to begin the clean-up of the toxic Panguna mine site it abandoned more than three decades ago. Panguna, once one of the world’s most profitable gold and copper mines, was shuttered in 1989 after violent protests over environmental damage and the inequitable division of the mine’s profits sparked a decade-long civil war on the Papua New Guinean island of Bougainville. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/nov/17/rio-tinto-250m-panguna-mine-clean-up-bougainville-png",
+      "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
+      "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-17T02:02:30+00:00",
-      "image": "https://i.guim.co.uk/img/media/8b6e5cb5abf829af76f5ebcfe3c864c525dd5235/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=3f50df09a317aa88ccdc9d333e1f80a8"
+      "published": "2026-11-17T02:18:49+00:00",
+      "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
     },
     {
       "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261026__D4GV6KE__v1__HighRes__YemenSaudiIsranUsIsraelWar-1794853871.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
