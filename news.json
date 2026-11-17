@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-17T22:30:34.642117+00:00",
+  "updated_at": "2026-11-17T22:45:35.624015+00:00",
   "national": [
     {
-      "title": "Bakom-Polri Perkuat Sinergi Hadapi Disinformasi",
-      "summary": "Kepala Bakom RI Syahganda Nainggolan mengatakan kolaborasi dengan Polri diperlukan untuk memperkuat infrastruktur komunikasi pemerintah",
-      "url": "https://www.cnnindonesia.com/nasional/20261118050328-20-1428326/bakom-polri-perkuat-sinergi-hadapi-disinformasi",
+      "title": "Kesaksian Kades Buleleng soal Temuan-temuan Puing Pesawat Pan Am '74",
+      "summary": "Penemuan puing pesawat Pan Am 812 di Desa Tinga-tinga, Bali, mengungkap sejarah kecelakaan 1974. Kepala desa berharap perhatian untuk pemeliharaan makam korban.",
+      "url": "https://www.cnnindonesia.com/nasional/20261117210927-20-1428299/kesaksian-kades-buleleng-soal-temuan-temuan-puing-pesawat-pan-am-74",
       "source": "CNN Indonesia",
-      "published": "2026-11-17T22:17:11+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/18/kapolri-jenderal-pol-suyudi-ario-seto-dan-kepala-bakom-ri-syahganda-nainggolan-1794953674842_169.jpeg?w=360&q=90"
+      "published": "2026-11-17T22:43:02+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/17/pemandu-canyoning-temukan-puing-kecelakaan-pesawat-pan-am-1974-di-perbukitan-buleleng-1794901697256_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "Putin Tiba di China Jelang Pertemuan dengan Trump dan Xi Jinping",
+      "summary": "Presiden Rusia Putin tiba di China untuk pertemuan puncak APEC dengan Xi Jinping dan Donald Trump. Diskusi akan fokus pada diplomasi dan perdamaian dunia.",
+      "url": "https://news.detik.com/internasional/d-8757691/putin-tiba-di-china-jelang-pertemuan-dengan-trump-dan-xi-jinping",
+      "source": "Detik",
+      "published": "2026-11-17T21:28:36+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/09/03/momen-presiden-rusia-vladimir-putin-tersenyum-dan-ikut-bertepuk-tangan-saat-mendengar-presiden-prabowo-mengutip-pepatah-rusia-1788437199996_169.jpeg?w=360&q=90"
     },
     {
       "title": "Museum FIFA pamerkan benda bersejarah Piala Dunia 2026",
@@ -16,32 +24,24 @@
       "source": "ANTARA",
       "published": "2026-11-17T21:10:20+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/18/1000088126.jpg"
-    },
-    {
-      "title": "Mendagri Sebut Inflasi Saat Ini 3,23%: Terjaga Cukup Baik",
-      "summary": "Mendagri Tito Karnavian menyatakan inflasi saat ini 3,24%. Ia menekankan pentingnya data Dukcapil untuk perencanaan pembangunan dan pertumbuhan ekonomi daerah.",
-      "url": "https://news.detik.com/berita/d-8757686/mendagri-sebut-inflasi-saat-ini-3-23-terjaga-cukup-baik",
-      "source": "Detik",
-      "published": "2026-11-17T19:48:56+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/18/mendagri-tito-karnavian-1794941330890_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
     {
-      "title": "ICE agents pepper spray pregnant US citizen in California, video shows",
-      "summary": "Lizbeth Vargas Andrade, 23, was arrested after being pushed to the ground and on to her stomach, her attorney says US Immigration and Customs Enforcement (ICE) agents pepper-sprayed a pregnant US citizen and threw her to the ground during a protest in California on Sunday, according to her family’s attorney, who shared footage of the incident. Lizbeth Vargas Andrade, 23, was filming and protesting against the presence of several ICE officers outside the Stanislaus county jail in Modesto, in California’s Central valley, before she was taken down by officers and arrested while she was lying on her stomach during a chaotic encounter. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/16/ice-agents-pepper-spray-pregnant-california-citizen",
+      "title": "Israeli parliament elects new Knesset speaker backed by Netanyahu’s opponents",
+      "summary": "Appointment of Matan Kahana marks step towards reversing policies of Netanyahu’s outgoing government The Israeli parliament elected a new speaker on Tuesday, a key step toward rolling back policies passed by the outgoing government led by the prime minister, Benjamin Netanyahu. The new speaker is Matan Kahana, an ally of Gadi Eisenkot , the party leader currently working to form the next government and replace Netanyahu . Eisenkot’s bloc has pledged to undo some of Netanyahu’s most contentious policies following Kahana’s election. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
       "source": "The Guardian",
-      "published": "2026-11-17T22:24:46+00:00",
-      "image": "https://i.guim.co.uk/img/media/693f5c56a0dc27d3af826f3e8b707a4539e149ad/282_0_1350_1080/master/1350.jpg?width=140&quality=85&auto=format&fit=max&s=274400284c0278eb871c3c1bb95cdf1f"
+      "published": "2026-11-17T22:30:17+00:00",
+      "image": "https://i.guim.co.uk/img/media/de610ad7d09fc89df2c3a963761bfc9e2cc8e4da/1817_497_2596_2076/master/2596.jpg?width=140&quality=85&auto=format&fit=max&s=c5feba6fd1c6b1939e460cb6bcf5df69"
     },
     {
-      "title": "US Fed’s Lisa Cook refuses to attend White House hearing",
-      "summary": "US President Donald Trump has been trying to fire Cook since August 2025.",
-      "url": "https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss",
+      "title": "Russian military plane crash in Siberia kills 19",
+      "summary": "Russia's Defence Ministry says preliminary findings for the crash point to equipment failure.",
+      "url": "https://www.aljazeera.com/news/2026/11/17/russian-military-plane-crash-in-siberia-kills-19?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-17T22:01:27+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2025/11/epa_6914e1b57b8c-1762976181.jpg?resize=1920%2C1440"
+      "published": "2026-11-17T22:21:16+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20220725__32FF3TQ__v1__HighRes__RussiaLeisureMilitaryPark-1794950579.jpg?resize=1920%2C1440"
     },
     {
       "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
