@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-17T12:15:27.798552+00:00",
+  "updated_at": "2026-11-17T12:30:34.213269+00:00",
   "national": [
     {
-      "title": "Irjen Eko Hadi Diduga Salahgunakan Akses Monitoring Sadap Presiden",
-      "summary": "Komisi Kode Etik Profesi Polri memecat Irjen Eko Hadi Santoso karena penyadapan ilegal terhadap Presiden Prabowo. Sidang berlangsung selama 9 jam.",
-      "url": "https://www.cnnindonesia.com/nasional/20261117185523-12-1428238/irjen-eko-hadi-diduga-salahgunakan-akses-monitoring-sadap-presiden",
+      "title": "Sultan Najamudin: DPD RI Tak Bisa Mengusung dan Mencalonkan Cawapres",
+      "summary": "Ketua DPD RI Sultan Najamudin menegaskan bahwa DPD RI bukan kendaraan politik dan tidak memiliki kewenangan mencalonkan cawapres, melainkan representasi daerah.",
+      "url": "https://www.cnnindonesia.com/nasional/20261117191909-633-1428253/sultan-najamudin-dpd-ri-tak-bisa-mengusung-mencalonkan-cawapres",
       "source": "CNN Indonesia",
-      "published": "2026-11-17T12:09:51+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/17/eko-hadi-jalani-sidang-etik-kasus-penyadapan-1794893752193_169.jpeg?w=360&q=90"
+      "published": "2026-11-17T12:24:44+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/17/ketua-dpd-ri-sultan-baktiar-najamudin-1794916097490_169.jpeg?w=360&q=90"
     },
     {
       "title": "Ketua Majelis Prodem Nilai Dasco Representasi Sipil untuk Jabat Wapres",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
-      "summary": "Zelenskyy praises ‘unprecedented attack’ as the Kremlin says bridge will be restored and will be ‘better than ever’ following strike Ukraine critically damages Kerch bridge French ⁠far-right leader Marine Le Pen vowed to ​repeal President Emmanuel Macron’s pension ⁠reform if she is elected ⁠next spring and ​bring ‌down the retirement ‌age to 60 ‌to 62. She also set out plans to create a fund worth €900bn ($990.54bn) to help fund ​pensions in the long term, she added. It ⁠would take a generation ​to ​build up ​the fund, ​she added. Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
+      "title": "Ed Miliband announces first sanctions on Israeli firms working in West Bank",
+      "summary": "Move is designed to hinder building of more illegal settlements, which Foreign Office says Israel has ‘refused to clamp down on’ UK politics live – latest updates Ed Miliband has announced the first set of sanctions against Israeli companies planning to build illegal settlements in the West Bank, after he pledged to try to prevent settlements that destroy the chances of a two-state solution. The UK foreign secretary also announced he was placing sanctions on a rightwing activist Israeli group involved in trying to block aid into Gaza as recently as last month. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/17/ed-miliband-israel-west-bank-settlements-sanctions",
       "source": "The Guardian",
-      "published": "2026-11-17T12:03:55+00:00",
-      "image": "https://i.guim.co.uk/img/media/a8e16239791b265afdeb075556bd2a025572887c/202_0_875_700/master/875.jpg?width=140&quality=85&auto=format&fit=max&s=2183c3e7f4fdc520fa9337d5b649de1d"
+      "published": "2026-11-17T12:18:08+00:00",
+      "image": "https://i.guim.co.uk/img/media/c9523ec5228a42aa647f50bbf3dbb4fc03f57ce3/28_0_3300_2640/master/3300.jpg?width=140&quality=85&auto=format&fit=max&s=021f9a4119628590d1131a080748867b"
     },
     {
       "title": "India vs Pakistan live: SAFF Championship final",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb5/live/140763d0-e26c-11f1-b19c-7b42f37bea48.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
