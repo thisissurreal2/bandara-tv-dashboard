@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T16:30:32.762411+00:00",
+  "updated_at": "2026-11-17T16:45:28.779762+00:00",
   "national": [
     {
       "title": "Banjir Landa 4 Desa di Aceh Selatan, 947 Jiwa Terdampak",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "US loses measles elimination status after 26 years amid record case numbers",
-      "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
-      "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
+      "title": "Jensen Huang says he would return as Nvidia boss if asked by the board",
+      "summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+      "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-17T16:26:22+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b33/live/4927cca0-dfd1-11f1-8c90-4fc10fbf9142.jpg"
+      "published": "2026-11-17T16:39:54+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2306/live/95f186a0-e29e-11f1-8dda-8925a81c3da5.jpg"
     },
     {
-      "title": "US loses measles elimination status amid worst outbreak since 1991",
-      "summary": "Infectious disease is now continually spreading after being eliminated for 26 years, with more than 5,400 US cases The US lost its measles elimination status, global health authorities announced, an official recognition that the infectious disease is endemic in the US after being eliminated for 26 years. The announcement comes as the US endures the worst measles outbreak since 1991, with more than 5,400 cases and eight deaths in 2026. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/17/us-measles-outbreak-elimination-status",
+      "title": "Zelenskyy urges allies to send air defence deliveries without delay as Russia intensifies attacks – Europe live",
+      "summary": "Ukraine’s president says Russia continues to attack the country with Shaheed drones, cruise missiles, and, ballistic missiles Ukraine critically damages Kerch bridge French ⁠far-right leader Marine Le Pen vowed to ​repeal President Emmanuel Macron’s pension ⁠reform if she is elected ⁠next spring and ​bring ‌down the retirement ‌age to 60 ‌to 62. She also set out plans to create a fund worth €900bn ($990.54bn) to help fund ​pensions in the long term, she added. It ⁠would take a generation ​to ​build up ​the fund, ​she added. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-17T16:16:24+00:00",
-      "image": "https://i.guim.co.uk/img/media/146c88f01b2221f2d782af9c3c225374ab7856ce/0_0_2000_1600/master/2000.jpg?width=140&quality=85&auto=format&fit=max&s=dba876295f42ef761e4e5c3c4b08ebc2"
+      "published": "2026-11-17T16:34:49+00:00",
+      "image": "https://i.guim.co.uk/img/media/7b3f958711df37a4e270dd08ada3259ad62ef273/0_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=6e231e08a512cc044dd5d8d9aebdda88"
     },
     {
       "title": "Election-winning student movement enters Serbia’s new parliament",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afc72cd67d4-1794929357.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
