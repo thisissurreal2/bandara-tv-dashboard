@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-17T09:15:41.150687+00:00",
+  "updated_at": "2026-11-17T09:30:43.236845+00:00",
   "national": [
     {
-      "title": "Kisah Hikmah Berlatih Renang di Parit Mentaya hingga Raih Podium Juara",
-      "summary": "Nor Maulida Hikmah, siswi SD Pahirangan, menjadi juara renang tingkat kecamatan. Meski tantangan ada, semangatnya tak padam.",
-      "url": "https://news.detik.com/berita/d-8756980/kisah-hikmah-berlatih-renang-di-parit-mentaya-hingga-raih-podium-juara",
+      "title": "Penampakan Puing Pesawat Pan Am Ditemukan Usai 52 Tahun di Buleleng Bali",
+      "summary": "Beberapa puing itu terdiri dari kampas kopling hingga mesin pesawat.",
+      "url": "https://news.detik.com/berita/d-8757025/penampakan-puing-pesawat-pan-am-ditemukan-usai-52-tahun-di-buleleng-bali",
       "source": "Detik",
-      "published": "2026-11-17T09:09:17+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/17/kisah-hikmah-berlatih-renang-di-parit-mentaya-hingga-ke-podium-juara-1794906403624.jpeg?w=360&q=90"
+      "published": "2026-11-17T09:26:28+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/17/beberapa-puing-itu-terdiri-dari-kampas-kopling-hingga-mesin-pesawat-1794907372434_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "Kapolri Akui Ada Permintaan FBI di Kasus Metaspeed dan Nvidia",
+      "summary": "Kapolri Suyudi mengonfirmasi permintaan FBI untuk menyelidiki PT Megaspeed terkait dugaan ekspor cip Nvidia ilegal. Namun ia menegaskan belum ada penggeledahan.",
+      "url": "https://www.cnnindonesia.com/nasional/20261117155427-12-1428185/kapolri-akui-ada-permintaan-fbi-di-kasus-metaspeed-dan-nvidia",
+      "source": "CNN Indonesia",
+      "published": "2026-11-17T09:14:58+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/12/kapolri-jenderal-suyudi-ario-di-gedung-dpr-ri-untuk-menghadiri-rapat-kerja-bersama-komisi-iii-bahas-kasus-penyadapan-listyo-ka-1794448009564_169.png?w=360&q=90"
     },
     {
       "title": "BP BUMN-Danantara bidik 100 perusahaan berkelas dunia pada 2030",
@@ -16,40 +24,32 @@
       "source": "ANTARA",
       "published": "2026-11-17T08:47:33+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/17/WhatsApp-Image-2026-11-17-at-13.41.04.jpg"
-    },
-    {
-      "title": "6 Syarat DPR Bisa Susun RUU Secara Kilat di RUU Pembentukan UU",
-      "summary": "RUU Tata Cara Pembentukan Undang-Undang ditetapkan sebagai usul inisiatif yang mengatur mekanisme penyusunan undang-undang secara cepat.",
-      "url": "https://www.cnnindonesia.com/nasional/20261117145055-32-1428137/6-syarat-dpr-bisa-susun-ruu-secara-kilat-di-ruu-pembentukan-uu",
-      "source": "CNN Indonesia",
-      "published": "2026-11-17T08:45:44+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/10/rapat-paripurna-pembukaan-masa-sidang-1794294204871_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
     {
-      "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
-      "summary": "Kyiv and Moscow dispute scale of damage which means travel out of the peninsula is now only via a land corridor vulnerable to Ukrainian drone attack Ukraine critically damages Kerch bridge I am also keeping an eye on an incident in the Czech capital of Prague where two commuter trains collided near the main train station, leaving 46 injured, including four seriously. The two passenger trains collided on an overpass while travelling at a low speed around 7am this morning, according to the Czech media. Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-17T09:09:54+00:00",
-      "image": "https://i.guim.co.uk/img/media/a8e16239791b265afdeb075556bd2a025572887c/202_0_875_700/master/875.jpg?width=140&quality=85&auto=format&fit=max&s=2183c3e7f4fdc520fa9337d5b649de1d"
-    },
-    {
-      "title": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
-      "summary": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
-      "url": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
+      "title": "Crimea bridge shut after Ukrainian strike, as Russia hits Kyiv crossings",
+      "summary": "The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed.",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-17T08:53:09+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a7e/live/95f17ee0-e257-11f1-8199-439bbe0918ee.jpg"
+      "published": "2026-11-17T09:27:41+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3f8/live/238ed940-e263-11f1-900c-895604014268.jpg"
     },
     {
-      "title": "Irish ‌‌‌‌boxer Lee Reeves, 31, dies three months after sustaining injuries",
-      "summary": "Lee Reeves died in Limerick three months after sustaining serious injuries in his bout against Gary Cully in Dublin.",
-      "url": "https://www.aljazeera.com/sports/2026/11/17/irish-boxer-lee-reeves-31-dies-three-months-after-sustaining-injuries?traffic_source=rss",
+      "title": "Youth unemployment plan could cut welfare bill before election, says Milburn, but overall savings will take years – UK politics live",
+      "summary": "Long-awaited report on Neets will be published this morning as author acknowledges that there will be initial costs Milburn urges Burnham to spend billions on ‘new deal’ for young people The UK unemployment rate has unexpectedly fallen as the government prepares to release the Alan Milburn report on the youth jobs crisis , Phillip Inman reports. Good morning. Few government reports have been as long-awaited and well-trailed as the Alan Milburn report into youth unemployment, or Neets (young people not in education, employment or training), that is finally being published this morning. The title, From a Welfare State to a Working State, gives a clue as to the extent of Milburn’s ambition and, if it gets implemented in full, it will be remembered as one of the landmark social reforms of the 21st century (so far). There will, no doubt, be protest from right and left. But never has a policy been so pitch-rolled to flatten critics and sceptics with undeniable evidence that it will be to the good. There is a cornucopia of plans for schools, colleges, the NHS, councils and early years education. Ideas come from visits to see what works elsewhere, notably the Netherlands and Denmark. Seeing proportionally far fewer Neets in those countries, Milburn asked what they did about school and college drop-outs. “They didn’t understand that term,” he tells me. In those countries, if children start to struggle with school attendance, “they go straight round to find them and work out their problem. Here they disappear.” Politically, this duty will fall on local mayors (or councils, where mayors have not yet been introduced). Their colossal task is to pull together schools, FE colleges, jobcentres, NHS services and local employers. Heaving them out of their silos to collaborate will test mayoral devolution to its limits. With extra funding comes accountability for creating a continuous decline in the number of Neets in their area. Continue reading...",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-17T09:25:04+00:00",
+      "image": "https://i.guim.co.uk/img/media/ae21bd65f6f9fcfe7775394d2f559aedc82470e9/1129_170_3606_2885/master/3606.jpg?width=140&quality=85&auto=format&fit=max&s=94aa46c9318ad76499a49f221294c344"
+    },
+    {
+      "title": "Journalist who exposed alleged drug links shot dead in Costa Rica",
+      "summary": "Costa Rican journalist Camilo Rodriguez has been shot dead near the capital San Jose.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/journalist-who-exposed-alleged-drug-links-shot-dead-in-costa-rica?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-17T08:41:21+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2287889531-1-1794901101.jpg?resize=1920%2C1440"
+      "published": "2026-11-17T09:18:37+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794907038.jpg?resize=1920%2C1080&quality=80"
     }
   ],
   "feed_warnings": []
