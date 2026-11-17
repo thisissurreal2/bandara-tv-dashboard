@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-17T16:00:40.716268+00:00",
+  "updated_at": "2026-11-17T16:15:36.844022+00:00",
   "national": [
+    {
+      "title": "Wagub Sumbar Harap Prabowo Pilih Dasco Jadi Wapres: Duet yang Luar Biasa",
+      "summary": "Wakil Gubernur Sumbar Vasko Ruseimy dukung Sufmi Dasco Ahmad sebagai Wapres. Ia puji kecerdasan dan loyalitas Dasco, yakin duet dengan Prabowo akan kuat.",
+      "url": "https://news.detik.com/berita/d-8757647/wagub-sumbar-harap-prabowo-pilih-dasco-jadi-wapres-duet-yang-luar-biasa",
+      "source": "Detik",
+      "published": "2026-11-17T16:03:57+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2025/06/02/wakil-gubernur-wagub-sumbar-vasco-ruseimy-jeka-kampaidetiksumut-1748879319965_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Sidang Silmy Karim, Saksi Akui Buat 3 Rekening Penampung Uang Izin WNA",
       "summary": "Saksi di pengadilan tipikor mengaku membuat tiga rekening nominee untuk menampung uang tidak resmi pengurusan izin tinggal WNA.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-17T15:56:53+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/10/29/silmy-karim-jalani-sidang-perdana-kasus-pemerasan-wna-1793261930061_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Trump Tanggapi Serius Ancaman Iran Serang Pejabat AS Pakai Bom Kimia",
-      "summary": "Donald Trump menanggapi ancaman Iran menggunakan bom radioaktif terhadap Washington. Iran membantah laporan tersebut, menyebutnya rekayasa.",
-      "url": "https://news.detik.com/internasional/d-8757633/trump-tanggapi-serius-ancaman-iran-serang-pejabat-as-pakai-bom-kimia",
-      "source": "Detik",
-      "published": "2026-11-17T15:43:56+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/05/risiko-kekalahan-politik-trump-perluas-eskalasi-perang-as-iran-1793870685312_169.jpeg?w=360&q=90"
     },
     {
       "title": "IRGC: Dua kapal tanker terbakar usai hantam ranjau di Hormuz",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "UK sanctions firms over Israeli West Bank settlements",
-      "summary": "It marks the first sanctions since the UK announced a tougher approach to Israeli actions in the territory.",
-      "url": "https://www.bbc.co.uk/news/articles/cvglr977x3z0o?at_medium=RSS&at_campaign=rss",
+      "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-17T15:59:47+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b109/live/1b3b72b0-e283-11f1-b166-176de21e2352.jpg"
+      "published": "2026-11-17T16:07:41+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png"
     },
     {
-      "title": "Burnham makes Milburn head of unit to implement new jobs and welfare approach for young people – live",
-      "summary": "Author of Neets report will be in charge of ‘unblocking delivery and driving progress’ Full story: Milburn says plan will save only £200m a year Explainer: what’s in the report? This chart, from the Milburn report, shows what is likely to happen to the Neet rate, with or without the Milburn policies. The Alan Milburn report has now formally been published. It should be online here very soon. Continue reading...",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
+      "title": "Trump claims US is ‘looking into’ Iranian bomb plot in Washington despite ‘no credible threats’",
+      "summary": "US officials ‘continue to debate whether Iran can or will attempt to execute’ plot to detonate a ‘dirty bomb’, report says Donald Trump has claimed the US is “looking into” whether Iran is developing plans to detonate a so-called “dirty bomb” in Washington, even as the White House said there are “no credible threats” at this time. Trump said his administration takes the idea “very seriously” Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/17/trump-reported-iranian-plot-dirty-bomb-washington",
       "source": "The Guardian",
-      "published": "2026-11-17T15:49:29+00:00",
-      "image": "https://i.guim.co.uk/img/media/7902cdb79f148d1d0391151d406f13d8457d1446/541_134_3999_3200/master/3999.jpg?width=140&quality=85&auto=format&fit=max&s=cdf521cc74be3c957f7e6b5764336bab"
+      "published": "2026-11-17T16:03:34+00:00",
+      "image": "https://i.guim.co.uk/img/media/76a2d0f3872a6feca8f7460199488dda0d73ed4e/695_0_4160_3327/master/4160.jpg?width=140&quality=85&auto=format&fit=max&s=60af6dc63c5f46a35d3671a81b52fcd8"
     },
     {
       "title": "Houthi advance on Aden may spur resurgence of Yemen’s southern separatists",
