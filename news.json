@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T21:30:35.537079+00:00",
+  "updated_at": "2026-11-17T21:45:26.956370+00:00",
   "national": [
     {
       "title": "Mendagri Sebut Inflasi Saat Ini 3,23%: Terjaga Cukup Baik",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
+      "title": "NSA claims temporary internal network outage caused by ‘scheduled routine maintenance’ – live",
+      "summary": "Sources told CNN there was no evidence of cyberattack against NSA Net, the network that allows the agency’s employees to send classified information internally Sign up for US Breaking News email Abdul El-Sayed , the Democratic-Senator elect from Michigan, said today that he would be happy to work with the Trump administration to pass one of his tentpole policy agenda items – Medicare For All. “Everybody’s like, ‘ah well, you’d work with Donald Trump to get Medicare For All?’. I’m like hell yeah, because the point for me is Medicare For All. I don’t care who puts their name on it. I need to go back and talk to Michiganders, and I need to know that our service made their lives easier,” he said at the Atlantic Summit in Washington DC. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-17T21:29:33+00:00",
+      "image": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=140&quality=85&auto=format&fit=max&s=e42bfa4d8b5105fd755a0f064a56de94"
+    },
+    {
+      "title": "UK sanctions Israeli settlement firms to protect two-state solution",
+      "summary": "The UK has imposed new sanctions on eight Israeli companies supporting illegal settlements in the occupied West Bank.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-17T21:28:31+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794950905.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
       "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
       "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
       "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-17T21:24:35+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png"
-    },
-    {
-      "title": "NSA claims temporary internal network outage caused by ‘scheduled routine maintenance’ – live",
-      "summary": "Sources told CNN there was no evidence of cyberattack against NSA Net, the network that allows the agency’s employees to send classified information internally Sign up for US Breaking News email Abdul El-Sayed , the Democratic-Senator elect from Michigan, said today that he would be happy to work with the Trump administration to pass one of his tentpole policy agenda items – Medicare For All. “Everybody’s like, ‘ah well, you’d work with Donald Trump to get Medicare For All?’. I’m like hell yeah, because the point for me is Medicare For All. I don’t care who puts their name on it. I need to go back and talk to Michiganders, and I need to know that our service made their lives easier,” he said at the Atlantic Summit in Washington DC. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-17T21:15:19+00:00",
-      "image": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=140&quality=85&auto=format&fit=max&s=e42bfa4d8b5105fd755a0f064a56de94"
-    },
-    {
-      "title": "Whistleblower: Deadly drone strike in Kuwait could’ve been avoided",
-      "summary": "Whistleblower accuses military of dismissing advanced security warnings of drone strike that killed six US soldiers.",
-      "url": "https://www.aljazeera.com/news/2026/11/17/whistleblower-deadly-drone-strike-in-kuwait-couldve-been-avoided?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-17T21:14:31+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260307__A2DG439__v1__MidRes__UsIranIsraelWar-1-1772934535-1794947953.jpg?resize=1200%2C630&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
