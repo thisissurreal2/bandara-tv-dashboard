@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-17T02:38:44.323106+00:00",
+  "updated_at": "2026-11-17T02:45:28.860899+00:00",
   "national": [
+    {
+      "title": "Polisi Usut Penipuan Investasi Tenun Tonic dan Online Scam Siantar",
+      "summary": "Polisi usut kasus penipuan investasi Tenun Tonic dengan kerugian Rp1,9 miliar hingga ungkap sindikat online scam dengan ratusan korban di Sumut.",
+      "url": "https://www.cnnindonesia.com/nasional/20261117092354-12-1427989/polisi-usut-penipuan-investasi-tenun-tonic-dan-online-scam-siantar",
+      "source": "CNN Indonesia",
+      "published": "2026-11-17T02:38:29+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2020/01/15/7e20faf4-de47-4cc8-8052-b2c18dbf3407_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Jepang Kerahkan Jet Tempur Usai 2 Pesawat Rusia Diduga Masuk Wilayah Udara",
       "summary": "Dua pesawat militer Rusia diduga melanggar wilayah udara Jepang, memicu protes keras. Jepang mengerahkan jet tempur dan melayangkan protes keras ke Rusia.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-17T02:30:56+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2023/01/11/jet-tempur-jepang-dalam-latihan-militer-gabungan-dengan-as_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Riwayat Pendidikan Dasco, Sugiono dan Muzani di Bursa Cawapres",
-      "summary": "Tiga kader Partai Gerindra, Sugiono, Sufmi Dasco Ahmad, dan Ahmad Muzani, berpotensi mengisi posisi cawapres. Simak profil dan rekam jejak pendidikan mereka.",
-      "url": "https://www.cnnindonesia.com/nasional/20261117083502-32-1427961/riwayat-pendidikan-dasco-sugiono-dan-muzani-di-bursa-cawapres",
-      "source": "CNN Indonesia",
-      "published": "2026-11-17T02:06:46+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/16/foto-kolase-sufmi-dasco-ahmad-sugiono-dan-ahmad-muzani-1794796878116_169.jpeg?w=360&q=90"
     },
     {
       "title": "Menkomdigi serap saran pelajar perkuat keamanan ruang digital",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261026__D4GV6KE__v1__HighRes__YemenSaudiIsranUsIsraelWar-1794853871.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
