@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-17T14:00:41.909459+00:00",
+  "updated_at": "2026-11-17T14:15:31.710451+00:00",
   "national": [
     {
-      "title": "Program Desa Dampingan Pemprov Jateng Perkuat Ekonomi Warga",
-      "summary": "Program Desa Dampingan Jateng dorong ekonomi masyarakat melalui bantuan modal untuk usaha produktif, Fokus pada peternakan dan kebutuhan dasar di desa.",
-      "url": "https://www.cnnindonesia.com/nasional/20261117202712-25-1428280/program-desa-dampingan-pemprov-jateng-perkuat-ekonomi-warga",
+      "title": "Brigjen TK Masih Jalani Patsus Terkait Kasus Penyadapan Prabowo",
+      "summary": "Mabes Polri menyatakan Brigjen TK masih menjalani Penempatan Khusus terkait kasus penyadapan ilegal terhadap Prabowo Subianto.",
+      "url": "https://www.cnnindonesia.com/nasional/20261117204415-12-1428297/brigjen-tk-masih-jalani-patsus-terkait-kasus-penyadapan-prabowo",
       "source": "CNN Indonesia",
-      "published": "2026-11-17T13:55:07+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/17/pemprov-jateng-1794921336436_169.jpeg?w=360&q=90"
+      "published": "2026-11-17T14:04:34+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/05/perkembangan-kasus-penyadapan-presiden-prabowo-1793882791600_169.jpeg?w=360&q=90"
     },
     {
       "title": "Eks Kepala BNPB Sudah Diperiksa POM TNI Terkait Korupsi DSP, Ini Hasilnya",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "‘Half measures will not do’: Milburn calls for wholesale reform as he publishes major youth unemployment report – live",
-      "summary": "‘We are failing as a nation to gift young people, the next generation, the opportunities they need to succeed,’ Alan Milburn says Full story: Milburn says plan will save only £200m a year Explainer: what’s in the report? This chart, from the Milburn report, shows what is likely to happen to the Neet rate, with or without the Milburn policies. The Alan Milburn report has now formally been published. It should be online here very soon. Continue reading...",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-17T13:49:24+00:00",
-      "image": "https://i.guim.co.uk/img/media/f8e6eaf79324f25aaac018727ee7f3f4bcbfe879/650_0_4120_3296/master/4120.jpg?width=140&quality=85&auto=format&fit=max&s=9e79cf673fffa865aa17fda73e58956b"
+      "title": "UK sanctions eight Israeli construction firms over West Bank settlements",
+      "summary": "Settler group also sanctioned for blocking Gaza aid as foreign secretary calls for 'protecting the two-state solution'.",
+      "url": "https://www.aljazeera.com/news/2026/11/17/uk-sanctions-8-israeli-firms-over-occupied-west-bank-settlements-gaza-aid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-17T14:09:08+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afc4bc538-1794919365.jpg?resize=1920%2C1440"
     },
     {
-      "title": "Rep. Thomas Massie Forces a New Fight for Epstein Survivors",
-      "summary": "Kentucky Republican Rep. Thomas Massie is pushing for justice for victims of the Epstein files.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/rep-thomas-massie-forces-a-new-fight-for-epstein-survivors?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-17T13:37:51+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794922550.jpg?resize=1920%2C1080&quality=80"
+      "title": "Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska – live",
+      "summary": "Challenger nears 50% of the ballot to secure victory in final midterms contest Protests greet Trump on Asia visit – follow live Sign up for US Breaking News email News of the rule commerce department rule comes at an inopportune time for Donald Trump, who is set to meet with China’s Xi Jinping this week at a trilateral summit alongside Russian president Vladimir Putin . As my colleague Graeme Wearden notes at our designated business blog, China’s foreign ministry spokesperson Guo Jiakun said Beijing would take “necessary measures” to safeguard its own interests, noting that the US has “repeatedly overstretched the concept of national security, abused export controls and even interfered in China’s normal trade and technological cooperation with other countries”. This investigation is the result of the excellent work of the Department of Commerce under Secretary Howard Lutnick and the law enforcement efforts of the Department of Justice under Attorney General Todd Blanche. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-17T14:02:23+00:00",
+      "image": "https://i.guim.co.uk/img/media/e0dd93da6795407f9bbcd9331a16807289493099/238_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=15d4d3eaeb0e1d1c9b90bb5b3b3a70e7"
     },
     {
       "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
@@ -53,7 +53,7 @@
     }
   ],
   "feed_warnings": [
-    "Detik: TimeoutError",
+    "Detik: URLError",
     "Detik: no fresh stories",
     "Detik: keeping previous story"
   ]
