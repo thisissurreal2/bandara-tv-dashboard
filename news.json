@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T19:30:49.186641+00:00",
+  "updated_at": "2026-11-17T19:45:29.793069+00:00",
   "national": [
     {
       "title": "Silmy Karim Sebut Pungli Izin Tinggal Sudah Ada Sejak Sebelum 2018",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Fossil-fuel industry accused of violating Colorado law over not disclosing drilling chemicals",
-      "summary": "Non-profit FracTracker Alliance alleges regulators have exempted compounds used in drilling despite 2022 law The fossil-fuel industry is violating Colorado law by not disclosing which chemicals it uses in drilling, a new analysis by the FracTracker Alliance non-profit alleges, and state records show it has used illegal or dangerous compounds while fracking. Drilling chemicals can include xylene, toluene, benzene, Pfas and other dangerous toxicants, industry records and literature from other regions show. A first-in-the-nation 2022 Colorado law requires fossil-fuel operators and their suppliers to make public all chemicals used in “downhole oil and gas production”. But regulators have exempted compounds used in drilling, claiming that drilling is not part of production. Continue reading...",
-      "url": "https://www.theguardian.com/environment/2026/nov/17/fossil-fuel-industry-colorado",
+      "title": "Milburn calls for tax cuts for businesses hiring young people despite union concerns",
+      "summary": "Youth unemployment review risks clash with unions and Labour left over workers’ rights and minimum wage Neet ideas: what’s in Alan Milburn’s youth unemployment report? Who are the Neets? UK youth job crisis in five charts Milburn urges Burnham to spend billions on young people Alan Milburn has called on ministers to cut business taxes and ease regulations to encourage employers to hire more young people, setting up a potential clash with trade unions and the Labour left over employment rights. The former health secretary published the results of his year-long review into youth unemployment on Wednesday in what the prime minister, Andy Burnham, called a “watershed moment” for young people. Continue reading...",
+      "url": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-tax-cuts-businesses-unions-neets-youth-unemployment",
       "source": "The Guardian",
-      "published": "2026-11-17T19:12:15+00:00",
-      "image": "https://i.guim.co.uk/img/media/8f02a85b241f2031a347ba2959c6552d870749ba/546_0_3757_3006/master/3757.jpg?width=140&quality=85&auto=format&fit=max&s=4bfa827ca36733e29b07524bda144756"
+      "published": "2026-11-17T19:30:32+00:00",
+      "image": "https://i.guim.co.uk/img/media/94d5dbcaee84ef4860f15c907cea1bc38ec21f3b/663_0_2672_2138/master/2672.jpg?width=140&quality=85&auto=format&fit=max&s=bf95bdbd3cbd8daafc938131e8ca9f1a"
     },
     {
-      "title": "NSA’s classified internal communications network reportedly faces outage",
-      "summary": "Disruption at US intelligence agency comes amid questions over recent outages in air travel, communications services.",
-      "url": "https://www.aljazeera.com/news/2026/11/17/nsas-classified-internal-communications-network-reportedly-faces-outage?traffic_source=rss",
+      "title": "More than 100,000 take part in France pay protests",
+      "summary": "Government says 146,000 take part in rallies across France, as CGT trade union put the nationwide total over 500,000.",
+      "url": "https://www.aljazeera.com/news/2026/11/17/more-than-100000-take-part-in-france-pay-protests?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-17T19:03:14+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2018/08/c8be4fcf71d94217b096d241aac04dbe_18.jpeg?resize=1200%2C675"
+      "published": "2026-11-17T19:09:49+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afc6ea3dca3-1794928291.jpg?resize=1920%2C1440"
     },
     {
       "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dab7/live/371458b0-e299-11f1-8dda-8925a81c3da5.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
