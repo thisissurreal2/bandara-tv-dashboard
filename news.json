@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-17T09:00:44.356317+00:00",
+  "updated_at": "2026-11-17T09:15:41.150687+00:00",
   "national": [
+    {
+      "title": "Kisah Hikmah Berlatih Renang di Parit Mentaya hingga Raih Podium Juara",
+      "summary": "Nor Maulida Hikmah, siswi SD Pahirangan, menjadi juara renang tingkat kecamatan. Meski tantangan ada, semangatnya tak padam.",
+      "url": "https://news.detik.com/berita/d-8756980/kisah-hikmah-berlatih-renang-di-parit-mentaya-hingga-raih-podium-juara",
+      "source": "Detik",
+      "published": "2026-11-17T09:09:17+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/17/kisah-hikmah-berlatih-renang-di-parit-mentaya-hingga-ke-podium-juara-1794906403624.jpeg?w=360&q=90"
+    },
     {
       "title": "BP BUMN-Danantara bidik 100 perusahaan berkelas dunia pada 2030",
       "summary": "BP BUMN dan Danantara menargetkan 100 badan usaha milik negara (BUMN) berkelas dunia pada 2030, sebagai bagian ...",
@@ -16,17 +24,25 @@
       "source": "CNN Indonesia",
       "published": "2026-11-17T08:45:44+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/10/rapat-paripurna-pembukaan-masa-sidang-1794294204871_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "KPAI Desak Usut Pelecehan Siswi Magang di Pemprov NTT: Tak Ada Celah Damai",
-      "summary": "Seorang pejabat Pemprov NTT diduga melakukan pelecehan seksual terhadap siswi magang. KPAI mendesak pengusutan serius dan perlindungan identitas korban.",
-      "url": "https://news.detik.com/berita/d-8756934/kpai-desak-usut-pelecehan-siswi-magang-di-pemprov-ntt-tak-ada-celah-damai",
-      "source": "Detik",
-      "published": "2026-11-17T08:44:12+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2023/07/05/dian-sasmita_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
+    {
+      "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
+      "summary": "Kyiv and Moscow dispute scale of damage which means travel out of the peninsula is now only via a land corridor vulnerable to Ukrainian drone attack Ukraine critically damages Kerch bridge I am also keeping an eye on an incident in the Czech capital of Prague where two commuter trains collided near the main train station, leaving 46 injured, including four seriously. The two passenger trains collided on an overpass while travelling at a low speed around 7am this morning, according to the Czech media. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-17T09:09:54+00:00",
+      "image": "https://i.guim.co.uk/img/media/a8e16239791b265afdeb075556bd2a025572887c/202_0_875_700/master/875.jpg?width=140&quality=85&auto=format&fit=max&s=2183c3e7f4fdc520fa9337d5b649de1d"
+    },
+    {
+      "title": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
+      "summary": "Venâncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead.",
+      "url": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-17T08:53:09+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a7e/live/95f17ee0-e257-11f1-8199-439bbe0918ee.jpg"
+    },
     {
       "title": "Irish ‌‌‌‌boxer Lee Reeves, 31, dies three months after sustaining injuries",
       "summary": "Lee Reeves died in Limerick three months after sustaining serious injuries in his bout against Gary Cully in Dublin.",
@@ -34,27 +50,7 @@
       "source": "Al Jazeera",
       "published": "2026-11-17T08:41:21+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2287889531-1-1794901101.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
-      "summary": "Kyiv and Moscow dispute scale of damage which means travel out of the peninsula is now only via a land corridor vulnerable to Ukrainian drone attack Ukraine critically damages Kerch bridge Ukraine has critically damaged the Kerch bridge linking occupied Crimea with Russia in an overnight missile attack, in what Ukrainian officials say is a symbolic blow to the Kremlin. Photos suggest that a 227-metre road arch span has fallen into the Kerch strait, which connects the Sea of Azov with the Black Sea. The adjacent railway arch span has also sustained damage. Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-17T08:37:52+00:00",
-      "image": "https://i.guim.co.uk/img/media/a8e16239791b265afdeb075556bd2a025572887c/202_0_875_700/master/875.jpg?width=140&quality=85&auto=format&fit=max&s=2183c3e7f4fdc520fa9337d5b649de1d"
-    },
-    {
-      "title": "Crimea bridge shut after reported Ukrainian strike, as Russia hits Kyiv crossings",
-      "summary": "The bridge linking Crimea and Russia has reportedly sustained major damage, while two routes through Kyiv are closed.",
-      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-17T08:06:32+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22e4/live/526312a0-e258-11f1-8199-439bbe0918ee.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
