@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-17T13:45:29.126488+00:00",
+  "updated_at": "2026-11-17T14:00:41.909459+00:00",
   "national": [
+    {
+      "title": "Program Desa Dampingan Pemprov Jateng Perkuat Ekonomi Warga",
+      "summary": "Program Desa Dampingan Jateng dorong ekonomi masyarakat melalui bantuan modal untuk usaha produktif, Fokus pada peternakan dan kebutuhan dasar di desa.",
+      "url": "https://www.cnnindonesia.com/nasional/20261117202712-25-1428280/program-desa-dampingan-pemprov-jateng-perkuat-ekonomi-warga",
+      "source": "CNN Indonesia",
+      "published": "2026-11-17T13:55:07+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/17/pemprov-jateng-1794921336436_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Eks Kepala BNPB Sudah Diperiksa POM TNI Terkait Korupsi DSP, Ini Hasilnya",
       "summary": "KPK menyampaikan bahwa mantan Kepala BNPB, Letjen TNI Suharyanto, telah diperiksa oleh POM TNI terkait kasus dugaan korupsi dana siap pakai (DSP) kebencanaan.",
@@ -16,32 +24,24 @@
       "source": "ANTARA",
       "published": "2026-11-17T13:25:13+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/17/IMG-20261117-WA0016_1.jpg"
-    },
-    {
-      "title": "Momen Irjen Eko Hadi Keluar Gedung Propam Polri Usai Putusan Dipecat",
-      "summary": "KKEP Polri menjatuhkan sanksi pemberhentian tidak dengan hormat (PTDH) alias pemecatan terhadap Irjen Eko Hadi Santoso di kasus penyadapan presiden.",
-      "url": "https://www.cnnindonesia.com/nasional/20261117195818-16-1428272/momen-irjen-eko-hadi-keluar-gedung-propam-polri-usai-putusan-dipecat",
-      "source": "CNN Indonesia",
-      "published": "2026-11-17T13:23:44+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/17/thumbnail-video-1794920474751_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
     {
-      "title": "Deutsche Bank dimissed warnings about dealings with risky clients, reports claim",
-      "summary": "International investigation using trove of leaked internal data allegedly shows German bank overlooked compliance concerns to safeguard profits Deutsche Bank reportedly dismissed warnings about its dealings with risky clients, including high-profile Russian oligarchs, to protect profits, the findings of an investigation into a trove of leaked bank documents indicate. A leak of 15m internal files is reported to show that the troubled German bank repeatedly ignored concerns by its compliance officers about its risk-taking, despite having already been caught being used to launder billions of dollars for Russian criminals, spies and oligarchs between 2010 and 2015. Continue reading...",
-      "url": "https://www.theguardian.com/business/2026/nov/17/deutsche-bank-dimissed-warnings-risky-clients-reports-claim",
+      "title": "‘Half measures will not do’: Milburn calls for wholesale reform as he publishes major youth unemployment report – live",
+      "summary": "‘We are failing as a nation to gift young people, the next generation, the opportunities they need to succeed,’ Alan Milburn says Full story: Milburn says plan will save only £200m a year Explainer: what’s in the report? This chart, from the Milburn report, shows what is likely to happen to the Neet rate, with or without the Milburn policies. The Alan Milburn report has now formally been published. It should be online here very soon. Continue reading...",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-17T13:34:47+00:00",
-      "image": "https://i.guim.co.uk/img/media/21474d52763b44585b74c4c50325ba4c99235bdd/247_0_2961_2369/master/2961.jpg?width=140&quality=85&auto=format&fit=max&s=788fab996ab2d7f1de0ae9cee69c3eb8"
+      "published": "2026-11-17T13:49:24+00:00",
+      "image": "https://i.guim.co.uk/img/media/f8e6eaf79324f25aaac018727ee7f3f4bcbfe879/650_0_4120_3296/master/4120.jpg?width=140&quality=85&auto=format&fit=max&s=9e79cf673fffa865aa17fda73e58956b"
     },
     {
-      "title": "Infantino’s FIFA challenger Diallo claims to have support beyond Europe",
-      "summary": "French football chief Philippe Diallo says he has received 'spontaneous signs of strong support' against Infantino.",
-      "url": "https://www.aljazeera.com/sports/2026/11/17/infantinos-fifa-challenger-diallo-claims-to-have-support-beyond-europe?traffic_source=rss",
+      "title": "Rep. Thomas Massie Forces a New Fight for Epstein Survivors",
+      "summary": "Kentucky Republican Rep. Thomas Massie is pushing for justice for victims of the Epstein files.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/rep-thomas-massie-forces-a-new-fight-for-epstein-survivors?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-17T13:09:31+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261117__D7Q4492__v2__HighRes__FblFraFffFifa-1794919871.jpg?resize=1920%2C1440"
+      "published": "2026-11-17T13:37:51+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794922550.jpg?resize=1920%2C1080&quality=80"
     },
     {
       "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d277/live/17a72100-e286-11f1-a094-5fdc692f3e33.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: TimeoutError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
