@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-17T22:45:35.624015+00:00",
+  "updated_at": "2026-11-17T23:00:38.488137+00:00",
   "national": [
     {
-      "title": "Kesaksian Kades Buleleng soal Temuan-temuan Puing Pesawat Pan Am '74",
-      "summary": "Penemuan puing pesawat Pan Am 812 di Desa Tinga-tinga, Bali, mengungkap sejarah kecelakaan 1974. Kepala desa berharap perhatian untuk pemeliharaan makam korban.",
-      "url": "https://www.cnnindonesia.com/nasional/20261117210927-20-1428299/kesaksian-kades-buleleng-soal-temuan-temuan-puing-pesawat-pan-am-74",
+      "title": "Kasus Sadap: 2 Jenderal Polri Dipecat, Sidang Etik Listyo Pekan Depan",
+      "summary": "Sudah dua jenderal polisi diputus etik untuk dipecat dari Polri terkait kasus penyadapan presiden, sementara eks Kapolri Listyo disidang etik pekan depan.",
+      "url": "https://www.cnnindonesia.com/nasional/20261117233242-12-1428324/kasus-sadap-2-jenderal-polri-dipecat-sidang-etik-listyo-pekan-depan",
       "source": "CNN Indonesia",
-      "published": "2026-11-17T22:43:02+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/17/pemandu-canyoning-temukan-puing-kecelakaan-pesawat-pan-am-1974-di-perbukitan-buleleng-1794901697256_169.jpeg?w=360&q=90"
+      "published": "2026-11-17T23:00:32+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/06/30/polri-gelar-kenaikan-pangkat-87-pati-4-orang-jadi-komjen-1782807757499_169.jpeg?w=360&q=90"
     },
     {
       "title": "Putin Tiba di China Jelang Pertemuan dengan Trump dan Xi Jinping",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Israeli parliament elects new Knesset speaker backed by Netanyahu’s opponents",
-      "summary": "Appointment of Matan Kahana marks step towards reversing policies of Netanyahu’s outgoing government The Israeli parliament elected a new speaker on Tuesday, a key step toward rolling back policies passed by the outgoing government led by the prime minister, Benjamin Netanyahu. The new speaker is Matan Kahana, an ally of Gadi Eisenkot , the party leader currently working to form the next government and replace Netanyahu . Eisenkot’s bloc has pledged to undo some of Netanyahu’s most contentious policies following Kahana’s election. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/nov/17/israeli-parliament-elects-new-knesset-speaker-backed-netanyahus-opponents",
+      "title": "New UK-EU youth mobility scheme may not fully launch until 2030",
+      "summary": "Exclusive: deal expected to be sealed in principle at EU-UK summit on Friday but trickier elements could be postponed for six months The new post-Brexit UK-EU youth mobility scheme or agrifood deal may not come fully into force until 2030. It will be a disappointment to any under-30s in the UK and the EU who hoped to travel, work or study in each other’s territories from next year after the long-awaited new deal. Continue reading...",
+      "url": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu",
       "source": "The Guardian",
-      "published": "2026-11-17T22:30:17+00:00",
-      "image": "https://i.guim.co.uk/img/media/de610ad7d09fc89df2c3a963761bfc9e2cc8e4da/1817_497_2596_2076/master/2596.jpg?width=140&quality=85&auto=format&fit=max&s=c5feba6fd1c6b1939e460cb6bcf5df69"
+      "published": "2026-11-17T22:55:06+00:00",
+      "image": "https://i.guim.co.uk/img/media/6fc1f6014766f6cbb24d0d12e59c516e7ccd73c9/314_0_3181_2544/master/3181.jpg?width=140&quality=85&auto=format&fit=max&s=1236630a149edef98ad84bcca79d5dbf"
+    },
+    {
+      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+      "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+      "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-17T22:46:30+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26d1/live/31a610b0-e2b9-11f1-bee0-ef418afc697f.jpg"
     },
     {
       "title": "Russian military plane crash in Siberia kills 19",
@@ -42,14 +50,6 @@
       "source": "Al Jazeera",
       "published": "2026-11-17T22:21:16+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20220725__32FF3TQ__v1__HighRes__RussiaLeisureMilitaryPark-1794950579.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-17T21:24:35+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png"
     }
   ],
   "feed_warnings": []
