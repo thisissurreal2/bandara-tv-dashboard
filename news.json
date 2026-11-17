@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-17T11:45:28.136480+00:00",
+  "updated_at": "2026-11-17T12:00:40.610878+00:00",
   "national": [
     {
-      "title": "Kesultanan Banten Tolak Pemindahan Badak Jawa dari TNUK, Surati Presiden",
-      "summary": "Kesultanan Banten menolak pemindahan badak dari Taman Nasional Ujung Kulon. Mereka menganggap badak sebagai identitas dan lambang kebanggaan daerah.",
-      "url": "https://news.detik.com/berita/d-8757334/kesultanan-banten-tolak-pemindahan-badak-jawa-dari-tnuk-surati-presiden",
+      "title": "Polri Pecat Irjen Eko Hadi Santoso Buntut Penyadapan Presiden",
+      "summary": "Polri memecat Irjen Hadi Santoso dan Irjen Ahrie Sonta karena pelanggaran etik terkait penyadapan ilegal.",
+      "url": "https://news.detik.com/berita/d-8757385/polri-pecat-irjen-eko-hadi-santoso-buntut-penyadapan-presiden",
       "source": "Detik",
-      "published": "2026-11-17T11:39:48+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/17/sultan-ke-18-banten-sultan-syarief-muhammad-ash-shafiuddin-1794915554878_169.jpeg?w=360&q=90"
+      "published": "2026-11-17T11:56:22+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/17/irjen-eko-hadi-santoso-saat-menjalani-sidang-komisi-kode-etik-profesi-kkep-1794892120422_169.jpeg?w=360&q=90"
     },
     {
       "title": "Komisi III Target RUU Penyadapan Rampung Akhir 2026",
@@ -28,28 +28,28 @@
   ],
   "international": [
     {
+      "title": "Major youth unemployment report calls for changes to tax, welfare and apprenticeships – UK politics live",
+      "summary": "Alan Milburn says his plan could cut the welfare bill before the next election, but overall savings will take years Full story: Milburn says plan will save only £200m a year Explainer: what’s in the report? This chart, from the Milburn report, shows what is likely to happen to the Neet rate, with or without the Milburn policies. The Alan Milburn report has now formally been published. It should be online here very soon. Continue reading...",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-17T11:53:54+00:00",
+      "image": "https://i.guim.co.uk/img/media/b330a5adad039ac2b6e233309db6bef5dd68033a/498_79_4932_3946/master/4932.jpg?width=140&quality=85&auto=format&fit=max&s=b8541c9ec33f74701205daabc3e8f833"
+    },
+    {
+      "title": "Pretending to be in New Zeland, booking leave and buying consoles - the lengths fans are going to for GTA 6",
+      "summary": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-17T11:49:01+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb4c/live/4a003210-e1d0-11f1-b8c8-67fa35f5afdb.jpg"
+    },
+    {
       "title": "Ukrainian breaks world record for deepest competitive freedive",
       "summary": "Ukrainian freediver Nataliia Zharkova has broken the world record, reaching 124 metres in constant weight.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/ukrainian-breaks-world-record-for-deepest-competitive-freedive?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-11-17T11:37:13+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794915377.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "title": "Alan Milburn says his plan to get young people into work will save only £200m a year",
-      "summary": "Author of long-awaited report says money saved in benefit cuts will mostly be used to fund new job support system UK politics live – latest updates Neet ideas: what’s in Milburn’s report? Alan Milburn has said his plan to get more young people into work will save the government only £200m a year as the cost of job support swallows up almost all of the anticipated cuts to benefits. The former health secretary unveiled his long-awaited report into youth unemployment on Tuesday morning, urging ministers to cut disability and sickness payments for under-25s and invest the money in back-to-work schemes. Figures contained in the report show that his plan will not deliver significant overall savings. Continue reading...",
-      "url": "https://www.theguardian.com/society/2026/nov/17/alan-milburn-report-young-people-work-neets-job-support-savingsalan-milburn-plan-young-people-work-neets-savings-200m-a-year",
-      "source": "The Guardian",
-      "published": "2026-11-17T11:30:35+00:00",
-      "image": "https://i.guim.co.uk/img/media/99467bad0e9304257b52da1b6811383998f5ce7a/920_0_4584_3669/master/4584.jpg?width=140&quality=85&auto=format&fit=max&s=7ca53658582cf9fd65b37ecc994fa69b"
-    },
-    {
-      "title": "Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "summary": "Ukraine says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
-      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-17T10:45:55+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png"
     }
   ],
   "feed_warnings": []
