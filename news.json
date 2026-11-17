@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T17:00:44.168356+00:00",
+  "updated_at": "2026-11-17T17:15:27.000676+00:00",
   "national": [
     {
       "title": "Gubernur Dukung Polda NTT Usut Dugaan Pemerkosaan oleh Bupati Kupang",
@@ -10,12 +10,12 @@
       "image": "https://akcdn.detik.net.id/visual/2020/02/15/0af27819-cbb1-40dc-aaef-0a8fc79896f3_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Banjir Landa 4 Desa di Aceh Selatan, 947 Jiwa Terdampak",
-      "summary": "Banjir melanda 4 desa di Aceh Selatan, dampak 947 jiwa. BPBD evakuasi warga ke posko pengungsian. Ketinggian air mencapai 140 cm.",
-      "url": "https://news.detik.com/berita/d-8757651/banjir-landa-4-desa-di-aceh-selatan-947-jiwa-terdampak",
+      "title": "Prabowo Dorong ASEAN-India Perkuat Kerja Sama Farmasi dan Mitigasi Bencana",
+      "summary": "Presiden Prabowo dorong kerja sama ASEAN-India di bidang kesehatan dan ketahanan bencana, manfaatkan kemajuan industri farmasi India untuk ketahanan kesehatan.",
+      "url": "https://news.detik.com/berita/d-8757653/prabowo-dorong-asean-india-perkuat-kerja-sama-farmasi-dan-mitigasi-bencana",
       "source": "Detik",
-      "published": "2026-11-17T16:19:39+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/17/personel-bpbd-mengevakuasi-warga-terdampak-bencana-banjir-di-aceh-selatan-selasa-17112026-antaraho-humas-bpbd-aceh-selatan-1794932359171_169.jpeg?w=360&q=90"
+      "published": "2026-11-17T16:43:20+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/17/prabowo-di-ktt-ke-23-asean-india-di-manila-filipina-selasa-17112026-1794933774328_169.jpeg?w=360&q=90"
     },
     {
       "title": "IRGC: Dua kapal tanker terbakar usai hantam ranjau di Hormuz",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Putin's Crimea bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "summary": "Ukraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
-      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "title": "US loses measles elimination status after 26 years amid record case numbers",
+      "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
+      "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-17T16:56:38+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png"
+      "published": "2026-11-17T17:10:03+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b33/live/4927cca0-dfd1-11f1-8c90-4fc10fbf9142.jpg"
+    },
+    {
+      "title": "Yemeni parliament approves law designating Houthis as ‘terrorists’",
+      "summary": "The law targets the group's financing and activities as Houthis make advances in southwestern Yemen.",
+      "url": "https://www.aljazeera.com/news/2026/11/17/yemeni-parliament-approves-law-designating-houthis-as-terrorists?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-17T16:53:25+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/HXQmoXHXMAAKpMH-1794927673.jpeg?resize=1200%2C675"
     },
     {
       "title": "Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska – live",
@@ -42,19 +50,7 @@
       "source": "The Guardian",
       "published": "2026-11-17T16:43:54+00:00",
       "image": "https://i.guim.co.uk/img/media/e0dd93da6795407f9bbcd9331a16807289493099/238_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=15d4d3eaeb0e1d1c9b90bb5b3b3a70e7"
-    },
-    {
-      "title": "Photos: Tens of thousands rally in France over living standards and wages",
-      "summary": "France witnesses its third major public sector strike since September, as protests highlight wage and service concerns.",
-      "url": "https://www.aljazeera.com/gallery/2026/11/17/photos-tens-of-thousands-rally-in-france-over-living-standards-and-wages?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-17T16:39:01+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261117__D7PV2QT__v1__HighRes__FrancePoliticsSocialLabourUnionsStrikeDemo-1794923086.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
