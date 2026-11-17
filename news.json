@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-17T10:45:26.630055+00:00",
+  "updated_at": "2026-11-17T11:00:41.447861+00:00",
   "national": [
+    {
+      "title": "Mahasiswa UGM yang Diperiksa Polda DIY Kini Berstatus Tersangka",
+      "summary": "Wakil Dekan FH UGM menyebut mahasiswa UGM yang diperiksa polisi terkait aksi unjuk rasa kini telah ditetapkan sebagai tersangka. Kampus mendampingi mahasiswa.",
+      "url": "https://www.cnnindonesia.com/nasional/20261117170405-12-1428208/mahasiswa-ugm-yang-diperiksa-polda-diy-kini-berstatus-tersangka",
+      "source": "CNN Indonesia",
+      "published": "2026-11-17T10:54:38+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/15/aksi-solidaritas-ugm-1794738352602_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Trump Tiba di Manila untuk Hadiri KTT ASEAN-AS",
       "summary": "Trump telah tiba di Manila, ibu kota Filipina, pada Selasa (17/11) sore. Trump akan menghadiri pertemuan puncak ASEAN-AS yang secara khusus digelar pekan ini.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-17T10:42:44+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/17/presiden-as-donald-trump-saat-turun-dari-air-force-one-setibanya-di-manila-filipina-pada-selasa-1711-sore-1794912002043_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Kapolri soal Tersangka Kasus Makar Penyadapan Prabowo: Masih Proses",
-      "summary": "Kapolri memastikan belum ada tersangka dalam kasus dugaan makar terkait penyadapan ilegal terhadap Prabowo Subianto oleh Listyo Sigit Cs.",
-      "url": "https://www.cnnindonesia.com/nasional/20261117165547-12-1428205/kapolri-soal-tersangka-kasus-makar-penyadapan-prabowo-masih-proses",
-      "source": "CNN Indonesia",
-      "published": "2026-11-17T10:40:50+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/16/kapolri-suyudi-ario-seto-saat-hut-ke-81-korps-brimob-1794813014214_169.jpeg?w=360&q=90"
     },
     {
       "title": "Tiwi/Fadia mulus di Hong Kong Open, adaptasi arena bukan kendala",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "summary": "Zelensky says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
-      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-17T10:34:29+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3f8/live/238ed940-e263-11f1-900c-895604014268.jpg"
+      "title": "Ukraine hails attack on vital Kerch bridge linking Russia and Crimea – Europe live",
+      "summary": "Zelenskyy praises ‘unprecedented attack’ as the Kremlin says bridge will be restored and will be ‘better than ever’ following strike Ukraine critically damages Kerch bridge French ⁠far-right leader Marine Le Pen vowed to ​repeal President Emmanuel Macron’s pension ⁠reform if she is elected ⁠next spring and ​bring ‌down the retirement ‌age to 60 ‌to 62. She also set out plans to create a fund worth €900bn ($990.54bn) to help fund ​pensions in the long term, she added. It ⁠would take a generation ​to ​build up ​the fund, ​she added. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/nov/17/europe-ukraine-russia-crimea-kerch-bridge-attack-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-17T10:48:53+00:00",
+      "image": "https://i.guim.co.uk/img/media/a8e16239791b265afdeb075556bd2a025572887c/202_0_875_700/master/875.jpg?width=140&quality=85&auto=format&fit=max&s=2183c3e7f4fdc520fa9337d5b649de1d"
     },
     {
-      "title": "Former WH Smith chain TG Jones put up for sale after closing 130 stores",
-      "summary": "Modella Capital plans auction of high street retailer, which employs about 3,500 people, next year Business live – latest updates The owner of TG Jones is exploring a potential sale less than 18 months after completing a deal to buy the high street chain formerly known as WH Smith. Modella Capital, which also owns businesses including Hobbycraft, completed a deal to buy the 233-year-old business for £76m in June last year. Continue reading...",
-      "url": "https://www.theguardian.com/business/2026/nov/17/wh-smith-tg-jones-sale-stores-modella-capita",
-      "source": "The Guardian",
-      "published": "2026-11-17T10:33:01+00:00",
-      "image": "https://i.guim.co.uk/img/media/c1ff7b89a9d54d285510bb6163d009d76d0c2bb9/128_0_7733_6186/master/7733.jpg?width=140&quality=85&auto=format&fit=max&s=71b48d2bb5b1544f8bacb29fce7db1a3"
+      "title": "Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "summary": "Ukraine says the attack took weeks to plan, while the Kremlin vows to rebuild the strategic bridge.",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-17T10:45:55+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3f8/live/238ed940-e263-11f1-900c-895604014268.jpg"
     },
     {
       "title": "Why are five EU countries reviving plans to deport migrants to Rwanda?",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-16T163337Z_833113192_RC24POAWQ8ZB_RTRMADP_3_EUROPE-MIGRATION-RWANDA-1794905588.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
