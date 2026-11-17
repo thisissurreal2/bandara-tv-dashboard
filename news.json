@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-16T23:45:28.332589+00:00",
+  "updated_at": "2026-11-17T00:00:40.989202+00:00",
   "national": [
     {
-      "title": "Gempa M 7,1 Guncang Maluku Tenggara, Getaran Terasa hingga Manokwari",
-      "summary": "Gempa bumi berkekuatan magnitudo 7,1 dilaporkan mengguncang wilayah Maluku Tenggara pada Selasa (17/11) pagi.",
-      "url": "https://www.cnnindonesia.com/nasional/20261117063030-20-1427910/gempa-m-71-guncang-maluku-tenggara-getaran-terasa-hingga-manokwari",
+      "title": "6 Murid SMP di Wonosobo Terjatuh dari Lantai 2 Sekolah, 1 Tewas",
+      "summary": "Enam siswa SMP Al-Madina Wonosobo jatuh dari lantai dua setelah teralis ambruk. Satu siswa meninggal, lima lainnya luka-luka. Polisi selidiki penyebabnya.",
+      "url": "https://www.cnnindonesia.com/nasional/20261117064440-20-1427927/6-murid-smp-di-wonosobo-terjatuh-dari-lantai-2-sekolah-1-tewas",
       "source": "CNN Indonesia",
-      "published": "2026-11-16T23:37:44+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2019/11/16/0e69a9fe-533f-4a08-adb8-948fe3178ed5_169.jpeg?w=360&q=90"
+      "published": "2026-11-16T23:59:22+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2020/04/21/7c0e582e-a703-43cb-a572-13055f046d5f_169.jpeg?w=360&q=90"
     },
     {
       "title": "PAN Setuju Dasco Jadi Wapres Pengganti Gibran: Inklusif dan Problem Solver",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "United Airlines says ‘widespread’ system outage resolved",
-      "summary": "Airline acknowledges ‘technology issue that delayed flight departures’ in latest high-profile outage to affect Americans United ⁠Airlines said on ⁠Monday ⁠that it had resolved ⁠a widespread system ⁠outage, just three days after the Federal ⁠Aviation Administration issued a rare nationwide ground stop on all US flights. “We have resolved a technology issue that delayed flight departures. While some flights were delayed, there was no impact on flights in progress, or on United Express flights,” United said in a statement. “There is no indication that this was a cybersecurity-related issue.” Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
+      "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
+      "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-16T23:26:23+00:00",
-      "image": "https://i.guim.co.uk/img/media/eb6b6150bca60af4894ce9e3f598b0ea8d74e90c/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=28983698125cd7b39a7adedf7e96dd07"
+      "published": "2026-11-16T23:54:45+00:00",
+      "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
     },
     {
       "title": "Five EU countries announce migrant deportation centre in Rwanda",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260929__C9MY8HN__v1__HighRes__SyriaEuPoliticsDiplomacy-1794866375.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
