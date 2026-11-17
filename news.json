@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-17T19:45:29.793069+00:00",
+  "updated_at": "2026-11-17T19:54:55.996827+00:00",
   "national": [
+    {
+      "title": "Mendagri Sebut Inflasi Saat Ini 3,23%: Terjaga Cukup Baik",
+      "summary": "Mendagri Tito Karnavian menyatakan inflasi saat ini 3,24%. Ia menekankan pentingnya data Dukcapil untuk perencanaan pembangunan dan pertumbuhan ekonomi daerah.",
+      "url": "https://news.detik.com/berita/d-8757686/mendagri-sebut-inflasi-saat-ini-3-23-terjaga-cukup-baik",
+      "source": "Detik",
+      "published": "2026-11-17T19:48:56+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/18/mendagri-tito-karnavian-1794941330890_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Silmy Karim Sebut Pungli Izin Tinggal Sudah Ada Sejak Sebelum 2018",
       "summary": "Terdakwa pemerasan izin tinggal WNA, Silmy Karim, klaim hentikan praktik pungli saat menjabat Dirjen Imigrasi. Ia merasa dikriminalisasi.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-17T19:30:23+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/10/29/silmy-karim-jalani-sidang-perdana-kasus-pemerasan-wna-1793261930189_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "5 WN China Terindikasi Korban Perdagangan Orang, Terancam Dideportasi",
-      "summary": "Lima warga negara China diduga korban penyelundupan manusia terdampar di Rote Ndao. Imigrasi Kupang akan deportasi mereka setelah pemeriksaan.",
-      "url": "https://news.detik.com/berita/d-8757680/5-wn-china-terindikasi-korban-perdagangan-orang-terancam-dideportasi",
-      "source": "Detik",
-      "published": "2026-11-17T19:01:27+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/18/lima-warga-negara-china-diduga-korban-penyelundupan-manusia-terdampar-di-rote-ndao-1794942069463_169.jpeg?w=360&q=90"
     },
     {
       "title": "IRGC: Dua kapal tanker terbakar usai hantam ranjau di Hormuz",
@@ -27,6 +27,14 @@
     }
   ],
   "international": [
+    {
+      "title": "Russian military plane crashes killing all 19 on board",
+      "summary": "Russia's defence ministry says a technical malfunction was the likely cause of the crash in the Kemerovo region.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-17T19:33:55+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png"
+    },
     {
       "title": "Milburn calls for tax cuts for businesses hiring young people despite union concerns",
       "summary": "Youth unemployment review risks clash with unions and Labour left over workers’ rights and minimum wage Neet ideas: what’s in Alan Milburn’s youth unemployment report? Who are the Neets? UK youth job crisis in five charts Milburn urges Burnham to spend billions on young people Alan Milburn has called on ministers to cut business taxes and ease regulations to encourage employers to hire more young people, setting up a potential clash with trade unions and the Labour left over employment rights. The former health secretary published the results of his year-long review into youth unemployment on Wednesday in what the prime minister, Andy Burnham, called a “watershed moment” for young people. Continue reading...",
@@ -42,19 +50,7 @@
       "source": "Al Jazeera",
       "published": "2026-11-17T19:09:49+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afc6ea3dca3-1794928291.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
-      "summary": "The PM has suggested Chinese automakers could replace American ones in Canada - but some say that would not be easy.",
-      "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-17T18:58:57+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dab7/live/371458b0-e299-11f1-8dda-8925a81c3da5.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
