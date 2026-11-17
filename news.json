@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T00:00:40.989202+00:00",
+  "updated_at": "2026-11-17T00:15:33.670469+00:00",
   "national": [
+    {
+      "title": "PKS Dukung Dasco Jadi Wapres: Mampu Rangkul Berbagai Pihak",
+      "summary": "Juru Bicara PKS, Pipin Sopian, dukung Sufmi Dasco Ahmad sebagai wapres pengganti Gibran. Dia menilai Dasco mampu merangkul berbagai pihak dan berpengalaman.",
+      "url": "https://news.detik.com/berita/d-8756073/pks-dukung-dasco-jadi-wapres-mampu-rangkul-berbagai-pihak",
+      "source": "Detik",
+      "published": "2026-11-17T00:08:35+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2023/07/18/juru-bicara-pks-pipin-sopian-dok-istimewa_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "BMKG: Gempa magnitudo 7,1 di Maluku tidak berpotensi tsunami",
+      "summary": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) menyatakan gempa bumi tektonik berkekuatan magnitudo 7,1 di ...",
+      "url": "https://www.antaranews.com/berita/5858615/bmkg-gempa-magnitudo-71-di-maluku-tidak-berpotensi-tsunami",
+      "source": "ANTARA",
+      "published": "2026-11-17T00:03:00+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/09/15/bmkg-catat-15.722-gempa-susulan-di-flores-2864297.jpg"
+    },
     {
       "title": "6 Murid SMP di Wonosobo Terjatuh dari Lantai 2 Sekolah, 1 Tewas",
       "summary": "Enam siswa SMP Al-Madina Wonosobo jatuh dari lantai dua setelah teralis ambruk. Satu siswa meninggal, lima lainnya luka-luka. Polisi selidiki penyebabnya.",
@@ -8,22 +24,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-16T23:59:22+00:00",
       "image": "https://akcdn.detik.net.id/visual/2020/04/21/7c0e582e-a703-43cb-a572-13055f046d5f_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "PAN Setuju Dasco Jadi Wapres Pengganti Gibran: Inklusif dan Problem Solver",
-      "summary": "Wakil Ketua Umum PAN Viva Yoga dukung Sufmi Dasco Ahmad sebagai wapres pengganti Gibran. PAN menilai Dasco kompeten dan sejalan dengan Presiden Prabowo.",
-      "url": "https://news.detik.com/berita/d-8756062/pan-setuju-dasco-jadi-wapres-pengganti-gibran-inklusif-dan-problem-solver",
-      "source": "Detik",
-      "published": "2026-11-16T23:24:27+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2025/08/30/wakil-menteri-transmigrasi-viva-yoga-mauladi-1756563151000_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Hancurkan Belanda 5-0, Jerman ke perempat final sebagai juara grup",
-      "summary": "Timnas Jerman memastikan tiket ke perempat final UEFA Nations League 2026/2027 dengan status juara Grup A2 setelah ...",
-      "url": "https://www.antaranews.com/berita/5858579/hancurkan-belanda-5-0-jerman-ke-perempat-final-sebagai-juara-grup",
-      "source": "ANTARA",
-      "published": "2026-11-16T22:40:39+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/17/1000087599.jpg"
     }
   ],
   "international": [
@@ -32,8 +32,16 @@
       "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-16T23:54:45+00:00",
+      "published": "2026-11-17T00:07:38+00:00",
       "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
+    },
+    {
+      "title": "Live: Houthis advance in Yemen as tankers hit sea mines in Strait of Hormuz",
+      "summary": "Iran-aligned Houthi fighters kept up their push in southern Yemen as oil tankers hit sea mines in the Strait of Hormuz.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-16T23:57:49+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afb8cbb3b72-1794870459.jpg?resize=1643%2C1080&quality=80"
     },
     {
       "title": "Five EU countries announce migrant deportation centre in Rwanda",
@@ -42,19 +50,7 @@
       "source": "BBC",
       "published": "2026-11-16T23:20:45+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg"
-    },
-    {
-      "title": "EU agrees to resurrect cooperation deal with Syria",
-      "summary": "Decision aims to bolster bloc's ties with Damascus following the collapse of Assad's government in December 2024.",
-      "url": "https://www.aljazeera.com/news/2026/11/16/eu-agrees-to-resurrect-cooperation-deal-with-syria?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-16T23:00:36+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260929__C9MY8HN__v1__HighRes__SyriaEuPoliticsDiplomacy-1794866375.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
