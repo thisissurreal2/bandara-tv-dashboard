@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-17T17:15:27.000676+00:00",
+  "updated_at": "2026-11-17T17:30:32.007781+00:00",
   "national": [
+    {
+      "title": "Wagub Sebut Sudah Tak Ada Karhutla di Papua Selatan Usai Diguyur Hujan",
+      "summary": "Wakil Gubernur Papua Selatan, Paskalis Imadawa, menyatakan tidak ada lagi kebakaran hutan dan lahan di daerahnya berkat hujan yang turun.",
+      "url": "https://news.detik.com/berita/d-8757665/wagub-sebut-sudah-tak-ada-karhutla-di-papua-selatan-usai-diguyur-hujan",
+      "source": "Detik",
+      "published": "2026-11-17T17:15:35+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2022/05/10/paskalis-imadawa_43.jpeg?w=360&q=90"
+    },
     {
       "title": "Gubernur Dukung Polda NTT Usut Dugaan Pemerkosaan oleh Bupati Kupang",
       "summary": "Gubernur NTT, Melki Laka Lena, mendukung proses hukum kasus dugaan pemerkosaan oleh Bupati Kupang, Yosef Lede, dan mendorong transparansi dalam penyelidikan.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-17T16:59:22+00:00",
       "image": "https://akcdn.detik.net.id/visual/2020/02/15/0af27819-cbb1-40dc-aaef-0a8fc79896f3_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Prabowo Dorong ASEAN-India Perkuat Kerja Sama Farmasi dan Mitigasi Bencana",
-      "summary": "Presiden Prabowo dorong kerja sama ASEAN-India di bidang kesehatan dan ketahanan bencana, manfaatkan kemajuan industri farmasi India untuk ketahanan kesehatan.",
-      "url": "https://news.detik.com/berita/d-8757653/prabowo-dorong-asean-india-perkuat-kerja-sama-farmasi-dan-mitigasi-bencana",
-      "source": "Detik",
-      "published": "2026-11-17T16:43:20+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/17/prabowo-di-ktt-ke-23-asean-india-di-manila-filipina-selasa-17112026-1794933774328_169.jpeg?w=360&q=90"
     },
     {
       "title": "IRGC: Dua kapal tanker terbakar usai hantam ranjau di Hormuz",
@@ -28,28 +28,28 @@
   ],
   "international": [
     {
-      "title": "US loses measles elimination status after 26 years amid record case numbers",
-      "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s.",
-      "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-17T17:10:03+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b33/live/4927cca0-dfd1-11f1-8c90-4fc10fbf9142.jpg"
-    },
-    {
-      "title": "Yemeni parliament approves law designating Houthis as ‘terrorists’",
-      "summary": "The law targets the group's financing and activities as Houthis make advances in southwestern Yemen.",
-      "url": "https://www.aljazeera.com/news/2026/11/17/yemeni-parliament-approves-law-designating-houthis-as-terrorists?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-17T16:53:25+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/HXQmoXHXMAAKpMH-1794927673.jpeg?resize=1200%2C675"
-    },
-    {
-      "title": "Democrat Mary Peltola closes in on victory in closely watched US Senate race in Alaska – live",
-      "summary": "Challenger nears 50% of the ballot to secure victory in final midterms contest Protests greet Trump on Asia visit – follow live Sign up for US Breaking News email Abdul El-Sayed , the Democratic-Senator elect from Michigan, said today that he would be happy to work with the Trump administration to pass one of his tentpole policy agenda items – Medicare or All. “Everybody’s like, ‘ah well, you’d work with Donald Trump to get Medicare For All?’. I’m like hell yeah, because the point for me is Medicare For All. I don’t care who puts their name on it. I need to go back and talk to Michiganders, and I need to know that our service made their lives easier,” he said at the Atlantic Summit in Washington DC. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
+      "title": "Burnham makes Milburn head of unit to implement new jobs and welfare approach for young people – live",
+      "summary": "Author of Neets report will be in charge of ‘unblocking delivery and driving progress’ Full story: Milburn says plan will save only £200m a year Explainer: what’s in the report? This chart, from the Milburn report, shows what is likely to happen to the Neet rate, with or without the Milburn policies. The Alan Milburn report has now formally been published. It should be online here very soon. Continue reading...",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-17T16:43:54+00:00",
-      "image": "https://i.guim.co.uk/img/media/e0dd93da6795407f9bbcd9331a16807289493099/238_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=15d4d3eaeb0e1d1c9b90bb5b3b3a70e7"
+      "published": "2026-11-17T17:23:23+00:00",
+      "image": "https://i.guim.co.uk/img/media/7902cdb79f148d1d0391151d406f13d8457d1446/541_134_3999_3200/master/3999.jpg?width=140&quality=85&auto=format&fit=max&s=cdf521cc74be3c957f7e6b5764336bab"
+    },
+    {
+      "title": "'It was really scary': Mother describes sheltering during Russia strikes on Kyiv bridge",
+      "summary": "Moscow has targeted bridges in Kyiv, while Ukraine severely damaged a critical bridge linking Russia to occupied Crimea.",
+      "url": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-17T17:19:57+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f084/live/ab522920-e29c-11f1-8dda-8925a81c3da5.jpg"
+    },
+    {
+      "title": "CAIR defends civil rights work against Trump’s ‘smear’",
+      "summary": "The country's largest Muslim advocacy group urges Trump to address rising hate crimes against Muslims.",
+      "url": "https://www.aljazeera.com/news/2026/11/17/cair-defends-civil-rights-work-against-trumps-smear?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-17T17:09:49+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afc8abd5e-1794935485.jpg?resize=1920%2C1440"
     }
   ],
   "feed_warnings": []
