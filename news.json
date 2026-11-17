@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-17T02:30:34.023878+00:00",
+  "updated_at": "2026-11-17T02:38:44.323106+00:00",
   "national": [
+    {
+      "title": "Jepang Kerahkan Jet Tempur Usai 2 Pesawat Rusia Diduga Masuk Wilayah Udara",
+      "summary": "Dua pesawat militer Rusia diduga melanggar wilayah udara Jepang, memicu protes keras. Jepang mengerahkan jet tempur dan melayangkan protes keras ke Rusia.",
+      "url": "https://news.detik.com/internasional/d-8756186/jepang-kerahkan-jet-tempur-usai-2-pesawat-rusia-diduga-masuk-wilayah-udara",
+      "source": "Detik",
+      "published": "2026-11-17T02:30:56+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2023/01/11/jet-tempur-jepang-dalam-latihan-militer-gabungan-dengan-as_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Riwayat Pendidikan Dasco, Sugiono dan Muzani di Bursa Cawapres",
       "summary": "Tiga kader Partai Gerindra, Sugiono, Sufmi Dasco Ahmad, dan Ahmad Muzani, berpotensi mengisi posisi cawapres. Simak profil dan rekam jejak pendidikan mereka.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-17T02:06:46+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/16/foto-kolase-sufmi-dasco-ahmad-sugiono-dan-ahmad-muzani-1794796878116_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Terowongan Manunggal Ceger, Akses Alternatif Warga di Bawah Tol Jagorawi",
-      "summary": "Terowongan Manunggal di Ceger, Jakarta Timur, menjadi akses alternatif bagi motor dan pejalan kaki. Mobil dilarang melintas karena ruangnya terbatas.",
-      "url": "https://news.detik.com/foto-news/d-8755949/terowongan-manunggal-ceger-akses-alternatif-warga-di-bawah-tol-jagorawi",
-      "source": "Detik",
-      "published": "2026-11-17T02:00:52+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/16/terowongan-manunggal-ceger-akses-alternatif-warga-di-bawah-tol-jagorawi-1794843200969_169.jpeg?w=360&q=90"
     },
     {
       "title": "Menkomdigi serap saran pelajar perkuat keamanan ruang digital",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
-      "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-17T02:18:49+00:00",
-      "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
-    },
-    {
       "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
       "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
       "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-17T01:49:26+00:00",
+      "published": "2026-11-17T02:37:53+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg"
+    },
+    {
+      "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
+      "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-17T02:31:14+00:00",
+      "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
     },
     {
       "title": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261026__D4GV6KE__v1__HighRes__YemenSaudiIsranUsIsraelWar-1794853871.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
