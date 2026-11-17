@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T07:15:36.207206+00:00",
+  "updated_at": "2026-11-17T07:30:44.333521+00:00",
   "national": [
+    {
+      "title": "Kasus Dugaan Makar di Kasus Sigit Cs Sadap Presiden Prabowo Naik Penyidikan",
+      "summary": "Polri mendalami dugaan makar terkait penyadapan dan pemusnahan alat bukti elektronik. Kasus ini telah masuk tahap penyidikan dengan empat tersangka.",
+      "url": "https://news.detik.com/berita/d-8756746/kasus-dugaan-makar-di-kasus-sigit-cs-sadap-presiden-prabowo-naik-penyidikan",
+      "source": "Detik",
+      "published": "2026-11-17T07:27:04+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/12/polri-1794502705778_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "Yusril sebut belum ada nama calon Wapres diserahkan oleh Presiden",
+      "summary": "Menteri Koordinator Bidang Hukum, HAM, Imigrasi dan Pemasyarakatan (Menko Kumham Imipas) Yusril Ihza Mahendra ...",
+      "url": "https://www.antaranews.com/berita/5859351/yusril-sebut-belum-ada-nama-calon-wapres-diserahkan-oleh-presiden",
+      "source": "ANTARA",
+      "published": "2026-11-17T07:11:08+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/17/1000047807.jpg"
+    },
     {
       "title": "Banjir Bandang Terjang Melawi Kalbar, 178 KK Terdampak",
       "summary": "Banjir bandang melanda Kabupaten Melawi, Kalimantan Barat, akibat hujan deras, berdampak terhadap 178 rumah tangga atau kepala keluarga (KK).",
@@ -8,25 +24,25 @@
       "source": "CNN Indonesia",
       "published": "2026-11-17T07:09:25+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/10/11/banjir-bandang-di-padang-1791681914640_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Cerita Korban Penipuan 'Tenun Tonic': Niat Cari Tambahan, Duit Jutaan Melayang",
-      "summary": "Puluhan orang melapor ke polisi akibat penipuan investasi syal rajut 'Tenun Tonic'. Kerugian diperkirakan mencapai Rp 200 miliar. Polda Metro Jaya menyelidiki.",
-      "url": "https://news.detik.com/berita/d-8756708/cerita-korban-penipuan-tenun-tonic-niat-cari-tambahan-duit-jutaan-melayang",
-      "source": "Detik",
-      "published": "2026-11-17T07:08:31+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2024/11/19/ilustrasi-penipuan-online_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Akademisi nilai sosok wapres berikutnya harus paham persoalan daerah",
-      "summary": "Guru Besar Universitas Syiah Kuala (USK) Prof. T. M. Jamil menilai sosok wakil presiden (wapres) berikutnya harus ...",
-      "url": "https://www.antaranews.com/berita/5859343/akademisi-nilai-sosok-wapres-berikutnya-harus-paham-persoalan-daerah",
-      "source": "ANTARA",
-      "published": "2026-11-17T07:00:59+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/12/Presiden-Prabowo-sampaikan-keterangan-pers-121126-bay-4_1.jpg"
     }
   ],
   "international": [
+    {
+      "title": "Ukraine and Russia trade strikes on key bridges",
+      "summary": "A bridge linking Crimea and Russia has reportedly been damaged, while two major routes through Kyiv are closed.",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-17T07:30:07+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef42/live/91d5bfa0-e258-11f1-8199-439bbe0918ee.jpg"
+    },
+    {
+      "title": "UK unemployment unexpectedly eases to 4.6%, as government prepares to release Milburn report",
+      "summary": "Wage growth falls to to 3.5% in September, as ministers examine how best to get young people into work Milburn urges Burnham to spend billions on young people Who are the Neets? UK youth job crisis in five charts The UK unemployment rate has unexpectedly fallen as the government prepares to release a major report on the youth jobs crisis. The unemployment rate was 4.6% in September, dipping from 4.7% in August, according to the Office for National Statistics. City economists had expected it to remain at 4.7%. Continue reading...",
+      "url": "https://www.theguardian.com/business/2026/nov/17/uk-unemployment-wage-growth-milburn-report",
+      "source": "The Guardian",
+      "published": "2026-11-17T07:16:33+00:00",
+      "image": "https://i.guim.co.uk/img/media/fcacde2d064f282a10c275f3fffebc930491811a/528_156_3303_2643/master/3303.jpg?width=140&quality=85&auto=format&fit=max&s=52028965ab5e15a0547c89e69e1919f6"
+    },
     {
       "title": "The new French malaise",
       "summary": "The ongoing student protests in France are a symptom of a much larger crisis affecting French society.",
@@ -34,22 +50,6 @@
       "source": "Al Jazeera",
       "published": "2026-11-17T07:03:12+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ae3ec62bb94-1793322082_d05345-1793322186.jpg?resize=1200%2C630&quality=80"
-    },
-    {
-      "title": "Millionaire factory: Anthropic IPO set to fuel AI gold rush in London’s high-end property market",
-      "summary": "New tech wealth, amassed with remarkable speed, is now washing up on British shores Sporting hoodies and white trainers rather than the gilets of London’s banker and lawyer class, tech bros can struggle to be taken seriously by the capital’s luxury property agents. “We worked with a young tech entrepreneur with a substantial budget, who agents assumed was looking to rent a one-bedroom flat,” says Jo Eccles, a buying agent who sources off-market properties for ultra-wealthy clients. But this week’s float by Anthropic, the AI developer behind the chatbot Claude, promises to bring even more credibility for the growing cohort of tech millionaires, which could breathe life into London’s ailing high-end property market . Its IPO on Thursday, expected to value the company at $1.4tn (£1.1m), is likely to turn more than 4,000 of its staff into millionaires as their stock options vest. Continue reading...",
-      "url": "https://www.theguardian.com/business/2026/nov/17/millionaire-factory-anthropic-ipo-set-to-fuel-ai-gold-rush-in-londons-high-end-property-market",
-      "source": "The Guardian",
-      "published": "2026-11-17T07:00:07+00:00",
-      "image": "https://i.guim.co.uk/img/media/c213f20f82c61fd3ee1039ccda6aee6e28596124/135_0_3648_2919/master/3648.jpg?width=140&quality=85&auto=format&fit=max&s=3832b0a0f2b22d2092ff096b1f4aafa9"
-    },
-    {
-      "title": "Ukraine accuses Russia of targeting rescue operation after 'double-tap' strike kills 72",
-      "summary": "Efforts to recover bodies after a “double-tap” attack in southern Ukraine are being hampered by continuing Russian strikes, officials say.",
-      "url": "https://www.bbc.co.uk/news/articles/c30rk8x5g80qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-17T05:59:01+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba46/live/5efa38d0-df84-11f1-a701-fddedf244c16.png"
     }
   ],
   "feed_warnings": []
