@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-17T00:30:35.870653+00:00",
+  "updated_at": "2026-11-17T00:45:29.625535+00:00",
   "national": [
+    {
+      "title": "Rumah Warga Klaten Jadi Sarang Ular: Ada Kobra, Weling hingga Piton",
+      "summary": "Rumah warga di Klaten jadi sarang persembunyian ular. Relawan menemukan tiga jenis ular sekaligus saat menyisir lokasi, yakni kobra jawa, weling, dan piton.",
+      "url": "https://www.cnnindonesia.com/nasional/20261117073514-20-1427947/geger-rumah-warga-klaten-jadi-sarang-ular-kobra-weling-hingga-piton",
+      "source": "CNN Indonesia",
+      "published": "2026-11-17T00:42:02+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2019/12/17/519da3a3-fc74-4160-babd-fe7d5ddf037d_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Kabar Terkini Terkait Perkara Firli Bahuri",
       "summary": "Mantan Ketua KPK Firli Bahuri kembali disorot setelah absen pemeriksaan kasus dugaan pemerasan. Penyidik masih melengkapi bekas perkara tersebut.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-17T00:25:13+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2024/01/19/tersenyum-firli-tiba-di-bareskrim-untuk-diperiksa-sebagai-tersangka-2_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Baintelkam Polri Minta Aktivitas Penyadapan Wajib Dicatat dan Diaudit",
-      "summary": "Baintelkam Polri minta catatan penyadapan tidak boleh diubah dan dihapus. Audit berkala diperlukan untuk memastikan izin sah dalam penyadapan.",
-      "url": "https://www.cnnindonesia.com/nasional/20261117065545-12-1427930/baintelkam-polri-minta-aktivitas-penyadapan-wajib-dicatat-dan-diaudit",
-      "source": "CNN Indonesia",
-      "published": "2026-11-17T00:21:43+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/12/rapat-kerja-polri-dengan-komisi-iii-dpr-1794452360794_169.jpeg?w=360&q=90"
     },
     {
       "title": "BMKG: Gempa magnitudo 7,1 di Maluku tidak berpotensi tsunami",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "UK seeks closer ties with EU after Brexit fail",
+      "summary": "Prime Minister Andy Burnham says UK lost more than it gained after its divorce from the bloc.",
+      "url": "https://www.aljazeera.com/news/2026/11/17/uk-seeks-closer-ties-with-eu-after-brexit-fail?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-17T00:30:21+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-16T213551Z_1833612859_RC26POAJK359_RTRMADP_3_BRITAIN-EU-BURNHAM-1794870258.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
       "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-17T00:19:28+00:00",
+      "published": "2026-11-17T00:28:13+00:00",
       "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
-    },
-    {
-      "title": "Live: Houthis advance in Yemen as tankers hit sea mines in Strait of Hormuz",
-      "summary": "Iran-aligned Houthi fighters kept up their push in southern Yemen as oil tankers hit sea mines in the Strait of Hormuz.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-16T23:57:49+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afb8cbb3b72-1794870459.jpg?resize=1643%2C1080&quality=80"
     },
     {
       "title": "Five EU countries announce migrant deportation centre in Rwanda",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
