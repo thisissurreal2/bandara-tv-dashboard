@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T23:00:38.488137+00:00",
+  "updated_at": "2026-11-17T23:15:25.539817+00:00",
   "national": [
     {
       "title": "Kasus Sadap: 2 Jenderal Polri Dipecat, Sidang Etik Listyo Pekan Depan",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "New UK-EU youth mobility scheme may not fully launch until 2030",
-      "summary": "Exclusive: deal expected to be sealed in principle at EU-UK summit on Friday but trickier elements could be postponed for six months The new post-Brexit UK-EU youth mobility scheme or agrifood deal may not come fully into force until 2030. It will be a disappointment to any under-30s in the UK and the EU who hoped to travel, work or study in each other’s territories from next year after the long-awaited new deal. Continue reading...",
-      "url": "https://www.theguardian.com/politics/2026/nov/17/andy-burnham-delays-taking-stock-of-uk-relationship-with-eu",
+      "title": "Trump brushes off NSA internal network outage: ‘it’s like that when you’re big and powerful’ – live",
+      "summary": "President’s words could be seen to run counter to NSA’s claim of ‘scheduled routine maintenance’ causing temporary issue Sign up for US Breaking News email Abdul El-Sayed , the Democratic-Senator elect from Michigan, said today that he would be happy to work with the Trump administration to pass one of his tentpole policy agenda items – Medicare For All. “Everybody’s like, ‘ah well, you’d work with Donald Trump to get Medicare For All?’. I’m like hell yeah, because the point for me is Medicare For All. I don’t care who puts their name on it. I need to go back and talk to Michiganders, and I need to know that our service made their lives easier,” he said at the Atlantic Summit in Washington DC. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-17T22:55:06+00:00",
-      "image": "https://i.guim.co.uk/img/media/6fc1f6014766f6cbb24d0d12e59c516e7ccd73c9/314_0_3181_2544/master/3181.jpg?width=140&quality=85&auto=format&fit=max&s=1236630a149edef98ad84bcca79d5dbf"
+      "published": "2026-11-17T23:09:15+00:00",
+      "image": "https://i.guim.co.uk/img/media/c355c4b39aea4602e7083b0742c492033aa3d577/428_0_2784_2228/master/2784.jpg?width=140&quality=85&auto=format&fit=max&s=e42bfa4d8b5105fd755a0f064a56de94"
     },
     {
-      "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
-      "summary": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
-      "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+      "title": "Nvidia reports bumper results as firm says it not reinstating Huang",
+      "summary": "Nvidia reported strong quarterly earnings on Tuesday amid the dramatic exit of ex-CEO Jensen Huang.",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-17T22:46:30+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26d1/live/31a610b0-e2b9-11f1-bee0-ef418afc697f.jpg"
+      "published": "2026-11-17T23:03:39+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "title": "Russian military plane crash in Siberia kills 19",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20220725__32FF3TQ__v1__HighRes__RussiaLeisureMilitaryPark-1794950579.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
