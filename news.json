@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-17T01:15:40.044657+00:00",
+  "updated_at": "2026-11-17T01:30:35.641175+00:00",
   "national": [
+    {
+      "title": "Gempa M 4,8 Guncang Manggarai NTT",
+      "summary": "Gempa bumi berkekuatan magnitudo 4,8 mengguncang laut Ruteng Kabupaten Manggarai, Nusa Tenggara Timur (NTT), pagi ini.",
+      "url": "https://news.detik.com/berita/d-8756119/gempa-m-4-8-guncang-manggarai-ntt",
+      "source": "Detik",
+      "published": "2026-11-17T01:28:18+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2023/01/09/ilustrasi-gempa_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "Menaker: Penetapan upah minimum 2027 mengacu UU Pelindungan Pekerja",
+      "summary": "Menteri Ketenagakerjaan (Menaker) Yassierli mengatakan mekanisme penetapan upah minimum 2027 merujuk pada Pasal 137 ...",
+      "url": "https://www.antaranews.com/berita/5858651/menaker-penetapan-upah-minimum-2027-mengacu-uu-pelindungan-pekerja",
+      "source": "ANTARA",
+      "published": "2026-11-17T01:18:27+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2023/10/12/antarafoto-upaya-penurunan-angka-pengangguran-030620-mic-01.jpg_copy_1280x853.jpg"
+    },
     {
       "title": "Kapolda NTT Janji Tuntaskan Kasus Dugaan Pemerkosaan Bupati Kupang",
       "summary": "Kapolda Nusa Tenggara Timur (NTT) Irjen Pol Reza Arief Dewanto berjanji akan menuntaskan kasus dugaan pemerkosaan yang menyeret Bupati Kupang, Yosef Lede.",
@@ -8,32 +24,16 @@
       "source": "CNN Indonesia",
       "published": "2026-11-17T01:07:05+00:00",
       "image": "https://akcdn.detik.net.id/visual/2023/05/16/ilustrasi-kekerasan_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Pengendara Nakal Tutupi Pelat Siap-siap Kena Operasi Zebra Jaya",
-      "summary": "Polri menggelar Operasi Zebra 2026 selama 14 hari, fokus pada pelanggaran seperti pelat nomor tertutup. Tujuannya meningkatkan keselamatan berlalu lintas.",
-      "url": "https://news.detik.com/berita/d-8756099/pengendara-nakal-tutupi-pelat-siap-siap-kena-operasi-zebra-jaya",
-      "source": "Detik",
-      "published": "2026-11-17T00:59:08+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2024/10/15/deretan-pelanggar-terjaring-operasi-zebra-di-ancol_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "BMKG: Gempa magnitudo 7,1 di Maluku tidak berpotensi tsunami",
-      "summary": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) menyatakan gempa bumi tektonik berkekuatan magnitudo 7,1 di ...",
-      "url": "https://www.antaranews.com/berita/5858615/bmkg-gempa-magnitudo-71-di-maluku-tidak-berpotensi-tsunami",
-      "source": "ANTARA",
-      "published": "2026-11-17T00:03:00+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/09/15/bmkg-catat-15.722-gempa-susulan-di-flores-2864297.jpg"
     }
   ],
   "international": [
     {
-      "title": "Trump defends commerce secretary Lutnick for allegedly slow-walking Nvidia chip export restrictions – live",
-      "summary": "President backs Lutnick after treasury secretary Scott Bessent blamed commerce department for delays in blocking advance AI chip exports Sign up for the Breaking News US email Lauren Almeida and Dan Milmo Elon Musk and a host of other tech bosses have called for Jensen Huang’s reinstatement at Nvidia, amid reports the former chief executive is already plotting a return to the chip company just four days after his resignation. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/16/donald-trump-asia-visit-democrats-republicans-elizabeth-warren-faa-air-disruption-latest-news-updates",
+      "title": "Fiona the hippo under veterinary care after eating hat at Cincinnati zoo",
+      "summary": "Knit hat caught in ceiling fan and flung into enclosure eaten by Fiona, who is being closely monitored by zoo staff The Cincinnati zoo says Fiona, its beloved hippo who became a global celebrity after her premature birth nearly a decade ago, is undergoing veterinary care after swallowing a knit hat that got into her enclosure. Zoo veterinarians and staff are monitoring Fiona and working to help her pass the hat, the zoo said in a statement Monday. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/fiona-hippo-eats-hat-cincinnati",
       "source": "The Guardian",
-      "published": "2026-11-17T00:59:14+00:00",
-      "image": "https://i.guim.co.uk/img/media/29e1fc8710bf83e00df914f8c097f75fb4d65897/496_0_4327_3461/master/4327.jpg?width=140&quality=85&auto=format&fit=max&s=d102a629805843dfa154e4ba0be7271b"
+      "published": "2026-11-17T01:18:28+00:00",
+      "image": "https://i.guim.co.uk/img/media/136d787561384507373cd58a8fdcc3a64d11d04f/480_0_4228_3382/master/4228.jpg?width=140&quality=85&auto=format&fit=max&s=66198c9703321fcd38ca9a1cf187f0a8"
     },
     {
       "title": "Ukraine holds peace talks with US, Europe as conflict escalates",
