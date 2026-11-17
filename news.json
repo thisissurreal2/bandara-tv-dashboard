@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-17T17:45:39.964966+00:00",
+  "updated_at": "2026-11-17T18:00:41.620224+00:00",
   "national": [
+    {
+      "title": "Komisi I Usul RUU AI Masuk Prolegnas di DPR",
+      "summary": "Komisi I DPR usulkan RUU Akal Imitasi (AI) masuk Prolegnas 2027. Mereka menekankan pentingnya regulasi AI untuk respons perkembangan digital.",
+      "url": "https://www.cnnindonesia.com/nasional/20261117202253-32-1428279/komisi-i-usul-ruu-ai-masuk-prolegnas-di-dpr",
+      "source": "CNN Indonesia",
+      "published": "2026-11-17T17:50:21+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/14/ilustrasi-ai-1794651561876_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Kemendagri Gelar 3 Kategori Pemda Berprestasi Regional Papua, Ini Pemenangnya",
       "summary": "Kementerian Dalam Negeri menggelar Malam Apresiasi Pemerintah Daerah Berprestasi di Papua, memberikan hadiah motor dan uang hingga Rp 1,5 miliar untuk pemenang.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-17T17:27:57+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/18/kementerian-dalam-negeri-kemendagri-mengggelar-malam-apresiasi-pemerintah-daerah-berprestasi-batch-iii-regional-papua-1794936459906_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Gubernur Dukung Polda NTT Usut Dugaan Pemerkosaan oleh Bupati Kupang",
-      "summary": "Gubernur NTT, Melki Laka Lena, mendukung proses hukum kasus dugaan pemerkosaan oleh Bupati Kupang, Yosef Lede, dan mendorong transparansi dalam penyelidikan.",
-      "url": "https://www.cnnindonesia.com/nasional/20261117172852-20-1428213/gubernur-dukung-polda-ntt-usut-dugaan-pemerkosaan-oleh-bupati-kupang",
-      "source": "CNN Indonesia",
-      "published": "2026-11-17T16:59:22+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2020/02/15/0af27819-cbb1-40dc-aaef-0a8fc79896f3_169.jpeg?w=360&q=90"
     },
     {
       "title": "IRGC: Dua kapal tanker terbakar usai hantam ranjau di Hormuz",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Burnham delays announcement about options for closer relationship with EU until next month – UK politics live",
+      "summary": "The prime minister earlier said he wanted to open a national debate on Britain’s relationship with the bloc This chart, from the Milburn report, shows what is likely to happen to the Neet rate, with or without the Milburn policies. The Alan Milburn report has now formally been published. It should be online here very soon. Continue reading...",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/17/alan-milburn-youth-unempolyment-neets-economy-welfare-brexit-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-17T17:46:07+00:00",
+      "image": "https://i.guim.co.uk/img/media/f24e544ba2a602587d0ef6266b51104e0ef20807/2503_25_2273_1818/master/2273.jpg?width=140&quality=85&auto=format&fit=max&s=8b5e86d3e79c6f7d5390fa304d9bd9be"
+    },
+    {
       "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
       "summary": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
       "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
@@ -36,20 +44,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ef/live/51fc1a30-e2aa-11f1-99a1-253766e7ad8b.jpg"
     },
     {
-      "title": "Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO",
-      "summary": "Huang resigned last week over affairs with an alleged Chinese spy and multiple employees who reported to him Jensen Huang said he would be willing to return to Nvidia as CEO in his first remarks since resigning from the company Thursday. “If the Board of Directors decides that my return is in the best interest of our shareholders, our employees, the company, and America, I would be honored to answer these calls and return as CEO,” he wrote in a statement published in the Wall Street Journal and CNBC . Over the past week, I’ve been overwhelmed by the love and support of friends, industry colleagues, and people I’ve never met. Thank you to everyone who has shown kindness to my family and me. It means the world to me. I came to the United States 53 years ago, and becoming an American citizen is one of the greatest gifts and proudest moments of my life. NVIDIA has been my life’s work. Building it into the company it is today alongside my colleagues has been a privilege and an honor. Nowhere but in America could a company like NVIDIA be possible. I love our country, and I love NVIDIA. Continue reading...",
-      "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement",
-      "source": "The Guardian",
-      "published": "2026-11-17T17:35:26+00:00",
-      "image": "https://i.guim.co.uk/img/media/f9ace1b4322ee936b135f2312f39c6839623e581/780_0_4668_3734/master/4668.jpg?width=140&quality=85&auto=format&fit=max&s=e781e01e252cac8c959bad73617d521f"
-    },
-    {
-      "title": "CAIR defends civil rights work against Trump’s ‘smear’",
-      "summary": "The country's largest Muslim advocacy group urges Trump to address rising hate crimes against Muslims.",
-      "url": "https://www.aljazeera.com/news/2026/11/17/cair-defends-civil-rights-work-against-trumps-smear?traffic_source=rss",
+      "title": "Iraqi PM heads to Lebanon amid push to explore oil routes beyond Hormuz",
+      "summary": "Ali al-Zaidi's talks expected to include proposed project linking Tripoli in Lebanon to Kirkuk-Baniyas pipeline.",
+      "url": "https://www.aljazeera.com/economy/2026/11/17/iraq-pm-heads-to-lebanon-amid-push-to-explore-oil-routes-beyond-hormuz?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-17T17:09:49+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afc8abd5e-1794935485.jpg?resize=1920%2C1440"
+      "published": "2026-11-17T17:34:27+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP19138405723447-1794934559.jpg?resize=1920%2C1440"
     }
   ],
   "feed_warnings": []
