@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-17T05:30:32.146232+00:00",
+  "updated_at": "2026-11-17T05:45:25.165830+00:00",
   "national": [
     {
-      "title": "Sosok Wapres Seperti Apa yang Dibutuhkan Prabowo Saat Ini?",
-      "summary": "Prabowo saat ini dinilai membutuhkan sosok wakil presiden seorang administrator yang andal, teknokrat yang unggul dan profesional yang punya jam terbang.",
-      "url": "https://www.cnnindonesia.com/nasional/20261117112504-32-1428028/kursi-kosong-wapres-dan-ujian-soliditas-koalisi",
+      "title": "Sidang Etik Listyo Sigit Kasus Penyadapan Prabowo Digelar Pekan Depan",
+      "summary": "Mabes Polri bakal melaksanakan sidang Komisi Kode Etik Profesi (KKEP) terhadap eks Kapolri Jenderal Listyo Sigit Prabowo pada pekan depan.",
+      "url": "https://www.cnnindonesia.com/nasional/20261117120529-12-1428052/sidang-etik-listyo-sigit-kasus-penyadapan-prabowo-digelar-pekan-depan",
       "source": "CNN Indonesia",
-      "published": "2026-11-17T05:21:46+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/16/presiden-prabowo-subianto-gibran-rakabuming-raka-sufmi-dasco-ahmad-1794796075999_169.jpeg?w=360&q=90"
+      "published": "2026-11-17T05:39:42+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/06/30/polri-gelar-kenaikan-pangkat-87-pati-4-orang-jadi-komjen-1782807757499_169.jpeg?w=360&q=90"
     },
     {
       "title": "Alvin Tedjo, Pria Berdarah Indonesia Resmi Jadi Wali Kota di Kanada",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Woman whose baby died after free birth didn’t know she was pregnant with twins, NSW inquest hears",
+      "summary": "Inquest continues into deaths of four babies born in free births or home births in northern rivers Get our breaking news email , free app or daily news podcast A northern rivers mother whose baby died after a free birth did not know she was having twins until she was in labour after having no pregnancy scans, the New South Wales coroner’s court has heard. The inquest will examine the deaths of four babies born in free births or home births who died in the northern rivers region between 2022 and 2024. It will consider whether the care was reasonable in the circumstances and whether care by an unregistered support worker was reasonable and appropriate before, during and after the birth. Free births are when a person gives birth without a registered health professional present. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/17/nsw-inquest-free-birth-keeper-baby-death-ntwnfb",
+      "source": "The Guardian",
+      "published": "2026-11-17T05:37:33+00:00",
+      "image": "https://i.guim.co.uk/img/media/6f2f5f79b230afbd1349d9a2efe3436da90ab4dc/655_0_3790_3033/master/3790.jpg?width=140&quality=85&auto=format&fit=max&s=feb915597ad3a87178a8fb0ad355a7ae"
+    },
+    {
       "title": "US bank outage: What caused Chase problems and Zelle payment delays?",
       "summary": "A Chase software bug disrupted US banking transactions and delayed some Zelle payments. Here's what happened.",
       "url": "https://www.aljazeera.com/news/2026/11/17/us-bank-outage-what-caused-chase-problems-and-zelle-payment-delays?traffic_source=rss",
@@ -36,21 +44,17 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-10-27T154639Z_946471081_RC2HGKAET3NA_RTRMADP_3_JPMORGAN-CHASE-BANKER-LAWSUIT-1794886787.jpg?resize=1920%2C1440"
     },
     {
-      "title": "Russia, Saudi Arabia and Australia named as biggest CO2 exporters in history",
-      "summary": "Analysis of fossil fuel exports since 1850 differs from most assessments – which look at countries where CO 2 is released Russia, Saudi Arabia and Australia are the three biggest exporters of carbon dioxide in history, according to analysis of fossil fuels since 1850. Russia tops the list of global exporters of fossil fuels, with its vast coal, oil and gas deposits. Accounting for the CO 2 produced by burning these exports, Russia has been responsible for more than 70 gigatonnes, up to the end of 2025. Continue reading...",
-      "url": "https://www.theguardian.com/environment/2026/nov/17/russia-saudi-arabia-and-australia-named-as-biggest-co2-exporters-in-history",
-      "source": "The Guardian",
-      "published": "2026-11-17T05:00:06+00:00",
-      "image": "https://i.guim.co.uk/img/media/9ca4aa4b72bed052fa70d1c1f61c2365cff20084/1226_0_4085_3268/master/4085.jpg?width=140&quality=85&auto=format&fit=max&s=22bd7d2816ff23f468a507a9825c140e"
-    },
-    {
-      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex CEO",
-      "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-      "url": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "title": "Two major Kyiv bridges hit in Russian attack, mayor says",
+      "summary": "The reported strikes come a day after Ukraine launched its largest recorded drone attack on Russia since the start of the war, according to Moscow.",
+      "url": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-17T02:37:53+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg"
+      "published": "2026-11-17T04:18:32+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1524/live/baf89050-e227-11f1-a094-5fdc692f3e33.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
