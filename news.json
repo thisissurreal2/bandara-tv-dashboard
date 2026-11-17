@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-17T03:30:34.770691+00:00",
+  "updated_at": "2026-11-17T03:45:26.502570+00:00",
   "national": [
     {
-      "title": "UI Buka Suara soal 8 Hektare Hutan Kota Bakal Dibangun Sekolah Rakyat",
-      "summary": "Menteri Sosial Gus Ipul umumkan pembangunan Sekolah Rakyat di lahan 8 hektare Hutan Kota UI. UI siap dukung, namun lahan bukan bagian hutan kota.",
-      "url": "https://www.cnnindonesia.com/nasional/20261117102053-20-1428009/pemerintah-mau-bangun-sekolah-rakyat-8-hektare-di-hutan-kota-ui",
+      "title": "Sidang Etik Irjen Eko Hadi Kasus Penyadapan Prabowo Digelar Tertutup",
+      "summary": "Mabes Polri menggelar sidang KKEP terhadap Irjen Eko Hadi Santoso terkait penyadapan ilegal Presiden Prabowo.",
+      "url": "https://www.cnnindonesia.com/nasional/20261117102139-12-1428010/sidang-etik-irjen-eko-hadi-kasus-penyadapan-prabowo-digelar-tertutup",
       "source": "CNN Indonesia",
-      "published": "2026-11-17T03:29:28+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/04/17/ilustrasi-kampus-universitas-indonesia-1776407176225_169.jpeg?w=360&q=90"
+      "published": "2026-11-17T03:42:14+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/10/sidang-etik-eks-kadiv-hukum-polri-irjen-ahrie-sonta-1794322248720_169.jpeg?w=360&q=90"
     },
     {
       "title": "Truk Boks Terguling Usai Hindari Angkot Ngetem di Dekat Istana Bogor",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: TimeoutError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
