@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-18T00:15:28.639782+00:00",
+  "updated_at": "2026-11-18T00:30:40.830793+00:00",
   "national": [
     {
-      "title": "Respons DPR dan KPU soal Desakan Bongkar Ijazah Seluruh Anggota Dewan",
-      "summary": "Petisi desakan verifikasi ijazah anggota DPR mencuat setelah isu keabsahan ijazah Wapres Gibran. Hingga Selasa petisi telah ditandatangani 24.0888 orang.",
-      "url": "https://www.cnnindonesia.com/nasional/20261118061707-32-1428333/respons-dpr-dan-kpu-soal-desakan-bongkar-ijazah-seluruh-anggota-dewan",
+      "title": "Cerita di Balik Puing Pan Am Ditemukan di Bali Usai Setengah Abad Lebih",
+      "summary": "Pemandu wisata Winaryo menemukan puing pesawat Pan Am 812 di Buleleng, Bali, saat survei jalur canyoning. Temuan ini mengungkap kembali tragedi 50 tahun lalu.",
+      "url": "https://news.detik.com/berita/d-8757745/cerita-di-balik-puing-pan-am-ditemukan-di-bali-usai-setengah-abad-lebih",
+      "source": "Detik",
+      "published": "2026-11-18T00:26:13+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/17/winaryo-saat-temukan-puing-puing-diduga-bekas-kecelakaan-pesawat-pan-american-world-airways-pan-am-812-dokumentasi-pribadi-win-1794916586323_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "Nelayan 62 Tahun Bertahan Hidup Terombang-Ambing Sebulan di Lautan",
+      "summary": "Seorang nelayan bernama Tosaris Tiala (62) asal Sangihe ditemukan selamat di Buol setelah terombang-ambing di lautan selama satu bulan.",
+      "url": "https://www.cnnindonesia.com/nasional/20261118070019-20-1428367/nelayan-62-tahun-bertahan-hidup-terombang-ambing-sebulan-di-lautan",
       "source": "CNN Indonesia",
-      "published": "2026-11-18T00:05:00+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/10/rapat-paripurna-pembukaan-masa-sidang-1794294204871_169.jpeg?w=360&q=90"
+      "published": "2026-11-18T00:20:58+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2019/12/30/16d9ddd8-7d6b-468c-a47e-247033f12173_169.jpeg?w=360&q=90"
     },
     {
       "title": "Menteri PKP: Pemanfaatan produk lokal tingkatkan kualitas rumah rakyat",
@@ -16,45 +24,33 @@
       "source": "ANTARA",
       "published": "2026-11-17T23:48:43+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/18/WhatsApp-Image-2026-11-15-at-21.50.12.jpg"
-    },
-    {
-      "title": "Putin Tiba di China Jelang Pertemuan dengan Trump dan Xi Jinping",
-      "summary": "Presiden Rusia Putin tiba di China untuk pertemuan puncak APEC dengan Xi Jinping dan Donald Trump. Diskusi akan fokus pada diplomasi dan perdamaian dunia.",
-      "url": "https://news.detik.com/internasional/d-8757691/putin-tiba-di-china-jelang-pertemuan-dengan-trump-dan-xi-jinping",
-      "source": "Detik",
-      "published": "2026-11-17T21:28:36+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/09/03/momen-presiden-rusia-vladimir-putin-tersenyum-dan-ikut-bertepuk-tangan-saat-mendengar-presiden-prabowo-mengutip-pepatah-rusia-1788437199996_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
     {
-      "title": "UK will miss climate targets if it weakens EV sales rules, advisers warn",
-      "summary": "Analysts say mooted move to let more petrol and diesel vehicles be sold would wreck plan to reach net zero by 2050 Weakening the UK’s electric car sales rules would probably cause the government to miss legally binding climate targets, according to advisers tracking Britain’s progress to net zero. The analysis by the Climate Change Committee (CCC) suggests the policy would blow a hole in the plan for achieving net zero carbon emissions by 2050 – prompting concerns that Andy Burnham’s government will have to slash the UK’s carbon emissions reduction targets, known as the carbon budgets. Continue reading...",
-      "url": "https://www.theguardian.com/environment/2026/nov/18/uk-will-miss-climate-targets-if-weakens-rules-on-ev-sales-zev-ccc",
-      "source": "The Guardian",
-      "published": "2026-11-18T00:01:26+00:00",
-      "image": "https://i.guim.co.uk/img/media/3ed391e009abd724b30b099d8a5378a1fc28ff5a/558_0_3100_2480/master/3100.jpg?width=140&quality=85&auto=format&fit=max&s=25559e4d4f6f4eb3d6a26e08cf74ca5b"
-    },
-    {
-      "title": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
-      "summary": "Kuwait intercepts 'hostile' drone attacks as Bahrain warns of 'potential threat', urges citizens to remain calm.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-18T00:00:27+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afcde1e1992-1794956830.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Nvidia reports bumper results as firm says it's not reinstating Huang",
-      "summary": "Nvidia reported strong quarterly earnings on Tuesday amid the dramatic exit of ex-CEO Jensen Huang.",
+      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
       "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-17T23:03:39+00:00",
+      "published": "2026-11-18T00:28:01+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "title": "Pakistani man sentenced to 27 years in US prison over Trump murder plot",
+      "summary": "Asif Merchant, allegedly linked to Iran, found by court to have sought retribution over Qassem Suleimani death A Pakistani man was sentenced to more than 27 years in prison on Tuesday for plotting to assassinate Donald Trump in retaliation for the US killing of Revolutionary Guards commander Qassem Suleimani, the Department of Justice said. Asif Merchant, who had alleged ties to Iran, sought to hire a hitman to assassinate a politician or a government official in the United States, a Brooklyn court found. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/17/pakistani-man-jailed-trump-murder-plot",
+      "source": "The Guardian",
+      "published": "2026-11-18T00:21:33+00:00",
+      "image": "https://i.guim.co.uk/img/media/470133f77dd96a905faa69a723f46914cdfdc04a/94_0_2813_2250/master/2813.jpg?width=140&quality=85&auto=format&fit=max&s=11062169033367f64e71f0d60d4ca69a"
+    },
+    {
+      "title": "Forensic experts claim Epstein was strangled to death",
+      "summary": "A team of forensic scientists is challenging the ruling that convicted sex offender Jeffrey Epstein died by suicide.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/forensic-experts-claim-epstein-was-strangled-to-death?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-18T00:17:23+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794961023.jpg?resize=1919%2C1080&quality=80"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
