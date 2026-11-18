@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T01:00:37.494270+00:00",
+  "updated_at": "2026-11-18T01:15:31.421936+00:00",
   "national": [
     {
       "title": "Rekam Jejak Politik Dasco, Sugiono, dan Muzani di Bursa Cawapres",
@@ -18,22 +18,30 @@
       "image": "https://akcdn.detik.net.id/community/media/visual/2025/09/22/jazilul-fawaid-1758535246266_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Menteri PKP: Pemanfaatan produk lokal tingkatkan kualitas rumah rakyat",
-      "summary": "Menteri Perumahan dan Kawasan Permukiman (PKP) Maruarar Sirait mengatakan pemanfaatan produk lokal dapat meningkatkan ...",
-      "url": "https://www.antaranews.com/berita/5861243/menteri-pkp-pemanfaatan-produk-lokal-tingkatkan-kualitas-rumah-rakyat",
+      "title": "Kalender Formula 1 2027",
+      "summary": "Federasi Internasional Automotif (FIA) mengumumkan kalender balapan Formula 1 musim 2027 dengan total 24 seri balapan ...",
+      "url": "https://www.antaranews.com/infografik/5861259/kalender-formula-1-2027",
       "source": "ANTARA",
-      "published": "2026-11-17T23:48:43+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/18/WhatsApp-Image-2026-11-15-at-21.50.12.jpg"
+      "published": "2026-11-18T00:45:00+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/18/20261118-Kalender_F1_2027.jpg"
     }
   ],
   "international": [
     {
-      "title": "One Nation says it would cut Australia’s refugee intake by 90% under ‘tough stance’",
-      "summary": "Pauline Hanson opens new war of words on immigration as foreign minister Penny Wong accuses populist party of ‘dividing Australians’ Get our breaking news email , free app or daily news podcast One Nation has vowed to cut Australia’s refugee intake by 90% and scrap the permanent parent visa program under its latest hardline plan to slash migration. Pauline Hanson announced the policy on Tuesday labelling it a “tough” approach to migration. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/18/one-nation-refugee-intake-immigration-ntwnfb",
+      "title": "Trump administration pulls nomination of Heidi Overton to lead Food and Drug Administration – US politics live",
+      "summary": "White House official says it appeared that Overton, a physician and abortion opponent, lacked the votes necessary for Senate confirmation Sign up for US Breaking News email Abdul El-Sayed , the Democratic-Senator elect from Michigan, said today that he would be happy to work with the Trump administration to pass one of his tentpole policy agenda items – Medicare For All. “Everybody’s like, ‘ah well, you’d work with Donald Trump to get Medicare For All?’. I’m like hell yeah, because the point for me is Medicare For All. I don’t care who puts their name on it. I need to go back and talk to Michiganders, and I need to know that our service made their lives easier,” he said at the Atlantic Summit in Washington DC. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-18T00:53:51+00:00",
-      "image": "https://i.guim.co.uk/img/media/16091bd9c923d35459b46f7f811208abd0842535/424_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=314d54effab3dc3320b3d1700b05efd4"
+      "published": "2026-11-18T01:09:16+00:00",
+      "image": "https://i.guim.co.uk/img/media/959d5fcd8e2a8580b1a2bf0b86946895bbf3daf4/335_0_4499_3601/master/4499.jpg?width=140&quality=85&auto=format&fit=max&s=56349d3aaa8ebcfab6bf8e6daa8f405b"
+    },
+    {
+      "title": "Eisenkot ally elected Knesset speaker with Arab bloc’s backing",
+      "summary": "Israel’s parliament has elected Matan Kahana as the new speaker with support from Arab parties.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/eisenkot-ally-elected-knesset-speaker-with-arab-blocs-backing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-18T00:47:02+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794962808.jpg?resize=1200%2C675"
     },
     {
       "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
@@ -42,15 +50,11 @@
       "source": "BBC",
       "published": "2026-11-18T00:28:01+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "title": "Forensic experts claim Epstein was strangled to death",
-      "summary": "A team of forensic scientists is challenging the ruling that convicted sex offender Jeffrey Epstein died by suicide.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/forensic-experts-claim-epstein-was-strangled-to-death?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-18T00:17:23+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794961023.jpg?resize=1919%2C1080&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: TimeoutError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
