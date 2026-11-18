@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T21:45:27.277381+00:00",
+  "updated_at": "2026-11-18T22:00:41.179604+00:00",
   "national": [
     {
       "title": "Catatan Buruh KASBI atas UU Pelindungan Naker, Soroti Magang-Pesangon",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Anthropic sets share price at $83 for stock market debut, above expected range",
-      "summary": "Artificial intelligence firm positioned for one of the biggest IPOs in history, with trading slated to begin Thursday Anthropic set the share price for its debut on the US stock market at $83 on Wednesday, positioning the artificial intelligence company for one of the biggest initial public offerings in history. The firm is slated to begin trading on Thursday under the ticker symbol ANT, with CEO Dario Amodei and other co-founders ringing the bell to open the Nasdaq exchange. The San Francisco-based company, founded in 2021, set a preliminary share price of $70 to $78 last week. With all shares counted, those prices put Anthropic’s initial public offering (IPO) from $1.26tn to $1.41tn, which would rank it as the second-biggest market offering ever. Elon Musk’s SpaceX debuted on Wall Street in June with a $1.77tn valuation. Continue reading...",
-      "url": "https://www.theguardian.com/technology/2026/nov/18/anthropic-share-price-stock-market-ipo",
+      "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
+      "summary": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled Sign up for US breaking News email Linked to that, the White House held a briefing call with several reporters today about the wave of tech outages affecting several industries. CNN reported that officials said the administration underscored that what has happened is not as a result of cyber-attacks but due to the “hardening and upgrading of our systems ”, including “systems being patched, hardware being applied” . Per CNN, an official added: “It’s good the American people are focused on the need to upgrade our legacy systems.” Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-18T21:39:15+00:00",
-      "image": "https://i.guim.co.uk/img/media/3cfaf92ac35e9034112174826b571870bc5071dc/373_0_3334_2668/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=2d22a1407dabfdc08a1e4b5ef3db350c"
+      "published": "2026-11-18T21:53:51+00:00",
+      "image": "https://i.guim.co.uk/img/media/eedcc9a55e41953e4e591b40cc4dd19f08e9c074/368_0_4743_3795/master/4743.jpg?width=140&quality=85&auto=format&fit=max&s=d55919554ad283a6dea6af077192b393"
+    },
+    {
+      "title": "US lawmakers push to raise minimum wage to $25, end tipped pay system",
+      "summary": "Public support for raising the minimum wage grows, with 78 percent of voters saying it was an important election issue.",
+      "url": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-push-to-raise-minimum-wage-to-25-end-tipped-pay-system?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-18T21:24:19+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-12T145626Z_1656464802_RC2SXY95PV4I_RTRMADP_3_USA-ECONOMY-1795030831.jpg?resize=1920%2C1440"
     },
     {
       "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
@@ -42,15 +50,11 @@
       "source": "BBC",
       "published": "2026-11-18T21:13:06+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg"
-    },
-    {
-      "title": "Floodwaters submerge cars and parking lots in Florida town",
-      "summary": "Floodwaters turned streets and parking lots into rivers in Davie, Florida, leaving drivers facing dangerous conditions.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_floodwaters-submerge-cars-in-florida-181126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-18T21:08:04+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795036078.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
