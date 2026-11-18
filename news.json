@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T18:15:29.809581+00:00",
+  "updated_at": "2026-11-18T18:30:36.216793+00:00",
   "national": [
     {
       "title": "Longsor Terjang Persawahan di Bogor, Ribuan Ikan di Tambak Mati Terendam Lumpur",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Cheese, pet passports and youth mobility: what’s in the UK-EU ‘relationship reset’ draft?",
-      "summary": "Leaked text of 72-paragraph second draft shows agreement has largely been reached before expected signoff on Friday The UK-EU “relationship reset” agreement, which began in earnest under Keir Starmer, is expected to be signed off by Andy Burnham in Brussels on Friday. A leaked text of the second draft shows an agreement has largely been reached with some outstanding points. Continue reading...",
-      "url": "https://www.theguardian.com/politics/2026/nov/18/uk-eu-relationship-reset-draft-explainer",
+      "title": "The Leave campaign has been resurrected, so how does Burnham respond?",
+      "summary": "No 10 is confident the PM can make the case for closer EU ties, while others worry about leaving the campaign solely in his hands The launch of a pro-Brexit campaign was one of the few genuine surprises this week in Westminster, even if the arguments were straight out of a familiar playbook. The video launched on X over the weekend, with scenes of riots in France, champagne flowing in Brussels, and European politicians saying how desperate they were for Britain’s cash. Continue reading...",
+      "url": "https://www.theguardian.com/politics/2026/nov/18/pro-brexit-stay-out-same-playbook-analysis",
       "source": "The Guardian",
-      "published": "2026-11-18T17:56:39+00:00",
-      "image": "https://i.guim.co.uk/img/media/25aedc768a726dfcb833778bfe46c3e276384b86/960_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=f5c40a40536329ad664a49b859e40d34"
+      "published": "2026-11-18T18:23:25+00:00",
+      "image": "https://i.guim.co.uk/img/media/e7e77af1ae8f833009340ea6ee0c97de81ec17f2/0_0_4903_3922/master/4903.jpg?width=140&quality=85&auto=format&fit=max&s=a012fd8a6c11c067882c24e746e84b99"
+    },
+    {
+      "title": "Israeli forces launch new military operation in central Gaza",
+      "summary": "Israeli forces have launched a new military operation in central Gaza, advancing west of the Yellow Line",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/israeli-forces-launch-new-military-operation-in-central-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-18T18:12:42+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795025520.jpg?resize=1920%2C1080&quality=80"
     },
     {
       "title": "William and Kate reflect on 'enduring' UK-India ties with Modi",
@@ -42,14 +50,6 @@
       "source": "BBC",
       "published": "2026-11-18T17:51:47+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efe9/live/814a0670-e35a-11f1-a8cd-2ff5ed84046e.jpg"
-    },
-    {
-      "title": "Far-right influencer Jake Lang kicked out of Dearborn council meeting",
-      "summary": "Far-right influencer Jake Lang was removed from a Dearborn City Council meeting after disrupting proceedings.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/far-right-influencer-jake-lang-kicked-out-of-dearborn-council-meeting?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-18T17:50:00+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-18-at-17.45.41-1795024064.png?resize=1200%2C675"
     }
   ],
   "feed_warnings": [
