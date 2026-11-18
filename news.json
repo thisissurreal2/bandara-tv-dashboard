@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-18T00:00:40.852096+00:00",
+  "updated_at": "2026-11-18T00:15:28.639782+00:00",
   "national": [
+    {
+      "title": "Respons DPR dan KPU soal Desakan Bongkar Ijazah Seluruh Anggota Dewan",
+      "summary": "Petisi desakan verifikasi ijazah anggota DPR mencuat setelah isu keabsahan ijazah Wapres Gibran. Hingga Selasa petisi telah ditandatangani 24.0888 orang.",
+      "url": "https://www.cnnindonesia.com/nasional/20261118061707-32-1428333/respons-dpr-dan-kpu-soal-desakan-bongkar-ijazah-seluruh-anggota-dewan",
+      "source": "CNN Indonesia",
+      "published": "2026-11-18T00:05:00+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/10/rapat-paripurna-pembukaan-masa-sidang-1794294204871_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Menteri PKP: Pemanfaatan produk lokal tingkatkan kualitas rumah rakyat",
       "summary": "Menteri Perumahan dan Kawasan Permukiman (PKP) Maruarar Sirait mengatakan pemanfaatan produk lokal dapat meningkatkan ...",
@@ -8,14 +16,6 @@
       "source": "ANTARA",
       "published": "2026-11-17T23:48:43+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/18/WhatsApp-Image-2026-11-15-at-21.50.12.jpg"
-    },
-    {
-      "title": "Jubir Gerindra soal Dukungan Cawapres Dasco: Jangan Dahului Presiden",
-      "summary": "Juru Bicara Partai Gerindra, Bahtra Banong, menegaskan tetap menghormati keputusan Prabowo Subianto untuk memilih cawapres.",
-      "url": "https://www.cnnindonesia.com/nasional/20261118062619-32-1428351/jubir-gerindra-soal-dukungan-cawapres-dasco-jangan-dahului-presiden",
-      "source": "CNN Indonesia",
-      "published": "2026-11-17T23:45:19+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2025/02/24/bnr-gerindra-5090-1740397309825_169.jpeg?w=360&q=90"
     },
     {
       "title": "Putin Tiba di China Jelang Pertemuan dengan Trump dan Xi Jinping",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "David Jones: what went wrong and what happens next? Five takeaways from first creditors meeting",
-      "summary": "Upmarket retailer, which recorded a net loss of $228m last financial year, has total debt over $400m including $11m owed to staff Get our breaking news email , free app or daily news podcast Upmarket retailer David Jones owed hundreds of millions of dollars when it collapsed into administration, after accelerating financial losses and reputational damage threatened its ability to stock shelves for Christmas. About 500 creditors attended its first meeting on Tuesday, where administrators McGrathNicol started to break down who is owed what, when those left out of pocket will know where they stand, and what ultimately went wrong. Continue reading...",
-      "url": "https://www.theguardian.com/business/2026/nov/17/david-jones-creditors-meeting-debt-administrators",
+      "title": "UK will miss climate targets if it weakens EV sales rules, advisers warn",
+      "summary": "Analysts say mooted move to let more petrol and diesel vehicles be sold would wreck plan to reach net zero by 2050 Weakening the UK’s electric car sales rules would probably cause the government to miss legally binding climate targets, according to advisers tracking Britain’s progress to net zero. The analysis by the Climate Change Committee (CCC) suggests the policy would blow a hole in the plan for achieving net zero carbon emissions by 2050 – prompting concerns that Andy Burnham’s government will have to slash the UK’s carbon emissions reduction targets, known as the carbon budgets. Continue reading...",
+      "url": "https://www.theguardian.com/environment/2026/nov/18/uk-will-miss-climate-targets-if-weakens-rules-on-ev-sales-zev-ccc",
       "source": "The Guardian",
-      "published": "2026-11-17T23:53:58+00:00",
-      "image": "https://i.guim.co.uk/img/media/0a2db8d77868f5135bedecc8258c52c399a9d09d/240_154_3881_3107/master/3881.jpg?width=140&quality=85&auto=format&fit=max&s=664046d8d658a9148945fec68d4245b7"
+      "published": "2026-11-18T00:01:26+00:00",
+      "image": "https://i.guim.co.uk/img/media/3ed391e009abd724b30b099d8a5378a1fc28ff5a/558_0_3100_2480/master/3100.jpg?width=140&quality=85&auto=format&fit=max&s=25559e4d4f6f4eb3d6a26e08cf74ca5b"
     },
     {
-      "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
-      "summary": "Kuwait's military says its air defence was repelling drones as Iran and the US hit out at each other across the Gulf.",
-      "url": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss",
+      "title": "Iran war live: Kuwait says intercepting ‘hostile’ drone attacks",
+      "summary": "Kuwait intercepts 'hostile' drone attacks as Bahrain warns of 'potential threat', urges citizens to remain calm.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/18/iran-war-live-kuwait-says-intercepting-hostile-drone-attacks?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-17T23:38:38+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afcc965-1794951525.jpg?resize=1200%2C630"
+      "published": "2026-11-18T00:00:27+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afcde1e1992-1794956830.jpg?resize=1920%2C1440"
     },
     {
       "title": "Nvidia reports bumper results as firm says it's not reinstating Huang",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
