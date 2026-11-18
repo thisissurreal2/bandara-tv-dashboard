@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T14:15:35.489008+00:00",
+  "updated_at": "2026-11-18T14:30:37.397565+00:00",
   "national": [
     {
       "title": "Korban Ledakan Kilang Migas di Cepu Meninggal, Luka Bakar 90 Persen",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
-      "title": "UK government ‘breaking the law’ by not stopping decline of wild birds",
-      "summary": "Populations at lowest level on record with 45% of native breeding species in decline, environment regulator says Environment secretary Angela Eagle, her ministers and Natural England are breaking the law by failing to intervene to slow the catastrophic decline of Britain’s wild birds, the UK’s environment regulator has said. New data shows wild bird populations have dropped to their lowest level on record, with almost half – 45% – of 132 native breeding species in decline over a five-year period. Continue reading...",
-      "url": "https://www.theguardian.com/environment/2026/nov/18/uk-government-angela-eagle-natural-england-wild-birds-decline-",
+      "title": "Boy, three, dies after ‘medical emergency’ at Greater Manchester nursery",
+      "summary": "Police are investigating death of child three days after emergency services were called to Cosy Toes nursery in Middleton A three-year-old boy has died after a “medical emergency” at a nursery in Greater Manchester. Emergency services were called to Cosy Toes nursery in Middleton, near Manchester on the afternoon of 2 November after “reports of a concern for a child”. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/18/boy-three-dies-medical-emergency-cosy-toes-nursery-middleton-greater-manchester",
       "source": "The Guardian",
-      "published": "2026-11-18T14:07:35+00:00",
-      "image": "https://i.guim.co.uk/img/media/cd9c93f4d2bc857399f8b29d244fd59b9a4d5a26/295_0_2953_2363/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=b124c59b5d3d0a13ef96a78ee105d3f0"
+      "published": "2026-11-18T14:18:29+00:00",
+      "image": "https://i.guim.co.uk/img/media/df327e4e617830e1f697e61146d7a0ce405a03e5/590_0_6706_5366/master/6706.jpg?width=140&quality=85&auto=format&fit=max&s=65c38389444c1af3f0d4474efcc97d4c"
     },
     {
-      "title": "How the US House of Representatives chooses its leaders: A visual guide",
-      "summary": "After their midterm win, Democrats will lead the House from January 3. Here’s how its speaker and leaders are chosen.",
-      "url": "https://www.aljazeera.com/news/2026/11/18/how-the-us-house-of-representatives-chooses-its-leaders-a-visual-guide?traffic_source=rss",
+      "title": "Can the US and Iran sustain a ‘frozen war’?",
+      "summary": "Tehran may eventually decide that 'escalating confrontation' is preferable to status quo, says analyst Hamidreza Azizi.",
+      "url": "https://www.aljazeera.com/news/2026/11/18/can-the-us-and-iran-sustain-a-frozen?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-18T13:24:22+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2025/07/2025-07-03T160152Z_1031686925_RC2ZEFATTV77_RTRMADP_3_USA-CONGRESS-TAX-1751565632.jpg?resize=1920%2C1403"
+      "published": "2026-11-18T14:13:51+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afda0fe31cb-1795006718.jpg?resize=1920%2C1440"
     },
     {
-      "title": "Kuwait says it repelled first Iranian attack in two months after US strikes island",
-      "summary": "Bahrain says it was also attacked by Iran following a US air strike on the Iranian island of Qeshm in the Gulf on Tuesday.",
-      "url": "https://www.bbc.co.uk/news/articles/cw4gn9jeqjq7o?at_medium=RSS&at_campaign=rss",
+      "title": "The seven Anthropic founders who are about to become multi-billionaires",
+      "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich.",
+      "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-18T13:04:48+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/492e/live/f37939a0-e346-11f1-99aa-0f40b013ad11.jpg"
+      "published": "2026-11-18T13:55:14+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f70c/live/7ee6d930-e346-11f1-99aa-0f40b013ad11.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
