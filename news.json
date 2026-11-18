@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T21:15:29.307058+00:00",
+  "updated_at": "2026-11-18T21:30:41.480073+00:00",
   "national": [
     {
       "title": "Catatan Buruh KASBI atas UU Pelindungan Naker, Soroti Magang-Pesangon",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "US lawmakers push to raise minimum wage to $25, end tipped pay system",
+      "summary": "Public support for raising the minimum wage grows, with 78 percent of voters saying it was an important election issue.",
+      "url": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-push-to-raise-minimum-wage-to-25-end-tipped-pay-system?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-18T21:24:19+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-12T145626Z_1656464802_RC2SXY95PV4I_RTRMADP_3_USA-ECONOMY-1795030831.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
       "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January.",
       "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
@@ -42,19 +50,7 @@
       "source": "The Guardian",
       "published": "2026-11-18T21:04:58+00:00",
       "image": "https://i.guim.co.uk/img/media/4616ce07e7f4de93e722db12aac9bc8b412424c5/0_0_4183_3346/master/4183.jpg?width=140&quality=85&auto=format&fit=max&s=f371062e4069fc225f68db85be5fe6f9"
-    },
-    {
-      "title": "What does Israel’s new ground offensive mean for Palestinians in Gaza?",
-      "summary": "Israeli tanks advance beyond the 'Yellow Line', forcing Palestinians to flee again in Gaza.",
-      "url": "https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-18T20:38:06+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afe04c1c782-1795032257.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
