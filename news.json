@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-18T19:15:30.051749+00:00",
+  "updated_at": "2026-11-18T19:30:35.433884+00:00",
   "national": [
     {
-      "title": "Indonesia-UEA Sepakat Kembangkan Restorasi Mangrove Pakai AI di Demak",
-      "summary": "Indonesia dan UEA sepakat mengembangkan proyek restorasi mangrove berbasis AI di Demak. Kerja sama ini juga mencakup pusat riset mangrove internasional di Bali.",
-      "url": "https://news.detik.com/berita/d-8759358/indonesia-uea-sepakat-kembangkan-restorasi-mangrove-pakai-ai-di-demak",
+      "title": "Wanita Hilang Terseret Banjir Bandang saat Liburan di Curug Cikuluwung Bogor",
+      "summary": "Seorang wanita 19 tahun, Nurhusna Luvita, hilang terbawa arus di Curug Cikuluwung, Bogor. Tim SAR sedang melakukan pencarian setelah hujan deras.",
+      "url": "https://news.detik.com/berita/d-8759361/wanita-hilang-terseret-banjir-bandang-saat-liburan-di-curug-cikuluwung-bogor",
       "source": "Detik",
-      "published": "2026-11-18T18:39:34+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/wakil-menteri-lingkungan-hidup-diaz-hendropriyono-di-cop31-turki-dok-klh-1795027150289_169.jpeg?w=360&q=90"
+      "published": "2026-11-18T19:19:03+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2023/04/14/simulasi-penanganan-kecelakaan-di-sungai-luworo-yang-dilakukan-usai-peresmian-jembatan-luworo-pilang-kenceng-kabupaten-madiun-_169.jpeg?w=360&q=90"
     },
     {
       "title": "Pemprov Jatim Nonaktifkan Kepala DLH Tersangka Pungli Tambang Rp1,23 M",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
-      "summary": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled Sign up for US breaking News email Linked to that, the White House held a briefing call with several reporters today about the wave of tech outages affecting several industries. CNN reported that officials said the administration underscored that what has happened is not as a result of cyber-attacks but due to the “hardening and upgrading of our systems ”, including “systems being patched, hardware being applied” . Per CNN, an official added: “It’s good the American people are focused on the need to upgrade our legacy systems.” Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+      "title": "Heavy rain and snow predicted in California as ‘atmospheric river’ moves across state",
+      "summary": "Flood advisories issued for much of Bay Area with coastal flooding and heavy surf possible in southern California Heavy rain or snowfall is predicted across California this week, as an “atmospheric river” dumps precipitation across the state. Flood advisories have been issued for much of the Bay Area , according to the National Weather Service (NWS), while southern California may see coastal flooding, heavy surf, wave damage to coastal piers and parking lots , and beach sand erosion. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/california-atmospheric-river-flooding",
       "source": "The Guardian",
-      "published": "2026-11-18T19:04:50+00:00",
-      "image": "https://i.guim.co.uk/img/media/eedcc9a55e41953e4e591b40cc4dd19f08e9c074/368_0_4743_3795/master/4743.jpg?width=140&quality=85&auto=format&fit=max&s=d55919554ad283a6dea6af077192b393"
+      "published": "2026-11-18T19:18:18+00:00",
+      "image": "https://i.guim.co.uk/img/media/9432928875c16c5c5a9c3b9c8d3e334dd23625f8/524_697_5957_4767/master/5957.jpg?width=140&quality=85&auto=format&fit=max&s=6d388abce6f55007babfc8823253b9b5"
     },
     {
       "title": "Israeli court extends Gaza doctor Abu Safia’s detention without charge",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efe9/live/814a0670-e35a-11f1-a8cd-2ff5ed84046e.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
