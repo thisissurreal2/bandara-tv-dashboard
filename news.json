@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T13:15:44.529143+00:00",
+  "updated_at": "2026-11-18T13:30:35.314317+00:00",
   "national": [
     {
       "title": "Badan Pengkajian MPR Dorong Ekraf Jadi Motor Baru Pertumbuhan Ekonomi",
@@ -23,25 +23,25 @@
       "url": "https://www.antaranews.com/berita/5863051/menko-pangan-kawal-efisiensi-anggaran-mbg-dan-percepat-layanan-di-3t",
       "source": "ANTARA",
       "published": "2026-11-18T11:36:46+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/18/1000228139.jpg"
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/18/1000228139_1.jpg"
     }
   ],
   "international": [
     {
-      "title": "Apec summit live: Xi welcomes Trump on China visit as Putin claims Europe in ‘humiliating decline’",
-      "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up? That is the question the Guardian’s diplomatic correspondent Patrick Wintour seeks to address in his piece about the expected, Putin, Trump and Xi, meeting at Apec on Thursday. It is a truism in diplomacy that if you are not around the table, the risk is that you, or your values, are on the menu and about to be carved up. Many excluded from the summit in Shenzhen, principally Ukraine but also eastern Europe and Baltic countries, Taiwan and even Iran, have reason to be nervous that their sponsors might abandon them in a complex geopolitical trade-off that Putin envisions, and Trump seems to endorse. Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+      "title": "Peltola’s Alaska win ‘a gift for all America,’ says Schumer – US politics live",
+      "summary": "Senate Democratic leader hails result which will give the party a commanding 56-44 seat majority Trump in China for Apec summit – follow live Sign up for US breaking News email The Chinese, US and Russian leaders exchanged first greetings in China, a day before their first formal trilateral meeting. Footage showed Russian leader Vladimir Putin shaking hands with US president Donald Trump and the two exchanging pleasantries with China’s Xi Jinping before taking their positions for a group photo at an Apec summit in Shenzhen. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-18T13:00:04+00:00",
-      "image": "https://i.guim.co.uk/img/media/74ea5af6d2da16d80eca867a35183ae07fb370fa/193_0_2247_1798/master/2247.jpg?width=140&quality=85&auto=format&fit=max&s=ea3a6c350de36a5ebefbb42b1e349a25"
+      "published": "2026-11-18T13:23:23+00:00",
+      "image": "https://i.guim.co.uk/img/media/a6515916925b959ff16ca61b9965b12a7f3e61ff/516_0_2547_2038/master/2547.jpg?width=140&quality=85&auto=format&fit=max&s=cbeadbe712f64c01e548c20f5717e725"
     },
     {
-      "title": "How data centres are turning AI-generated heat into energy",
-      "summary": "How data centres are turning AI-generated heat into energy",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/how-data-centres-are-turning-ai-generated-heat-into-energy?traffic_source=rss",
+      "title": "GTA 6: Everything you need to know about the highly anticipated game",
+      "summary": "Economists predict GTA 6 could cost US up to $1bn in lost productivity, with the game set for release at midnight.",
+      "url": "https://www.aljazeera.com/economy/2026/11/18/gta-6-everything-you-need-to-know-about-the-highly-anticipated-game?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-18T12:41:02+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795005655.jpg?resize=1920%2C1080&quality=80"
+      "published": "2026-11-18T13:02:33+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afd98030057-1795004419.jpg?resize=1920%2C1440"
     },
     {
       "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9fb/live/b2707bf0-e349-11f1-99aa-0f40b013ad11.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
