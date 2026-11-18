@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T03:30:33.356931+00:00",
+  "updated_at": "2026-11-18T03:45:29.119352+00:00",
   "national": [
     {
       "title": "Mendagri Sebut Kekompakan Forkopimda Kunci Stabilitas Daerah",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Nvidia shoots down calls for Jensen Huang’s return amid strong earnings",
-      "summary": "Nvidia board chair says chip giant 'does not intend' to reinstate Huang as it projects revenues of $130bn in Q4.",
-      "url": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-18T03:00:22+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26316566107905-1794962097.jpg?resize=1920%2C1440"
+      "title": "Australia’s ‘problematic’ surrogacy laws could be transformed under proposed changes",
+      "summary": "Law reform body recommends ongoing ban on commercial surrogacy, but greater compensation for surrogates, and safeguards around who the child’s legal parents are Get our breaking news email , free app or daily news podcast Surrogates would be entitled to full compensation, with a nationally consistent framework ensuring domestic surrogacy is a viable option to parenthood, under proposed changes by Australia’s law reform body. The Australian Law Reform Commission has been investigating how to better regulate surrogacy and harmonise laws so they are consistent with international legal obligations, while protecting human rights – particularly the rights and best interests of the child. Continue reading...",
+      "url": "https://www.theguardian.com/law/2026/nov/18/australias-strict-surrogacy-laws-could-be-relaxed-under-proposed-changes",
+      "source": "The Guardian",
+      "published": "2026-11-18T03:28:59+00:00",
+      "image": "https://i.guim.co.uk/img/media/b2c623a30296620a72ed884cc59ad89390f7ea5f/256_0_3221_2577/master/3221.jpg?width=140&quality=85&auto=format&fit=max&s=3ec78681cbd824f3134e7ba6fff0b79e"
     },
     {
-      "title": "White House pulls nomination of Heidi Overton to lead Food and Drug Administration – as it happened",
-      "summary": "This live blog is now closed. White House withdraws nomination of Heidi Overton to lead FDA Sign up for US Breaking News email Abdul El-Sayed , the Democratic-Senator elect from Michigan, said today that he would be happy to work with the Trump administration to pass one of his tentpole policy agenda items – Medicare For All. “Everybody’s like, ‘ah well, you’d work with Donald Trump to get Medicare For All?’. I’m like hell yeah, because the point for me is Medicare For All. I don’t care who puts their name on it. I need to go back and talk to Michiganders, and I need to know that our service made their lives easier,” he said at the Atlantic Summit in Washington DC. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/17/donald-trump-alaska-senate-race-midterms-democrats-republicans-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-18T02:57:58+00:00",
-      "image": "https://i.guim.co.uk/img/media/959d5fcd8e2a8580b1a2bf0b86946895bbf3daf4/335_0_4499_3601/master/4499.jpg?width=140&quality=85&auto=format&fit=max&s=56349d3aaa8ebcfab6bf8e6daa8f405b"
+      "title": "Mary Peltola flips Alaska Senate seat in another Democratic win",
+      "summary": "The hard-fought contest is the last to be called for the US Senate and likely faces legal challenges.",
+      "url": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-18T03:28:41+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afd1b1e-1794972446.jpg?resize=1920%2C1440"
     },
     {
       "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
