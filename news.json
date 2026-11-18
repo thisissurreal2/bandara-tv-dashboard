@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-18T19:30:35.433884+00:00",
+  "updated_at": "2026-11-18T19:45:27.776829+00:00",
   "national": [
+    {
+      "title": "Dasco ke Andi Gani yang Tak Kena Sadap: Bangunnya Siang",
+      "summary": "Wakil Ketua DPR Sufmi Dasco menyindir Andi Gani KSPSI soal penyadapan. Dasco menegaskan dukungan terhadap RUU Penyadapan dan proses hukum kasus ini.",
+      "url": "https://www.cnnindonesia.com/nasional/20261118203622-32-1428732/dasco-ke-andi-gani-yang-tak-kena-sadap-bangunnya-siang",
+      "source": "CNN Indonesia",
+      "published": "2026-11-18T19:30:22+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/18/dpr-terima-aspirasi-buruh-1794974117661_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Wanita Hilang Terseret Banjir Bandang saat Liburan di Curug Cikuluwung Bogor",
       "summary": "Seorang wanita 19 tahun, Nurhusna Luvita, hilang terbawa arus di Curug Cikuluwung, Bogor. Tim SAR sedang melakukan pencarian setelah hujan deras.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-18T19:19:03+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2023/04/14/simulasi-penanganan-kecelakaan-di-sungai-luworo-yang-dilakukan-usai-peresmian-jembatan-luworo-pilang-kenceng-kabupaten-madiun-_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Pemprov Jatim Nonaktifkan Kepala DLH Tersangka Pungli Tambang Rp1,23 M",
-      "summary": "Pemprov Jatim menonaktifkan Kepala DLH Nurkholis setelah ditahan Kejati Jatim terkait dugaan pungli perizinan tambang senilai Rp1,23 miliar.",
-      "url": "https://www.cnnindonesia.com/nasional/20261118195356-20-1428715/pemprov-jatim-nonaktifkan-kepala-dlh-tersangka-pungli-tambang-rp123-m",
-      "source": "CNN Indonesia",
-      "published": "2026-11-18T16:50:31+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2022/02/21/ilustrasi-korupsi_169.jpeg?w=360&q=90"
     },
     {
       "title": "Kabakom sebut kepuasan publik terhadap Presiden naik jadi 62 persen",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Heavy rain and snow predicted in California as ‘atmospheric river’ moves across state",
-      "summary": "Flood advisories issued for much of Bay Area with coastal flooding and heavy surf possible in southern California Heavy rain or snowfall is predicted across California this week, as an “atmospheric river” dumps precipitation across the state. Flood advisories have been issued for much of the Bay Area , according to the National Weather Service (NWS), while southern California may see coastal flooding, heavy surf, wave damage to coastal piers and parking lots , and beach sand erosion. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/18/california-atmospheric-river-flooding",
+      "title": "Ex-Tory MPs barred from shaping Reform UK’s immigration policy, says Zia Yusuf",
+      "summary": "Comments by Reform’s home affairs spokesperson raise questions about unity at top of the party Former Conservative defectors to Reform UK have been barred from shaping the party’s immigration policy, its home affairs spokesperson has claimed, excluding in effect the majority of the party’s MPs. “If you are in the category of being concerned about [former Conservatives being involved in Reform], none of the above are going to be involved in immigration policy or borders policy,” Zia Yusuf told a podcast by the Spectator magazine. Continue reading...",
+      "url": "https://www.theguardian.com/politics/2026/nov/18/ex-tory-defectors-barred-from-shaping-reform-uks-immigration-policy-says-yusuf",
       "source": "The Guardian",
-      "published": "2026-11-18T19:18:18+00:00",
-      "image": "https://i.guim.co.uk/img/media/9432928875c16c5c5a9c3b9c8d3e334dd23625f8/524_697_5957_4767/master/5957.jpg?width=140&quality=85&auto=format&fit=max&s=6d388abce6f55007babfc8823253b9b5"
+      "published": "2026-11-18T19:34:31+00:00",
+      "image": "https://i.guim.co.uk/img/media/297daa4e63256807e9b1bfbba9295164f2d00efe/408_0_4583_3667/master/4583.jpg?width=140&quality=85&auto=format&fit=max&s=ecb25e91a580b3d502665e1f62230140"
     },
     {
       "title": "Israeli court extends Gaza doctor Abu Safia’s detention without charge",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efe9/live/814a0670-e35a-11f1-a8cd-2ff5ed84046e.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
