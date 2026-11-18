@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-18T06:15:29.472130+00:00",
+  "updated_at": "2026-11-18T06:30:31.691006+00:00",
   "national": [
+    {
+      "title": "Duo Maling Berpistol Gagal Curi Motor lalu Umbar Tembakan di Koja",
+      "summary": "Video viral menunjukkan dua maling kepergok saat mencuri motor di Jakarta Utara. Salah satu pelaku melawan dengan tembakan, tapi gagal kabur.",
+      "url": "https://news.detik.com/berita/d-8758255/duo-maling-berpistol-gagal-curi-motor-lalu-umbar-tembakan-di-koja",
+      "source": "Detik",
+      "published": "2026-11-18T06:13:46+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2024/03/25/1355729100_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Alasan Irjen Slamet Uliandi Belum Disidang Etik Kasus Penyadapan",
       "summary": "Mabes Polri menjelaskan penundaan sidang etik Irjen Slamet Uliandi karena kondisi kesehatan. Sidang eks Kapolri Listyo Sigit dijadwalkan minggu depan.",
@@ -16,32 +24,24 @@
       "source": "ANTARA",
       "published": "2026-11-18T05:41:57+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/18/IMG_2705.jpeg"
-    },
-    {
-      "title": "Trump Disambut Kenegaraan Marcos Jr di Istana Malacanang",
-      "summary": "Donald Trump bertemu Ferdinand Marcos Jr di Istana Malacanang, Manila, dalam kunjungan resmi yang diisi upacara penyambutan kenegaraan.",
-      "url": "https://news.detik.com/foto-news/d-8758103/trump-disambut-kenegaraan-marcos-jr-di-istana-malacanang",
-      "source": "Detik",
-      "published": "2026-11-18T05:33:43+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/18/trump-disambut-kenegaraan-marcos-jr-di-istana-malacanang-1794976953477.jpeg?w=360&q=90"
     }
   ],
   "international": [
     {
-      "title": "‘Deeply concerning’: NHS in England reports more than 3,000 incidents of staff snooping on patients’ records",
-      "summary": "Campaign groups and regulators say data breaches are distressing for patients and families and erode trust in the health service The NHS in England has recorded more than 3,000 incidents of staff inappropriately snooping on patients’ medical records in the last five years. Patient campaign groups and regulators said the figures were “deeply concerning” and distressing for patients and families, and eroded trust in the health service. A lack of transparency from NHS organisations after data breaches were uncovered further compounded the heartache, they added. Continue reading...",
-      "url": "https://www.theguardian.com/society/2026/nov/18/nhs-england-staff-snooping-patients-records",
+      "title": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
+      "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up? That is the question the Guardian’s diplomatic correspondent Patrick Wintour seeks to address in his piece about the expected, Putin, Trump and Xi, meeting at Apec on Thursday. It is a truism in diplomacy that if you are not around the table, the risk is that you, or your values, are on the menu and about to be carved up. Many excluded from the summit in Shenzhen, principally Ukraine but also eastern Europe and Baltic countries, Taiwan and even Iran, have reason to be nervous that their sponsors might abandon them in a complex geopolitical trade-off that Putin envisions, and Trump seems to endorse. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
       "source": "The Guardian",
-      "published": "2026-11-18T06:00:34+00:00",
-      "image": "https://i.guim.co.uk/img/media/1fc26045520598d001eaa086cb28a8c25d1aff49/95_0_2579_2065/master/2579.jpg?width=140&quality=85&auto=format&fit=max&s=e46373a6a1a1facdfc3e27d9811c2d75"
+      "published": "2026-11-18T06:13:44+00:00",
+      "image": "https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=6c8dfda336983f7d8e6f8e93e5b384b5"
     },
     {
-      "title": "Rafael Grossi wants to be UN chief. Will Trump’s support nuke his chances?",
-      "summary": "Nuclear watchdog chief is seen as technically competent, but questions remain about his plans for UN reform.",
-      "url": "https://www.aljazeera.com/news/2026/11/18/rafael-grossi-wants-to-be-un-chief-will-trumps-support-nuke-his-chances?traffic_source=rss",
+      "title": "What’s in the air you breathe? How to stay safe during smog season",
+      "summary": "India and Pakistan had 42 of the world’s 50 most polluted cities in 2025. Millions now face another toxic winter.",
+      "url": "https://www.aljazeera.com/news/2026/11/18/whats-in-the-air-you-breathe-how-to-stay-safe-during-smog-season-2?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-18T05:24:02+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afc536b25-1794921323_e8aab9-1794924720.jpg?resize=1200%2C630&quality=80"
+      "published": "2026-11-18T05:55:08+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afd338a5b10-1794978698.jpg?resize=1920%2C1440"
     },
     {
       "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
