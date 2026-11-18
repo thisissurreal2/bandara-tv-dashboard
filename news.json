@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-18T05:45:36.256234+00:00",
+  "updated_at": "2026-11-18T06:00:44.128431+00:00",
   "national": [
     {
-      "title": "Gerindra Minta Istana Steril dari 'Orang-Orang' Listyo Sigit",
-      "summary": "Anggota DPR Fraksi Gerindra Sugiat Santoso minta pejabat dekat Presiden Prabowo steril dari orang-orang pilihan eks Kapolri Listyo Sigit untuk jaga keamanan.",
-      "url": "https://www.cnnindonesia.com/nasional/20261118123512-32-1428478/gerindra-minta-istana-steril-dari-orang-orang-listyo-sigit",
+      "title": "Kapolri Teken Aturan Baru soal Kode Etik: Sidang Bisa Digelar Daring",
+      "summary": "Kapolri Jenderal Suyudi Ario Seto menerbitkan Perpol baru yang mengatur sidang KKEP Polri secara daring dan mekanisme penyusunan majelis.",
+      "url": "https://www.cnnindonesia.com/nasional/20261118124348-12-1428489/kapolri-teken-aturan-baru-soal-kode-etik-sidang-bisa-digelar-daring",
       "source": "CNN Indonesia",
-      "published": "2026-11-18T05:44:21+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/10/21/ksp-listyo-1792539057941_169.jpeg?w=360&q=90"
+      "published": "2026-11-18T05:55:21+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/12/raker-kapolri-dan-komisi-3-dpr-1794450472248_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "Indonesia terpilih menjadi ketua bersama GFCBCA",
+      "summary": "Kementerian Kebudayaan Republik Indonesia terpilih menjadi salah satu ketua bersama periode 2027–2028 ...",
+      "url": "https://www.antaranews.com/berita/5861695/indonesia-terpilih-menjadi-ketua-bersama-gfcbca",
+      "source": "ANTARA",
+      "published": "2026-11-18T05:41:57+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/18/IMG_2705.jpeg"
     },
     {
       "title": "Trump Disambut Kenegaraan Marcos Jr di Istana Malacanang",
@@ -16,14 +24,6 @@
       "source": "Detik",
       "published": "2026-11-18T05:33:43+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/18/trump-disambut-kenegaraan-marcos-jr-di-istana-malacanang-1794976953477.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Kemendag: Bumbu RI catat potensi transaksi Rp5,4 miliar di Tokyo",
-      "summary": "Kementerian Perdagangan (Kemendag) mencatat Paviliun S'RASA berhasil membukukan potensi transaksi 303.730 dolar AS ...",
-      "url": "https://www.antaranews.com/berita/5861667/kemendag-bumbu-ri-catat-potensi-transaksi-rp54-miliar-di-tokyo",
-      "source": "ANTARA",
-      "published": "2026-11-18T05:09:57+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/18/IMG_4501.jpeg"
     }
   ],
   "international": [
@@ -32,7 +32,7 @@
       "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up? That is the question the Guardian’s diplomatic correspondent Patrick Wintour seeks to address in his piece about the expected, Putin, Trump and Xi, meeting at Apec on Thursday. It is a truism in diplomacy that if you are not around the table, the risk is that you, or your values, are on the menu and about to be carved up. Many excluded from the summit in Shenzhen, principally Ukraine but also eastern Europe and Baltic countries, Taiwan and even Iran, have reason to be nervous that their sponsors might abandon them in a complex geopolitical trade-off that Putin envisions, and Trump seems to endorse. Continue reading...",
       "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
       "source": "The Guardian",
-      "published": "2026-11-18T05:26:06+00:00",
+      "published": "2026-11-18T05:41:54+00:00",
       "image": "https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=6c8dfda336983f7d8e6f8e93e5b384b5"
     },
     {
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
