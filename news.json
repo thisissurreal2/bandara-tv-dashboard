@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-18T05:15:33.542918+00:00",
+  "updated_at": "2026-11-18T05:30:39.392088+00:00",
   "national": [
     {
-      "title": "Kasus Dugaan Pemerkosaan, Bupati Kupang Minta Pemeriksaan Diundur",
-      "summary": "Bupati Kupang, Yosef Lede, tidak hadir dalam pemeriksaan terkait dugaan pemerkosaan dan meminta penundaan hingga Sabtu (21/11).",
-      "url": "https://www.cnnindonesia.com/nasional/20261118113558-12-1428447/kasus-dugaan-pemerkosaan-bupati-kupang-minta-pemeriksaan-diundur",
+      "title": "Klarifikasi Mensos: Sekolah Rakyat Tidak Dibangun di Hutan Kota UI",
+      "summary": "Menteri Sosial mengklaim Sekolah Rakyat tidak akan dibangun di Hutan Kota UI, melainkan di lahan yang berdekatan di sisi wilayah Jakarta.",
+      "url": "https://www.cnnindonesia.com/nasional/20261118115004-20-1428462/klarifikasi-mensos-sekolah-rakyat-tidak-dibangun-di-hutan-kota-ui",
       "source": "CNN Indonesia",
-      "published": "2026-11-18T05:08:13+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2023/08/10/ilustrasi-pemerkosaankekerasan-seksual-4_169.jpeg?w=360&q=90"
+      "published": "2026-11-18T05:15:33+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/09/konferensi-pers-dua-tahun-perlindungan-sosial-1794213936796_169.jpeg?w=360&q=90"
     },
     {
       "title": "Hal Ini yang Diinginkan Putin saat Bertemu Trump dan Xi Jinping",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
-      "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Donald Trump , meanwhile, has not arrived in Shenzhen yet. He was last seen at the start of talks with Philippine President Ferdinand Marcos Jr in Manila, where Reuters reported he said he was ⁠not concerned about the ⁠situation in the ‌hotly ‌contested South China ‌Sea. Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
-      "source": "The Guardian",
-      "published": "2026-11-18T05:01:23+00:00",
-      "image": "https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=6c8dfda336983f7d8e6f8e93e5b384b5"
+      "title": "Rafael Grossi wants to be UN chief. Will Trump’s support nuke his chances?",
+      "summary": "Nuclear watchdog chief is seen as technically competent, but questions remain about his plans for UN reform.",
+      "url": "https://www.aljazeera.com/news/2026/11/18/rafael-grossi-wants-to-be-un-chief-will-trumps-support-nuke-his-chances?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-18T05:24:02+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afc536b25-1794921323_e8aab9-1794924720.jpg?resize=1200%2C630&quality=80"
     },
     {
-      "title": "Australia issues sanctions targeting Israeli settlers",
-      "summary": "Australia has imposed sanctions on three Israeli individuals and four organisations for illegal settlement expansion.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/australia-issues-sanctions-targeting-israeli-settlers?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-18T04:12:03+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1794975100.jpg?resize=1920%2C1080&quality=80"
+      "title": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
+      "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds The Australian prime minister, Anthony Albanese , has arrived in Shenzhen for the Apec summit, and confirmed he will join a leaders’ “family photo” despite the presence of Russia’s Vladimir Putin . Albanese said he would respect the wishes of host country China and take part, echoing the explanation of the Canadian prime minister, Mark Carney. But, Albanese said would make clear Australia’s view on Russia’s invasion of Ukraine . This is a big power intervening in an illegal way to try to assert its will and underestimating the will and courage and conviction of the Ukrainian people to fight for their national sovereignty. Absolutely there is a role for middle power diplomacy, and we’ll see at Apec, the engagement that we’ll have with countries such as Canada and Mexico, Korea, Japan. They are important partners for Australia. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+      "source": "The Guardian",
+      "published": "2026-11-18T05:17:55+00:00",
+      "image": "https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=6c8dfda336983f7d8e6f8e93e5b384b5"
     },
     {
       "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: TimeoutError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
