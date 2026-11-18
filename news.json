@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-18T23:15:31.005047+00:00",
+  "updated_at": "2026-11-18T23:30:33.887732+00:00",
   "national": [
+    {
+      "title": "Bareskrim Gelar Perkara Kasus Dugaan Makar Terhadap Prabowo Hari Ini",
+      "summary": "Bareskrim Polri akan gelar perkara dugaan makar terhadap Presiden Prabowo Subianto. Penyidik telah menggeledah lokasi terkait dan mengumpulkan bukti.",
+      "url": "https://www.cnnindonesia.com/nasional/20261118192106-12-1428698/bareskrim-gelar-perkara-kasus-dugaan-makar-terhadap-prabowo-hari-ini",
+      "source": "CNN Indonesia",
+      "published": "2026-11-18T23:16:40+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/17/eko-hadi-jalani-sidang-etik-kasus-penyadapan-1794893752261_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Yang Diketahui Sejauh Ini soal Perampasan Aset Selangkah Lagi Jadi UU",
       "summary": "Nasib pembahasan RUU Perampasan Aset segera memasuki babak baru. Rancangan aturan itu telah disepakati dibawa ke paripurna.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-18T23:00:50+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/18/dasco-pimpin-rapat-ruu-perampasan-aset-1794981998419_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Yusril Dorong Usut Dalang Penyadapan, Beber Perkembangan Dugaan Makar",
-      "summary": "Menko Kumham Yusril dorong pengusutan dugaan penyadapan ilegal terhadap Presiden Prabowo. Hari ini Bareskrim akan gelar perkara dugaan makar.",
-      "url": "https://www.cnnindonesia.com/nasional/20261118230843-12-1428754/yusril-dorong-usut-dalang-penyadapan-beber-perkembangan-dugaan-makar",
-      "source": "CNN Indonesia",
-      "published": "2026-11-18T23:00:02+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/03/yusril-ihza-mahendra-tanggapi-kasus-penyadapan-prabowo-1793715255926_169.jpeg?w=360&q=90"
     },
     {
       "title": "Kabakom sebut kepuasan publik terhadap Presiden naik jadi 62 persen",
@@ -27,6 +27,14 @@
     }
   ],
   "international": [
+    {
+      "title": "Trump’s transportation secretary blames contractor for nationwide FAA ground stop – live",
+      "summary": "US transportation secretary Sean Duffy blames contractor L3Harris for national ground stoppage and says ‘this was not identified quick enough’ Sign up for US breaking News email Linked to that, the White House held a briefing call with several reporters today about the wave of tech outages affecting several industries. CNN reported that officials said the administration underscored that what has happened is not as a result of cyber-attacks but due to the “hardening and upgrading of our systems ”, including “systems being patched, hardware being applied” . Per CNN, an official added: “It’s good the American people are focused on the need to upgrade our legacy systems.” Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-18T23:17:31+00:00",
+      "image": "https://i.guim.co.uk/img/media/c68dddfa25517e4a836d6347550de143282f7f6c/434_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=eae9eb60d8f9edc2f0a2052bff9828cf"
+    },
     {
       "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
       "summary": "No state has ever been found guilty by an international court of committing genocide.",
@@ -42,15 +50,11 @@
       "source": "Al Jazeera",
       "published": "2026-11-18T22:56:19+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afe29a7-1795041703.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "GTA 6 bedazzles gamers in Australia with ‘fully lived in, breathable world’",
-      "summary": "Players can renovate houses, fix cars, lift weights and follow the story in Grand Theft Auto VI’s Miami-inspired Vice City Gamers across Australia woke up Thursday morning feeling like Christmas came early, some bleary-eyed from late night sessions on the Playstation, others with grand plans for a weekend foray in Vice City when their day jobs let them loose. Grand Theft Auto VI, more than a decade in the making, is here. And the reviews, mere hours into release, reflect universal acclaim. The game has already vaulted to the top spot on Metacritic’s list of the best games of all time, sitting above 1998’s The Legend of Zelda, Ocarina of Time with an unprecedented 99/100 score. Continue reading...",
-      "url": "https://www.theguardian.com/games/2026/nov/19/gta-6-grand-theft-auto-vi-release-launch-australia-first-to-play-game",
-      "source": "The Guardian",
-      "published": "2026-11-18T22:48:46+00:00",
-      "image": "https://i.guim.co.uk/img/media/e5ce165329932836314e73aaa1608c379bc0f198/570_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=bc6c883bc7739c7c41e75c2a5cdd55f7"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
