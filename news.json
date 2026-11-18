@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-18T11:00:41.304284+00:00",
+  "updated_at": "2026-11-18T11:15:28.528582+00:00",
   "national": [
     {
-      "title": "Mensos Ajak Orang Tua Siswa SRT 1 Brebes Berikrar Tak Akan Mundur",
-      "summary": "Menteri Sosial Saifullah Yusuf mengajak orang tua siswa SRT 1 Brebes berikrar mendukung pendidikan gratis demi memutus kemiskinan melalui pendidikan.",
-      "url": "https://www.cnnindonesia.com/nasional/20261118172050-25-1428652/mensos-ajak-orang-tua-siswa-srt-1-brebes-berikrar-tak-akan-mundur",
+      "title": "Wacana Badak Jawa dipindah, Taman Nasional Alas PurwoBuka Suara",
+      "summary": "Kepala Balai TNAP Probo Wresni Adji menanggapi wacana pemindahan Badak Jawa ke Alas Purwo yang kini mendapat sorotan publik.",
+      "url": "https://www.cnnindonesia.com/nasional/20261118171935-20-1428650/wacana-badak-jawa-dipindah-taman-nasional-alas-purwobuka-suara",
       "source": "CNN Indonesia",
-      "published": "2026-11-18T10:42:52+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/18/kemensos-1794996447162_169.jpeg?w=360&q=90"
+      "published": "2026-11-18T11:07:49+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/18/wacana-badak-jawa-dipindah-tn-alas-purwo-tunggu-instruksi-pusat-1794997587687_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Pria Tewas di Menteng Ternyata Dibunuh Waria, Motif Didalami",
-      "summary": "Seorang pria dibunuh di Menteng, Jakarta Pusat. Pelaku, seorang waria, ditangkap di kawasan Stasiun Bogor siang tadi.",
-      "url": "https://news.detik.com/berita/d-8758878/pria-tewas-di-menteng-ternyata-dibunuh-waria-motif-didalami",
+      "title": "Bejat! Abang Odong-odong di Tangsel Lecehkan Anak Kandung",
+      "summary": "Pria berinisial A yang bekerja sebagai sopir odong-odong ditangkap di Tangerang Selatan. Pelaku ditangkap setelah diduga melecehkan anak kandungnya.",
+      "url": "https://news.detik.com/berita/d-8758946/bejat-abang-odong-odong-di-tangsel-lecehkan-anak-kandung",
       "source": "Detik",
-      "published": "2026-11-18T10:38:25+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/18/seorang-waria-inisial-mb-ditangkap-atas-pembunuhan-pria-di-jalan-sumenep-menteng-jakarta-pusat-1794998277892_169.jpeg?w=360&q=90"
+      "published": "2026-11-18T11:05:23+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2021/06/03/ilustrasi-pelecehan-seksual_169.jpeg?w=360&q=90"
     },
     {
       "title": "Round up - Indonesia gaungkan persatuan kawasan di KTT ke-49 ASEAN",
@@ -32,7 +32,7 @@
       "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up? That is the question the Guardian’s diplomatic correspondent Patrick Wintour seeks to address in his piece about the expected, Putin, Trump and Xi, meeting at Apec on Thursday. It is a truism in diplomacy that if you are not around the table, the risk is that you, or your values, are on the menu and about to be carved up. Many excluded from the summit in Shenzhen, principally Ukraine but also eastern Europe and Baltic countries, Taiwan and even Iran, have reason to be nervous that their sponsors might abandon them in a complex geopolitical trade-off that Putin envisions, and Trump seems to endorse. Continue reading...",
       "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
       "source": "The Guardian",
-      "published": "2026-11-18T10:38:51+00:00",
+      "published": "2026-11-18T11:08:37+00:00",
       "image": "https://i.guim.co.uk/img/media/49986989a15aedf0b1ef64a91c15da5f6cdb5d9c/291_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=3e09a7925f8f2e3ed3b0064291e7e676"
     },
     {
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f32/live/4c690550-e33c-11f1-99b6-a35a62fa4264.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
