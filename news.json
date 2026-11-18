@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T06:45:29.472046+00:00",
+  "updated_at": "2026-11-18T07:00:39.302271+00:00",
   "national": [
     {
       "title": "Dasco Pimpin Rapat Pleno RUU Perampasan Aset di Komisi III DPR",
@@ -18,22 +18,22 @@
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/06/23/wakil-ketua-dpr-ri-sufmi-dasco-ahmad-usai-menghadiri-rakernas-kspsi-di-hotel-acacia-jakarta-pusat-selasa-2362026-1782203011303_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Indonesia terpilih menjadi ketua bersama GFCBCA",
-      "summary": "Kementerian Kebudayaan Republik Indonesia terpilih menjadi salah satu ketua bersama periode 2027–2028 ...",
-      "url": "https://www.antaranews.com/berita/5861695/indonesia-terpilih-menjadi-ketua-bersama-gfcbca",
+      "title": "Presiden Prabowo Subianto tiba di Shenzhen untuk hadiri KTT APEC",
+      "summary": "Presiden Prabowo Subianto tiba di Shenzhen, China, untuk menghadiri Konferensi Tingkat Tinggi (KTT) Kerja Sama Ekonomi ...",
+      "url": "https://www.antaranews.com/berita/5861815/presiden-prabowo-subianto-tiba-di-shenzhen-untuk-hadiri-ktt-apec",
       "source": "ANTARA",
-      "published": "2026-11-18T05:41:57+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/18/IMG_2705.jpeg"
+      "published": "2026-11-18T06:26:39+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/18/IMG_0580.jpg"
     }
   ],
   "international": [
     {
-      "title": "Apec summit live: Xi and Putin start talks; Rubio says Trump serious about meeting Kim Jong-un",
-      "summary": "Summit in Chinese tech hub Shenzhen set to include highly anticipated meeting between Xi, Trump and Putin Shenzhen takes centre stage as Xi sends ‘Chinamaxxing’ message at Apec summit What is Apec? Explained in 30 seconds Yalta became a byword for betrayal. Will Trump, Xi and Putin enact another carve-up? That is the question the Guardian’s diplomatic correspondent Patrick Wintour seeks to address in his piece about the expected, Putin, Trump and Xi, meeting at Apec on Thursday. It is a truism in diplomacy that if you are not around the table, the risk is that you, or your values, are on the menu and about to be carved up. Many excluded from the summit in Shenzhen, principally Ukraine but also eastern Europe and Baltic countries, Taiwan and even Iran, have reason to be nervous that their sponsors might abandon them in a complex geopolitical trade-off that Putin envisions, and Trump seems to endorse. Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/nov/18/apec-summit-live-updates-xi-putin-trump-world-leaders-gather-in-china",
+      "title": "Bikie ‘not surprised’ if he used fake $20,000 souvlaki invoice to pocket thousands on Big Build site, inquiry hears",
+      "summary": "Royal commission sees text message where Bandidos member Joel Leavitt says ‘just make up a quote that hits 20K’ while working on site for CFMEU Get our breaking news email , free app or daily news podcast A Bandidos gang member says it is possible he used a fake $20,000 invoice for souvlaki to pocket thousands of dollars while employed on a Big Build site. The former CFMEU member and bikie Joel Leavitt faced a second day of examination by the royal commission into alleged corruption across Victoria’s construction sector on Wednesday. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/18/bandidos-bikie-joel-leavitt-cfmeu-big-build-inquiry-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-18T06:27:50+00:00",
-      "image": "https://i.guim.co.uk/img/media/589fb27f8f79d948cff721aaf17763911725791b/187_0_2500_2000/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=6c8dfda336983f7d8e6f8e93e5b384b5"
+      "published": "2026-11-18T06:48:28+00:00",
+      "image": "https://i.guim.co.uk/img/media/134ce0b70d626daa9094506188ef9d19140795c2/0_0_1936_1549/master/1936.jpg?width=140&quality=85&auto=format&fit=max&s=d7b62503402128f4eaa81257126c2628"
     },
     {
       "title": "Africa’s economic future cannot depend on Washington",
@@ -44,7 +44,7 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2023/11/33ZV879-Preview-1699273602.jpg?resize=1200%2C630"
     },
     {
-      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
       "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
       "url": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e48/live/58880030-e2d7-11f1-99a1-253766e7ad8b.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
