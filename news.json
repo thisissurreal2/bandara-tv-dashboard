@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T15:30:49.518482+00:00",
+  "updated_at": "2026-11-18T15:45:31.694289+00:00",
   "national": [
     {
       "title": "FOTO: Buka Peluang Kuliah, Siswa Penerima KJP Ikuti Try Out Gratis",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Boy, three, dies after ‘medical emergency’ at Greater Manchester nursery",
-      "summary": "Police are investigating death of child three days after emergency services were called to Cosy Toes nursery in Middleton A three-year-old boy has died after a “medical emergency” at a nursery in Greater Manchester. Emergency services were called to Cosy Toes nursery in Middleton, near Manchester, on the afternoon of 2 November after “reports of a concern for a child”. Continue reading...",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/18/boy-three-dies-medical-emergency-cosy-toes-nursery-middleton-greater-manchester",
-      "source": "The Guardian",
-      "published": "2026-11-18T15:23:16+00:00",
-      "image": "https://i.guim.co.uk/img/media/df327e4e617830e1f697e61146d7a0ce405a03e5/394_204_6434_5148/master/6434.jpg?width=140&quality=85&auto=format&fit=max&s=dacd1373a7fc8d2ae159598d00d5efc8"
+      "title": "Hakeem Jeffries becomes first Black nominee for US House speaker",
+      "summary": "The New York congressman was nominated after Democrats gained control of Congress in the midterm elections.",
+      "url": "https://www.aljazeera.com/news/2026/11/18/hakeem-jeffries-becomes-first-black-nominee-for-us-house-speaker?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-18T15:37:52+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afdb8b185efc-1795012785_7d572c-1795013292.jpg?resize=1200%2C630&quality=80"
     },
     {
-      "title": "What is Iraq’s Jurf al-Sakhar and what is behind gov’t push to control it?",
-      "summary": "Tensions surge between PM al-Zaidi's government and Kataib Hezbollah amid oil-smuggling scandal.",
-      "url": "https://www.aljazeera.com/news/2026/11/18/what-is-iraqs-jurf-al-sakhar-and-what-is-behind-govt-push-to-control-it?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-18T15:00:34+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261117__D7RP8QD__v1__HighRes__IraqIranConflict-1795001391.jpg?resize=1920%2C1440"
+      "title": "House Democrats begin leadership elections, with Hakeem Jeffries poised to clinch speaker nomination – live",
+      "summary": "If elected, Jeffries would become the first Black person to hold the gavel in US history Trump in China for Apec summit – follow live Sign up for US breaking News email Linked to that, the White House held a briefing call with several reporters today about the wave of tech outages affecting several industries. CNN reported that officials said the administration underscored that what has happened is not as a result of cyber-attacks but due to the “hardening and upgrading of our systems ”, including “systems being patched, hardware being applied” . Per CNN, an official added: “It’s good the American people are focused on the need to upgrade our legacy systems.” Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-18T15:27:35+00:00",
+      "image": "https://i.guim.co.uk/img/media/94f3968d43eb5f8f2df2562497da3e35e1acedfd/394_0_3607_2887/master/3607.jpg?width=140&quality=85&auto=format&fit=max&s=f4bab182fae547a69918110ff470d989"
     },
     {
       "title": "Grand Theft Auto 6 is a masterpiece, say critics",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a1/live/fdfec1e0-e2b7-11f1-a094-5fdc692f3e33.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: TimeoutError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
