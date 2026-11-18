@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-18T22:15:25.357184+00:00",
+  "updated_at": "2026-11-18T22:30:35.678109+00:00",
   "national": [
+    {
+      "title": "Warga Bali Temukan Batu yang Diduga Sarkofagus Saat Gali Tanah",
+      "summary": "Warga Karangasem, Bali menemukan batu berbentuk peti yang diduga sarkofagus saat menggali tanah. Temuan bersejarah ini menarik perhatian aparat.",
+      "url": "https://www.cnnindonesia.com/nasional/20261118202923-20-1428729/warga-bali-temukan-batu-yang-diduga-sarkofagus-saat-gali-tanah",
+      "source": "CNN Indonesia",
+      "published": "2026-11-18T22:15:38+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/18/warga-di-karangasem-temukan-batu-yang-diduga-sarkofagus-saat-gali-tanah-1795006703814_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Polisi Gerebek Pasar Obor Jaktim, Temukan 159 Paket Narkoba hingga Samurai",
       "summary": "Tim gabungan TNI, Polri, dan BNNK Jakarta Timur menggerebek Pasar Obor, menemukan ratusan paket narkoba, senjata api rakitan, dan senjata tajam.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-18T21:43:52+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2025/08/13/garis-polisi-1755067397840_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Catatan Buruh KASBI atas UU Pelindungan Naker, Soroti Magang-Pesangon",
-      "summary": "Kongres Aliansi Serikat Buruh Indonesia (KASBI) beri catatan atas UU Pelindungan Naker ke DPR. Soroti magang yang bisa memicu eksploitasi, PKWT, dan pesangon.",
-      "url": "https://www.cnnindonesia.com/nasional/20261118151645-20-1428581/catatan-buruh-kasbi-atas-uu-pelindungan-naker-soroti-magang-pesangon",
-      "source": "CNN Indonesia",
-      "published": "2026-11-18T21:04:43+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/05/01/aksi-may-day-di-surabaya-terpecah-kasbi-dan-mahasiswa-pilih-demo-di-dprd-jatim-1777629083867_169.jpeg?w=360&q=90"
     },
     {
       "title": "Kabakom sebut kepuasan publik terhadap Presiden naik jadi 62 persen",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Waymo pulls driverless taxis from freeways across the US after California ban",
-      "summary": "The autonomous driving company suspended driverless taxi rides on US highways days after California banned the vehicles on its own freeways Waymo has stopped offering driverless taxi rides on freeways across the US indefinitely. The Alphabet subsidiary pulled its vehicles from highways nationwide after California banned them from freeways in response to recent traffic incidents. Waymo had allowed riders to hail its robotaxis for freeway rides in the San Francisco Bay Area, Los Angeles, Phoenix, Miami and Austin. The California-based company offers rides on city streets in many other areas, including Las Vegas, Dallas and Denver. Those rides remain unaffected by suspended freeway service. Continue reading...",
-      "url": "https://www.theguardian.com/technology/2026/nov/18/waymo-pulls-driverless-taxis-us-freeways",
+      "title": "Markwayne Mullin defends move to take government plane to football game amid flight stoppage – US politics live",
+      "summary": "The secretary of homeland security flew to attend a college game Saturday, after thousands of flights were cancelled Sign up for US breaking News email Linked to that, the White House held a briefing call with several reporters today about the wave of tech outages affecting several industries. CNN reported that officials said the administration underscored that what has happened is not as a result of cyber-attacks but due to the “hardening and upgrading of our systems ”, including “systems being patched, hardware being applied” . Per CNN, an official added: “It’s good the American people are focused on the need to upgrade our legacy systems.” Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-18T22:05:49+00:00",
-      "image": "https://i.guim.co.uk/img/media/66a7e1b60127ac32448a1397ea75dab23ebbfddd/451_0_4513_3610/master/4513.jpg?width=140&quality=85&auto=format&fit=max&s=0fdc62ca339323206f1f5d89a2b25b42"
+      "published": "2026-11-18T22:11:06+00:00",
+      "image": "https://i.guim.co.uk/img/media/eedcc9a55e41953e4e591b40cc4dd19f08e9c074/368_0_4743_3795/master/4743.jpg?width=140&quality=85&auto=format&fit=max&s=d55919554ad283a6dea6af077192b393"
     },
     {
       "title": "Iraq sentences six French nationals to life in prison for joining ISIL",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128f/live/04ac0df0-e366-11f1-9f51-4bfc31543510.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
