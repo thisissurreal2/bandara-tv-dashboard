@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T10:45:26.755026+00:00",
+  "updated_at": "2026-11-18T11:00:41.304284+00:00",
   "national": [
     {
       "title": "Mensos Ajak Orang Tua Siswa SRT 1 Brebes Berikrar Tak Akan Mundur",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f32/live/4c690550-e33c-11f1-99b6-a35a62fa4264.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
