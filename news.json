@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T19:45:28.399628+00:00",
+  "updated_at": "2026-11-19T20:00:41.856623+00:00",
   "national": [
     {
       "title": "Golkar Tekankan Wapres Baru Prabowo Harus Punya Legitimasi Kuat",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "‘Welsh can tell any story’: Cymraeg dub of Star Wars premieres in Cardiff",
-      "summary": "Actors Mark Lewis Jones and Osian Morgan, who voiced characters in the dub of the 1977 film, took to the red carpet It has been a memorable few days for Wales. At the weekend, the nation’s rugby team secured a historic win against New Zealand – their first victory over the All Blacks in more than 70 years. Continue reading...",
-      "url": "https://www.theguardian.com/film/2026/nov/19/welsh-cymraeg-dub-star-wars-cardiff",
+      "title": "Howard-era minister Sharman Stone dies via voluntary assisted dying, aged 75",
+      "summary": "The former Liberal MP had fought a long battle against glioblastoma, an aggressive form of brain cancer Former Liberal MP Sharman Stone has died via voluntary assisted dying after spending much of her political career advocating that people should have autonomy over their bodies. Dr Stone died aged 75 on Wednesday surrounded by family after a long fight against glioblastoma, an aggressive form of brain cancer. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/20/howard-era-minister-sharman-stone-dies-via-voluntary-assisted-dying-aged-75",
       "source": "The Guardian",
-      "published": "2026-11-19T19:33:00+00:00",
-      "image": "https://i.guim.co.uk/img/media/3c89e45f43f26e6eced5528e8d14c721506c33e4/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=e7dfe55f9fe5f0ab38d73dfc264261e6"
+      "published": "2026-11-19T19:44:24+00:00",
+      "image": "https://i.guim.co.uk/img/media/0597a7b783b29524050eee8b5879eb87b0390a16/0_0_3030_2424/master/3030.jpg?width=140&quality=85&auto=format&fit=max&s=f11bb8942659bcaec4d8bf7aaa0dc5c4"
     },
     {
       "title": "Blockbuster GTA VI release shows cultural, economic heft of video games",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fd8/live/5c168a90-e44a-11f1-a094-5fdc692f3e33.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
