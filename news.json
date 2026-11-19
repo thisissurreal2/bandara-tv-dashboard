@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-19T06:00:47.602995+00:00",
+  "updated_at": "2026-11-19T06:15:31.133696+00:00",
   "national": [
     {
-      "title": "KPK Kembali Periksa Sestama BNPB Terkait Kasus Korupsi Dana Siap Pakai",
-      "summary": "KPK memeriksa Sestama BNPB Rustian terkait dugaan korupsi dana siap pakai kebencanaan. Lima tersangka telah ditetapkan dalam kasus ini.",
-      "url": "https://www.cnnindonesia.com/nasional/20261119122745-12-1428949/kpk-kembali-periksa-sestama-bnpb-terkait-kasus-korupsi-dana-siap-pakai",
+      "title": "Bareskrim Periksa 59 Orang Kasus Makar Prabowo, Termasuk Listyo Cs",
+      "summary": "Bareskrim Polri memeriksa mantan Kapolri Listyo Sigit Prabowo dan kawan-kawan dalam kasus dugaan makar terhadap Presiden Prabowo Subianto.",
+      "url": "https://www.cnnindonesia.com/nasional/20261119123805-12-1428955/bareskrim-periksa-59-orang-kasus-makar-prabowo-termasuk-listyo-cs",
       "source": "CNN Indonesia",
-      "published": "2026-11-19T05:55:01+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/10/27/sestama-bnpb-irit-bicara-usai-diperiksa-kpk-1793096856888_169.jpeg?w=360&q=90"
+      "published": "2026-11-19T06:12:05+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/03/ahrie-sonta-1793700508343_169.jpeg?w=360&q=90"
     },
     {
       "title": "Gerindra Dukung Kapolri Tuntaskan Dugaan Makar Listyo dkk: Usut yang Diuntungkan",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "‘Remarkable luck’: wreck of first Australian-built warship discovered exactly 128 years after sinking",
-      "summary": "HMCS Spitfire was commissioned by colonial government to protect against Russian warships during the Crimean war The wreck of Australia’s first locally built warship has been discovered 128 years after sinking off the coast of far north Queensland. Marine archaeologists found the remains of Ex HMCS Spitfire on 21 August, the anniversary of its sinking in 1898. Continue reading...",
-      "url": "https://www.theguardian.com/environment/2026/nov/19/first-australian-built-warship-wreck-discovered",
-      "source": "The Guardian",
-      "published": "2026-11-19T05:22:38+00:00",
-      "image": "https://i.guim.co.uk/img/media/9734e9d44f73179fe8d05ffbe6249bf97bea3d45/0_41_1284_1027/master/1284.jpg?width=140&quality=85&auto=format&fit=max&s=18acf2a3b4ca223008562ffff322ec77"
+      "title": "Ecuadorian footballer gets eight-year ban for throwing rock at referee",
+      "summary": "Jhon Perlaza threw a stone that struck an assistant referee, who later required surgery, during a third-tier match.",
+      "url": "https://www.aljazeera.com/sports/2026/11/19/ecuadorian-footballer-gets-eight-year-ban-for-throwing-rock-at-referee?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-19T06:06:23+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-08-09T043731Z_1606379635_MT1USATODAY29546786_RTRMADP_3_NWSL-UTAH-ROYALS-FC-AT-DENVER-SUMMIT-FC-1795067295.jpg?resize=1920%2C1440"
     },
     {
-      "title": "ICJ to rule on Rohingya genocide case against Myanmar: What’s at stake?",
-      "summary": "World court to issue key verdict in its first genocide ruling in more than a decade.",
-      "url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar-whats-at-stake?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-19T05:13:13+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-18T032241Z_525030841_RC23QOASLZPW_RTRMADP_3_MYANMAR-ROHINGYA-WORLD-COURT-1795006680.jpg?resize=1920%2C1440"
+      "title": "Car use in London forecast to rise by 10% in next decade",
+      "summary": "Modelling in draft of 10-year London plan threatens Sadiq Khan’s promises on improving air quality Car use in London will rise by 10% over the next decade with cycling and walking falling as a proportion of trips, according to an official forecast by the city’s mayoralty, putting into doubt Sadiq Khan’s promises on air quality and the environment. Based on projections in the draft version of the latest 10-year London plan , drawn up by the mayor’s office and Transport for London (TfL), road congestion from a growing population would slow buses down, while packed tube services might require stations to close regularly to ease numbers. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/19/car-use-in-london-forecast-to-rise-by-10-in-next-decade",
+      "source": "The Guardian",
+      "published": "2026-11-19T06:00:20+00:00",
+      "image": "https://i.guim.co.uk/img/media/2923a1d980f6a5b8579e7c5bb6a3aef3fb3542d7/1476_591_3344_2674/master/3344.jpg?width=140&quality=85&auto=format&fit=max&s=2ef03e80f735de8cc845927010138bb3"
     },
     {
       "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07ac/live/bcaff6a0-e3cf-11f1-a266-6b47da5e73cc.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
