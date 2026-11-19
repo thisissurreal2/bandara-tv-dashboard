@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-19T04:30:33.454296+00:00",
+  "updated_at": "2026-11-19T04:45:28.580823+00:00",
   "national": [
     {
-      "title": "Mahasiswi Kedokteran Gigi UI Tewas Usai Lompat dari Apartemen Depok",
-      "summary": "Seorang mahasiswi UI ditemukan meninggal dunia diduga bunuh diri dari lantai 12 apartemen di Depok. Keluarga menolak autopsi.",
-      "url": "https://www.cnnindonesia.com/nasional/20261119110102-20-1428908/mahasiswi-kedokteran-gigi-ui-tewas-usai-lompat-dari-apartemen-depok",
+      "title": "Bareskrim Kantongi Fakta dan Bukti Baru di Kasus Makar Prabowo",
+      "summary": "Bareskrim Polri mengungkap fakta dan bukti baru dalam kasus dugaan makar terhadap Prabowo Subianto usai menggeledah rumah Irjen Eko.",
+      "url": "https://www.cnnindonesia.com/nasional/20261119112259-12-1428921/bareskrim-kantongi-fakta-dan-bukti-baru-di-kasus-makar-prabowo",
       "source": "CNN Indonesia",
-      "published": "2026-11-19T04:25:06+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2022/01/13/universitas-indonesia-1_169.jpeg?w=360&q=90"
+      "published": "2026-11-19T04:39:43+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/17/komisi-kode-etik-profesi-kkep-polri-resmi-menjatuhkan-sanksi-pemecatan-tidak-dengan-hormat-ptdh-terhadap-irjen-eko-hadi-santos-1794917590632_169.png?w=360&q=90"
     },
     {
       "title": "Aparat Tertibkan 31 Lubang Tambang Emas Ilegal di Gunung Talaga Bogor",
@@ -28,8 +28,16 @@
   ],
   "international": [
     {
+      "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+      "summary": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
+      "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-19T04:42:52+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07ac/live/bcaff6a0-e3cf-11f1-a266-6b47da5e73cc.jpg"
+    },
+    {
       "title": "General Pants Co enters voluntary administration, putting hundreds of jobs at risk",
-      "summary": "Australian fashion chain becomes latest retailer in trouble after David Jones, Cue and Veronika Maine Get our breaking news email , free app or daily news podcast The youth fashion chain General Pants Co has become the latest major retailer to slide into voluntary administration, putting nearly 500 jobs at risk as Australia’s retail sector continues to struggle with cash-strapped shoppers and online-only competitors. The collapse comes not long after that of upmarket department store David Jones and premium womenswear brands Cue and Veronika Maine, underscoring the mounting toll of tough economic conditions on established retailers. Continue reading...",
+      "summary": "Australian fashion chain becomes latest retailer in trouble after David Jones, Cue and Veronika Maine Get our breaking news email , free app or daily news podcast The youth fashion chain General Pants Co has become the latest major retailer to slide into voluntary administration, putting nearly 500 jobs at risk as Australia’s retail sector continues to struggle with cash-strapped shoppers and online-only competitors. The collapse comes not long after that of the upmarket department store David Jones and premium womenswear brands Cue and Veronika Maine, underscoring the mounting toll of tough economic conditions on established retailers. Continue reading...",
       "url": "https://www.theguardian.com/business/2026/nov/19/general-pants-co-enters-voluntary-administration-jobs-at-risk",
       "source": "The Guardian",
       "published": "2026-11-19T04:10:10+00:00",
@@ -42,15 +50,11 @@
       "source": "Al Jazeera",
       "published": "2026-11-19T03:58:10+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-09-22T174813Z_1898817758_RC2HONA1CO12_RTRMADP_3_HAITI-ASSASSINATION-1795048061.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
-      "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
-      "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-19T02:59:06+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3333/live/c9ef87a0-e3b5-11f1-ac8e-bf9cbaf16b78.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
