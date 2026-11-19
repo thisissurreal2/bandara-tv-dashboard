@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T17:15:39.365594+00:00",
+  "updated_at": "2026-11-19T17:30:33.329630+00:00",
   "national": [
     {
       "title": "Menhut: Pemindahan Badak Jawa Bukan Ide Hashim, tapi Kajian Lama",
@@ -28,32 +28,32 @@
   ],
   "international": [
     {
-      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
-      "summary": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
-      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "title": "Susan Smith denied parole again 32 years after drowning her two sons",
+      "summary": "At a hearing on the possibility of parole, Smith said she wished she could change the past, and her two children \"did not deserve to die\".",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-19T17:03:23+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg"
+      "published": "2026-11-19T17:23:34+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d76c/live/0d6d9ab0-a76f-11ef-a215-2b35ff609397.jpg"
     },
     {
-      "title": "Cap all political donations, not only those from overseas, Burnham told",
-      "summary": "Experts say ‘insanely complex’ £100,000 limit proposed for overseas donors should be replaced by universal cap Andy Burnham is facing calls to commit to a cap on all political donations when the elections bill is in the House of Lords, instead of the “insanely complex” £100,000 limit on overseas donors. It is uncertain whether the £72m worth of donations recently received by Reform UK will be affected. The Labour former home secretary David Blunkett is one of many peers to have tabled an amendment calling for an overall cap, proposing a £500,000 annual limit per donor, with his plan believed to have broad support. Continue reading...",
-      "url": "https://www.theguardian.com/politics/2026/nov/19/andy-burnham-political-donations-cap-overseas-donors-elections",
+      "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
+      "summary": "UK believed to have made concessions on youth mobility scheme as negotiations on wider agreement continue British and EU negotiators have provisionally agreed to allow 100,000 young EU citizens to come to the UK every year under a new mobility scheme, as negotiations on the UK-EU reset talks go “down to the wire”. Tensions in Brussels remained high on Thursday afternoon as ambassadors began a crunch talks on the latest draft of the wider agreement, with sources confirming both sides were still battling over the exact nature of the UK’s role in shaping future European food and farming rules in a second part of the deal. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
       "source": "The Guardian",
-      "published": "2026-11-19T17:01:40+00:00",
-      "image": "https://i.guim.co.uk/img/media/afcace2eaa57d4ac7dadfa329eb234b690964067/214_0_6553_5246/master/6553.jpg?width=140&quality=85&auto=format&fit=max&s=b0c7242d561524b442b3ac89d31b05fa"
+      "published": "2026-11-19T17:19:17+00:00",
+      "image": "https://i.guim.co.uk/img/media/78f4d52aa44fb56369bd027db2731ab2539e3e15/426_0_4300_3440/master/4300.jpg?width=140&quality=85&auto=format&fit=max&s=40b967ab32c7307a2b2a90e3326ee460"
     },
     {
-      "title": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
-      "summary": "The UK premier is heading to Brussels for the second round of EU talks aimed at deepening post-Brexit cooperation.",
-      "url": "https://www.aljazeera.com/news/2026/11/19/as-burnham-heads-to-brussels-are-new-brexit-wars-about-to-begin?traffic_source=rss",
+      "title": "Yemen’s besieged city of Taiz faces a deepening water crisis",
+      "summary": "Fuel shortages and the loss of access to wells have left residents dependent on unsafe water.",
+      "url": "https://www.aljazeera.com/news/2026/11/19/yemens-besieged-city-of-taiz-faces-a-deepening-water-crisis?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-19T15:24:51+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/1-1795101729.jpg?resize=1920%2C1440"
+      "published": "2026-11-19T16:59:38+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aff1b9b-1795103643.jpg?resize=1200%2C675"
     }
   ],
   "feed_warnings": [
-    "Detik: TimeoutError",
+    "Detik: URLError",
     "Detik: no fresh stories",
     "Detik: keeping previous story"
   ]
