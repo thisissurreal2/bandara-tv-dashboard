@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-19T16:00:41.615202+00:00",
+  "updated_at": "2026-11-19T16:15:27.039342+00:00",
   "national": [
+    {
+      "title": "Terima detikcom Awards 2026, Jaksa Agung Soroti Pentingnya Pencegahan Korupsi dari Desa",
+      "summary": "Jaksa Agung Burhanuddin menerima detikcom Awards 2026 sebagai Tokoh Penggerak Perlindungan Masyarakat. Ia menekankan pentingnya.",
+      "url": "https://news.detik.com/berita/d-8761008/terima-detikcom-awards-2026-jaksa-agung-soroti-pentingnya-pencegahan-korupsi-dari-desa",
+      "source": "Detik",
+      "published": "2026-11-19T16:11:18+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/jaksa-agung-st-burhanuddin-1795101071685_169.png?w=360&q=90"
+    },
     {
       "title": "Periksa Lagi Sestama BNPB, KPK Dalami Penunjukan Langsung Proyek DSP",
       "summary": "KPK mendalami pengadaan barang dan jasa di BNPB yang bersumber dari Dana Siap Pakai. Penunjukan langsung diduga menimbulkan konflik kepentingan dan suap.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-19T15:55:08+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/10/27/kpk-periksa-sestama-bnpb-rustian-1793083087083_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Raih detikcom Awards 2026, MenPAN-RB Dedikasikan untuk Para ASN",
-      "summary": "Menteri Rini Widyantini terima detikcom Awards 2026 sebagai Tokoh Transformasi Birokrasi. Ia dedikasikan penghargaan untuk ASN.",
-      "url": "https://news.detik.com/berita/d-8760990/raih-detikcom-awards-2026-menpan-rb-dedikasikan-untuk-para-asn",
-      "source": "Detik",
-      "published": "2026-11-19T15:39:30+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/menteri-pan-rb-rini-widyantini-menerima-detikcom-awards-2026-sebagai-tokoh-transformasi-birokrasi-dan-modernisasi-pelayanan-pu-1795100446527_169.png?w=360&q=90"
     },
     {
       "title": "Kemenko Kumham Imipas rilis rekam jejak koordinasi dengan KemenHAM",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
+      "summary": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or Europe whatsoever. There is only one, rather generic, line that could be seen as close to these issues: “The three heads of state exchanged in-depth views on the current international situation and pledged to maintain strategic stability and international security.” Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-19T16:04:14+00:00",
+      "image": "https://i.guim.co.uk/img/media/6ceea7eb6023208c5115683f885b7124858eb7b0/509_0_3798_3040/master/3798.jpg?width=140&quality=85&auto=format&fit=max&s=e3791646f7d75716c87a31a2230e29df"
+    },
+    {
       "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
       "summary": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people.",
       "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-19T15:52:26+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aab/live/c39b82a0-e419-11f1-b37c-b3a71d7200af.jpg"
-    },
-    {
-      "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
-      "summary": "Xi, Putin and Trump outline priorities that include UN reform, boosting oil supplies and ‘protection of diplomatic immunity’ Apec summit – latest updates China, Russia and the US have said they have agreed a peace statement after an unprecedented trilateral summit, but the declaration made no mention of the wars in Ukraine and Iran triggered by two of the participants. The declaration on Thursday also outlined a set of priorities that included changing the UN, boosting oil supplies and what it said was the protection of diplomatic immunity. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
-      "source": "The Guardian",
-      "published": "2026-11-19T15:50:03+00:00",
-      "image": "https://i.guim.co.uk/img/media/3474c8032549af7447dd4759a18eff0069ccaf84/337_0_3599_2880/master/3599.jpg?width=140&quality=85&auto=format&fit=max&s=f585f4052bb91d864c7d4c81c0dc260e"
     },
     {
       "title": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/1-1795101729.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
