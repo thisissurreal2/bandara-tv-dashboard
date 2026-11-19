@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-19T00:30:36.580429+00:00",
+  "updated_at": "2026-11-19T00:45:28.221920+00:00",
   "national": [
     {
-      "title": "Bachtiar Nasir Hadiri Sidang Kuota Haji, Beri Dukungan Yaqut Cholil",
-      "summary": "Ustaz Bachtiar Nasir hadir di sidang dugaan korupsi kuota haji 2023-2024. Ia memberikan dukungan terhadap mantan Menag Yaqut Cholil Qoumas.",
-      "url": "https://www.cnnindonesia.com/nasional/20261119063903-12-1428779/bachtiar-nasir-hadiri-sidang-kuota-haji-beri-dukungan-yaqut-cholil",
+      "title": "Menerka Sosok Calon Wapres Doyan Makan Pempek",
+      "summary": "Kepala Bakom Syahganda Nainggolan mengungkapkan petunjuk tentang calon wakil presiden pengganti Gibran Rakabuming, yang akan dipilih MPR pada 9 Desember 2026.",
+      "url": "https://www.cnnindonesia.com/nasional/20261119071004-32-1428785/menerka-sosok-calon-wapres-doyan-makan-pempek",
       "source": "CNN Indonesia",
-      "published": "2026-11-19T00:27:51+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2019/05/01/1c2bd8d3-b599-4d3e-9b8a-df85a91cec2e_169.jpeg?w=360&q=90"
+      "published": "2026-11-19T00:33:52+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/10/02/kepala-bakom-syahganda-nainggolan-1790931925207_169.png?w=360&q=90"
     },
     {
       "title": "PSI Dinilai Bukan Lagi Koalisi Pemerintah, Demokrat Bilang Begini",
@@ -28,28 +28,28 @@
   ],
   "international": [
     {
+      "title": "Kenya’s milk shortage deepens as drought hits farmers and pushes up prices",
+      "summary": "Farmers are receiving higher payments but are producing far less milk and also face rising prices for hay.",
+      "url": "https://www.aljazeera.com/news/2026/11/19/kenyas-milk-shortage-deepens-as-drought-hits-farmers-and-pushes-up-prices?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-19T00:40:01+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/IMG-20261113-WA0003-1794826881.jpg?resize=1200%2C630"
+    },
+    {
+      "title": "India's religious make-up - what a new Pew study says about Hindus and Muslims",
+      "summary": "India will remain predominantly Hindu, though its Muslim population is projected to grow faster, according to a new survey.",
+      "url": "https://www.bbc.co.uk/news/articles/cqd01epyrz1do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-19T00:38:52+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fde6/live/889408a0-e250-11f1-ad39-a14279638f62.jpg"
+    },
+    {
       "title": "Trump’s transportation secretary blames contractor for nationwide FAA ground stop – live",
       "summary": "US transportation secretary Sean Duffy blames contractor L3Harris for national ground stoppage and says ‘this was not identified quick enough’ Sign up for US breaking News email Linked to that, the White House held a briefing call with several reporters today about the wave of tech outages affecting several industries. CNN reported that officials said the administration underscored that what has happened is not as a result of cyber-attacks but due to the “hardening and upgrading of our systems ”, including “systems being patched, hardware being applied” . Per CNN, an official added: “It’s good the American people are focused on the need to upgrade our legacy systems.” Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-19T00:04:06+00:00",
+      "published": "2026-11-19T00:37:30+00:00",
       "image": "https://i.guim.co.uk/img/media/c68dddfa25517e4a836d6347550de143282f7f6c/434_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=eae9eb60d8f9edc2f0a2052bff9828cf"
-    },
-    {
-      "title": "Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
-      "summary": "Saudi-led coalition has said it destroyed a missile platform in Saada, Yemen as Iran claims three ships hit mines.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-19T00:01:02+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afe32a94666-1795044009.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Claude-maker Anthropic poised for more than $1.4tn stock market debut",
-      "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
-      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-18T23:44:27+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg"
     }
   ],
   "feed_warnings": [
