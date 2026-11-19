@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-19T05:00:35.264442+00:00",
+  "updated_at": "2026-11-19T05:15:25.761208+00:00",
   "national": [
     {
-      "title": "Buka Pekan Olahraga DWP 2026, Gubernur DKI Siapkan Hadiah Umrah",
-      "summary": "Sebagai bentuk apresiasi, Gubernur Pramono menyiapkan hadiah umrah bagi dua anggota DWP dari kontingen yang meraih juara umum.",
-      "url": "https://www.cnnindonesia.com/nasional/20261119113648-25-1428926/buka-pekan-olahraga-dwp-2026-gubernur-dki-siapkan-hadiah-umrah",
+      "title": "Dasco soal Cawapres Suka Pempek: Saya Suka Gado-Gado, Pempek Juga",
+      "summary": "Wakil Ketua DPR Sufmi Dasco Ahmad mengungkapkan kecintaannya pada makanan Indonesia, termasuk pempek, saat menanggapi isu calon wakil presiden baru.",
+      "url": "https://www.cnnindonesia.com/nasional/20261119115217-32-1428934/dasco-soal-cawapres-suka-pempek-saya-suka-gado-gado-pempek-juga",
       "source": "CNN Indonesia",
-      "published": "2026-11-19T04:59:49+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/19/pemprov-dki-1795063157140_169.png?w=360&q=90"
+      "published": "2026-11-19T05:12:04+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/05/19/dpr-sidak-ke-bursa-efek-1779170138139_169.jpeg?w=360&q=90"
     },
     {
       "title": "Aparat Tertibkan 31 Lubang Tambang Emas Ilegal di Gunung Talaga Bogor",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Hannah Lillith Assadi wins National book award for ‘visionary’ novel Paradiso 17",
-      "summary": "Assadi’s third novel was inspired by the story of her late father, a Palestinian who escaped the Nakba as a child in 1948 Palestinian-Jewish author Hannah Lillith Assadi has won the National book award for fiction, one of the US’s most prestigious literary prizes, for her novel Paradiso 17. Assadi’s third novel is a study of the psychic toll of displacement on migrants, through the tale of a Palestinian man who escaped the Nakba in 1948, when more than 700,000 Palestinians fled or were expelled from their homes by Israel. The story was inspired by her father, Sami Abdul-Fattah Al-Assadi, who fled the Nakba as a child with his family, before studying in Italy and moving to New York. Continue reading...",
-      "url": "https://www.theguardian.com/books/2026/nov/19/hannah-lillith-assadi-paradiso-17-wins-national-book-award",
+      "title": "Meet Phil, the bar-tailed godwit tracked on a 6,800-mile round trip to Siberia",
+      "summary": "Scientists use lightweight tracker to map wading bird’s extraordinary migration from Norfolk to the Arctic and back A bar-tailed godwit called Phil has completed a 6,800-mile journey from Norfolk to Siberia and back again, in the first mapping of the endurance feats of this long-distance migrant. A wading bird not much larger than a pigeon, the bar-tailed godwit is known for making the longest recorded non-stop migratory flight of any bird, with populations that visit Britain spending summers breeding in the Arctic Circle before retreating to the unfrozen wetlands of Britain in winter. Continue reading...",
+      "url": "https://www.theguardian.com/environment/2026/nov/19/phil-bar-tailed-godwit-bird-tracked-round-trip-siberia",
       "source": "The Guardian",
-      "published": "2026-11-19T04:54:13+00:00",
-      "image": "https://i.guim.co.uk/img/media/c895a639cfc6efb8ce42c442067d48110f4aa7ac/541_77_3414_2731/master/3414.jpg?width=140&quality=85&auto=format&fit=max&s=ddb50fe6aaac14a5c845284c0a86e0b8"
+      "published": "2026-11-19T05:01:17+00:00",
+      "image": "https://i.guim.co.uk/img/media/b1707cbf521ed45d381bd675e1b6584aca1dcf76/706_0_4561_3651/master/4561.jpg?width=140&quality=85&auto=format&fit=max&s=c448ea84e4b1e8863b08890c4c38cf5d"
+    },
+    {
+      "title": "Far from Trump-Putin meeting, Europe to count cost of Ukraine’s defence",
+      "summary": "European leaders set to meet in Berlin as Kyiv faces a 25 billion-euro ($27.4bn) financing gap next year.",
+      "url": "https://www.aljazeera.com/news/2026/11/19/far-from-trump-putin-meeting-europe-to-count-cost-of-ukraines-defence?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-19T04:58:36+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aea00fc614b-1793720572_7d4393-1795058540.jpg?resize=1200%2C630&quality=80"
     },
     {
       "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
@@ -42,14 +50,6 @@
       "source": "BBC",
       "published": "2026-11-19T04:42:52+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07ac/live/bcaff6a0-e3cf-11f1-a266-6b47da5e73cc.jpg"
-    },
-    {
-      "title": "Miami court convicts US-Haitian pastor over 2021 assassination of president",
-      "summary": "Prosecutors accused Christian Emmanuel Sanon of seeking to replace then-Haitian President Moise.",
-      "url": "https://www.aljazeera.com/news/2026/11/19/miami-court-convicts-us-haitian-pastor-over-2021-assassination-of-president?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-19T03:58:10+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-09-22T174813Z_1898817758_RC2HONA1CO12_RTRMADP_3_HAITI-ASSASSINATION-1795048061.jpg?resize=1920%2C1440"
     }
   ],
   "feed_warnings": [
