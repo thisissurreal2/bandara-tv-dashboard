@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T23:30:33.806917+00:00",
+  "updated_at": "2026-11-19T23:45:25.186898+00:00",
   "national": [
     {
       "title": "3 Polisi di Sulsel Ditangkap Diduga Terlibat Kasus Narkoba",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
-      "title": "Trump posthumously pardons US baseball legend Pete Rose",
-      "summary": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
-      "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
+      "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
+      "summary": "Fiona, who became an internet star after her premature birth in 2017, \"fought until she couldn’t anymore\", the zoo says.",
+      "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-19T23:18:43+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a82/live/d2560a80-e465-11f1-80e9-fd4d95b40178.jpg"
+      "published": "2026-11-19T23:40:29+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff3b/live/b1a3a370-e464-11f1-99a1-253766e7ad8b.jpg"
     },
     {
-      "title": "Florida to carry out record-breaking 20th execution of the year",
-      "summary": "State to execute man convicted of two counts of first-degree murder while Texas also plans to put a man to death Florida is set Thursday to carry out a record-breaking 20th execution of the year on a man convicted of killing a pregnant woman and her husband during a home invasion, while Texas plans to put a man to death for the killing of a Houston jeweler during a $3.6m diamond heist. Thomas Mitchell Overton, 71, was scheduled to receive a three-drug injection at 6pm at Florida state prison in Raiford. Reinaldo Dennes, 70, was set to receive a lethal injection about an hour later at a prison in Texas and become the ninth person executed by that state this year. The planned executions of the two septuagenarians in one day reflect the ageing of the US death row population. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/19/record-executions-florida-texas",
+      "title": "An elevator, a brick wall and a bathroom: scientists use gravity to send ‘practically unblockable’ message",
+      "summary": "Australian physicists chose to transmit the word ‘gravity’ in binary code through brick wall Get our breaking news email , free app or daily news podcast Australian scientists have used gravity as a means of communication, in a proof-of-concept experiment involving a snail-paced 1950s elevator, a brick wall and a men’s bathroom. Physicists at the University of Queensland have used gravity to transmit a “practically unblockable” message about 70cm through a brick wall, by sending an elevator up and down between two floors and measuring changes in the gravitational field as a result of the movement. Continue reading...",
+      "url": "https://www.theguardian.com/science/2026/nov/20/scientists-communicate-using-gravity-elevator-brick-wall-bathroom-experiment",
       "source": "The Guardian",
-      "published": "2026-11-19T23:15:42+00:00",
-      "image": "https://i.guim.co.uk/img/media/771869bb6b1810b72d1b81dbb1582b586b47ca11/622_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=a5885394d872d2e91993c94d0a68d706"
+      "published": "2026-11-19T23:30:26+00:00",
+      "image": "https://i.guim.co.uk/img/media/9c8e312834f5121b01c6908ad465910f3ea52394/81_0_800_640/master/800.jpg?width=140&quality=85&auto=format&fit=max&s=c4f4272c390dc53f69e1f5e940abdde3"
     },
     {
-      "title": "Mosque torched in Israel sparks political backlash against Netanyahu",
-      "summary": "A mosque in al-Dahi, a Palestinian Arab village in northern Israel, was set on fire in a suspected arson attack.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_mosque-torched-in-israel-sparks-political-backlash-191126?traffic_source=rss",
+      "title": "Six killed in suspected gas explosion at Georgia apartment building",
+      "summary": "Georgian Interior Minister Sulkhan Tamazashvili said rescuers had recovered six bodies from the wreckage.",
+      "url": "https://www.aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-19T22:58:48+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795129120.jpg?resize=1920%2C1080&quality=80"
+      "published": "2026-11-19T23:09:48+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261119__D7ZP3JR__v2__HighRes__GeorgiaAccidentGasExplosion-1795124833.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
