@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T18:00:48.780783+00:00",
+  "updated_at": "2026-11-19T18:15:26.369878+00:00",
   "national": [
     {
       "title": "2 Orang Hanyut Terseret Banjir Bandang Cisimeut Ternyata Warga Baduy",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Jimmy Dimly is back and we should treasure him while we can | John Crace",
-      "summary": "Old-school Tory with a heart wants to make London fun again – just don’t mention Brexit Tories select James Cleverly as candidate for London mayor Sooner or later, Sadiq Khan’s luck was bound to run out. Or was it? When he first stood for London mayor in 2016, the Tory candidate was Zac Goldsmith, who was accused of running a racist campaign. Not the brightest move in one of the most multicultural cities in Europe. Not to be outdone, four years later the Conservatives chose the completely anonymous Shaun Bailey. Even Shaun wasn’t sure who Shaun was. Especially when he was quite sure he could have sworn he wasn’t the Shaun Bailey who had an apparent Christmas party during lockdown, which he said “turned into something once I left”. As if to prove it wasn’t an accident that they had previously fielded the worst candidates possible, the Tories came up with Susan Hall in 2024 . A politician who makes Liz Truss look accomplished. Her campaign was one of the most joyous imaginable. A wild ride of one idiotic speech to the next. You kept thinking the Conservatives must be having a laugh and would unveil their serious candidate. Only they never did. The only votes she got were from those who had never heard her speak. The Tories would have done better if they had put up a turnip. Continue reading...",
-      "url": "https://www.theguardian.com/politics/2026/nov/19/james-cleverly-london-mayor-john-crace-sketch",
+      "title": "Ukraine allies warn ‘Yalta format’ will not bring about peace – Europe live",
+      "summary": "Berlin meeting of the ‘coalition of the willing’ comes after Trump declared Putin a ‘friend’ during trilateral meeting with Xi in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or Europe whatsoever. There is only one, rather generic, line that could be seen as close to these issues: “The three heads of state exchanged in-depth views on the current international situation and pledged to maintain strategic stability and international security.” Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-19T17:54:48+00:00",
-      "image": "https://i.guim.co.uk/img/media/ca1f1aed0ae22e539ea1748d91c405eae550b667/469_0_4688_3751/master/4688.jpg?width=140&quality=85&auto=format&fit=max&s=7642f3fc59b2fc13a8208c5f861afcec"
+      "published": "2026-11-19T18:03:54+00:00",
+      "image": "https://i.guim.co.uk/img/media/fead956d348558bd5d8167bb8812f2aaa84469d6/921_0_5583_4467/master/5583.jpg?width=140&quality=85&auto=format&fit=max&s=1e87467591089622f97621c8ab77fd0e"
+    },
+    {
+      "title": "China’s Xi urges US and Russia to join forces to safeguard world peace",
+      "summary": "Chinese President Xi urged US President Trump and Russian President Putin to work with China to safeguard world peace.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_chinas-xi-urges-us-and-russia-for-world-peace-191126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-19T17:50:21+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795110597.jpg?resize=1920%2C1080&quality=80"
     },
     {
       "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
@@ -42,15 +50,11 @@
       "source": "BBC",
       "published": "2026-11-19T17:38:22+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1107/live/91612f50-e42e-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "title": "‘Not an acquittal’: After impeachment vote, Hegseth still under microscope",
-      "summary": "A week after a fizzled impeachment bid, analysts say Hegseth continues to face backlash for his leadership at Pentagon.",
-      "url": "https://www.aljazeera.com/news/2026/11/19/not-an-acquittal-after-impeachment-vote-hegseth-still-under-microscope?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-19T17:15:30+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afd67b86b20-1794992056.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
