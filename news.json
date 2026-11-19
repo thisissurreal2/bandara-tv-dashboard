@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-19T11:00:37.433996+00:00",
+  "updated_at": "2026-11-19T11:15:29.402570+00:00",
   "national": [
     {
-      "title": "DPRD Jateng Dorong Penguatan Rehabilitasi Lahan Kritis Lewat Raperda",
-      "summary": "Komisi B DPRD Jateng matangkan Raperda rehabilitasi lahan kritis. Diskusi dengan DLH Sragen fokus pada penguatan program dan partisipasi masyarakat.",
-      "url": "https://news.detik.com/bangun-indonesia/d-8760500/dprd-jateng-dorong-penguatan-rehabilitasi-lahan-kritis-lewat-raperda",
-      "source": "Detik",
-      "published": "2026-11-19T10:58:08+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/dprd-jateng-1795085872782_169.jpeg?w=360&q=90"
+      "title": "Tim Ad Hoc Siapkan Skema Andai 1 dari 2 Cawapres Usulan Prabowo Mundur",
+      "summary": "Ketua Tim Ad Hoc mulai bahas skema pemilihan wapres pengganti Gibran. Rapat perdana fokus pada mekanisme dan penetapan calon.",
+      "url": "https://www.cnnindonesia.com/nasional/20261119174308-32-1429120/tim-ad-hoc-siapkan-skema-andai-1-dari-2-cawapres-usulan-prabowo-mundur",
+      "source": "CNN Indonesia",
+      "published": "2026-11-19T11:12:25+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/19/dpr-setujui-ruu-perampasan-aset-menjadi-undang-undang-1795070083598_169.jpeg?w=360&q=90"
     },
     {
-      "title": "DKPP Gabung Sidang Empat Kasus Etik Anggota KPU Terkait Pasal Gibran",
-      "summary": "DKPP menggabungkan pemeriksaan empat perkara dugaan pelanggaran Kode Etik Penyelenggara Pemilu terkait \"Pasal Gibran\" dalam satu sidang.",
-      "url": "https://www.cnnindonesia.com/nasional/20261119172005-12-1429109/dkpp-gabung-sidang-empat-kasus-etik-anggota-kpu-terkait-pasal-gibran",
-      "source": "CNN Indonesia",
-      "published": "2026-11-19T10:57:27+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2024/07/03/dkpp-berhentikan-ketua-kpu-hasyim-asyari-1_169.jpeg?w=360&q=90"
+      "title": "Asik Main Ponsel Sambil Jalan Kaki, Wanita di Jaksel Dijambret",
+      "summary": "Sebuah video menunjukkan aksi penjambretan ponsel di Jagakarsa, Jakarta Selatan. Korbannya seorang wanita yang asyik main ponsel sambil jalan kaki.",
+      "url": "https://news.detik.com/berita/d-8760527/asik-main-ponsel-sambil-jalan-kaki-wanita-di-jaksel-dijambret",
+      "source": "Detik",
+      "published": "2026-11-19T11:06:39+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2019/04/05/4cb6a80b-7775-475a-812b-da08c345b7c0_169.jpeg?w=360&q=90"
     },
     {
       "title": "Sjafrie dan Pimpinan DPR bahas arah baru UU Pertahanan Negara",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Anthropic raises $81bn in record-breaking stock market debut",
-      "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
-      "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-19T10:48:04+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg"
-    },
-    {
       "title": "Tusk appears to mock Trump’s Putin comment as Ukraine’s allies meet in Berlin – Europe live",
-      "summary": "After US president called Putin a friend, Poland’s PM said: ‘God, protect us from such friends’ EU ministers are also getting some questions about tomorrow’s EU-UK summit, 10 years on from Britain’s vote to leave the bloc. Ireland’s EU minister Thomas Byrne said the main areas to be discussed on Friday “will have very significant benefits” for all parties, with the sanitary and phytosanitary agreement set to resolve “one of the biggest problems out of Brexit.” “I would encourage everyone to think seriously about the benefits of being in the EU, … and I think the people of the UK see it [too], now that they are outside the union.” Continue reading...",
+      "summary": "After US president called Putin a friend, Poland’s PM said: ‘God, protect us from such friends’ For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or Europe whatsoever. There is only one, rather generic, line that could be seen as close to these issues: “The three heads of state exchanged in-depth views on the current international situation and pledged to maintain strategic stability and international security.” Continue reading...",
       "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-19T10:47:25+00:00",
+      "published": "2026-11-19T11:09:58+00:00",
       "image": "https://i.guim.co.uk/img/media/194326eb18d0979185a01324bf8eb4f154a041d2/270_0_4520_3616/master/4520.jpg?width=140&quality=85&auto=format&fit=max&s=c1721f1dbbf726d5a03787329704a58d"
+    },
+    {
+      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+      "summary": "Hamas condemned the incursion, which the Israeli military said was to dismantle a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-19T11:07:37+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg"
     },
     {
       "title": "FIFA confirms Diallo, Tashima as Infantino’s challengers at 2027 election",
