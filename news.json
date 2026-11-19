@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-19T02:00:47.912284+00:00",
+  "updated_at": "2026-11-19T02:15:24.813887+00:00",
   "national": [
     {
-      "title": "Gerindra: Prabowo Bakal Serahkan Langsung 2 Nama Cawapres ke MPR",
-      "summary": "Juru Bicara Partai Gerindra Bahtra Banong menyatakan Presiden Prabowo Subianto akan menyerahkan langsung surat berisi dua nama Cawapres ke MPR.",
-      "url": "https://www.cnnindonesia.com/nasional/20261119083909-32-1428831/gerindra-prabowo-bakal-serahkan-langsung-2-nama-cawapres-ke-mpr",
+      "title": "RUU Perampasan Aset Atur Pembentukan Badan Pengelola Aset Rampasan",
+      "summary": "Wakil Ketua Panja RUU Perampasan Aset, Soedeson Tandra, menjelaskan RUU Perampasan Aset akan atur pembentukan Badan Pengelola Aset Rampasan.",
+      "url": "https://www.cnnindonesia.com/nasional/20261119075430-32-1428815/ruu-perampasan-aset-atur-pembentukan-badan-pengelola-aset-rampasan",
       "source": "CNN Indonesia",
-      "published": "2026-11-19T01:56:47+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/08/14/pidato-presiden-prabowo-pada-sidang-tahunan-mpr-1786679451131_169.jpeg?w=360&q=90"
+      "published": "2026-11-19T02:03:57+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/10/28/rdpu-komisi-iii-dengan-advokat-bahas-ruu-perampasan-aset-1793167789888_169.jpeg?w=360&q=90"
     },
     {
       "title": "Mardani PKS: Wajar Kalau Ada yang Menganggap PSI Bukan Koalisi Lagi",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
+      "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump.",
+      "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-19T01:56:28+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3333/live/c9ef87a0-e3b5-11f1-ac8e-bf9cbaf16b78.jpg"
+    },
+    {
       "title": "Hegseth unveils new US-Venezuela military deal",
       "summary": "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro.",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
@@ -42,15 +50,11 @@
       "source": "The Guardian",
       "published": "2026-11-19T01:46:21+00:00",
       "image": "https://i.guim.co.uk/img/media/7d56f8d844b5cf5df1e5f586bc7ca3b43c5984d0/0_0_2497_1997/master/2497.jpg?width=140&quality=85&auto=format&fit=max&s=4eb8e029850f2e5e28dac2de2696cd1d"
-    },
-    {
-      "title": "Crimean Bridge attacked again, Russian official says",
-      "summary": "The head of Crimea said traffic was suspended after another attack on the link between Russia and the occupied territory.",
-      "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-19T01:05:03+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
