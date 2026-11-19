@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-19T23:15:34.307522+00:00",
+  "updated_at": "2026-11-19T23:30:33.806917+00:00",
   "national": [
+    {
+      "title": "3 Polisi di Sulsel Ditangkap Diduga Terlibat Kasus Narkoba",
+      "summary": "Kapolda Sulsel, Irjen Pol Awal Chairuddin, menegaskan tidak akan melindungi anggota polisi terlibat narkoba.",
+      "url": "https://www.cnnindonesia.com/nasional/20261120034429-12-1429225/3-polisi-di-sulsel-ditangkap-diduga-terlibat-kasus-narkoba",
+      "source": "CNN Indonesia",
+      "published": "2026-11-19T23:25:06+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2020/07/24/ilustrasi-narkoba_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Duduk Perkara Pengamen Ondel-ondel di Tangerang Dibunuh Rekannya",
       "summary": "Warga Kota Tangerang dihebohkan penemuan mayat pria di pinggir Jalan Tol Tangerang-Jakarta. Setelah diselidiki, korban diketahui merupakan pengamen ondel-ondel.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-19T23:11:06+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/pengamen-ondel-ondel-ditemukan-tewas-di-pinggir-tol-tangerang-jakarta-1795062815132_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Update Terbaru Wacana Pemindahan Badak Jawa dari Ujung Kulon",
-      "summary": "Kemenhut nyatakan rencana pemindahan badak jawa dari Ujung Kulon sudah ada sejak lama, namun dipastikan menunggu kajian ilmiah. Berikut updatenya:",
-      "url": "https://www.cnnindonesia.com/nasional/20261120040517-20-1429228/update-terbaru-wacana-pemindahan-badak-jawa-dari-ujung-kulon",
-      "source": "CNN Indonesia",
-      "published": "2026-11-19T23:00:00+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/02/05/momen-langka-induk-dan-anakan-badak-jawa-terekam-di-tn-ujung-kulon-1770246469633_169.jpeg?w=360&q=90"
     },
     {
       "title": "Indonesia kembali hadapi Slovenia setelah 22 tahun di playoff BJK Cup",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "California probing whether China improperly acquired Nvidia technology",
-      "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
-      "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_medium=RSS&at_campaign=rss",
+      "title": "Trump posthumously pardons US baseball legend Pete Rose",
+      "summary": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
+      "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-19T23:04:30+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b75/live/e227dc20-e46c-11f1-950d-9b3226707024.jpg"
+      "published": "2026-11-19T23:18:43+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a82/live/d2560a80-e465-11f1-80e9-fd4d95b40178.jpg"
+    },
+    {
+      "title": "Florida to carry out record-breaking 20th execution of the year",
+      "summary": "State to execute man convicted of two counts of first-degree murder while Texas also plans to put a man to death Florida is set Thursday to carry out a record-breaking 20th execution of the year on a man convicted of killing a pregnant woman and her husband during a home invasion, while Texas plans to put a man to death for the killing of a Houston jeweler during a $3.6m diamond heist. Thomas Mitchell Overton, 71, was scheduled to receive a three-drug injection at 6pm at Florida state prison in Raiford. Reinaldo Dennes, 70, was set to receive a lethal injection about an hour later at a prison in Texas and become the ninth person executed by that state this year. The planned executions of the two septuagenarians in one day reflect the ageing of the US death row population. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/19/record-executions-florida-texas",
+      "source": "The Guardian",
+      "published": "2026-11-19T23:15:42+00:00",
+      "image": "https://i.guim.co.uk/img/media/771869bb6b1810b72d1b81dbb1582b586b47ca11/622_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=a5885394d872d2e91993c94d0a68d706"
     },
     {
       "title": "Mosque torched in Israel sparks political backlash against Netanyahu",
@@ -42,14 +50,6 @@
       "source": "Al Jazeera",
       "published": "2026-11-19T22:58:48+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795129120.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "title": "California’s top lawyer subpoenas Nvidia over Jensen Huang’s affair with suspected Chinese spy – live",
-      "summary": "State’s attorney general Rob Bonta says ‘conduct of Nvidia and its former CEO raises bright red flags’ as he opens investigation Sign up for the Breaking News US email The National Security Agency is seeing a third day of disruptions to its internal network, NSA Net, which allows staff to share highly classified information with each other , according to the New York Times. The Times reports that employees at the NSA’s Maryland headquarters are under “code orange” for Thursday day shift, which requires non-essential workers are to stay home unless contacted by their supervisors. A secret, closed-door election: Unlike the public speaker of the House vote, where lawmakers cast ballots on the chamber floor, the Senate leadership contest takes place behind closed doors. Senators vote by secret ballot, and individual votes are not disclosed. The winner only needs a caucus majority: The Democratic leadership race is decided solely by members of the party’s Senate caucus. Now that Democrats are set to have 56 seats in the new year, the winner will need secure 29 votes for the top role. The vote is scheduled for next month: As things stand, the election is set for 1 December . Both incumbent senators and incoming Democratic members will participate, while retiring and outgoing senators will not vote, despite many having publicly weighed in on the race. Republicans choose their leaders separately: Republicans hold their own closed-door leadership elections in both chambers. Earlier this month, House Republicans selected hardliner Jim Jordan as their leader after Mike Johnson opted not to run for minority leader. In the Senate, Republicans unanimously backed John Thune to continue leading the conference. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-19T22:50:57+00:00",
-      "image": "https://i.guim.co.uk/img/media/391d995652b1403757a6c32be91df37059cee00e/298_0_2975_2380/master/2975.jpg?width=140&quality=85&auto=format&fit=max&s=c5876a95b1c70551c14f01e06a36bd87"
     }
   ],
   "feed_warnings": []
