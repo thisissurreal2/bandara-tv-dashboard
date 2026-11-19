@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-19T02:30:34.871721+00:00",
+  "updated_at": "2026-11-19T02:45:28.227559+00:00",
   "national": [
     {
-      "title": "Tak Cuma di Cipete, Bareskrim Sebut Ada Posko Lain di Kasus Makar",
-      "summary": "Bareskrim ungkap dugaan tindak pidana makar terhadap Prabowo. Beberapa posko telah digeledah, empat jenderal aktif jadi tersangka.",
-      "url": "https://www.cnnindonesia.com/nasional/20261119090542-12-1428839/tak-cuma-di-cipete-bareskrim-sebut-ada-posko-lain-di-kasus-makar",
+      "title": "Aturan Baru Sidang Etik: Listyo Bisa Diadili oleh Pangkat Lebih Rendah",
+      "summary": "Aturan baru kini memperbolehkan anggota majelis KKEP memiliki pangkat maksimal dua tingkat di bawah pangkat terduga pelanggar.",
+      "url": "https://www.cnnindonesia.com/nasional/20261119085323-12-1428838/aturan-baru-sidang-etik-listyo-bisa-diadili-oleh-pangkat-lebih-rendah",
       "source": "CNN Indonesia",
-      "published": "2026-11-19T02:24:26+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/03/ahrie-sonta-1793700508343_169.jpeg?w=360&q=90"
+      "published": "2026-11-19T02:37:19+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/10/01/kapolri-jenderal-listyo-sigit-prabowo-didampingi-istri-tiba-di-istana-negara-1790836429742_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Mardani PKS: Wajar Kalau Ada yang Menganggap PSI Bukan Koalisi Lagi",
-      "summary": "Ketua DPP PKS Mardani Ali Sera menanggapi pernyataan PSI bukan lagi bagian koalisi. Begini penilaian Mardani.",
-      "url": "https://news.detik.com/berita/d-8759492/mardani-pks-wajar-kalau-ada-yang-menganggap-psi-bukan-koalisi-lagi",
+      "title": "Menkum Dorong Produk Indikasi Geografis Jadi Daya Tarik Wisata",
+      "summary": "Menkum Supratman meluncurkan GI Tourism Indonesia di Wonosobo, mengintegrasikan indikasi geografis dengan pariwisata untuk meningkatkan ekonomi.",
+      "url": "https://news.detik.com/berita/d-8759534/menkum-dorong-produk-indikasi-geografis-jadi-daya-tarik-wisata",
       "source": "Detik",
-      "published": "2026-11-19T01:52:31+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2021/12/24/mardani-ali-sera-screenshot-video-mardani-ali-sera_169.jpeg?w=360&q=90"
+      "published": "2026-11-19T02:34:46+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/menkum-dorong-produk-indikasi-geografis-jadi-daya-tarik-wisata-1795055770732.jpeg?w=360&q=90"
     },
     {
       "title": "Putin dan Prabowo bahas isu bilateral usai jamuan makan KTT APEC",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Trump downplays US outages and Nvidia security concerns in remarks before China summit – live",
-      "summary": "Asked by Fox News about China’s alleged spying operation, president says: ‘We spy on them too. I think we spy better than they do’ Sign up for US breaking News email Linked to that, the White House held a briefing call with several reporters today about the wave of tech outages affecting several industries. CNN reported that officials said the administration underscored that what has happened is not as a result of cyber-attacks but due to the “hardening and upgrading of our systems ”, including “systems being patched, hardware being applied” . Per CNN, an official added: “It’s good the American people are focused on the need to upgrade our legacy systems.” Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+      "title": "One Nation’s general manager takes leave amid speculation he will be sidelined after leaks and vetting scandals",
+      "summary": "Exclusive: Kelvin Morton was hired in February in appointment heralded as turning point for professionalisation of party Get our daily political email , free app or daily news podcast One Nation’s general manager, Kelvin Morton, has taken leave amid speculation that he will be sidelined from his role after a series of leaks about internal party processes and vetting scandals. Morton’s leave, confirmed by several One Nation sources unauthorised to comment publicly, comes as the federal party finalises its pre-selection process for the federal election. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/19/one-nation-general-manager-takes-leave-amid-sidelining-speculation-politics-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-19T02:22:50+00:00",
-      "image": "https://i.guim.co.uk/img/media/f837a0e71abfc6b175a106e74b7d986199348ce2/712_0_3621_2898/master/3621.jpg?width=140&quality=85&auto=format&fit=max&s=52b073360cb78c8261904cd31199a12d"
+      "published": "2026-11-19T02:36:37+00:00",
+      "image": "https://i.guim.co.uk/img/media/fc7bad15212bc92a35ac3e130045daf1a4822d57/163_0_1218_974/master/1218.jpg?width=140&quality=85&auto=format&fit=max&s=37dbdc51850210108cc31a4e128fc0f8"
     },
     {
       "title": "Claude-maker Anthropic poised for stock market debut worth up to $1.5tn",
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afe3a5d4d3b-1795045981.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
