@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T18:30:33.641632+00:00",
+  "updated_at": "2026-11-19T18:45:28.884406+00:00",
   "national": [
     {
       "title": "KPK Cecar Sestama BNPB Soal Plotting Anggaran Dana Bencana ke Swasta",
@@ -36,12 +36,12 @@
       "image": "https://i.guim.co.uk/img/media/db18ebe4103eae5dfb0e7d876476a76eb0ed8a95/429_0_4241_3394/master/4241.jpg?width=140&quality=85&auto=format&fit=max&s=1f074f25f455bf8d1336f51eac51404c"
     },
     {
-      "title": "China’s Xi urges US and Russia to join forces to safeguard world peace",
-      "summary": "Chinese President Xi urged US President Trump and Russian President Putin to work with China to safeguard world peace.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/aje-onl-nf_chinas-xi-urges-us-and-russia-for-world-peace-191126?traffic_source=rss",
+      "title": "Iraq reaches compromise with Kataib Hezbollah over armed group stronghold",
+      "summary": "The compromise reached will station forces that include brigades from the Popular Mobilisation Forces.",
+      "url": "https://www.aljazeera.com/news/2026/11/19/iraq-reaches-compromise-with-kataib-hezbollah-over-armed-group-stronghold?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-19T17:50:21+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795110597.jpg?resize=1920%2C1080&quality=80"
+      "published": "2026-11-19T18:16:09+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afdf090-1795027088.jpg?resize=1920%2C1440"
     },
     {
       "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
@@ -49,8 +49,12 @@
       "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-19T17:38:22+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1107/live/91612f50-e42e-11f1-99a1-253766e7ad8b.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c4/live/c36d8970-e448-11f1-a094-5fdc692f3e33.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
