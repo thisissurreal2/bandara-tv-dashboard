@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T20:15:25.612810+00:00",
+  "updated_at": "2026-11-19T20:30:35.521974+00:00",
   "national": [
     {
       "title": "DPN Kumpulkan BSSN dan TNI-Polri, Bahas Tata Kelola Penyadapan",
@@ -29,7 +29,7 @@
   "international": [
     {
       "title": "Grand Theft Auto fans skip work and pull all-nighters to play new instalment",
-      "summary": "Hotly anticipated Bonnie and Clyde-inspired adventure GTA VI has gamers glued to their screens around the world Grand Theft Auto fans around the world pulled all-nighters, skipped work and school and attended overnight launch parties to vicariously embark on police chases and coordinate robberies as the latest instalment of the eagerly anticipated series arrived. GTA VI, a Bonnie and Clyde-inspired crime adventure game set in the fictional US state of Leonida, was launched at midnight on Wednesday after a 13-year wait. Continue reading...",
+      "summary": "Hotly anticipated Bonnie and Clyde-inspired adventure GTA VI has gamers glued to their screens around the world Grand Theft Auto fans around the world pulled all-nighters, skipped work and school, and attended overnight launch parties to vicariously embark on police chases and coordinate robberies as the latest instalment of the eagerly anticipated series arrived. GTA VI, a Bonnie and Clyde-inspired crime adventure game set in the fictional US state of Leonida, was launched at midnight on Wednesday after a 13-year wait. Continue reading...",
       "url": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-six-fans-skip-work-pull-all-nighters",
       "source": "The Guardian",
       "published": "2026-11-19T20:07:23+00:00",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aff3853-1795110995.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
