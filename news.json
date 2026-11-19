@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-19T04:45:28.580823+00:00",
+  "updated_at": "2026-11-19T05:00:35.264442+00:00",
   "national": [
     {
-      "title": "Bareskrim Kantongi Fakta dan Bukti Baru di Kasus Makar Prabowo",
-      "summary": "Bareskrim Polri mengungkap fakta dan bukti baru dalam kasus dugaan makar terhadap Prabowo Subianto usai menggeledah rumah Irjen Eko.",
-      "url": "https://www.cnnindonesia.com/nasional/20261119112259-12-1428921/bareskrim-kantongi-fakta-dan-bukti-baru-di-kasus-makar-prabowo",
+      "title": "Buka Pekan Olahraga DWP 2026, Gubernur DKI Siapkan Hadiah Umrah",
+      "summary": "Sebagai bentuk apresiasi, Gubernur Pramono menyiapkan hadiah umrah bagi dua anggota DWP dari kontingen yang meraih juara umum.",
+      "url": "https://www.cnnindonesia.com/nasional/20261119113648-25-1428926/buka-pekan-olahraga-dwp-2026-gubernur-dki-siapkan-hadiah-umrah",
       "source": "CNN Indonesia",
-      "published": "2026-11-19T04:39:43+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/17/komisi-kode-etik-profesi-kkep-polri-resmi-menjatuhkan-sanksi-pemecatan-tidak-dengan-hormat-ptdh-terhadap-irjen-eko-hadi-santos-1794917590632_169.png?w=360&q=90"
+      "published": "2026-11-19T04:59:49+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/19/pemprov-dki-1795063157140_169.png?w=360&q=90"
     },
     {
       "title": "Aparat Tertibkan 31 Lubang Tambang Emas Ilegal di Gunung Talaga Bogor",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Hannah Lillith Assadi wins National book award for ‘visionary’ novel Paradiso 17",
+      "summary": "Assadi’s third novel was inspired by the story of her late father, a Palestinian who escaped the Nakba as a child in 1948 Palestinian-Jewish author Hannah Lillith Assadi has won the National book award for fiction, one of the US’s most prestigious literary prizes, for her novel Paradiso 17. Assadi’s third novel is a study of the psychic toll of displacement on migrants, through the tale of a Palestinian man who escaped the Nakba in 1948, when more than 700,000 Palestinians fled or were expelled from their homes by Israel. The story was inspired by her father, Sami Abdul-Fattah Al-Assadi, who fled the Nakba as a child with his family, before studying in Italy and moving to New York. Continue reading...",
+      "url": "https://www.theguardian.com/books/2026/nov/19/hannah-lillith-assadi-paradiso-17-wins-national-book-award",
+      "source": "The Guardian",
+      "published": "2026-11-19T04:54:13+00:00",
+      "image": "https://i.guim.co.uk/img/media/c895a639cfc6efb8ce42c442067d48110f4aa7ac/541_77_3414_2731/master/3414.jpg?width=140&quality=85&auto=format&fit=max&s=ddb50fe6aaac14a5c845284c0a86e0b8"
+    },
+    {
       "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
       "summary": "The meeting comes with challenges as there are things Xi does not appear keen to discuss with Putin and Trump.",
       "url": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-19T04:42:52+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07ac/live/bcaff6a0-e3cf-11f1-a266-6b47da5e73cc.jpg"
-    },
-    {
-      "title": "General Pants Co enters voluntary administration, putting hundreds of jobs at risk",
-      "summary": "Australian fashion chain becomes latest retailer in trouble after David Jones, Cue and Veronika Maine Get our breaking news email , free app or daily news podcast The youth fashion chain General Pants Co has become the latest major retailer to slide into voluntary administration, putting nearly 500 jobs at risk as Australia’s retail sector continues to struggle with cash-strapped shoppers and online-only competitors. The collapse comes not long after that of the upmarket department store David Jones and premium womenswear brands Cue and Veronika Maine, underscoring the mounting toll of tough economic conditions on established retailers. Continue reading...",
-      "url": "https://www.theguardian.com/business/2026/nov/19/general-pants-co-enters-voluntary-administration-jobs-at-risk",
-      "source": "The Guardian",
-      "published": "2026-11-19T04:10:10+00:00",
-      "image": "https://i.guim.co.uk/img/media/7d56f8d844b5cf5df1e5f586bc7ca3b43c5984d0/0_0_2497_1997/master/2497.jpg?width=140&quality=85&auto=format&fit=max&s=4eb8e029850f2e5e28dac2de2696cd1d"
     },
     {
       "title": "Miami court convicts US-Haitian pastor over 2021 assassination of president",
@@ -53,7 +53,7 @@
     }
   ],
   "feed_warnings": [
-    "Detik: URLError",
+    "Detik: TimeoutError",
     "Detik: no fresh stories",
     "Detik: keeping previous story"
   ]
