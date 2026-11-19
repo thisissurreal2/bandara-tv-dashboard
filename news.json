@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-19T15:45:28.998732+00:00",
+  "updated_at": "2026-11-19T16:00:41.615202+00:00",
   "national": [
+    {
+      "title": "Periksa Lagi Sestama BNPB, KPK Dalami Penunjukan Langsung Proyek DSP",
+      "summary": "KPK mendalami pengadaan barang dan jasa di BNPB yang bersumber dari Dana Siap Pakai. Penunjukan langsung diduga menimbulkan konflik kepentingan dan suap.",
+      "url": "https://www.cnnindonesia.com/nasional/20261119203959-12-1429209/periksa-lagi-sestama-bnpb-kpk-dalami-penunjukan-langsung-proyek-dsp",
+      "source": "CNN Indonesia",
+      "published": "2026-11-19T15:55:08+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/10/27/kpk-periksa-sestama-bnpb-rustian-1793083087083_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Raih detikcom Awards 2026, MenPAN-RB Dedikasikan untuk Para ASN",
       "summary": "Menteri Rini Widyantini terima detikcom Awards 2026 sebagai Tokoh Transformasi Birokrasi. Ia dedikasikan penghargaan untuk ASN.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-19T15:39:30+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/menteri-pan-rb-rini-widyantini-menerima-detikcom-awards-2026-sebagai-tokoh-transformasi-birokrasi-dan-modernisasi-pelayanan-pu-1795100446527_169.png?w=360&q=90"
-    },
-    {
-      "title": "Subhan Palal Laporkan Ina Liem soal Kesaksian Sidang MK Ijazah Gibran",
-      "summary": "Subhan Palal Laporkan Ina Liem soal dugaan kesaksian palsu terkait ijazah Gibran dalam sidang di MK.",
-      "url": "https://www.cnnindonesia.com/nasional/20261119220132-20-1429219/subhan-palal-laporkan-ina-liem-soal-kesaksian-sidang-mk-ijazah-gibran",
-      "source": "CNN Indonesia",
-      "published": "2026-11-19T15:35:25+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2025/09/14/bingkai-sepekan-edisi-15-september-2025-1757836816794_169.jpeg?w=360&q=90"
     },
     {
       "title": "Kemenko Kumham Imipas rilis rekam jejak koordinasi dengan KemenHAM",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
-      "summary": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or Europe whatsoever. There is only one, rather generic, line that could be seen as close to these issues: “The three heads of state exchanged in-depth views on the current international situation and pledged to maintain strategic stability and international security.” Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
+      "title": "Dozens missing after boat carrying migrants sinks off Senegal's coast",
+      "summary": "At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people.",
+      "url": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-19T15:52:26+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aab/live/c39b82a0-e419-11f1-b37c-b3a71d7200af.jpg"
+    },
+    {
+      "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
+      "summary": "Xi, Putin and Trump outline priorities that include UN reform, boosting oil supplies and ‘protection of diplomatic immunity’ Apec summit – latest updates China, Russia and the US have said they have agreed a peace statement after an unprecedented trilateral summit, but the declaration made no mention of the wars in Ukraine and Iran triggered by two of the participants. The declaration on Thursday also outlined a set of priorities that included changing the UN, boosting oil supplies and what it said was the protection of diplomatic immunity. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
       "source": "The Guardian",
-      "published": "2026-11-19T15:38:54+00:00",
-      "image": "https://i.guim.co.uk/img/media/6ceea7eb6023208c5115683f885b7124858eb7b0/509_0_3798_3040/master/3798.jpg?width=140&quality=85&auto=format&fit=max&s=e3791646f7d75716c87a31a2230e29df"
+      "published": "2026-11-19T15:50:03+00:00",
+      "image": "https://i.guim.co.uk/img/media/3474c8032549af7447dd4759a18eff0069ccaf84/337_0_3599_2880/master/3599.jpg?width=140&quality=85&auto=format&fit=max&s=f585f4052bb91d864c7d4c81c0dc260e"
     },
     {
       "title": "As Burnham heads to Brussels, are new Brexit wars about to begin?",
@@ -42,15 +50,11 @@
       "source": "Al Jazeera",
       "published": "2026-11-19T15:24:51+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/1-1795101729.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Trump, Putin and Xi release 'peace declaration' after historic meeting",
-      "summary": "While the presidents have previously met for one-on-one meetings, this is their first trilateral discussion.",
-      "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-19T15:23:34+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1107/live/91612f50-e42e-11f1-99a1-253766e7ad8b.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
