@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-19T14:15:28.352782+00:00",
+  "updated_at": "2026-11-19T14:30:41.801799+00:00",
   "national": [
+    {
+      "title": "Prabowo Akan Bentuk Badan Pengelolaan dan Pengawasan Perampasan Aset",
+      "summary": "DPR sahkan UU Perampasan Aset yang memberi mandat kepada Presiden untuk bentuk Badan Pengelolaan dan Pengawasan Aset.",
+      "url": "https://www.cnnindonesia.com/nasional/20261119175602-32-1429125/presiden-akan-bentuk-badan-pengelolaan-dan-pengawasan-perampasan-aset",
+      "source": "CNN Indonesia",
+      "published": "2026-11-19T14:26:56+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2025/12/24/prabowo-di-penyelamatan-keuangan-negara-1766567770949_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Kasus Parhan Jadi Pelajaran, Legislator Ingatkan Tak Ambil Kucing Sembarangan",
       "summary": "Anggota DPRD DKI ingatkan masyarakat untuk tidak mengambil kucing jalanan tanpa izin pemeliharanya. Kasus kucing Parhan jadi pelajaran penting.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-19T14:12:39+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/18/kucing-parhan-dikembalikan-ke-sency-syahiddetikcom-1794989452515_169.png?w=360&q=90"
-    },
-    {
-      "title": "Pemkot Pekanbaru Tuntaskan Perbaikan Jalan Sepanjang 52 Km",
-      "summary": "Pemkot Pekanbaru percepat perbaikan infrastruktur jalan, capai 52 km dari target 60 km hingga November 2026, Optimis sisa 8 km selesai tepat waktu.",
-      "url": "https://www.cnnindonesia.com/nasional/20261119205435-25-1429211/pemkot-pekanbaru-tuntaskan-perbaikan-jalan-sepanjang-52-km",
-      "source": "CNN Indonesia",
-      "published": "2026-11-19T14:10:13+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/19/pemkot-pekanbaru-1795095607809_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo sebut korupsi dan narkoba jadi tantangan Indonesia di KTT APEC",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
-      "summary": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or Europe whatsoever. There is only one, rather generic, line that could be seen as close to these issues: “The three heads of state exchanged in-depth views on the current international situation and pledged to maintain strategic stability and international security.” Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
+      "title": "Jenrick mocked after criticising Thatcher’s policies, despite naming daughter after her – UK politics live",
+      "summary": "Reform UK MP says policies left a ‘deep scar’ on communities These are from my colleague Peter Walker , who was at the Tory event where James Cleverly was named as the party’s candidate for London mayor. Peter posted this before the result was announced. Khan (who may or may not stand a 4th time) has thus far faced a dilettante who decided to campaign on a racist platform (Zack Goldsmith) and two oddballs in Shaun Bailey and then Susan Hall. Not even he can be lucky yet again Interesting that [the Conservatives] did not say how many votes were cast, just the percentage - which perhaps indicates it was not a huge number Cleverly’s speech is mainly an attack on Labour and Khan, which is likely to be a theme for his campaign: “Burnham can’t stand London and Khan stand up to Burnham.” Also a pitch about building houses and cutting crime, and boosting transport. Cleverly says he would “end Khan’s war on motorists”, which is a sign he might lean into the anti-cycling and walking rhetoric which the London Tories have a habit of espousing. Expect talk about LTNs and 20mph zones. In the media Q&A Cleverly is pinned down on whether he backs the Tory party line on wanting to leave the ECHR and opposes net zero. He confirms he does (as he has to). Such things will be ready ammunition for Labour. Cleverly says of Andy Burnham, “His residual behaviour is to be anti-London”. This will very much be a theme of his campaign, it seems. Not sure how resonant a “poor London!” message will be even in London People are leaving London, or not choosing to come here in the first place, businesses, job creators, families leaving London, and by the time of the election in 2028, Khan will have been mayor for 12 years, and those two things are related. The problems London faces are the symptoms. Khan is the cause. Continue reading...",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/19/kemi-badenoch-andy-burnham-uk-politics-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-19T14:04:17+00:00",
-      "image": "https://i.guim.co.uk/img/media/6ceea7eb6023208c5115683f885b7124858eb7b0/509_0_3798_3040/master/3798.jpg?width=140&quality=85&auto=format&fit=max&s=e3791646f7d75716c87a31a2230e29df"
+      "published": "2026-11-19T14:19:37+00:00",
+      "image": "https://i.guim.co.uk/img/media/1c435763e1f54d8b07eec454718b99204e42d6e1/485_0_6520_5216/master/6520.jpg?width=140&quality=85&auto=format&fit=max&s=a02dbcd59423b2be032df91314fd2830"
     },
     {
       "title": "‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/18e1/live/23556d10-e400-11f1-877f-2bb5452e5ffc.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
