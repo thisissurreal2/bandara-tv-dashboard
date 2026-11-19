@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-19T13:15:36.261191+00:00",
+  "updated_at": "2026-11-19T13:30:33.643014+00:00",
   "national": [
     {
-      "title": "Wamensos Paparkan Perbedaan Sekolah Rakyat dengan Sekolah Reguler",
-      "summary": "Wamensos Agus Jabo jelaskan Sekolah Rakyat yang menggabungkan pendidikan formal dan rehabilitasi sosial untuk anak-anak dari keluarga miskin.",
-      "url": "https://www.cnnindonesia.com/nasional/20261119194014-25-1429179/wamensos-paparkan-perbedaan-sekolah-rakyat-dengan-sekolah-reguler",
+      "title": "UU Perampasan Aset Atur Skema Bayar Kerugian Korban Penipuan",
+      "summary": "UU Perampasan Aset mengatur penyitaan aset untuk membayar kerugian korban penipuan, termasuk investasi dan travel haji.",
+      "url": "https://www.cnnindonesia.com/nasional/20261119201525-12-1429199/uu-perampasan-aset-atur-skema-bayar-kerugian-korban-penipuan",
       "source": "CNN Indonesia",
-      "published": "2026-11-19T13:13:42+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/19/kemensos-1795091964257_169.jpeg?w=360&q=90"
+      "published": "2026-11-19T13:20:25+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/19/dpr-setujui-ruu-perampasan-aset-menjadi-undang-undang-1795070083598_169.jpeg?w=360&q=90"
     },
     {
       "title": "Pemprov Banten-Kemen PU Siapkan Dana untuk Pelebaran Jalan Palima-Baros",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
+      "title": "Lawyer calls for urgent review of Letby convictions after expert witness revelations",
+      "summary": "Failure to disclose Peter Hindmarsh’s exclusion from practice raises ‘fundamental questions’ over nurse’s case Lucy Letby’s lawyer has said the court of appeal must urgently review her convictions, after it was revealed that a key medical witness in the prosecution’s case was barred from treating patients because of safety concerns. The Guardian revealed this week that Prof Peter Hindmarsh – a crucial expert witness who provided an opinion at Letby’s trial that two babies had been poisoned with insulin – was excluded from clinical practice in March 2023 because his hospital considered him unsafe to treat children in relation to insulin. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/19/lawyers-urgent-review-lucy-letby-convictions-after-expert-witness-revelations",
+      "source": "The Guardian",
+      "published": "2026-11-19T13:24:54+00:00",
+      "image": "https://i.guim.co.uk/img/media/8fec28db27c549906d4acae834ff9bedc38fb853/0_0_2399_1920/master/2399.jpg?width=140&quality=85&auto=format&fit=max&s=cb1fc20b9a81d0a1ec1383815770ba68"
+    },
+    {
+      "title": "‘Groundbreaking’ Trump-Xi-Putin summit: Five key takeaways",
+      "summary": "Leaders hailed the unprecedented meeting as historic, with discussions spanning nuclear risks to energy flows.",
+      "url": "https://www.aljazeera.com/news/2026/11/19/groundbreaking-trump-xi-putin-summit-five-key-takeaways?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-19T13:13:53+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2305839919-1795078098.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
       "summary": "The Russian president said the Crimean Bridge was civilian infrastructure, which Kyiv disputes.",
       "url": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-19T13:07:35+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg"
-    },
-    {
-      "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
-      "summary": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or Europe whatsoever. There is only one, rather generic, line that could be seen as close to these issues: “The three heads of state exchanged in-depth views on the current international situation and pledged to maintain strategic stability and international security.” Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-19T13:03:06+00:00",
-      "image": "https://i.guim.co.uk/img/media/6ceea7eb6023208c5115683f885b7124858eb7b0/509_0_3798_3040/master/3798.jpg?width=140&quality=85&auto=format&fit=max&s=e3791646f7d75716c87a31a2230e29df"
-    },
-    {
-      "title": "Pakistan’s footballers show India sportsmanship after SAFF final defeat",
-      "summary": "Pakistan’s football team formed a guard of honour for India after losing the SAFF Championship final 2-1 in Bangladesh.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/pakistans-footballers-show-india-sportsmanship-after-saff-final-defeat?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-19T12:59:28+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795093144.jpg?resize=1200%2C675"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
