@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-19T08:41:43.486253+00:00",
+  "updated_at": "2026-11-19T08:45:29.103612+00:00",
   "national": [
+    {
+      "title": "Bertemu Dasco di DPR, Sjafrie Sjamsoeddin Bahas Rencana Revisi UU Pertahanan",
+      "summary": "Menteri Pertahanan Sjafrie Sjamsoeddin bertemu Wakil Ketua DPR Dasco untuk membahas revisi UU Pertahanan yang sudah 24 tahun tidak dievaluasi.",
+      "url": "https://news.detik.com/berita/d-8760211/bertemu-dasco-di-dpr-sjafrie-sjamsoeddin-bahas-rencana-revisi-uu-pertahanan",
+      "source": "Detik",
+      "published": "2026-11-19T08:36:34+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/menteri-pertahanan-sjafrie-sjamsoeddin-bertemu-dengan-wakil-ketua-dpr-sufmi-dasco-ahmad-1795077344802_169.jpeg?w=360&q=90"
+    },
     {
       "title": "FOTO: RUU Perampasan Aset Akhirnya Disahkan Jadi Undang-undang",
       "summary": "Rapat pengesahan dipimpin langsung Ketua DPR RI Puan Maharani, didampingi empat pimpinan DPR lain.",
@@ -16,32 +24,24 @@
       "source": "ANTARA",
       "published": "2026-11-19T08:30:06+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/19/Daniel-Marthin-Leo.jpeg"
-    },
-    {
-      "title": "Trump Tampak Ketiduran saat Xi Jinping Pidato di KTT APEC",
-      "summary": "Presiden AS Donald Trump tertidur saat KTT APEC di Shenzen saat Xi Jinping berpidato. Trump sebelumnya memuji Xi sebagai pemimpin luar biasa.",
-      "url": "https://news.detik.com/internasional/d-8760192/trump-tampak-ketiduran-saat-xi-jinping-pidato-di-ktt-apec",
-      "source": "Detik",
-      "published": "2026-11-19T08:21:20+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/presiden-as-donald-trump-tampak-ketiduran-di-ktt-apec-1795076415440_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
     {
-      "title": "Is Trump helping rehabilitate Putin on the world stage?",
-      "summary": "Is Trump helping rehabilitate Putin on the world stage?",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/is-trump-helping-rehabilitate-putin-on-the-world-stage?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-19T08:31:14+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/apec-1795077054.jpg?resize=1920%2C1080&quality=80"
+      "title": "‘We don’t produce Neets’: the London school recognised at World’s Best School awards",
+      "summary": "Swiss Cottage school for children with complex needs is place where ‘every child feels they belong’, education secretary says For Maria, the hardest part of having a child with complex needs has been the grief: mourning the life she had imagined for her son, for her family – and coming to terms with how lonely the reality of parenting him can be. “There are wonderful days but there are very hard ones too,” she added, tears coursing down her face. Continue reading...",
+      "url": "https://www.theguardian.com/education/2026/nov/19/london-swiss-cottage-school-worlds-best-school-awards",
+      "source": "The Guardian",
+      "published": "2026-11-19T08:28:22+00:00",
+      "image": "https://i.guim.co.uk/img/media/8cdde37815a1efa3a597539758194c77fe9c86e9/761_0_7453_5964/master/7453.jpg?width=140&quality=85&auto=format&fit=max&s=1b26711d0b2078d5a3eff31817e402b1"
     },
     {
-      "title": "EDF snaps up 1.3m more customers after Utilita takeover",
-      "summary": "Britain’s fourth-largest energy supplier brings account base up to 6m after purchase of pay-as-you-go supplier EDF Energy will grow its share of the UK’s household energy market to more than 6m customer accounts after snapping up the pay-as-you-go supplier Utilita. Great Britain’s fourth-largest energy supplier expects to complete the takeover early next year, adding 1.3m accounts to its customer base and taking on Utilita’s 1,500 staff. The price of the deal was undisclosed. Continue reading...",
-      "url": "https://www.theguardian.com/business/2026/nov/19/edf-takeover-utilita-energy-suppliers-energy-bills",
-      "source": "The Guardian",
-      "published": "2026-11-19T08:00:21+00:00",
-      "image": "https://i.guim.co.uk/img/media/03c7b4e8266ffee353f56b44d455be3f3a87bc62/333_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=5cde5619160f79a5b58c8d7bfa53f3e9"
+      "title": "Saudi-led coalition intercepts Houthi missiles targeting Riyadh and south",
+      "summary": "Material damage was reported after ​debris fell following the latest Houthi strikes launched towards Saudi Arabia.",
+      "url": "https://www.aljazeera.com/news/2026/11/19/saudi-led-coalition-intercepts-houthi-missiles-targeting-riyadh-and-south?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-19T08:19:17+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afea99c3cae6-1795074460.jpg?resize=1920%2C1440"
     },
     {
       "title": "Crimean Bridge attacked again, Russia says",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e29a/live/4b7210d0-e3ad-11f1-b942-5da5bfac5a5a.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: TimeoutError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
