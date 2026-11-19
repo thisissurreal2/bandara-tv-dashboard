@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-19T22:15:28.047908+00:00",
+  "updated_at": "2026-11-19T22:30:34.196400+00:00",
   "national": [
+    {
+      "title": "KPK Respons Klaim Fahd Arafiq soal Rp70 Miliar Mengalir ke Muktamar NU",
+      "summary": "KPK menyelidiki dugaan korupsi di Kementerian ATR/BPN setelah Fahd Arafiq mengklaim memberi Rp70 miliar untuk Muktamar NU. Gus Ipul bantah pernyataan tersebut.",
+      "url": "https://www.cnnindonesia.com/nasional/20261119200534-12-1429196/kpk-respons-klaim-fahd-arafiq-soal-rp70-miliar-mengalir-ke-muktamar-nu",
+      "source": "CNN Indonesia",
+      "published": "2026-11-19T22:15:31+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/07/03/kpk-tangkap-bupati-langkat-1783062372856_169.jpeg?w=360&q=90"
+    },
     {
       "title": "6 Orang Tewas Akibat Ledakan Gas yang Runtuhkan Apartemen di Georgia",
       "summary": "Ledakan gas meruntuhkan gedung apartemen di Tbilisi, Georgia, menewaskan enam orang, termasuk anak kecil. Seorang anak berhasil dievakuasi hidup.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-19T21:47:23+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2022/08/23/penemuan-mayat-wanita-duduk-di-melaya_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Direktur RSUD Masohi Dicopot Buntut Pasien Terlantar 2 Jam Meninggal",
-      "summary": "Direktur RSUD Masohi dicopot setelah pasien terlantar dua jam hingga meninggal. Penggantinya, Zakir, berkomitmen perbaiki pelayanan dan kesejahteraan nakes.",
-      "url": "https://www.cnnindonesia.com/nasional/20261120034913-20-1429226/direktur-rsud-masohi-dicopot-buntut-pasien-terlantar-2-jam-meninggal",
-      "source": "CNN Indonesia",
-      "published": "2026-11-19T20:54:44+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2021/09/07/ilustrasi-dokter_169.jpeg?w=360&q=90"
     },
     {
       "title": "Indonesia kembali hadapi Slovenia setelah 22 tahun di playoff BJK Cup",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Fiona the hippo dies after ingesting knitted hat at Cincinnati zoo",
-      "summary": "Zoo staff tried a colonoscopy, vibration plate and other procedures to aid the hippo in passing the hat to no avail Fiona the hippo, one of America’s most famous zoo animals, has died after efforts to remove a knitted hat that she swallowed after it fell into her enclosure proved unsuccessful. “It is with extreme sadness that we share with you the devastating news that Fiona did not make it after multiple attempts from our amazing vets and keeper team to help her through what ended up being a medical emergency,” the zoo wrote in a post on social media . Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/nov/19/fiona-hippo-cincinnati-zoo-knit-hat",
+      "title": "Mark Speakman resigns and says Liberals face ‘existential threat’ as NSW exodus continues",
+      "summary": "Former NSW opposition leader warns party against becoming ‘Labor lite’ or ‘One Nation lite’ in late-night speech Get our breaking news email , free app or daily news podcast Former New South Wales opposition leader Mark Speakman will not contest his seat at the March state election, the latest in a mass exodus of MPs under the Liberal leader who replaced him, Kellie Sloane. In a late-night speech on Thursday, the final sitting day of NSW’s legislative assembly before the vote, Speakman said he would not contest his south Sydney seat of Cronulla, which he has held since 2011. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
       "source": "The Guardian",
-      "published": "2026-11-19T22:09:55+00:00",
-      "image": "https://i.guim.co.uk/img/media/136d787561384507373cd58a8fdcc3a64d11d04f/480_0_4228_3382/master/4228.jpg?width=140&quality=85&auto=format&fit=max&s=66198c9703321fcd38ca9a1cf187f0a8"
+      "published": "2026-11-19T22:17:09+00:00",
+      "image": "https://i.guim.co.uk/img/media/3efee6d1eaff0fd0c1f56834a875969ecd396eb3/2910_595_6221_4977/master/6221.jpg?width=140&quality=85&auto=format&fit=max&s=a84940e8f5bd344dbd4ab97d27c0d8f9"
     },
     {
       "title": "Fiona the hippo dies after swallowing a hat at Cincinnati Zoo",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2024/03/2023-02-17T102113Z_787749004_RC2VCZ9TLQ33_RTRMADP_3_USA-CHINA-CHIPS-1709523107.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
