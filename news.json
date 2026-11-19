@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-19T12:45:28.458030+00:00",
+  "updated_at": "2026-11-19T13:00:39.329672+00:00",
   "national": [
     {
-      "title": "Kedok Liburan, 2 WNI Calon Tentara Bayaran Rusia Dicegah di Surabaya",
-      "summary": "Petugas Imigrasi Bandara Juanda menggagalkan keberangkatan dua WNI yang diduga akan jadi tentara bayaran Rusia.",
-      "url": "https://www.cnnindonesia.com/nasional/20261119181704-12-1429141/kedok-liburan-2-wni-calon-tentara-bayaran-rusia-dicegah-di-surabaya",
+      "title": "KPK Maraton Periksa Camat di Klaten, Dalami Kutipan Rp50 Juta",
+      "summary": "KPK periksa camat di Klaten terkait dugaan korupsi Bupati Hamenang Wajar Ismoyo. Penyidikan fokus pada pengadaan barang dan jasa serta acara HUT.",
+      "url": "https://www.cnnindonesia.com/nasional/20261119191611-12-1429174/kpk-maraton-periksa-camat-di-klaten-dalami-kutipan-rp50-juta",
       "source": "CNN Indonesia",
-      "published": "2026-11-19T12:42:18+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/19/berkedok-liburan-2-wni-calon-tentara-bayaran-rusia-dicegah-di-bandara-juanda-1795087145433_169.jpeg?w=360&q=90"
+      "published": "2026-11-19T12:53:37+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2025/08/15/juru-bicara-kpk-budi-prasetyo-1755260853896_169.jpeg?w=360&q=90"
     },
     {
       "title": "Penyelundupan Benih Lobster Rp 5 M Digagalkan di Soetta, 3 Tersangka Dijerat",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Ukraine’s allies meet in Berlin with air defence, energy and financial support on the agenda – Europe live",
-      "summary": "Meeting comes after Trump declared Putin a ‘friend’ during trilateral meeting in China For what it’s worth, the China-US-Russia ‘peace declaration’ issued after their meeting, and published by Chinese state media , includes absolutely no mention of Ukraine or Europe whatsoever. There is only one, rather generic, line that could be seen as close to these issues: “The three heads of state exchanged in-depth views on the current international situation and pledged to maintain strategic stability and international security.” Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/nov/19/russia-ukraine-war-coalition-of-the-willing-europe-latest-news-updates",
+      "title": "Hakeem Jeffries on brink of House history as he tells Democrats to ‘fight Maga, not each other’ – US politics live",
+      "summary": "Democrats resoundingly nominated Jeffries to serve as speaker of the House when the new Congress is sworn in next year Sign up for the Breanking News US email Attorney general Todd Blanche’s wife, Kristine Blanche, who was appointed earlier this year to a US government advisory board on alternative medicine, has a website on which she marketed dietary supplements and treatments with unproven medical and health claims. Blanche is a licensed physician assistant who says she has a PhD in breast thermography from the University of Science, Arts and Technology in Montserrat, a British territory in the Caribbean. She is also an advocate for alternative medical cures and holistic health. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-19T12:34:02+00:00",
-      "image": "https://i.guim.co.uk/img/media/177e95c8558613ce433c6415ecde5b3d35ad5857/470_0_3986_3189/master/3986.jpg?width=140&quality=85&auto=format&fit=max&s=62c9f7f3810c8bd296e55010e97eda25"
+      "published": "2026-11-19T12:51:25+00:00",
+      "image": "https://i.guim.co.uk/img/media/2f1f53d678806d2a7e2e1a749e6128d80c2e661c/667_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=ffa0fba487ca039470aa18c954a10a82"
     },
     {
       "title": "Home of Bangladesh’s former leader Muhammad Yunus set on fire",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
