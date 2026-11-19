@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-19T20:30:35.521974+00:00",
+  "updated_at": "2026-11-19T20:45:32.545170+00:00",
   "national": [
+    {
+      "title": "Bupati Hamenang Pakai Dana Kecamatan untuk Bayar EO HUT Klaten",
+      "summary": "KPK menyelidiki dugaan korupsi Bupati Klaten nonaktif, Hamenang Wajar Ismoyo, terkait penggunaan dana kecamatan untuk event organizer tanpa lelang.",
+      "url": "https://news.detik.com/berita/d-8761098/bupati-hamenang-pakai-dana-kecamatan-untuk-bayar-eo-hut-klaten",
+      "source": "Detik",
+      "published": "2026-11-19T20:18:12+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/16/bupati-klaten-hamenang-wajar-ismoyo-melangkah-ke-mobil-tahanan-kpk-1792152496108_169.jpeg?w=360&q=90"
+    },
     {
       "title": "DPN Kumpulkan BSSN dan TNI-Polri, Bahas Tata Kelola Penyadapan",
       "summary": "Dewan Pertahanan Nasional gelar ADMIN GAME untuk membahas pengamanan komunikasi strategis dan tata kelola penyadapan.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-19T20:03:55+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/19/dpn-kumpulkan-bssn-dan-tni-polri-bahas-tata-kelola-penyadapan-1795091558558_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "China, AS, Rusia Terbitkan Deklarasi Menuju Perdamaian Usai KTT",
-      "summary": "China, AS, dan Rusia mengeluarkan Deklarasi Menuju Perdamaian setelah pertemuan puncak. Mereka berkomitmen reformasi PBB dan membatasi ICC.",
-      "url": "https://news.detik.com/internasional/d-8761091/china-as-rusia-terbitkan-deklarasi-menuju-perdamaian-usai-ktt",
-      "source": "Detik",
-      "published": "2026-11-19T18:52:35+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/presiden-china-xi-jinping-presiden-as-donald-trump-dan-presiden-rusia-vladimir-putin-tiba-untuk-menghadiri-pertemuan-trilatera-1795078468037_169.jpeg?w=360&q=90"
     },
     {
       "title": "Indonesia kembali hadapi Slovenia setelah 22 tahun di playoff BJK Cup",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Grand Theft Auto fans skip work and pull all-nighters to play new instalment",
-      "summary": "Hotly anticipated Bonnie and Clyde-inspired adventure GTA VI has gamers glued to their screens around the world Grand Theft Auto fans around the world pulled all-nighters, skipped work and school, and attended overnight launch parties to vicariously embark on police chases and coordinate robberies as the latest instalment of the eagerly anticipated series arrived. GTA VI, a Bonnie and Clyde-inspired crime adventure game set in the fictional US state of Leonida, was launched at midnight on Wednesday after a 13-year wait. Continue reading...",
-      "url": "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-six-fans-skip-work-pull-all-nighters",
+      "title": "How vaccine fears fuelled a major measles comeback in the US",
+      "summary": "Measles is making a comeback in the US as vaccination rates fall.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/how-vaccine-fears-fuelled-a-major-measles-comeback-in-the-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-19T20:35:14+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795120395.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
+      "title": "John Fetterman vehemently backs Schumer for Senate majority leader and says he’s ‘considering things’ on 2028 re-election – live",
+      "summary": "US senator from Pennsylvania also took shot at Chris Van Hollen, who is challenging Schumer for Democratic leadership Sign up for the Breaking News US email The National Security Agency is seeing a third day of disruptions to its internal network, NSA Net, which allows staff to share highly classified information with each other , according to the New York Times. The Times reports that employees at the NSA’s Maryland headquarters are under “code orange” for Thursday day shift, which requires non-essential workers are to stay home unless contacted by their supervisors. A secret, closed-door election: Unlike the public speaker of the House vote, where lawmakers cast ballots on the chamber floor, the Senate leadership contest takes place behind closed doors. Senators vote by secret ballot, and individual votes are not disclosed. The winner only needs a caucus majority: The Democratic leadership race is decided solely by members of the party’s Senate caucus. Now that Democrats are set to have 56 seats in the new year, the winner will need secure 29 votes for the top role. The vote is scheduled for next month: As things stand, the election is set for 1 December . Both incumbent senators and incoming Democratic members will participate, while retiring and outgoing senators will not vote, despite many having publicly weighed in on the race. Republicans choose their leaders separately: Republicans hold their own closed-door leadership elections in both chambers. Earlier this month, House Republicans selected hardliner Jim Jordan as their leader after Mike Johnson opted not to run for minority leader. In the Senate, Republicans unanimously backed John Thune to continue leading the conference. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-19T20:07:23+00:00",
-      "image": "https://i.guim.co.uk/img/media/af1e31b49b5341ebce31c28c93c8ad558d8934b8/181_0_3988_3192/master/3988.jpg?width=140&quality=85&auto=format&fit=max&s=06325cc903a0fdb4227b8ce910ceefae"
+      "published": "2026-11-19T20:34:08+00:00",
+      "image": "https://i.guim.co.uk/img/media/4445bb36efff4a7f4ccc2e4348e4771595c27c27/457_0_4570_3656/master/4570.jpg?width=140&quality=85&auto=format&fit=max&s=599a21a70952fbfef6ddd57bbc979a9a"
     },
     {
       "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
@@ -42,19 +50,7 @@
       "source": "BBC",
       "published": "2026-11-19T20:07:02+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d789/live/7c1a8b30-e435-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "title": "‘On the same page’: Hegseth hails US ties with Colombia’s de la Espriella",
-      "summary": "The US defence secretary praised security cooperation with Colombia as country joins Americas Counter Cartel Coalition.",
-      "url": "https://www.aljazeera.com/news/2026/11/19/on-the-same-page-hegseth-hails-us-ties-with-colombias-de-la-espriella?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-19T19:53:24+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aff3853-1795110995.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
