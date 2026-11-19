@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-19T00:00:40.628776+00:00",
+  "updated_at": "2026-11-19T00:15:27.568560+00:00",
   "national": [
+    {
+      "title": "Ledakan Kilang Migas Blora Diduga Dipicu Sisa Gas dalam Tangki Kosong",
+      "summary": "Polisi selidiki ledakan di PPSDM Migas Cepu yang menewaskan pekerja. Dugaan sementara, ledakan terjadi saat membersihkan tangki yang masih berisi gas.",
+      "url": "https://www.cnnindonesia.com/nasional/20261119065847-20-1428782/ledakan-kilang-migas-blora-diduga-dipicu-sisa-gas-dalam-tangki-kosong",
+      "source": "CNN Indonesia",
+      "published": "2026-11-19T00:10:51+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2024/03/30/ilustrasi-ledakan_169.jpeg?w=360&q=90"
+    },
     {
       "title": "PSI Dinilai Bukan Lagi Koalisi Pemerintah, Demokrat Bilang Begini",
       "summary": "Sekjen Demokrat Herman Khaeron menegaskan status PSI dalam koalisi pemerintah ditentukan pimpinan koalisi.",
@@ -16,17 +24,25 @@
       "source": "ANTARA",
       "published": "2026-11-18T23:48:15+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/10/569834.jpg"
-    },
-    {
-      "title": "Grace Natalie: PSI Masih Dukung Pemerintahan Pak Prabowo",
-      "summary": "Grace Natalie menegaskan PSI masih menjadi bagian dari koalisi pemerintah meski tiga kader di Kabinet Merah Putih kompak mundur dari partai.",
-      "url": "https://www.cnnindonesia.com/nasional/20261119061812-32-1428772/ditinggal-giring-isyana-grace-tegaskan-psi-masih-koalisi-pemerintah",
-      "source": "CNN Indonesia",
-      "published": "2026-11-18T23:36:03+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/09/28/rakorda-psi-di-bandung-1790562820164_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
+    {
+      "title": "Trump’s transportation secretary blames contractor for nationwide FAA ground stop – live",
+      "summary": "US transportation secretary Sean Duffy blames contractor L3Harris for national ground stoppage and says ‘this was not identified quick enough’ Sign up for US breaking News email Linked to that, the White House held a briefing call with several reporters today about the wave of tech outages affecting several industries. CNN reported that officials said the administration underscored that what has happened is not as a result of cyber-attacks but due to the “hardening and upgrading of our systems ”, including “systems being patched, hardware being applied” . Per CNN, an official added: “It’s good the American people are focused on the need to upgrade our legacy systems.” Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-19T00:04:06+00:00",
+      "image": "https://i.guim.co.uk/img/media/c68dddfa25517e4a836d6347550de143282f7f6c/434_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=eae9eb60d8f9edc2f0a2052bff9828cf"
+    },
+    {
+      "title": "Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
+      "summary": "Saudi-led coalition has said it destroyed a missile platform in Saada, Yemen as Iran claims three ships hit mines.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-19T00:01:02+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afe32a94666-1795044009.jpg?resize=1920%2C1440"
+    },
     {
       "title": "Claude-maker Anthropic poised for $1.4tn stock market debut",
       "summary": "Anthropic started just five years ago an is now one of the biggest names in artificial intelligence.",
@@ -34,23 +50,11 @@
       "source": "BBC",
       "published": "2026-11-18T23:44:27+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a11/live/4dfcb420-e37d-11f1-b879-03485a55c082.jpg"
-    },
-    {
-      "title": "Trump’s transportation secretary blames contractor for nationwide FAA ground stop – live",
-      "summary": "US transportation secretary Sean Duffy blames contractor L3Harris for national ground stoppage and says ‘this was not identified quick enough’ Sign up for US breaking News email Linked to that, the White House held a briefing call with several reporters today about the wave of tech outages affecting several industries. CNN reported that officials said the administration underscored that what has happened is not as a result of cyber-attacks but due to the “hardening and upgrading of our systems ”, including “systems being patched, hardware being applied” . Per CNN, an official added: “It’s good the American people are focused on the need to upgrade our legacy systems.” Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/18/donald-trump-mary-peltola-alaska-hakeem-jeffries-democrats-republicans-congress-house-senate-midterms-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-18T23:44:00+00:00",
-      "image": "https://i.guim.co.uk/img/media/c68dddfa25517e4a836d6347550de143282f7f6c/434_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=eae9eb60d8f9edc2f0a2052bff9828cf"
-    },
-    {
-      "title": "GTA 6 launches after 13-year wait, breaking pre-order records",
-      "summary": "Grand Theft Auto’s latest instalment is out, ending a 13-year wait for one of gaming’s biggest franchises.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/gta-6-launches-after-13-year-wait-breaking-pre-order-records?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-18T23:18:03+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/wide-thumb-gta6-1795043841.png?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
