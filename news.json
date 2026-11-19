@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-19T03:45:26.273628+00:00",
+  "updated_at": "2026-11-19T04:00:36.060362+00:00",
   "national": [
     {
-      "title": "LONTARA+ Antar Kota Makassar Juara I SDGs Action Awards Bappenas 2026",
-      "summary": "Implementasi aplikasi LONTARA+ dinilai mendukung pencapaian Tujuan Pembangunan Berkelanjutan atau Sustainable Development Goals (SDGs) di Kota Makassar.",
-      "url": "https://www.cnnindonesia.com/nasional/20261119100823-25-1428878/lontara-antar-kota-makassar-juara-i-sdgs-action-awards-bappenas-2026",
-      "source": "CNN Indonesia",
-      "published": "2026-11-19T03:39:03+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/19/pemkot-makassar-1795057827381_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Gus Ipul Ajak Polri Perkuat Pendataan Kelompok Rentan, Ini Tujuannya",
-      "summary": "Menteri Sosial Gus Ipul ajak Polri dan masyarakat perkuat ketahanan sosial dengan pemutakhiran data kelompok rentan.",
-      "url": "https://news.detik.com/berita/d-8759604/gus-ipul-ajak-polri-perkuat-pendataan-kelompok-rentan-ini-tujuannya",
+      "title": "Hewan Curian Diduga Dijual di Pasar Jatinegara, Pram Minta Pemprov Telusuri",
+      "summary": "Pramono telah memerintahkan Dinas Ketahanan Pangan, Kelautan, dan Pertanian (KPKP) DKI Jakarta untuk melakukan peninjauan ke lokasi.",
+      "url": "https://news.detik.com/berita/d-8759655/hewan-curian-diduga-dijual-di-pasar-jatinegara-pram-minta-pemprov-telusuri",
       "source": "Detik",
-      "published": "2026-11-19T03:26:50+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/gus-ipul-ajak-polri-perkuat-data-kelompok-rentan-demi-keamanan-nasional-1795058643538.jpeg?w=360&q=90"
+      "published": "2026-11-19T03:54:16+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/pramono-anung-beliadetikcom-1795059978230_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Komisi VII DPR beri masukan soal wacana pemindahan badak jawa",
-      "summary": "Wakil Ketua Komisi VII DPR RI Evita Nursanty memberikan sejumlah masukan soal wacana pemindahan badak jawa dari Taman ...",
-      "url": "https://www.antaranews.com/berita/5864179/komisi-vii-dpr-beri-masukan-soal-wacana-pemindahan-badak-jawa",
+      "title": "DPR Resmi Sahkan RUU Perampasan Aset Jadi Undang-undang",
+      "summary": "Rapat Paripurna DPR mengesahkan RUU Perampasan Aset terkait Tindak Pidana Korupsi dan Tindak Pidana Lainnya menjadi undang-undang, Kamis (19/11).",
+      "url": "https://www.cnnindonesia.com/nasional/20261119104313-32-1428898/dpr-resmi-sahkan-ruu-perampasan-aset-jadi-undang-undang",
+      "source": "CNN Indonesia",
+      "published": "2026-11-19T03:45:46+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/10/rapat-paripurna-pembukaan-masa-sidang-dpr-1794288033604_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "DPR setujui pengesahan RUU Perampasan Aset",
+      "summary": "Rapat Paripurna Ke-13 DPR RI Masa Persidangan II Tahun Sidang 2026-2027 menyetujui pengesahan Rancangan Undang-Undang ...",
+      "url": "https://www.antaranews.com/berita/5864231/dpr-setujui-pengesahan-ruu-perampasan-aset",
       "source": "ANTARA",
-      "published": "2026-11-19T03:01:09+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/09/08/1001337574.jpg"
+      "published": "2026-11-19T03:43:50+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/18/komisi-iii-setuju-ruu-perampasan-aset-dibawa-ke-paripurna-2909379.jpg"
     }
   ],
   "international": [
@@ -41,7 +41,7 @@
       "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-11-19T03:30:26+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6afe505f486a3-1795051615.jpg?resize=1920%2C1440"
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afe50ca-1795051722.jpg?resize=1920%2C1440"
     },
     {
       "title": "Elon Musk says record spending on US midterms was 'pretty foolish'",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3333/live/c9ef87a0-e3b5-11f1-ac8e-bf9cbaf16b78.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
