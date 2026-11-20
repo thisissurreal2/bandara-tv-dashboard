@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-20T00:00:38.724758+00:00",
+  "updated_at": "2026-11-20T00:15:26.789953+00:00",
   "national": [
     {
-      "title": "Apakah PSI Masih Dianggap Bagian Koalisi Pemerintah?",
-      "summary": "Posisi koalisi PSI disorot setelah tiga kadernya mundur dari kabinet. Meskipun demikian, Grace Natalie menegaskan PSI tetap mendukung pemerintahan Prabowo.",
-      "url": "https://www.cnnindonesia.com/nasional/20261120062613-32-1429238/ramai-ramai-soroti-status-psi-di-koalisi-prabowo",
+      "title": "ICW Adukan Puan dan Habiburokhman ke MKD DPR Terkait UU Perampasan Aset",
+      "summary": "ICW mengadukan Ketua DPR Puan Maharani dan Habiburokahman ke MKD terkait dugaan pelanggaran etik dalam pembahasan RUU Perampasan Aset.",
+      "url": "https://www.cnnindonesia.com/nasional/20261119223339-32-1429222/icw-adukan-puan-habiburokhman-ke-mkd-dpr-terkait-uu-perampasan-aset",
       "source": "CNN Indonesia",
-      "published": "2026-11-19T23:55:40+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2025/07/21/presiden-prabowo-tutup-kongres-psi-2025-1753066954420_169.jpeg?w=360&q=90"
+      "published": "2026-11-20T00:00:46+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/19/dpr-setujui-ruu-perampasan-aset-menjadi-undang-undang-1795070084065_169.jpeg?w=360&q=90"
     },
     {
       "title": "4 Fakta Pasar Obor Jaktim Digerebek Terkait Narkoba",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Iran war live: Houthis escalate attacks on Saudi capital",
+      "summary": "Houthi missile fire has rocked Riyadh's financial centre as the Iran war leaves 'lasting marks' on global energy.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-houthis-escalate-attacks-on-saudi-capital?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-19T23:58:40+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aff72954cc3-1795125909.jpg?resize=1200%2C675"
+    },
+    {
       "title": "California’s top lawyer subpoenas Nvidia over Jensen Huang’s affair with suspected Chinese spy – live",
       "summary": "State’s attorney general Rob Bonta says ‘conduct of Nvidia and its former CEO raises bright red flags’ as he opens investigation Sign up for the Breaking News US email The National Security Agency is seeing a third day of disruptions to its internal network, NSA Net, which allows staff to share highly classified information with each other , according to the New York Times. The Times reports that employees at the NSA’s Maryland headquarters are under “code orange” for Thursday day shift, which requires non-essential workers are to stay home unless contacted by their supervisors. A secret, closed-door election: Unlike the public speaker of the House vote, where lawmakers cast ballots on the chamber floor, the Senate leadership contest takes place behind closed doors. Senators vote by secret ballot, and individual votes are not disclosed. The winner only needs a caucus majority: The Democratic leadership race is decided solely by members of the party’s Senate caucus. Now that Democrats are set to have 56 seats in the new year, the winner will need secure 29 votes for the top role. The vote is scheduled for next month: As things stand, the election is set for 1 December . Both incumbent senators and incoming Democratic members will participate, while retiring and outgoing senators will not vote, despite many having publicly weighed in on the race. Republicans choose their leaders separately: Republicans hold their own closed-door leadership elections in both chambers. Earlier this month, House Republicans selected hardliner Jim Jordan as their leader after Mike Johnson opted not to run for minority leader. In the Senate, Republicans unanimously backed John Thune to continue leading the conference. Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
@@ -42,15 +50,11 @@
       "source": "BBC",
       "published": "2026-11-19T23:52:25+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2f6/live/c6d10db0-e472-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "title": "Six killed in suspected gas explosion at Georgia apartment building",
-      "summary": "Georgian Interior Minister Sulkhan Tamazashvili said rescuers had recovered six bodies from the wreckage.",
-      "url": "https://www.aljazeera.com/news/2026/11/19/six-killed-in-suspected-gas-explosion-at-georgia-apartment-building?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-19T23:09:48+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261119__D7ZP3JR__v2__HighRes__GeorgiaAccidentGasExplosion-1795124833.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
