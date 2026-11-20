@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-20T06:30:31.360185+00:00",
+  "updated_at": "2026-11-20T06:45:25.264812+00:00",
   "national": [
     {
-      "title": "Kebakaran Baduy Luar, 19 Rumah dan 2 Lumbung Padi Hangus",
-      "summary": "Kebakaran melanda permukiman warga Baduy Luar di Cipaler, Banten, pada Kamis (19/11).",
-      "url": "https://www.cnnindonesia.com/nasional/20261120125811-24-1429403/kebakaran-baduy-luar-19-rumah-dan-2-lumbung-padi-hangus",
+      "title": "Fiona Kuda Nil di Kebun Binatang Cincinnati Tewas Usai Telan Topi Rajut",
+      "summary": "Fiona, seekor kuda nil sungai di Kebun Binatang Cincinnati, Ohio, Amerika Serikat (AS) mati setelah menelan topi.",
+      "url": "https://news.detik.com/internasional/d-8761702/fiona-kuda-nil-di-kebun-binatang-cincinnati-tewas-usai-telan-topi-rajut",
+      "source": "Detik",
+      "published": "2026-11-20T06:40:48+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/20/fiona-seekor-kuda-nil-sungai-di-kebun-binatang-cincinnati-ohio-amerika-serikat-as-mati-setelah-menelan-topi-1795156637069_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "Karyawan RS di Makassar Bawa Kabur Ambulans untuk Nonton Balap Liar",
+      "summary": "Polisi menangkap lima pria, termasuk dua karyawan rumah sakit, yang menggunakan ambulans untuk menonton balap liar di Makassar.",
+      "url": "https://www.cnnindonesia.com/nasional/20261120132017-20-1429420/karyawan-rs-di-makassar-bawa-kabur-ambulans-untuk-nonton-balap-liar",
       "source": "CNN Indonesia",
-      "published": "2026-11-20T06:23:55+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/20/kebakaran-melanda-baduy-luar-19-rumah-dan-2-lumbung-padi-hangus-1795154484800_169.jpeg?w=360&q=90"
+      "published": "2026-11-20T06:39:46+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2024/03/30/ledakan-gudang-amunisi-yon-armed-7105-gs-bantar-gebang_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo dan Xi Jinping perkuat kemitraan strategis Indonesia-China",
@@ -16,24 +24,16 @@
       "source": "ANTARA",
       "published": "2026-11-20T05:48:53+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/20/1000478414_1.jpg"
-    },
-    {
-      "title": "Hinca Demokrat Usul 2 Cawapres yang Diusulkan Presiden Tak Boleh Mundur",
-      "summary": "Ketua Dewan Kehormatan Partai Demokrat, Hinca Panjaitan, menegaskan dua cawapres yang diusulkan Prabowo tidak boleh mundur hingga pelantikan.",
-      "url": "https://news.detik.com/berita/d-8761563/hinca-demokrat-usul-2-cawapres-yang-diusulkan-presiden-tak-boleh-mundur",
-      "source": "Detik",
-      "published": "2026-11-20T05:41:00+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/02/23/hinca-pandjaitan-1771827881284_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
     {
-      "title": "Tashima says Balogun red card row at World Cup prompted FIFA presidency bid",
-      "summary": "Tashima is one of three names on the ballot for the March election, along with current President Infantino and Diallo.",
-      "url": "https://www.aljazeera.com/sports/2026/11/20/kozo-tashima-japan-fifa-president-election-balogun-red-card-world-cup-infantino?traffic_source=rss",
+      "title": "‘We don’t want our future decided by the military’: Young Germans protest",
+      "summary": "Ahead of Friday's nationwide rallies, German teenagers explain why they are resisting conscription.",
+      "url": "https://www.aljazeera.com/news/2026/11/20/we-dont-want-our-future-decided-by-the-military-young-germans-protest?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-20T06:15:06+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6aeca120c2-1793892640.jpg?resize=1920%2C1440"
+      "published": "2026-11-20T06:20:26+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/WERRING-ONE-1795103856.jpg?resize=1920%2C1440"
     },
     {
       "title": "Academy trust pays out after Prevent threat over children’s Palestine badges",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04be/live/bd211170-e49f-11f1-a01e-f1ba573bc781.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
