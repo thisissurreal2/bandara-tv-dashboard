@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-20T09:00:40.951219+00:00",
+  "updated_at": "2026-11-20T09:15:30.596735+00:00",
   "national": [
     {
-      "title": "Eks Kasat Narkoba Bima Kota Divonis 20 Tahun Bui",
-      "summary": "Eks Kasat Narkoba Polres Bima Kota, AKP Malaungi, divonis 20 tahun penjara dan denda Rp500 juta. Vonis lebih ringan dari tuntutan seumur hidup dari JPU.",
-      "url": "https://www.cnnindonesia.com/nasional/20261120151402-12-1429535/eks-kasat-narkoba-bima-kota-divonis-20-tahun-bui",
-      "source": "CNN Indonesia",
-      "published": "2026-11-20T08:50:32+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/02/10/penetapan-tersangka-kepala-satresnarkoba-bima-1770690098061_169.jpeg?w=360&q=90"
+      "title": "Kronologi Waria Bunuh Remaja di Taman Lawang Gegara Diejek saat Mangkal",
+      "summary": "Polisi menangkap waria berinisial MB (27) yang membunuh remaja berinisial AS (16) di Taman Lawang, Jalan Sumenep, Menteng, Jakarta Pusat.",
+      "url": "https://news.detik.com/berita/d-8762022/kronologi-waria-bunuh-remaja-di-taman-lawang-gegara-diejek-saat-mangkal",
+      "source": "Detik",
+      "published": "2026-11-20T09:08:01+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/20/polda-metro-jaya-mengungkap-kasus-waria-berinisial-mb-27-yang-membunuh-remaja-berinisial-as-16-di-taman-lawang-menteng-devisde-1795164411704_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Bareskrim Ungkap Lokasi Digeledah di Kasus Makar Rumah Brigjen TK dan Kombes IM",
-      "summary": "Polri menggeledah rumah di Bogor dalam kasus dugaan makar terkait penyapadan ilegal terhadap Prabowo.",
-      "url": "https://news.detik.com/berita/d-8761928/bareskrim-ungkap-lokasi-digeledah-di-kasus-makar-rumah-brigjen-tk-dan-kombes-im",
-      "source": "Detik",
-      "published": "2026-11-20T08:39:42+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2025/08/13/ilustrasi-bareskrim-polri-1755061127379_169.jpeg?w=360&q=90"
+      "title": "Sosok TK-IM di Kasus Makar: Brigjen Tedjo Kusumo-Kombes Iman Imanuddin",
+      "summary": "Polri mengungkap dua perwira, Brigjen Tedjo Kusumo dan Kombes Iman Imanuddin terkait dugaan makar terhadap Presiden Prabowo Subianto.",
+      "url": "https://www.cnnindonesia.com/nasional/20261120154559-12-1429547/sosok-tk-im-di-kasus-makar-brigjen-tedjo-kusumo-kombes-iman-imanuddin",
+      "source": "CNN Indonesia",
+      "published": "2026-11-20T09:03:56+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/09/02/kapolri-jenderal-listyo-sigit-prabowo-resmi-melantik-sejumlah-pejabat-utama-mabes-polri-1788343333065_169.jpeg?w=360&q=90"
     },
     {
       "title": "Round up - RI kantongi potensi Rp1.600 triliun dari KTT APEC",
@@ -29,10 +29,10 @@
   "international": [
     {
       "title": "Andy Burnham in Brussels as UK and EU close in on Brexit reset deal – live",
-      "summary": "UK and EU have provisionally agreed to allow 100,000 EU citizens to come to the UK every year under a new mobility scheme. We are getting some lines from that meeting with business leaders in Brussels. “ It just makes sense to get closer, ” PM Burnham told the meeting, hailing today’s summit as “a big day and, hopefully, a positive day.” Continue reading...",
+      "summary": "UK and EU have provisionally agreed to allow 100,000 EU citizens to come to the UK every year under a new mobility scheme. Peter Walker and Jennifer Rankin With Andy Burnham arriving soon at the UK-EU summit the position is – well, much as it was last night, with a broad agreement but the most tricky issue kicked down the road for six months. “We expect the leaders to confirm and unlock the conclusion of three important negotiations that have been ongoing.” Continue reading...",
       "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-20T08:50:18+00:00",
+      "published": "2026-11-20T09:04:17+00:00",
       "image": "https://i.guim.co.uk/img/media/b1b7e7d5285fba221edebb3cdc8cbf11fe1e0710/632_0_6307_5047/master/6307.jpg?width=140&quality=85&auto=format&fit=max&s=9977a905023af3d944fa6fa413d8964c"
     },
     {
@@ -40,7 +40,7 @@
       "summary": "Five people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
       "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-20T08:40:45+00:00",
+      "published": "2026-11-20T09:01:06+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b1/live/a02c1e30-e4b7-11f1-808e-7d48dd17194a.jpg"
     },
     {
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afff059ac70-1795158105.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
