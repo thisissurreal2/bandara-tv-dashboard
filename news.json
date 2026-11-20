@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-20T21:00:39.999713+00:00",
+  "updated_at": "2026-11-20T21:15:30.509502+00:00",
   "national": [
     {
-      "title": "Menteri AS: Trump Tak Bahas CEO Nvidia Saat Bertemu Xi Jinping",
-      "summary": "Menteri Keuangan AS Scott Bessent menyatakan bahwa Trump tidak membahas Jensen Huang dengan Xi Jinping.",
-      "url": "https://news.detik.com/internasional/d-8762690/menteri-as-trump-tak-bahas-ceo-nvidia-saat-bertemu-xi-jinping",
+      "title": "Suami di Kudus Jual Istri ke Pria Hidung Belang Juga Tawarkan Threesome",
+      "summary": "Pria di Kudus, ATS (39), menjual istrinya ke pria hidung belang di hotel. Ia terlibat dalam grup Facebook yang menawarkan jasa seksual.",
+      "url": "https://news.detik.com/berita/d-8762702/suami-di-kudus-jual-istri-ke-pria-hidung-belang-juga-tawarkan-threesome",
       "source": "Detik",
-      "published": "2026-11-20T19:49:24+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/18/trump-menyapa-xi-jinping-yang-menyambutnya-langsung-di-bandara-shenzhen-china-1794994779910_169.jpeg?w=360&q=90"
+      "published": "2026-11-20T20:47:29+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/20/polisi-menunjukkan-barang-bukti-kasus-suami-jual-istri-saat-rilis-di-mapolres-kudus-jumat-20112026-1795170537549_169.jpeg?w=360&q=90"
     },
     {
       "title": "DPR Kawal Gerakan Lawan Kekerasan Anak di Hari Anak Internasional",
@@ -36,12 +36,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg"
     },
     {
-      "title": "Can the UK and EU turn the page on Brexit?",
-      "summary": "A decade after the Brexit vote, the UK and EU have struck deals. But divisions persist.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/can-the-uk-and-eu-turn-the-page-on-brexit?traffic_source=rss",
+      "title": "Russia complains of ‘new Iron Curtain’ as Estonia shuts its borders",
+      "summary": "Tallinn's decision to shut road border crossings comes after an attack on a drone manufacturer.",
+      "url": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-20T20:51:19+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795207850.jpg?resize=1619%2C1080&quality=80"
+      "published": "2026-11-20T20:30:46+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b00a388-1795203976.jpg?resize=1920%2C1440"
     },
     {
       "title": "JP Morgan boss says he will find ways to offset ‘unfair’ rise in UK tax on banks",
@@ -52,9 +52,5 @@
       "image": "https://i.guim.co.uk/img/media/a2ea0114fa7d8b930b2b6fb3b7c565d76348f5f3/0_0_3028_2423/master/3028.jpg?width=140&quality=85&auto=format&fit=max&s=ac2ad95e3893c94c9fe2d7c13f030ea9"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
