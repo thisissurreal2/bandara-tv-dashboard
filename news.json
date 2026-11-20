@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-20T04:00:45.499631+00:00",
+  "updated_at": "2026-11-20T04:15:28.390033+00:00",
   "national": [
     {
-      "title": "Kebakaran Baduy: 19 Rumah dan 2 Lumbung Padi Hangus, Warga Mengungsi",
-      "summary": "Kebakaran melanda Kampung Cipaler, Baduy Luar, menghanguskan 19 rumah dan 2 lumbung padi. Warga mengungsi.",
-      "url": "https://www.cnnindonesia.com/nasional/20261120101703-20-1429326/kebakaran-baduy-19-rumah-dan-2-lumbung-padi-hangus-warga-mengungsi",
+      "title": "Viral Aksi Satpam Nekat Naik Kap Mobil Ngebut di PIK",
+      "summary": "Seorang satpam viral setelah berusaha menghentikan mobil yang melaju kencang di kawasan Pantai Indah Kapuk (PIK), Jakarta Utara, pada Kamis (19/11).",
+      "url": "https://www.cnnindonesia.com/nasional/20261120101912-16-1429322/viral-aksi-satpam-nekat-naik-kap-mobil-ngebut-di-pik",
       "source": "CNN Indonesia",
-      "published": "2026-11-20T03:56:00+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2023/05/30/ilustrasi-kebakaran_169.jpeg?w=360&q=90"
+      "published": "2026-11-20T04:10:33+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/20/viral-aksi-satpam-pik-nekat-naik-kap-mobil-yang-ngebut-1795144928359_169.jpeg?w=360&q=90"
     },
     {
       "title": "Viral Pemotor Terobos JPO Tebet Eco Park Bahayakan Pejalan Kaki",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9534/live/be6f9f00-e432-11f1-99a1-253766e7ad8b.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
