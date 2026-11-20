@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-20T11:45:26.509802+00:00",
+  "updated_at": "2026-11-20T12:00:48.147520+00:00",
   "national": [
+    {
+      "title": "Zulhas dan Gubernur Lampung Pacu Kebangkitan Industri Kakao Nasional",
+      "summary": "Menko Pangan Zulkifli Hasan dan Gubernur Lampung dorong kebangkitan industri kakao melalui peningkatan produktivitas dan hilirisasi.",
+      "url": "https://news.detik.com/berita/d-8762353/zulhas-dan-gubernur-lampung-pacu-kebangkitan-industri-kakao-nasional",
+      "source": "Detik",
+      "published": "2026-11-20T11:47:29+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/20/peringatan-hari-kakao-indonesia-hki-ke-14-tahun-2026-di-kebun-benih-way-berulu-pt-perkebunan-nusantara-i-regional-7-kecamatan--1795175064282.jpeg?w=360&q=90"
+    },
     {
       "title": "Tabrakan Kereta Siantar Ekspres di Sumut, Sopir Angkot Tewas",
       "summary": "Kecelakaan antara Kereta Api Siantar Ekspres dan angkot di Simalungun menyebabkan satu orang meninggal dan tiga petugas luka. Lokomotif terbakar hebat.",
@@ -16,14 +24,6 @@
       "source": "ANTARA",
       "published": "2026-11-20T11:24:22+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/10/14/1280.jpg"
-    },
-    {
-      "title": "Apresiasi Pemerintah Daerah Berprestasi 2026 Batch III Segera Hadir",
-      "summary": "Detikcom dan Kemendagri hadirkan Apresiasi Pemerintah Daerah Berprestasi 2026. Batch III fokus pada Jawa dan Bali, dengan tiga kategori penghargaan penting.",
-      "url": "https://news.detik.com/berita/d-8762165/apresiasi-pemerintah-daerah-berprestasi-2026-batch-iii-segera-hadir",
-      "source": "Detik",
-      "published": "2026-11-20T11:00:52+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/04/26/mendagri-hadiri-apresiasi-pemerintah-daerah-berprestasi-2026-1777137431687_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
@@ -36,12 +36,12 @@
       "image": "https://i.guim.co.uk/img/media/54da6151ea7baf4c326b9f74ea0f98da416b8954/665_25_4717_3773/master/4717.jpg?width=140&quality=85&auto=format&fit=max&s=7f9bd2ca0ed392f4b3b004b12c901a6f"
     },
     {
-      "title": "EU and UK seal reset deal",
-      "summary": "This is a breaking news story.",
-      "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-uk-seal-reset-deal?traffic_source=rss",
+      "title": "US appoints new cybersecurity chief after series of tech failures",
+      "summary": "Appointee Kirsten Davies says US has the chance to 'dominate the cyber landscape for generations to come'.",
+      "url": "https://www.aljazeera.com/news/2026/11/20/us-appoints-new-cybersecurity-chief-after-series-of-tech-failures?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-20T11:20:19+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2020/09/21e56488f2fd491d9998f32fcd74494d_18.jpeg?resize=1200%2C675"
+      "published": "2026-11-20T11:26:28+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b000640-1795163712.jpg?resize=1920%2C1440"
     },
     {
       "title": "Three Kyiv bridges hit during major Russian missile attack",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5e9/live/350d4310-e4d3-11f1-b045-89fda867dd9a.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
