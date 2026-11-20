@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T17:15:26.671128+00:00",
+  "updated_at": "2026-11-20T17:30:36.929649+00:00",
   "national": [
     {
       "title": "DPR Kawal Gerakan Lawan Kekerasan Anak di Hari Anak Internasional",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Joanne Young’s faith in the justice system is a sign of real changes, but the courts are still catching up",
-      "summary": "Years of reforms by prosecutors and police guided the approach that saw Young’s abusers convicted, though much more remains to be done Hope can be found in the darkest of places. Joanne Young stood outside Winchester crown court on Thursday and said she was relieved – not just for herself and her family – but for women in the future. Young, who was subjected to years of drugging and rape by her husband , who invited other men to assault her, waived her anonymity to speak out. Continue reading...",
-      "url": "https://www.theguardian.com/society/2026/nov/20/joanne-young-faith-in-the-justice-system-changes-but-courts-still-catching-up",
+      "title": "Qatar’s emir calls for diplomacy to end regional conflicts",
+      "summary": "Qatar’s Emir Sheikh Tamim bin Hamad Al Thani called for diplomatic efforts to de-escalate conflicts.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/qatars-emir-calls-for-diplomacy-to-end-regional-conflicts?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-20T17:18:58+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-20-at-17.09.45-1795194670.png?resize=1200%2C675"
+    },
+    {
+      "title": "EU wants ‘closest possible relationship’ with UK after agreeing Brexit reset deal – live",
+      "summary": "President of European Council says EU ‘remains open to have the closest possible relationship’ with the UK Senior correspondent Making today’s reset deal contingent on a further agreement on the level of tuition fees for EU citizens is designed to neutralise the leverage London gets in the next six months, EU sources have said. Senior diplomats had already confirmed this week that the EU would defer the deal on the level of tuition fees for another six months , a move designed to give the UK leverage in parallel negotiations to have the UK included in Made in Europe legislation designed to protect EU supply chains against China. But the move to make the food and drink deal also contingent on a tuition fees deal effectively seeks to neutralise the leverage the UK gets today. This is a serious chess game and shows the EU, again, is willing to speak very warmly about the UK but will play absolute hard ball when it comes to conceding any points to a former member state. It was the same point France was making last night insisting the UK could not have voting rights on legislation in relation to food and drink. During his meeting with businesses in Brussels, PM Burnham said his EU deal would add up to 0.5% to the UK’s GDP. “We’re pretty much there, and it’s a really good deal.” “Treasury analysis out today is saying that now it’s clear up to 0.5% on GDP as a result of the deal. The single biggest growth intervention in this Parliament.” Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/nov/20/uk-eu-european-union-brexit-deal-andy-burnham-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-20T17:09:20+00:00",
-      "image": "https://i.guim.co.uk/img/media/29d9cd1104652204d08aac35e8b9099daebed0d8/0_0_4928_3943/master/4928.jpg?width=140&quality=85&auto=format&fit=max&s=914433ac74a5bfa54a24fa3bcac0fa4a"
+      "published": "2026-11-20T17:16:07+00:00",
+      "image": "https://i.guim.co.uk/img/media/bb99120c2f7d41fd909aef903d962db65654e712/450_38_3420_2737/master/3420.jpg?width=140&quality=85&auto=format&fit=max&s=e9208e429a579acb941382730adfcc93"
     },
     {
       "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
@@ -42,15 +50,11 @@
       "source": "BBC",
       "published": "2026-11-20T16:54:29+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "title": "10 years after divisive Brexit referendum, UK weighs a ‘Breturn’ to the EU",
-      "summary": "Prime Minister Andy Burnham returns from the UK-EU summit with a potential new deal and a new start.",
-      "url": "https://www.aljazeera.com/news/2026/11/20/10-years-after-divisive-brexit-referendum-uk-weighs-a-breturn-to-the-eu?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-20T16:40:35+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ae34c26ed650-1793281062.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: TimeoutError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
