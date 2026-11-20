@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-20T12:15:29.530577+00:00",
+  "updated_at": "2026-11-20T12:30:36.561527+00:00",
   "national": [
+    {
+      "title": "Tito Kukuhkan Agus Fathoni Jadi Ketua Umum DPN IKAPTK 2026-2031",
+      "summary": "Mendagri Tito Karnavian mengukuhkan Dirjen Bina Keuda Kemendagri Agus Fatoni, sebagai Ketua Umum DPN IKAPTK periode 2026-2031.",
+      "url": "https://www.cnnindonesia.com/nasional/20261120190400-20-1429649/tito-kukuhkan-agus-fathoni-jadi-ketua-umum-dpn-ikaptk-2026-2031",
+      "source": "CNN Indonesia",
+      "published": "2026-11-20T12:14:50+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/20/mendagri-kukuhkan-agus-fatoni-sebagai-ketua-umum-dpn-ikaptk-2026-2031-1795175908781_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Penampakan Gedung Tertinggi di Riyadh Rusak Dihantam Rudal Houthi",
       "summary": "Gedung pencakar langit tertinggi di Riyadh terkena hantaman rudal kiriman kelompok Houthi. Sisi bangunan yang terkena rudal tampak mengalami kerusakan.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-20T12:07:55+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/20/gedung-tertinggi-di-riyadh-rusak-dihantam-rudal-houthi-via-reuterssaudi-press-agency-1795176438994_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Polri Duga Posko Kombes IM di Cibinong Jadi Tempat Permufakatan Makar",
-      "summary": "Dalam kasus dugaan makar, Bareskrim Polri menggeledah sebuah rumah di Cibinong, Kabupaten Bogor. Rumah itu diduga jadi posko tempat permufakatan makar.",
-      "url": "https://www.cnnindonesia.com/nasional/20261120180212-12-1429621/polri-duga-posko-kombes-im-di-cibinong-jadi-tempat-permufakatan-makar",
-      "source": "CNN Indonesia",
-      "published": "2026-11-20T12:02:47+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/20/polri-duga-posko-kombes-iim-di-bogor-jadi-tempat-permufakatan-makar-1795173229055_169.jpeg?w=360&q=90"
     },
     {
       "title": "Mendag bertolak ke Brussels siap tanda tangani IEU CEPA",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2303991185-1795171045_6863be-1795172820.jpg?resize=1200%2C630&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
