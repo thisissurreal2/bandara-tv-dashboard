@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T19:15:25.277712+00:00",
+  "updated_at": "2026-11-20T19:30:32.180688+00:00",
   "national": [
     {
       "title": "UNICEF: 1.100 Anak Ukraina Tewas dan Terluka Akibat Perang Tahun Ini",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
-      "title": "White House removes cyber-security chief after series of tech outages",
-      "summary": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports.",
-      "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+      "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
+      "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-20T19:03:56+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/76fa/live/ea62ee60-e4bd-11f1-87df-79d8910e0f29.jpg"
+      "published": "2026-11-20T19:27:49+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a37e/live/01b2ac80-e505-11f1-b40b-5f46e8cf687c.jpg"
     },
     {
-      "title": "Police arrest teacher who missed sentencing after indecent assault conviction",
-      "summary": "Sally-Anne Bowen was found guilty of having sexual relationships with two pupils at a boys’ school in the 1980s A chemistry teacher who had sexual relationships with two pupils at a boys’ school in the late 1980s has been arrested by police in Hampshire after she failed to turn up to her sentencing hearing. Sally-Anne Bowen, 65, could not be found at her home by Metropolitan police officers on Friday morning after a warrant was issued for her arrest, a court heard. Continue reading...",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/20/sally-anne-bowen-police-search-teacher-missed-court-sentencing",
+      "title": "Home Alone sequel reportedly in development with Macaulay Culkin returning",
+      "summary": "Christmas comedy hit is set for a follow-up from the point of view of the father with Seth Rogen as writer and producer A Home Alone sequel is reportedly in development with original star Macaulay Culkin set to return. According to Puck’s Matthew Belloni , Culkin met with Disney executives earlier this year with a pitch for a follow-up and now the project has been met with a green light. The new Home Alone film will bring the 46-year-old back to the franchise as Kevin McCallister for a comedy that, according to Deadline , will be from the father’s point of view. Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/20/home-alone-sequel-macaulay-culkin",
       "source": "The Guardian",
-      "published": "2026-11-20T19:00:11+00:00",
-      "image": "https://i.guim.co.uk/img/media/311ab8da7f054396f1dd576b47069e8b03792e22/304_0_4120_3296/master/4120.jpg?width=140&quality=85&auto=format&fit=max&s=b9430c6c19047b5b3153fa6497e7885e"
+      "published": "2026-11-20T19:18:20+00:00",
+      "image": "https://i.guim.co.uk/img/media/934c182e9fa7feae129f366be38ebe9b1a067b4b/94_0_2400_1920/master/2400.jpg?width=140&quality=85&auto=format&fit=max&s=ef2a63347fd9754baeea3f315a856543"
     },
     {
-      "title": "Former US national security adviser confronted by students on Gaza",
-      "summary": "Former US National Security Adviser Jake Sullivan was confronted by student protesters during a speaking event at MIT.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss",
+      "title": "Belgrade mayor charged with assaulting opposition politician in Serbia",
+      "summary": "Prosecutors say Aleksandar Sapic caused serious facial injuries to a female councillor and seek a three-year sentence.",
+      "url": "https://www.aljazeera.com/news/2026/11/20/belgrade-mayor-charged-with-assaulting-opposition-politician-in-serbia?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-20T18:51:26+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-20-at-18.46.45-1795200514.png?resize=1200%2C675"
+      "published": "2026-11-20T19:15:18+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b00994a-1795201354.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
