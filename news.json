@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-20T07:00:39.640828+00:00",
+  "updated_at": "2026-11-20T07:15:29.811839+00:00",
   "national": [
+    {
+      "title": "Modifikasi Cuaca di Aceh Dimulai, Hujan Digeser ke Laut",
+      "summary": "Pemerintah Aceh dan BNPB luncurkan Operasi Modifikasi Cuaca untuk mitigasi bencana hidrometeorologi. Hujan dialihkan ke laut untuk kurangi risiko banjir.",
+      "url": "https://www.cnnindonesia.com/nasional/20261120124112-20-1429393/modifikasi-cuaca-di-aceh-dimulai-hujan-digeser-ke-laut",
+      "source": "CNN Indonesia",
+      "published": "2026-11-20T07:14:29+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/10/19/operasi-modifikasi-cuaca-di-palembang-1792397653793_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Kapolri Sebut Lulusan Poliran Banten Langsung Kerja di Sejumlah Perusahaan",
       "summary": "Kapolri mengatakan lulusan balai Poliran Banten telah diterima bekerja di sejumlah perusahaan.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-20T06:55:14+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/20/kapolri-cek-program-poliran-di-banten-iqbaldetikcom-1795157100226_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Karyawan RS di Makassar Bawa Kabur Ambulans untuk Nonton Balap Liar",
-      "summary": "Polisi menangkap lima pria, termasuk dua karyawan rumah sakit, yang menggunakan ambulans untuk menonton balap liar di Makassar.",
-      "url": "https://www.cnnindonesia.com/nasional/20261120132017-20-1429420/karyawan-rs-di-makassar-bawa-kabur-ambulans-untuk-nonton-balap-liar",
-      "source": "CNN Indonesia",
-      "published": "2026-11-20T06:39:46+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2024/03/30/ledakan-gudang-amunisi-yon-armed-7105-gs-bantar-gebang_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo dan Xi Jinping perkuat kemitraan strategis Indonesia-China",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
+      "title": "UK and EU to agree youth mobility scheme, BBC understands",
+      "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
+      "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-20T07:14:46+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg"
+    },
+    {
+      "title": "EU and Britain to agree steps towards relations reset",
+      "summary": "A decade after Brexit, London is signalling a willingness to align more closely with the EU on various policies.",
+      "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-britain-to-agree-steps-towards-relations-reset?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-20T07:12:43+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/ap_6a0f3df741591-1779383799.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "Baby born with heart abnormalities ‘didn’t have a chance’ after non-medical free birth, NSW inquest hears",
       "summary": "Inquest into the deaths of four babies after free and home births hears routine checks and follow-up may have saved their lives Four babies who died in New South Wales – three after free births and one after a home birth – might have survived if they had had routine checks and follow-up , a coronial inquest has heard. Baby DH , Baby D , Baby R , and Baby B died in the state’s northern rivers region between 2022 and 2024. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/nov/20/routine-checks-may-have-saved-babies-lives-freebirth-inquest-nsw-ntwnfb",
       "source": "The Guardian",
       "published": "2026-11-20T06:51:54+00:00",
       "image": "https://i.guim.co.uk/img/media/f1717a2a58a718f26e5ea27c390dc3e864b3b906/0_0_3000_2399/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=a6d63bb74b4836b6135a506b431ed05c"
-    },
-    {
-      "title": "‘We don’t want our future decided by the military’: Young Germans protest",
-      "summary": "Ahead of Friday's nationwide rallies, German teenagers explain why they are resisting conscription.",
-      "url": "https://www.aljazeera.com/news/2026/11/20/we-dont-want-our-future-decided-by-the-military-young-germans-protest?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-20T06:20:26+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/WERRING-ONE-1795103856.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "More climate money for Africa? Europe says use what's already pledged",
-      "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
-      "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-20T05:03:43+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04be/live/bd211170-e49f-11f1-a01e-f1ba573bc781.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
