@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-20T05:45:28.911128+00:00",
+  "updated_at": "2026-11-20T06:00:38.253496+00:00",
   "national": [
+    {
+      "title": "Prabowo dan Xi Jinping perkuat kemitraan strategis Indonesia-China",
+      "summary": "Presiden RI Prabowo Subianto dan Presiden Xi Jinping menegaskan komitmen memperkuat kemitraan strategis Indonesia-China ...",
+      "url": "https://www.antaranews.com/berita/5866911/prabowo-dan-xi-jinping-perkuat-kemitraan-strategis-indonesia-china",
+      "source": "ANTARA",
+      "published": "2026-11-20T05:48:53+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/20/1000478414.jpg"
+    },
     {
       "title": "Hinca Demokrat Usul 2 Cawapres yang Diusulkan Presiden Tak Boleh Mundur",
       "summary": "Ketua Dewan Kehormatan Partai Demokrat, Hinca Panjaitan, menegaskan dua cawapres yang diusulkan Prabowo tidak boleh mundur hingga pelantikan.",
@@ -16,14 +24,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-20T05:38:10+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/20/pemprov-dki-1795152028205_169.png?w=360&q=90"
-    },
-    {
-      "title": "Indonesia ikut sambut baik Inggris-Australia beri sanksi ke Israel",
-      "summary": "Menteri luar negeri dari 15 negara, termasuk Indonesia dan Turkiye, menyambut baik sanksi yang dijatuhkan Inggris ...",
-      "url": "https://www.antaranews.com/berita/5866867/indonesia-ikut-sambut-baik-inggris-australia-beri-sanksi-ke-israel",
-      "source": "ANTARA",
-      "published": "2026-11-20T05:20:36+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/10/06/thumbs_b_c_c07ee35c92999df916122029332232bd.jpg"
     }
   ],
   "international": [
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/873A8133-copy-1795121986.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
