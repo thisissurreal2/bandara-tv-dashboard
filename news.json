@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-20T03:45:29.043001+00:00",
+  "updated_at": "2026-11-20T04:00:45.499631+00:00",
   "national": [
     {
-      "title": "Mendagri Raih Penghargaan atas Penguatan Layanan dan Kendali Inflasi",
-      "summary": "Mendagri Tito Karnavian raih penghargaan Tokoh Peningkatan Layanan Publik dan Pengendalian Inflasi Daerah di detikcom Awards 2026, dorong kinerja pemda.",
-      "url": "https://www.cnnindonesia.com/nasional/20261120102334-25-1429324/mendagri-raih-penghargaan-atas-penguatan-layanan-dan-kendali-inflasi",
+      "title": "Kebakaran Baduy: 19 Rumah dan 2 Lumbung Padi Hangus, Warga Mengungsi",
+      "summary": "Kebakaran melanda Kampung Cipaler, Baduy Luar, menghanguskan 19 rumah dan 2 lumbung padi. Warga mengungsi.",
+      "url": "https://www.cnnindonesia.com/nasional/20261120101703-20-1429326/kebakaran-baduy-19-rumah-dan-2-lumbung-padi-hangus-warga-mengungsi",
       "source": "CNN Indonesia",
-      "published": "2026-11-20T03:38:34+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/20/kemendagri-1795141599143_169.jpeg?w=360&q=90"
+      "published": "2026-11-20T03:56:00+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2023/05/30/ilustrasi-kebakaran_169.jpeg?w=360&q=90"
     },
     {
-      "title": "BGN Prioritaskan Perluasan MBG untuk Daerah Terpencil & Tinggi Stunting",
-      "summary": "Kepala BGN Sudaryono menegaskan prioritas perluasan Program MBG ke daerah terpencil dan stunting tinggi, dengan pengawasan ketat dan transparansi anggaran.",
-      "url": "https://news.detik.com/berita/d-8761356/bgn-prioritaskan-perluasan-mbg-untuk-daerah-terpencil-tinggi-stunting",
+      "title": "Viral Pemotor Terobos JPO Tebet Eco Park Bahayakan Pejalan Kaki",
+      "summary": "Video pengendara motor menerobos JPO kawasan Halte Transjakarta Tebet Eco Park, Tebet, Jaksel viral di medsos. Tindakan itu dinilai membahayakan.",
+      "url": "https://news.detik.com/berita/d-8761392/viral-pemotor-terobos-jpo-tebet-eco-park-bahayakan-pejalan-kaki",
       "source": "Detik",
-      "published": "2026-11-20T03:28:23+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/20/kepala-bgn-tegaskan-mbg-harus-berdampak-nyata-bagi-perputaran-ekonomi-1795144919491_169.jpeg?w=360&q=90"
+      "published": "2026-11-20T03:51:23+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/20/video-pengendara-motor-menerobos-jpo-kawasan-halte-transjakarta-tebet-eco-park-tebet-jaksel-viral-di-medsos-tindakan-itu-dinil-1795146639944_169.png?w=360&q=90"
     },
     {
-      "title": "Menhut tegaskan tak akan terbitkan PPKH tambang di TN Ujung Kulon",
-      "summary": "Menteri Kehutanan (Menhut) Raja Juli Antoni menegaskan tidak akan menerbitkan Persetujuan Penggunaan Kawasan Hutan ...",
-      "url": "https://www.antaranews.com/berita/5866595/menhut-tegaskan-tak-akan-terbitkan-ppkh-tambang-di-tn-ujung-kulon",
+      "title": "Rumah warga Badui Luar terbakar mencapai 35 unit",
+      "summary": "Rumah warga Badui Luar yang terbakar kini mencapai 35 unit, termasuk lumbung pangan dan saung lisung di Kampung ...",
+      "url": "https://www.antaranews.com/berita/5866707/rumah-warga-badui-luar-terbakar-mencapai-35-unit",
       "source": "ANTARA",
-      "published": "2026-11-20T02:09:38+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2022/08/19/WhatsApp-Image-2022-08-19-at-10.20.12.jpeg"
+      "published": "2026-11-20T03:15:12+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/04/24/Ribuan-warga-suku-badui-ikuti-tradisi-seba-240426-bk-3_1.jpg"
     }
   ],
   "international": [
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9534/live/be6f9f00-e432-11f1-99a1-253766e7ad8b.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
