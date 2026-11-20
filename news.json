@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-20T05:30:35.110169+00:00",
+  "updated_at": "2026-11-20T05:45:28.911128+00:00",
   "national": [
     {
-      "title": "Update Kasus Penyadapan, Ada Dugaan Melumpuhkan Pemerintahan Prabowo",
-      "summary": "Menko Kumham Yusril Ihza Mahendra ungkap temuan baru dalam kasus penyadapan Presiden Prabowo Subianto, kini berkembang ke dugaan tindak pidana makar.",
-      "url": "https://www.cnnindonesia.com/nasional/20261120085852-12-1429278/update-kasus-penyadapan-ada-dugaan-melumpuhkan-pemerintahan-prabowo",
+      "title": "Hinca Demokrat Usul 2 Cawapres yang Diusulkan Presiden Tak Boleh Mundur",
+      "summary": "Ketua Dewan Kehormatan Partai Demokrat, Hinca Panjaitan, menegaskan dua cawapres yang diusulkan Prabowo tidak boleh mundur hingga pelantikan.",
+      "url": "https://news.detik.com/berita/d-8761563/hinca-demokrat-usul-2-cawapres-yang-diusulkan-presiden-tak-boleh-mundur",
+      "source": "Detik",
+      "published": "2026-11-20T05:41:00+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/02/23/hinca-pandjaitan-1771827881284_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "Sinergi Pemprov DKI dan OJK Dukung Pertumbuhan Ekonomi Jakarta",
+      "summary": "Gubernur Pramono menyatakan penguatan sinergi antara Pemprov DKI Jakarta dan OJK penting untuk menjaga stabilitas serta mendorong pertumbuhan ekonomi Jakarta.",
+      "url": "https://www.cnnindonesia.com/nasional/20261120121730-25-1429381/sinergi-pemprov-dki-dan-ojk-dukung-pertumbuhan-ekonomi-jakarta",
       "source": "CNN Indonesia",
-      "published": "2026-11-20T05:28:49+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/12/yusril-ihza-mahendra-1794482724690_169.jpeg?w=360&q=90"
+      "published": "2026-11-20T05:38:10+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/20/pemprov-dki-1795152028205_169.png?w=360&q=90"
     },
     {
       "title": "Indonesia ikut sambut baik Inggris-Australia beri sanksi ke Israel",
@@ -16,14 +24,6 @@
       "source": "ANTARA",
       "published": "2026-11-20T05:20:36+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/10/06/thumbs_b_c_c07ee35c92999df916122029332232bd.jpg"
-    },
-    {
-      "title": "2 Polisi Luka Usai Diteriaki 'Tabrak Lari' hingga Mobil Ditemploki Sekuriti",
-      "summary": "Mobil polisi dikejar sekuriti di PIK setelah dituduh tabrak lari. Dua anggota polisi terluka. Penyelidikan sedang dilakukan untuk klarifikasi kejadian.",
-      "url": "https://news.detik.com/berita/d-8761512/2-polisi-luka-usai-diteriaki-tabrak-lari-hingga-mobil-ditemploki-sekuriti",
-      "source": "Detik",
-      "published": "2026-11-20T05:07:58+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/08/06/polres-metro-jakarta-barat-memusnahkan-bahan-baku-narkoba-rp-119-miliar-1785986320535_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
@@ -37,7 +37,7 @@
     },
     {
       "title": "Kellie Sloane says she’s ‘pretty sure’ NSW Liberals exodus is over after Mark Speakman resigns",
-      "summary": "Former NSW opposition leader warns party against being ‘One Nation lite’ as he became eighth out of 24 Liberal MPs not to recontest seat in March Get our breaking news email , free app or daily news podcast The New South Wales opposition leader, Kellie Sloane, says she is “pretty sure” the exodus of Liberals before the March state election has finished, after Mark Speakman became the eighth MP to decide not to recontest their lower house seats. In a late-night speech on Thursday, the final sitting day of NSW’s legislative assembly before the vote, Speakman said he would not run again in his south Sydney seat of Cronulla, which he has held since 2011. Continue reading...",
+      "summary": "Former opposition leader warns party against being ‘One Nation lite’ as he becomes eighth out of 24 Liberal MPs not to recontest seat in March Get our daily political email , free app or daily news podcast The New South Wales opposition leader, Kellie Sloane, says she is “pretty sure” the exodus of Liberals before the March state election has finished, after Mark Speakman became the eighth MP to decide not to recontest their lower house seats. In a late-night speech on Thursday, the final sitting day of NSW’s legislative assembly before the vote, Speakman said he would not run again in his south Sydney seat of Cronulla, which he has held since 2011. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
       "source": "The Guardian",
       "published": "2026-11-20T05:02:16+00:00",
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/873A8133-copy-1795121986.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
