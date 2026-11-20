@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-20T19:45:34.143203+00:00",
+  "updated_at": "2026-11-20T20:00:39.538460+00:00",
   "national": [
     {
-      "title": "UNICEF: 1.100 Anak Ukraina Tewas dan Terluka Akibat Perang Tahun Ini",
-      "summary": "UNICEF melaporkan 1.144 anak tewas atau terluka akibat perang Ukraina-Rusia pada 2026. Angka ini meningkat signifikan dibanding tahun lalu.",
-      "url": "https://news.detik.com/internasional/d-8762683/unicef-1-100-anak-ukraina-tewas-dan-terluka-akibat-perang-tahun-ini",
+      "title": "Menteri AS: Trump Tak Bahas CEO Nvidia Saat Bertemu Xi Jinping",
+      "summary": "Menteri Keuangan AS Scott Bessent menyatakan bahwa Trump tidak membahas Jensen Huang dengan Xi Jinping.",
+      "url": "https://news.detik.com/internasional/d-8762690/menteri-as-trump-tak-bahas-ceo-nvidia-saat-bertemu-xi-jinping",
       "source": "Detik",
-      "published": "2026-11-20T18:57:55+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/21/ukraine-russia-conflict-war-1792520442799_169.jpeg?w=360&q=90"
+      "published": "2026-11-20T19:49:24+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/18/trump-menyapa-xi-jinping-yang-menyambutnya-langsung-di-bandara-shenzhen-china-1794994779910_169.jpeg?w=360&q=90"
     },
     {
       "title": "DPR Kawal Gerakan Lawan Kekerasan Anak di Hari Anak Internasional",
@@ -28,28 +28,28 @@
   ],
   "international": [
     {
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-20T19:51:52+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg"
+    },
+    {
+      "title": "Indian man sentenced to 19 years in US Sikh separatist assassination plot",
+      "summary": "Nikhil Gupta jailed for conspiring to hire a hitman to kill New York-based Sikh leader, Gurpatwant Singh Pannun.",
+      "url": "https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-20T19:40:07+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2024-06-17T180407Z_156680698_RC2ZC8AK45JD_RTRMADP_3_USA-INDIA-SIKH-1795199072.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "JP Morgan boss says he will set ‘example’ in offsetting UK tax hike on banks",
-      "summary": "Jamie Dimon said he would seek to claw back added costs of ‘unfair penalties’ as bank surcharge rises in January Jamie Dimon, the chief executive of JP Morgan, has said he will find ways to offset the chancellor’s tax hike on banks, calling the increase unfair. Speaking at an event in London on Thursday, Dimon said he would seek to claw back the increase and was “setting an example so that [governments] understand the trade-offs of these unfair penalties”. Continue reading...",
+      "summary": "Jamie Dimon said he would seek to claw back added costs of ‘unfair penalties’ as bank surcharge rises in January Jamie Dimon, the chief executive of JP Morgan, has said he will find ways to offset the chancellor’s tax rise for banks, calling the increase unfair. Speaking at an event in London on Thursday, Dimon said he would seek to claw back the increase and was “setting an example so that [governments] understand the trade-offs of these unfair penalties”. Continue reading...",
       "url": "https://www.theguardian.com/business/2026/nov/20/jp-morgan-jamie-dimon-uk-tax-hike-bank-surcharge",
       "source": "The Guardian",
       "published": "2026-11-20T19:38:59+00:00",
       "image": "https://i.guim.co.uk/img/media/a2ea0114fa7d8b930b2b6fb3b7c565d76348f5f3/0_0_3028_2423/master/3028.jpg?width=140&quality=85&auto=format&fit=max&s=ac2ad95e3893c94c9fe2d7c13f030ea9"
-    },
-    {
-      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-      "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-20T19:38:46+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
-    },
-    {
-      "title": "Former US national security adviser confronted by students on Gaza",
-      "summary": "Former US National Security Adviser Jake Sullivan was confronted by student protesters during a speaking event at MIT.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/former-us-national-security-adviser-confronted-by-students-on-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-20T18:51:26+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-20-at-18.46.45-1795200514.png?resize=1200%2C675"
     }
   ],
   "feed_warnings": []
