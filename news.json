@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T20:45:31.335179+00:00",
+  "updated_at": "2026-11-20T21:00:39.999713+00:00",
   "national": [
     {
       "title": "Menteri AS: Trump Tak Bahas CEO Nvidia Saat Bertemu Xi Jinping",
@@ -32,16 +32,16 @@
       "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
       "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-20T20:35:26+00:00",
+      "published": "2026-11-20T20:54:12+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09a4/live/7e18d7e0-e514-11f1-b40b-5f46e8cf687c.jpg"
     },
     {
-      "title": "Israeli drone attacks kill seven Palestinians in central Gaza",
-      "summary": "Drones cause 'fear and panic' among Palestinians as Israel continues attacks on the Strip despite 'ceasefire'.",
-      "url": "https://www.aljazeera.com/news/2026/11/20/israeli-drone-attacks-kill-seven-palestinians-in-central-gaza?traffic_source=rss",
+      "title": "Can the UK and EU turn the page on Brexit?",
+      "summary": "A decade after the Brexit vote, the UK and EU have struck deals. But divisions persist.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/can-the-uk-and-eu-turn-the-page-on-brexit?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-20T20:14:56+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afe4b7f56bb-1795050367.jpg?resize=1920%2C1440"
+      "published": "2026-11-20T20:51:19+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795207850.jpg?resize=1619%2C1080&quality=80"
     },
     {
       "title": "JP Morgan boss says he will find ways to offset ‘unfair’ rise in UK tax on banks",
@@ -52,5 +52,9 @@
       "image": "https://i.guim.co.uk/img/media/a2ea0114fa7d8b930b2b6fb3b7c565d76348f5f3/0_0_3028_2423/master/3028.jpg?width=140&quality=85&auto=format&fit=max&s=ac2ad95e3893c94c9fe2d7c13f030ea9"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
