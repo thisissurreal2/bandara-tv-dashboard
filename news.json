@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T17:45:28.125435+00:00",
+  "updated_at": "2026-11-20T18:00:51.828404+00:00",
   "national": [
     {
       "title": "Mortir Sisa Perang Meledak di Afghanistan, 4 Siswa Tewas",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Joanne Young’s faith in justice system is sign of real change, but courts are still catching up",
-      "summary": "Young’s abusers were convicted through suspect-centric prosecution, though much more needs to be done for victims Hope can be found in the darkest of places. Joanne Young stood outside Winchester crown court on Thursday and said she was relieved – not just for herself and her family – but for women in the future. Young, who was subjected to years of drugging and rape by her husband , who invited other men to assault her, waived her anonymity to speak out. Continue reading...",
-      "url": "https://www.theguardian.com/society/2026/nov/20/joanne-young-faith-in-the-justice-system-changes-but-courts-still-catching-up",
+      "title": "US tech sell-off continues as Anthropic tumbles after mega IPO",
+      "summary": "Anthropic's listing had been viewed as a potential boost for an industry struggling to regain its footing.",
+      "url": "https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-20T17:44:18+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26323517703173-1-1795152356.jpg?resize=1920%2C1440"
+    },
+    {
+      "title": "Two men killed after glider crashes into Loch Leven in Scotland",
+      "summary": "The pair had flown from the Scottish Gliding Centre at Portmoak on a training flight Two men have been killed after their glider crashed into Loch Leven, a large body of water in Perth and Kinross, on Friday morning. Police Scotland said their bodies were recovered from the loch by the emergency services after the alarm was raised at 11.05am on Friday. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/20/glider-crash-loch-leven-scotland",
       "source": "The Guardian",
-      "published": "2026-11-20T17:39:06+00:00",
-      "image": "https://i.guim.co.uk/img/media/29d9cd1104652204d08aac35e8b9099daebed0d8/0_0_4928_3943/master/4928.jpg?width=140&quality=85&auto=format&fit=max&s=914433ac74a5bfa54a24fa3bcac0fa4a"
+      "published": "2026-11-20T17:42:49+00:00",
+      "image": "https://i.guim.co.uk/img/media/1bc5d6528fffb77fd43df00d13fd01e0368a51dc/324_0_3240_2592/master/3240.jpg?width=140&quality=85&auto=format&fit=max&s=079283b9682e92400e0307b74d9f321e"
     },
     {
       "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
@@ -42,14 +50,6 @@
       "source": "BBC",
       "published": "2026-11-20T17:36:29+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
-    },
-    {
-      "title": "Protests held across Europe over wages, services, high living costs",
-      "summary": "Workers and students take to the streets as protests inspired by demonstrations in France show no sign of abating.",
-      "url": "https://www.aljazeera.com/news/2026/11/20/protests-held-across-europe-over-wages-services-high-living-costs?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-20T17:32:32+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b006cd033bc-1795189968.jpg?resize=1920%2C1440"
     }
   ],
   "feed_warnings": []
