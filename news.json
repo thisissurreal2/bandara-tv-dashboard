@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-20T07:15:29.811839+00:00",
+  "updated_at": "2026-11-20T07:30:33.239148+00:00",
   "national": [
     {
-      "title": "Modifikasi Cuaca di Aceh Dimulai, Hujan Digeser ke Laut",
-      "summary": "Pemerintah Aceh dan BNPB luncurkan Operasi Modifikasi Cuaca untuk mitigasi bencana hidrometeorologi. Hujan dialihkan ke laut untuk kurangi risiko banjir.",
-      "url": "https://www.cnnindonesia.com/nasional/20261120124112-20-1429393/modifikasi-cuaca-di-aceh-dimulai-hujan-digeser-ke-laut",
+      "title": "Respons GMTD Soal Putusan atas Gugatan ke Hadji Kalla",
+      "summary": "PT GMTD buka suara soal kabar Pengadilan Negeri Makassar menolak gugatan mereka atas perkara sengketa lahan seluas sekitar 16 hektare dengan PT Hadji Kalla.",
+      "url": "https://www.cnnindonesia.com/nasional/20261120135851-12-1429442/respons-gmtd-soal-putusan-atas-gugatan-ke-hadji-kalla",
       "source": "CNN Indonesia",
-      "published": "2026-11-20T07:14:29+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/10/19/operasi-modifikasi-cuaca-di-palembang-1792397653793_169.jpeg?w=360&q=90"
+      "published": "2026-11-20T07:27:27+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2024/02/04/ilustrasi-hukum_169.jpeg?w=360&q=90"
     },
     {
       "title": "Kapolri Sebut Lulusan Poliran Banten Langsung Kerja di Sejumlah Perusahaan",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Vape users hospitalised after losing consciousness, prompting public health warning in New South Wales",
+      "summary": "NSW health issues public warning about vape liquids containing etomidate, a strong and fast-acting sedative used as a general anaesthetic overseas Three people who lost consciousness and were hospitalised in New South Wales after using certain vapes have tested positive for the unregulated anaesthetic agent etomidate, health officials have said. NSW health on Friday issued a public warning about vape liquids containing etomidate, a strong and fast-acting sedative used as a general anaesthetic overseas but not registered for medical use in Australia. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/20/vape-users-hospitalised-after-losing-consciousness-prompting-public-health-warning-in-new-south-wales",
+      "source": "The Guardian",
+      "published": "2026-11-20T07:17:01+00:00",
+      "image": "https://i.guim.co.uk/img/media/a8c083df952ff966868d4c06e9dd4da0fa335d1a/481_0_3661_2929/master/3661.jpg?width=140&quality=85&auto=format&fit=max&s=5df6a99a90c9e39471ef25a952defa4a"
+    },
+    {
       "title": "UK and EU to agree youth mobility scheme, BBC understands",
       "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table.",
       "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
@@ -36,20 +44,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07f/live/98894190-e498-11f1-9cd2-85bef55939bc.jpg"
     },
     {
-      "title": "EU and Britain to agree steps towards relations reset",
-      "summary": "A decade after Brexit, London is signalling a willingness to align more closely with the EU on various policies.",
-      "url": "https://www.aljazeera.com/news/2026/11/20/eu-and-britain-to-agree-steps-towards-relations-reset?traffic_source=rss",
+      "title": "‘We don’t want our future decided by the military’: Young Germans protest",
+      "summary": "Ahead of Friday's nationwide rallies, German teenagers explain why they are resisting conscription.",
+      "url": "https://www.aljazeera.com/news/2026/11/20/we-dont-want-our-future-decided-by-the-military-young-germans-protest?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-20T07:12:43+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/05/ap_6a0f3df741591-1779383799.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Baby born with heart abnormalities ‘didn’t have a chance’ after non-medical free birth, NSW inquest hears",
-      "summary": "Inquest into the deaths of four babies after free and home births hears routine checks and follow-up may have saved their lives Four babies who died in New South Wales – three after free births and one after a home birth – might have survived if they had had routine checks and follow-up , a coronial inquest has heard. Baby DH , Baby D , Baby R , and Baby B died in the state’s northern rivers region between 2022 and 2024. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/20/routine-checks-may-have-saved-babies-lives-freebirth-inquest-nsw-ntwnfb",
-      "source": "The Guardian",
-      "published": "2026-11-20T06:51:54+00:00",
-      "image": "https://i.guim.co.uk/img/media/f1717a2a58a718f26e5ea27c390dc3e864b3b906/0_0_3000_2399/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=a6d63bb74b4836b6135a506b431ed05c"
+      "published": "2026-11-20T06:20:26+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/WERRING-ONE-1795103856.jpg?resize=1920%2C1440"
     }
   ],
   "feed_warnings": [
