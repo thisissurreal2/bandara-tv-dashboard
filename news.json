@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T23:15:27.481290+00:00",
+  "updated_at": "2026-11-20T23:30:34.080678+00:00",
   "national": [
     {
       "title": "Israel Masih Terus Serang Gaza, 6 Orang Tewas dalam Sehari",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
-      "title": "NSW passes Mount Pleasant coalmine law as Greens claim change an attempt to head off One Nation",
-      "summary": "Labor says allowing mine to increase production reflects ‘gravity of situation facing hundreds of workers’ – but critics call it ‘unprecedented and dangerous’ Get our breaking news email , free app or daily news podcast The New South Wales government has passed special legislation to allow a coalmine in the Hunter Valley to increase production by 32% in its final act of parliament before the March state election, in which the region will be a key battleground for One Nation. After a marathon session in the legislative council on Friday, the Minns government and the Coalition voted at 1.36am on Saturday morning to allow the Mount Pleasant mine to increase its annual extraction rate from 12.5MT to 16.5MT until 2032. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/21/nsw-passes-hunter-valley-coalmine-law-as-greens-claim-change-an-attempt-to-head-off-one-nation-ntwnfb",
-      "source": "The Guardian",
-      "published": "2026-11-20T23:09:57+00:00",
-      "image": "https://i.guim.co.uk/img/media/b24b376c3c4ded825f413fd2ac48655f5fcb5e3c/480_0_4800_3840/master/4800.jpg?width=140&quality=85&auto=format&fit=max&s=0bf10c399ce4d8386b40e0e8eef67063"
-    },
-    {
-      "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
-      "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-20T22:42:47+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
-    },
-    {
-      "title": "US lawmakers push for tougher AI chip rules amid China export crackdown",
-      "summary": "Washington has new rules restricting remote access to advanced US AI chips, but lawmakers want more.",
-      "url": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss",
+      "title": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
+      "summary": "India’s opposition leader Rahul Gandhi, says New Delhi should continue to maintain strong ties with Israel.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-20T22:15:07+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b00920d55d3-1795199501.jpg?resize=1920%2C1440"
+      "published": "2026-11-20T23:20:50+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/cms-wide-thumb-raga2011-1795216805.png?resize=1920%2C1080&quality=80"
+    },
+    {
+      "title": "These dead pets were meant to be cremated - then their bodies appeared on a livestream",
+      "summary": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.",
+      "url": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-20T23:20:33+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4bc/live/7ab356d0-e4f5-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "title": "Man accused of sparking deadly Los Angeles wildfire found guilty",
+      "summary": "Verdict in case against former Uber driver Jonathan Rinderknecht comes after first trial ended with hung jury The 30-year-old accused of sparking the deadly Palisades fire in Los Angeles was found guilty of two federal arson charges in a Friday verdict that came months after his first trial concluded with a hung jury. For two weeks, a fresh batch of jurors listened to prosecutors mount their case against Jonathan Rinderknecht. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict",
+      "source": "The Guardian",
+      "published": "2026-11-20T23:20:29+00:00",
+      "image": "https://i.guim.co.uk/img/media/9ac7a13c61ac09c8989f886adde8097c03d0fc03/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=4513785efb37d1da06beb027b45f87f7"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
