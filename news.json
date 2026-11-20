@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-20T18:00:51.828404+00:00",
+  "updated_at": "2026-11-20T18:15:38.956380+00:00",
   "national": [
     {
-      "title": "Mortir Sisa Perang Meledak di Afghanistan, 4 Siswa Tewas",
-      "summary": "Ledakan cangkang mortir di madrasah Farah, Afghanistan, menewaskan empat siswa dan melukai dua lainnya.",
-      "url": "https://news.detik.com/internasional/d-8762678/mortir-sisa-perang-meledak-di-afghanistan-4-siswa-tewas",
+      "title": "Gempa M 4,6 Terjadi di Sukabumi",
+      "summary": "Gempa magnitudo 4,6 mengguncang Sukabumi, Jabar, pada kedalaman 17 km. Terasa hingga Cimahi dan Bandung.",
+      "url": "https://news.detik.com/berita/d-8762681/gempa-m-4-6-terjadi-di-sukabumi",
       "source": "Detik",
-      "published": "2026-11-20T17:23:41+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/09/12/ilustrasi-garis-polisi-1789204756287_169.jpeg?w=360&q=90"
+      "published": "2026-11-20T18:13:42+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2024/08/27/ilustrasi-gempa_169.jpeg?w=360&q=90"
     },
     {
       "title": "DPR Kawal Gerakan Lawan Kekerasan Anak di Hari Anak Internasional",
@@ -28,28 +28,28 @@
   ],
   "international": [
     {
-      "title": "US tech sell-off continues as Anthropic tumbles after mega IPO",
-      "summary": "Anthropic's listing had been viewed as a potential boost for an industry struggling to regain its footing.",
-      "url": "https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-20T17:44:18+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26323517703173-1-1795152356.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Two men killed after glider crashes into Loch Leven in Scotland",
-      "summary": "The pair had flown from the Scottish Gliding Centre at Portmoak on a training flight Two men have been killed after their glider crashed into Loch Leven, a large body of water in Perth and Kinross, on Friday morning. Police Scotland said their bodies were recovered from the loch by the emergency services after the alarm was raised at 11.05am on Friday. Continue reading...",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/20/glider-crash-loch-leven-scotland",
+      "title": "UK operation wards off risk of cyber-attack on supermarket fridges and freezers",
+      "summary": "News of vulnerability comes after retailers in at least seven European countries hit by cyber-attacks A secret government cybersecurity operation recently warded off the risk of a cyber-attack on fridges and freezers in UK supermarkets, warehouses, restaurants, petrol stations and stadiums, it has emerged. An attack would have been similar to those that have caused many millions of euros of damage in continental Europe in recent months. But, while many retailers have now been protected, researchers warned that many more could still be vulnerable. Continue reading...",
+      "url": "https://www.theguardian.com/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers",
       "source": "The Guardian",
-      "published": "2026-11-20T17:42:49+00:00",
-      "image": "https://i.guim.co.uk/img/media/1bc5d6528fffb77fd43df00d13fd01e0368a51dc/324_0_3240_2592/master/3240.jpg?width=140&quality=85&auto=format&fit=max&s=079283b9682e92400e0307b74d9f321e"
+      "published": "2026-11-20T18:06:52+00:00",
+      "image": "https://i.guim.co.uk/img/media/3ba762c70e9c188fc6533e353ffe9c2e077e95c6/0_0_4183_3347/master/4183.jpg?width=140&quality=85&auto=format&fit=max&s=2e252d83e1e5acf197ba4a3668df8463"
     },
     {
-      "title": "Anthropic shares fall after blockbuster opening as wider tech sell-off continues",
-      "summary": "Other tech companies have also taken a hit as share markets broadly slump.",
-      "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+      "title": "Mamdani unveils plan to close New York’s Rikers Island by 2032",
+      "summary": "The plan would replace the jail complex with four smaller jails and reduce the number of people behind bars.",
+      "url": "https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-20T17:54:55+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b007fd203283-1795194834.jpg?resize=1920%2C1440"
+    },
+    {
+      "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+      "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February.",
+      "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-20T17:36:29+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d5/live/7b6fe9b0-e4ed-11f1-8781-bf15c9202663.jpg"
+      "published": "2026-11-20T17:54:37+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a37e/live/01b2ac80-e505-11f1-b40b-5f46e8cf687c.jpg"
     }
   ],
   "feed_warnings": []
