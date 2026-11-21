@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-21T05:00:38.634998+00:00",
+  "updated_at": "2026-11-21T05:15:27.547381+00:00",
   "national": [
     {
-      "title": "Pria Bawa 11,6 Kg Sabu Sempat Mondar-mandir Sebelum Ditangkap di Tanjung Priok",
-      "summary": "Pria berinisial M ditangkap usai membawa sabu 11,675 kg di Pelabuhan Tanjung Priok. Penangkapan bermula dari kecurigaan petugas terhadap gerak-gerik pelaku.",
-      "url": "https://news.detik.com/berita/d-8763014/pria-bawa-11-6-kg-sabu-sempat-mondar-mandir-sebelum-ditangkap-di-tanjung-priok",
+      "title": "Iran Tepis AS Soal Bom Kimia, Ungkit Klaim Senjata Pemusnah Massal Irak",
+      "summary": "Iran menepis tuduhan AS soal Teheran mengembangkan bom kimia. Iran mengungkit klaim terdahulu AS, yang terbukti keliru, soal senjata pemusnah massal Irak.",
+      "url": "https://news.detik.com/internasional/d-8763089/iran-tepis-as-soal-bom-kimia-ungkit-klaim-senjata-pemusnah-massal-irak",
       "source": "Detik",
-      "published": "2026-11-21T04:34:02+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/21/polisi-bongkar-penyelundupan-116-kg-sabu-di-tanjung-priok-1795231207679_169.jpeg?w=360&q=90"
+      "published": "2026-11-21T05:15:04+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/06/25/juru-bicara-kementerian-luar-negeri-iran-esmaeil-baghaei-1782381138407_169.jpeg?w=360&q=90"
     },
     {
       "title": "Momen Prabowo Tiba di Tanah Air usai Lawatan Luar Negeri",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Teenager allegedly organised arsons and kidnapping on Signal during Melbourne hospitality wars",
-      "summary": "Victoria police say boy, 17, communicated with offenders under username ‘Onepercent’ Get our breaking news email , free app or daily news podcast Victorian police allege a 17-year-old boy tasked others to carry out a series of arsons, home invasions and a mistaken identity kidnapping that resulted in the partial amputation of a victim’s finger during Melbourne’s hospitality wars. The boy, who was arrested on Friday afternoon, allegedly communicated with the offenders under the username “Onepercent” on the encrypted communications app Signal. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
+      "title": "‘So what if there’s a hole? It hasn’t collapsed’: Kyiv residents unbothered by Russian attacks on city’s bridges",
+      "summary": "Despite dodging tears in the tarmac, people are confident in city’s infrastructure – and will not worry about what has not happened yet Mykola expects to drive his battered beige passenger minibus 20 to 24 times a day past the holes in the road on Kyiv’s damaged Northern Bridge that were caused by a Russian ballistic missile attack on Tuesday. Buses are now the only motor transport allowed across the normally busy multi-lane crossing, though on their way into the city centre they have to skirt the tears in the tarmac, using the only functioning lane to get by. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges",
       "source": "The Guardian",
-      "published": "2026-11-21T04:44:00+00:00",
-      "image": "https://i.guim.co.uk/img/media/99136bef967ae4aba72dfc6e04e06a4ec0dc1eab/0_1497_4284_3427/master/4284.jpg?width=140&quality=85&auto=format&fit=max&s=cb1363336ef34583a49d6bf4a024f358"
+      "published": "2026-11-21T05:00:50+00:00",
+      "image": "https://i.guim.co.uk/img/media/6d132cb3da5f06c121f49b617e424621050b17ce/188_0_5624_4500/master/5624.jpg?width=140&quality=85&auto=format&fit=max&s=b518285330ac63c934be7240c7e3a2f5"
     },
     {
       "title": "Man convicted of starting Palisades fire in Los Angeles",
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b010dd74d22-1795231191.jpg?resize=1200%2C675"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
