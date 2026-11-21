@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-21T19:00:34.959221+00:00",
+  "updated_at": "2026-11-21T19:15:26.301189+00:00",
   "national": [
     {
-      "title": "Pramono Bicara Wajah Baru Ancol yang Terhubung ke JIS: Dulu Serem, Kini Cerah",
-      "summary": "Pramono Anung mengungkap transformasi Ancol dan koneksinya dengan JIS, menjadikan Jakarta epicentrum acara besar dan mendukung pertumbuhan ekonomi.",
-      "url": "https://news.detik.com/berita/d-8763900/pramono-bicara-wajah-baru-ancol-yang-terhubung-ke-jis-dulu-serem-kini-cerah",
+      "title": "Polisi Bongkar Prostitusi Online di Apartemen Cikarang, 3 Orang Ditangkap",
+      "summary": "Polres Metro Bekasi ungkap praktik prostitusi online melibatkan anak di bawah umur. Tiga pelaku ditangkap, dan korban ditawarkan melalui aplikasi MiChat.",
+      "url": "https://news.detik.com/berita/d-8763940/polisi-bongkar-prostitusi-online-di-apartemen-cikarang-3-orang-ditangkap",
       "source": "Detik",
-      "published": "2026-11-21T17:55:24+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/21/gubernur-dki-jakarta-pramono-anung-di-kawasan-ancol-jakarta-utara-sabtu-21112026-rumondangdetikcom-1795260223488_169.jpeg?w=360&q=90"
+      "published": "2026-11-21T19:10:26+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/22/polisi-menunjukkan-barang-bukti-tindak-pidana-prostitusi-daring-dari-sebuah-hunian-vertikal-di-jalan-inspeksi-kalimalang-desa--1795284579348_169.jpeg?w=360&q=90"
     },
     {
       "title": "City tertahan di Etihad, Fulham putus rentetan kekalahan",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Louisiana man charged with killing woman on hiking trail and murdering co-worker with crossbow",
-      "summary": "Jared Schurr arrested in Mississippi after Lizeht Rodriguez and Woodrow Scott died in otherwise unrelated killings A man recently strangled a woman to death whom he did not know along a hiking trail north of New Orleans – then killed his co-worker with a crossbow two days later before being arrested in Mississippi after a police chase, authorities allege. Jared Schurr, 36, faces counts of second-degree murder in the killings of Lizeht Rodriguez, 24, and Woodrow Scott, 37, on 11 and 13 November, respectively, investigators said on Saturday. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/21/louisiana-mississippi-hiking-trail-crossbow-murder-charges",
+      "title": "‘Six, seven, maybe more preventable deaths’: Queensland’s LNP faces reckoning over broken health system",
+      "summary": "A government in office for more than two years is finally forced to take responsibility and seemingly no longer able to blame its Labor predecessors Get our daily political email , free app or daily news podcast At the beginning of another Queensland parliamentary sitting week, anonymous sources were out in force, this time background briefing against the state’s Labor leader, Steven Miles. It is no great revelation to observers of Queensland politics that Miles, still seemingly bruised from his election loss two years ago, has struggled to find his feet as opposition leader. Many wondered why he wanted to stay on after the party’s drubbing in 2024. Some of Labor’s factional whisperers were telling anyone who would listen that the former premier’s leadership would come to an end in the weeks before Christmas. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/22/queensland-health-ambulance-deaths-lnp-labor-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-21T18:50:00+00:00",
-      "image": "https://i.guim.co.uk/img/media/f4c6abe204a85016df59a803d74bfc353e054666/430_0_4250_3400/master/4250.jpg?width=140&quality=85&auto=format&fit=max&s=7eaeafaffdf4267ef1ced9659ed1e84c"
+      "published": "2026-11-21T19:00:08+00:00",
+      "image": "https://i.guim.co.uk/img/media/e9bb488d6f56a808e4c08a19e1ddea696735455d/410_0_2606_2085/master/2606.jpg?width=140&quality=85&auto=format&fit=max&s=4f36239acbfcd8f7333ae1e3de2f8bf2"
+    },
+    {
+      "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
+      "summary": "Russia launched more than 400 drones and 110 missiles across Ukraine overnight, killing at least seven in Kyiv.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-21T18:42:38+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795286551.jpg?resize=1920%2C1080&quality=80"
     },
     {
       "title": "Russia-bound ship attacked in Gulf of Finland",
@@ -42,19 +50,7 @@
       "source": "BBC",
       "published": "2026-11-21T18:22:09+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cee/live/4e2fa7a0-e5c5-11f1-a738-4787e1a18cce.jpg"
-    },
-    {
-      "title": "FBI national crime database suffers suspected breach: Reports",
-      "summary": "The reported hacking is the latest in ​a string of breaches and outages affecting the US government.",
-      "url": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-21T18:19:10+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6aea660bba89a-1793746443.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
