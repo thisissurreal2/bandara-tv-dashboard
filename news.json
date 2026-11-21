@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T19:15:26.301189+00:00",
+  "updated_at": "2026-11-21T19:30:34.473573+00:00",
   "national": [
     {
       "title": "Polisi Bongkar Prostitusi Online di Apartemen Cikarang, 3 Orang Ditangkap",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-21T19:20:22+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cee/live/4e2fa7a0-e5c5-11f1-a738-4787e1a18cce.jpg"
+    },
+    {
       "title": "‘Six, seven, maybe more preventable deaths’: Queensland’s LNP faces reckoning over broken health system",
       "summary": "A government in office for more than two years is finally forced to take responsibility and seemingly no longer able to blame its Labor predecessors Get our daily political email , free app or daily news podcast At the beginning of another Queensland parliamentary sitting week, anonymous sources were out in force, this time background briefing against the state’s Labor leader, Steven Miles. It is no great revelation to observers of Queensland politics that Miles, still seemingly bruised from his election loss two years ago, has struggled to find his feet as opposition leader. Many wondered why he wanted to stay on after the party’s drubbing in 2024. Some of Labor’s factional whisperers were telling anyone who would listen that the former premier’s leadership would come to an end in the weeks before Christmas. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/nov/22/queensland-health-ambulance-deaths-lnp-labor-ntwnfb",
@@ -42,15 +50,11 @@
       "source": "Al Jazeera",
       "published": "2026-11-21T18:42:38+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795286551.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "title": "Russia-bound ship attacked in Gulf of Finland",
-      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-21T18:22:09+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cee/live/4e2fa7a0-e5c5-11f1-a738-4787e1a18cce.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
