@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T14:00:38.259730+00:00",
+  "updated_at": "2026-11-21T14:15:26.614708+00:00",
   "national": [
     {
       "title": "Fadli Zon Respons Sentilan Siera Tamihardja soal Pemerkosaan Massal 98",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "USDA, FBI breached by hackers amid spate of tech outages – reports",
+      "summary": "Latest intrusions targeted farmer-payment system at the USDA and the FBI’s National Crime Information Center Hackers breached the US Department of Agriculture (USDA) and the FBI , national media reported on Friday, amid deepening concerns over a spate of tech outages at key American institutions. The breaches were first reported by NBC News and CNN respectively, and it remained unclear whether they were related and who was responsible. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack",
+      "source": "The Guardian",
+      "published": "2026-11-21T14:09:02+00:00",
+      "image": "https://i.guim.co.uk/img/media/b150fbf305d621454311041d7c8c8c7d201d7d70/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=dafbe2e6e35771a70bb5deec81cfabd2"
+    },
+    {
       "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
       "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
       "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
@@ -42,14 +50,6 @@
       "source": "Al Jazeera",
       "published": "2026-11-21T13:08:59+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2306179254-1795265252.jpg?resize=1200%2C675"
-    },
-    {
-      "title": "US pursuit of ‘Trump-class’ warships has blown cost of new fleet by billions, report warns",
-      "summary": "Iran war stretching fleet’s capacity, navy chief admits, as CBO finds estimated cost of new ships ‘unrealistically low’ The US navy’s commitment to the new Trump-class battleships has blown out the cost of its new fleet by billions of dollars, a report to the US Congress has found, as the acting secretary of the navy conceded this week the Iran war was “stretching” the fleet’s capacity. The challenges facing the world’s biggest naval force were highlighted this week, when the return of the USS George Washington from the Middle East on Wednesday ended a rare three-month period when the US had no aircraft carrier across all of the Pacific. Deployments have been regularly running beyond 300 days, with the maintenance and repair of ships deferred so they can stay at sea longer. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-class-warships",
-      "source": "The Guardian",
-      "published": "2026-11-21T13:00:00+00:00",
-      "image": "https://i.guim.co.uk/img/media/232b3595bc9ba8b26b7f2eb469c9abc7c333d154/716_0_4901_3923/master/4901.jpg?width=140&quality=85&auto=format&fit=max&s=5251357948436a2696afae318db5ebea"
     }
   ],
   "feed_warnings": [
