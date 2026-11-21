@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T22:15:26.289736+00:00",
+  "updated_at": "2026-11-21T22:30:31.025619+00:00",
   "national": [
     {
       "title": "Malen borong empat gol saat Roma hancurkan Parma 5-1",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
+      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-21T22:19:43+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg"
+    },
+    {
       "title": "Bahrain says Iranian attack hits industrial facility",
       "summary": "Bahrain says Iranian attack hits industrial facility",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-11-21T22:02:03+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/bahrain-attack-horizontal-thumb-1795298461.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "title": "Lock of former US President George Washington's hair sells for $4,000",
-      "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
-      "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-21T22:01:19+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5138/live/c4d4d0c0-e5ec-11f1-ad4d-5dd9d517a6dd.jpg"
     },
     {
       "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
