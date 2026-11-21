@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T04:45:30.933137+00:00",
+  "updated_at": "2026-11-21T05:00:38.634998+00:00",
   "national": [
     {
       "title": "Pria Bawa 11,6 Kg Sabu Sempat Mondar-mandir Sebelum Ditangkap di Tanjung Priok",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
-      "title": "Rohingya who escaped Myanmar’s genocide tell their stories",
-      "summary": "Survivors recount rivers red with blood and burning nearby villages serving as an urgent warning to flee their homes Smoke was often the signal to run – seen from a distance, it was the indication for Rohingya that a neighbouring village was under attack and that theirs would be next. In other places, they saw the rivers run red and would pull out the bodies, perform quick burial rites and then flee. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/nov/21/rohingya-who-escaped-myanmars-genocide-tell-their-stories",
+      "title": "Teenager allegedly organised arsons and kidnapping on Signal during Melbourne hospitality wars",
+      "summary": "Victoria police say boy, 17, communicated with offenders under username ‘Onepercent’ Get our breaking news email , free app or daily news podcast Victorian police allege a 17-year-old boy tasked others to carry out a series of arsons, home invasions and a mistaken identity kidnapping that resulted in the partial amputation of a victim’s finger during Melbourne’s hospitality wars. The boy, who was arrested on Friday afternoon, allegedly communicated with the offenders under the username “Onepercent” on the encrypted communications app Signal. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-21T04:00:47+00:00",
-      "image": "https://i.guim.co.uk/img/media/2ff5d1e8e72cae560f6ff28cfc6de81f85a9e5e0/805_50_3971_3177/master/3971.jpg?width=140&quality=85&auto=format&fit=max&s=702471ece579024da236e1a8b3f5208a"
+      "published": "2026-11-21T04:44:00+00:00",
+      "image": "https://i.guim.co.uk/img/media/99136bef967ae4aba72dfc6e04e06a4ec0dc1eab/0_1497_4284_3427/master/4284.jpg?width=140&quality=85&auto=format&fit=max&s=cb1363336ef34583a49d6bf4a024f358"
     },
     {
-      "title": "Three French police officers sentenced over racist assault on Black man",
-      "summary": "Paris criminal court finds racism was an aggravating factor in the 2020 assault of Black music producer Michel Zecler.",
-      "url": "https://www.aljazeera.com/news/2026/11/21/three-french-police-officers-sentenced-over-racist-assault-on-black-man?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-21T03:01:24+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b00f269-1795224169.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
-      "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
-      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+      "title": "Man convicted of starting Palisades fire in Los Angeles",
+      "summary": "The 30-year-old LA resident was convicted of arson leading to wildfires that killed 12 people and destroyed more than 6,800 buildings.",
+      "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-21T02:09:46+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg"
+      "published": "2026-11-21T04:34:00+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8053/live/b01bb4f0-e556-11f1-ad51-c3505e495cd9.jpg"
+    },
+    {
+      "title": "Saudi-led coalition intercepts three Houthi missiles headed for Riyadh",
+      "summary": "Saudi Arabia issues emergency alerts in Riyadh for third night in row, as the Houthis threaten ports and power station.",
+      "url": "https://www.aljazeera.com/news/2026/11/21/saudi-led-coalition-intercepts-three-houthi-missiles-headed-for-riyadh?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-21T04:32:07+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b010dd74d22-1795231191.jpg?resize=1200%2C675"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
