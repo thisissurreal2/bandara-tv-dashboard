@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-21T03:00:41.178808+00:00",
+  "updated_at": "2026-11-21T03:15:27.222329+00:00",
   "national": [
+    {
+      "title": "Spesial Konser Guns N' Roses, MRT Perpanjang Jam Operasional",
+      "summary": "PT MRT Jakarta memperpanjang jam operasional hingga pukul 01.00 WIB selama penyelenggaraan konser Guns N' Roses di Stadion Madya Gelora Bung Karno.",
+      "url": "https://www.cnnindonesia.com/nasional/20261121092021-20-1429742/spesial-konser-guns-n-roses-mrt-perpanjang-jam-operasional",
+      "source": "CNN Indonesia",
+      "published": "2026-11-21T03:10:20+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2018/11/06/6c1e276c-c91b-4524-b9a6-5e58f8068c20_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Menhub: RI perluas kerja sama ICAO demi penerbangan berkelanjutan",
       "summary": "Menteri Perhubungan (Menhub) Dudy Purwagandhi memastikan Indonesia memperluas kerja sama melalui Dewan (International ...",
@@ -16,17 +24,17 @@
       "source": "Detik",
       "published": "2026-11-21T02:53:16+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/21/kemendagri-1795229574146_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "KA Siantar Ekspres Tertemper Angkot, 3 Petugas KAI Luka Serius",
-      "summary": "Tiga petugas KAI terluka serius akibat insiden kereta tertemper angkot di perlintasan liar. KAI prioritaskan pemulihan dan normalisasi layanan.",
-      "url": "https://www.cnnindonesia.com/nasional/20261121092431-20-1429743/ka-siantar-ekspres-tertemper-angkot-3-petugas-kai-luka-serius",
-      "source": "CNN Indonesia",
-      "published": "2026-11-21T02:40:07+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/20/thumbnail-video-1795174589390_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
+    {
+      "title": "Three French police officers sentenced over racist assault on Black man",
+      "summary": "Paris criminal court finds racism was an aggravating factor in the 2020 assault of Black music producer Michel Zecler.",
+      "url": "https://www.aljazeera.com/news/2026/11/21/three-french-police-officers-sentenced-over-racist-assault-on-black-man?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-21T03:01:24+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b00f269-1795224169.jpg?resize=1920%2C1440"
+    },
     {
       "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
       "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
@@ -34,14 +42,6 @@
       "source": "BBC",
       "published": "2026-11-21T02:09:46+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "title": "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
-      "summary": "US president calls tech giant to give former CEO 'a second chance' and urges him to 'make a big apology'.",
-      "url": "https://www.aljazeera.com/news/2026/11/21/trump-calls-for-nvidia-to-reinstate-brilliant-jensen-huang?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-21T01:49:07+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b00e93a45-1795221818.jpg?resize=1920%2C1440"
     },
     {
       "title": "Man accused of sparking deadly Los Angeles wildfire found guilty",
@@ -52,5 +52,9 @@
       "image": "https://i.guim.co.uk/img/media/9ac7a13c61ac09c8989f886adde8097c03d0fc03/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=4513785efb37d1da06beb027b45f87f7"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
