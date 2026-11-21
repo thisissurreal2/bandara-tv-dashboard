@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-21T02:00:42.764025+00:00",
+  "updated_at": "2026-11-21T02:15:27.557292+00:00",
   "national": [
     {
-      "title": "Kebakaran di Resto Bersejarah Tugu Kuntskring, Api Berhasil Dipadamkan",
-      "summary": "Salah satu restoran bersejarah Tugu Kuntskring Paleis di Jalan Teuku Umar 1, Menteng, Jakarta Pusat mengalami kebakaran pada dini hari tadi.",
-      "url": "https://www.cnnindonesia.com/nasional/20261121084950-20-1429736/kebakaran-di-resto-bersejarah-tugu-kuntskring-api-berhasil-dipadamkan",
+      "title": "Kasus Dugaan Pemerkosaan, Polda NTT Geledah Rumah Dinas Bupati Kupang",
+      "summary": "Tim gabungan Polda NTT, Jumat (20/11) malam, menggeledah rumah dinas Bupati Kupang di Jalan RA Kartini, Kelurahan Kelapa Lima, terkait kasus dugaan pemerkosaan.",
+      "url": "https://www.cnnindonesia.com/nasional/20261121085812-12-1429739/kasus-dugaan-pemerkosaan-polda-ntt-geledah-rumah-dinas-bupati-kupang",
       "source": "CNN Indonesia",
-      "published": "2026-11-21T01:55:42+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2024/03/30/ilustrasi-ledakan-2_169.jpeg?w=360&q=90"
+      "published": "2026-11-21T02:12:44+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/21/penggeledahan-di-rumah-dinas-bupati-kupang-1795227077889_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Perkara Olok-olok di Balik Waria Bunuh Pria di Taman Lawang",
-      "summary": "Motif pembunuhan remaja oleh waria di Taman Lawang terungkap. Tersangka MB membunuh AS karena kesal diejek. Polisi menangkap pelaku setelah melarikan diri.",
-      "url": "https://news.detik.com/berita/d-8762824/perkara-olok-olok-di-balik-waria-bunuh-pria-di-taman-lawang",
+      "title": "Puan Singgung Peran Parlemen untuk Masa Depan ASEAN di Sidang AIPA Manila",
+      "summary": "Ketua DPR Puan Maharani hadir di Sidang Umum AIPA ke-47 di Filipina, menandatangani komitmen untuk perdamaian dan kesejahteraan rakyat ASEAN.",
+      "url": "https://news.detik.com/berita/d-8762837/puan-singgung-peran-parlemen-untuk-masa-depan-asean-di-sidang-aipa-manila",
       "source": "Detik",
-      "published": "2026-11-21T01:53:38+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/20/waria-yang-membunuh-pria-di-taman-lawang-jalan-sumenep-jakarta-pusat-memakai-baju-tahanan-1795158784420_169.jpeg?w=360&q=90"
+      "published": "2026-11-21T02:08:35+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/21/puan-maharani-1795227061651_169.png?w=360&q=90"
     },
     {
       "title": "Gempa magnitudo antara 6,7-6,9 guncang Peru, belum ada laporan korban",
@@ -27,6 +27,14 @@
     }
   ],
   "international": [
+    {
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "summary": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-21T02:09:46+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbb7/live/b5de9720-e4ea-11f1-99b6-a35a62fa4264.jpg"
+    },
     {
       "title": "Trump calls for Nvidia to reinstate ‘brilliant’ Jensen Huang",
       "summary": "US president calls tech giant to give former CEO 'a second chance' and urges him to 'make a big apology'.",
@@ -42,14 +50,6 @@
       "source": "The Guardian",
       "published": "2026-11-21T01:43:15+00:00",
       "image": "https://i.guim.co.uk/img/media/9ac7a13c61ac09c8989f886adde8097c03d0fc03/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=4513785efb37d1da06beb027b45f87f7"
-    },
-    {
-      "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
-      "summary": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-21T01:02:39+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b187/live/6d4c58d0-e42c-11f1-a630-a951c13e48b7.jpg"
     }
   ],
   "feed_warnings": []
