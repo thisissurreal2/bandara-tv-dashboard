@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T23:27:22.803870+00:00",
+  "updated_at": "2026-11-21T23:30:30.590044+00:00",
   "national": [
     {
       "title": "Legislator Golkar Pastikan Illicit Enrichment Sudah Diatur di UU Tipikor-TPPU",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Iran faces a ‘silent economic war’, says Iranian president",
+      "summary": "Iran faces a ‘silent economic war’, says Iranian president",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-21T23:18:14+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/iran-pres-horizontal-thumb-1795302988.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
       "title": "Man found dead on Flinders Island linked to shooting of police officer, Tasmanian authorities say",
       "summary": "Body of a man in his 20s discovered by police who were sent to investigate the shooting of an officer, who is in a serious but stable condition Get our breaking news email , free app or daily news podcast An on-duty police officer has been shot and a man found dead nearby as police investigate two firearm incidents in a tiny Tasmanian town. The officer was working at Whitemark police station on Flinders Island, north-east of the island of Tasmania, when he was shot at about 9.45pm on Saturday night. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
@@ -42,14 +50,6 @@
       "source": "BBC",
       "published": "2026-11-21T22:19:43+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg"
-    },
-    {
-      "title": "Bahrain says Iranian attack hits industrial facility",
-      "summary": "Bahrain says Iranian attack hits industrial facility",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-21T22:02:03+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/bahrain-attack-horizontal-thumb-1795298461.jpg?resize=1920%2C1080&quality=80"
     }
   ],
   "feed_warnings": []
