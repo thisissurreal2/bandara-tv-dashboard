@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T01:00:43.052931+00:00",
+  "updated_at": "2026-11-21T01:15:26.716512+00:00",
   "national": [
     {
       "title": "Truk Terguling di Tol TMII Jaktim, Muatan Ikan Berserakan",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Can Mauricio Pochettino save Man United from Premier League relegation?",
+      "summary": "Mauricio Pochettino will take charge of Manchester United for the first time on Sunday, in a trip to rivals Liverpool.",
+      "url": "https://www.aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-21T00:55:01+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-18T092728Z_1196881046_MT1USATODAY30366113_RTRMADP_3_SOCCER-USA-1795218741.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "ANC fights to keep control of South Africa's key cities after election setback",
       "summary": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level.",
       "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
@@ -42,15 +50,11 @@
       "source": "The Guardian",
       "published": "2026-11-21T00:26:56+00:00",
       "image": "https://i.guim.co.uk/img/media/96ab340872e588ad309196b07390be6b1c05c064/0_0_935_748/master/935.jpg?width=140&quality=85&auto=format&fit=max&s=cb157e8ba631ea73ff9af551de474e32"
-    },
-    {
-      "title": "Iran war live: Saudi-led coalition downs Houthi missiles",
-      "summary": "Saudi Arabia issues a flurry of emergency alerts for Riyadh, as the Saudi coalition says it intercepted three missiles.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-21T00:00:06+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b00dbc90b00-1795218377.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
