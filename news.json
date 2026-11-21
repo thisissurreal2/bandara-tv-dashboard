@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T18:30:31.087361+00:00",
+  "updated_at": "2026-11-21T18:45:27.528667+00:00",
   "national": [
     {
       "title": "Pramono Bicara Wajah Baru Ancol yang Terhubung ke JIS: Dulu Serem, Kini Cerah",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Russia-bound ship attacked in Gulf of Finland",
+      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-21T18:22:09+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cee/live/4e2fa7a0-e5c5-11f1-a738-4787e1a18cce.jpg"
+    },
+    {
       "title": "Suffolk village votes to ‘leave the UK’ over plans to house asylum seekers nearby",
       "summary": "Local MP says legitimate criticisms of asylum housing plans are being co-opted by opposition parties ‘stirring up racial discord’ Residents of a Suffolk village have voted to “leave the UK” in a referendum held in response to government plans to house 930 asylum seekers at a nearby former military base. Approximately 500 people in Barnham were eligible to take part in the symbolic vote on Saturday. There were 257 votes for independence, 16 against and one spoiled ballot. Continue reading...",
       "url": "https://www.theguardian.com/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
@@ -36,20 +44,12 @@
       "image": "https://i.guim.co.uk/img/media/bfb4a0d197f8daee0456ecc459f3eddb4cc320cc/835_0_4628_3704/master/4628.jpg?width=140&quality=85&auto=format&fit=max&s=3f0a91a0567e177545453ca396f15e90"
     },
     {
-      "title": "Trump says he wants ‘permanent’ deal to stop Iran getting nuclear weapons",
-      "summary": "US President Donald Trump says he wants a permanent agreement to prevent Iran from developing nuclear weapons.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
+      "title": "FBI national crime database suffers suspected breach: Reports",
+      "summary": "The reported hacking is the latest in ​a string of breaches and outages affecting the US government.",
+      "url": "https://www.aljazeera.com/news/2026/11/21/fbi-national-crime-database-suffers-suspected-breach-reports?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-21T18:05:51+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795284233.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-21T16:35:15+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg"
+      "published": "2026-11-21T18:19:10+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6aea660bba89a-1793746443.jpg?resize=1920%2C1440"
     }
   ],
   "feed_warnings": [
