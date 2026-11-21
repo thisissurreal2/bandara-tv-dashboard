@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-21T06:45:26.152944+00:00",
+  "updated_at": "2026-11-21T07:00:37.136099+00:00",
   "national": [
     {
-      "title": "Pramono Tinjau Kunstkring Paleisusai Kebakaran,Apresiasi Damkar",
-      "summary": "Gubernur DKI Jakarta, Pramono Anung, mengatakan kebakaran di Restoran Tugu Kunstkring Paleis menghanguskan hampir seluruh ruangan di bangunan bersejarah itu.",
-      "url": "https://www.cnnindonesia.com/nasional/20261121123010-20-1429799/pramono-tinjau-kunstkring-paleisusai-kebakaranapresiasi-damkar",
+      "title": "Dua Daerah di Riau Tetapkan Status Siaga Bencana Banjir-Longsor",
+      "summary": "Kabupaten Rokan Hilir dan Kota Dumai, Riau, menetapkan status siaga bencana hidrometeorologi akibat banjir dan tanah longsor. BPBD Riau akan koordinasi bantuan.",
+      "url": "https://www.cnnindonesia.com/nasional/20261121122412-20-1429797/dua-daerah-di-riau-tetapkan-status-siaga-bencana-banjir-longsor",
       "source": "CNN Indonesia",
-      "published": "2026-11-21T06:42:10+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/21/pramono-tinjau-kunstkring-paleis-usai-kebakaran-1795238089017_169.jpeg?w=360&q=90"
+      "published": "2026-11-21T06:52:47+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2025/01/20/jalan-lintas-sumatera-lumpuh-akibat-banjir-di-jambi-7_169.jpeg?w=360&q=90"
     },
     {
       "title": "Penyalur ART Ilegal di Bogor Bagi Hasil Kejahatan, Perekrut Dapat Rp 10 Juta",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d218/live/12a1fc40-e531-11f1-a67d-39d55c7178b0.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: TimeoutError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
