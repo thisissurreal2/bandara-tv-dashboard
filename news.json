@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T23:30:30.590044+00:00",
+  "updated_at": "2026-11-21T23:45:26.409838+00:00",
   "national": [
     {
       "title": "Legislator Golkar Pastikan Illicit Enrichment Sudah Diatur di UU Tipikor-TPPU",
@@ -10,23 +10,31 @@
       "image": "https://akcdn.detik.net.id/community/media/visual/2024/12/09/anggota-komisi-iii-dpr-ri-soedeson-tandra_169.jpeg?w=360&q=90"
     },
     {
+      "title": "BMKG peringatkan hujan lebat di sejumlah wilayah Indonesia pada Minggu",
+      "summary": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memperingatkan potensi hujan lebat hingga sangat lebat di sejumlah ...",
+      "url": "https://www.antaranews.com/berita/5870391/bmkg-peringatkan-hujan-lebat-di-sejumlah-wilayah-indonesia-pada-minggu",
+      "source": "ANTARA",
+      "published": "2026-11-21T23:02:23+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/22/IMG-20261120-WA0017.jpg"
+    },
+    {
       "title": "Pramono Anung Jawab Kritik Said Iqbal Soal UMP Jakarta Rp6,1 Juta",
       "summary": "Merespons Said Iqbal soal UMP DKI 2027 yang lebih rendah dari UMK Bekasi, Gubernur Pramono Anung menegaskan perbandingan harus apple-to-apple.",
       "url": "https://www.cnnindonesia.com/nasional/20261121203409-20-1429933/pramono-anung-jawab-kritik-said-iqbal-soal-ump-jakarta-rp61-juta",
       "source": "CNN Indonesia",
       "published": "2026-11-21T23:00:46+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/13/pramono-minta-penyelesaian-penataan-kawasan-kramat-jati-humanis-dan-terbuka-1794573815459_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "PSG taklukkan Nice 3-2 dan catat 12 kemenangan beruntun",
-      "summary": "Paris Saint-Germain (PSG) memperpanjang tren kemenangan menjadi 12 pertandingan beruntun di seluruh kompetisi setelah ...",
-      "url": "https://www.antaranews.com/berita/5870387/psg-taklukkan-nice-3-2-dan-catat-12-kemenangan-beruntun",
-      "source": "ANTARA",
-      "published": "2026-11-21T22:47:39+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/22/1000090060.jpg"
     }
   ],
   "international": [
+    {
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-21T23:31:17+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg"
+    },
     {
       "title": "Iran faces a ‘silent economic war’, says Iranian president",
       "summary": "Iran faces a ‘silent economic war’, says Iranian president",
@@ -42,15 +50,11 @@
       "source": "The Guardian",
       "published": "2026-11-21T22:41:36+00:00",
       "image": "https://i.guim.co.uk/img/media/37ac1eff6d2198604ce1f56e02ba752ac5645c8a/531_0_4102_3283/master/4102.jpg?width=140&quality=85&auto=format&fit=max&s=26d1f4dbd1fc4ff0ffb581dcebb1e837"
-    },
-    {
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-21T22:19:43+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
