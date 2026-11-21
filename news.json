@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T14:30:32.336744+00:00",
+  "updated_at": "2026-11-21T14:45:26.033229+00:00",
   "national": [
     {
       "title": "Kepergok Bobol Toko Kue, Pria di Ciledug Langsung Diringkus Polisi",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "USDA, FBI breached by hackers amid spate of tech outages – reports",
-      "summary": "Latest intrusions targeted farmer-payment system at the USDA and the FBI’s National Crime Information Center Hackers breached the US Department of Agriculture (USDA) and the FBI , national media reported on Friday, amid deepening concerns over a spate of tech outages at key American institutions. The breaches were first reported by NBC News and CNN respectively, and it remained unclear whether they were related and who was responsible. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack",
+      "title": "‘Hell dorm’: Florida prisoners testify about 119F heat indexes and walls that sweat",
+      "summary": "Temperatures in a concrete facility contributed to one man’s death after he struggled to breathe, prisoners allege On Tuesday afternoon Dwayne Wilson, 69, a thin Black man dressed in a light gray prison uniform, testified about the stifling heat he experienced in the Dade correctional institute, a concrete state prison south of Miami, Florida , without air conditioning. He removed his glasses and wiped his eyes as he spoke. “It was so hot,” he said, his voice catching. “It’s so hot sometimes you have to put water on the floor just to try to keep cool.” Wilson said he’s housed in the H dorms, a T-shaped building with one-to-two-person cells, nicknamed “hell dorm” by prisoners because its concrete walls radiate heat absorbed from the sun. The plaintiff’s law firm, the Florida Justice Institute , convinced a judge to allow 31 sensors to be temporarily installed throughout the prison during the summer of 2025. They recorded temperature and humidity levels that Stefano Shiavon , a professor of civil and environmental engineering with expertise in thermal comfort, used to calculate the heat index. He found it to be above 88F (31C) 97% of the time, with the highest heat indexes often recorded at night, including one reading in the H dorm dayroom equivalent to 119F (48C) at 10pm one July day last year. “The walls sweat,” Wilson said. “It’s miserable in the cell at night because, again, it’s so hot. No air comes to the bed we sleep at and the bed is soaked in sweat.” Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/21/florida-prisoner-lawsuit-extreme-heat",
       "source": "The Guardian",
-      "published": "2026-11-21T14:09:02+00:00",
-      "image": "https://i.guim.co.uk/img/media/b150fbf305d621454311041d7c8c8c7d201d7d70/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=dafbe2e6e35771a70bb5deec81cfabd2"
+      "published": "2026-11-21T14:38:58+00:00",
+      "image": "https://i.guim.co.uk/img/media/927934c914d0ee17837ad17f16babd0941cd47e9/193_0_3892_3114/master/3892.jpg?width=140&quality=85&auto=format&fit=max&s=c95999168f3905f4c0ff69be6d003f81"
     },
     {
-      "title": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
-      "summary": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss",
+      "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
+      "summary": "Iran's FM Araghchi says there is 'major strategic debate' about the future of Iran's nuclear doctrine.",
+      "url": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-21T14:06:06+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795269949.jpg?resize=1920%2C1080&quality=80"
+      "published": "2026-11-21T14:15:36+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26271642253523-1795266505.jpg?resize=1920%2C1440"
     },
     {
       "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
