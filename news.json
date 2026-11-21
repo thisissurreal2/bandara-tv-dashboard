@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-21T17:45:27.833614+00:00",
+  "updated_at": "2026-11-21T18:00:35.953449+00:00",
   "national": [
+    {
+      "title": "Pramono Bicara Wajah Baru Ancol yang Terhubung ke JIS: Dulu Serem, Kini Cerah",
+      "summary": "Pramono Anung mengungkap transformasi Ancol dan koneksinya dengan JIS, menjadikan Jakarta epicentrum acara besar dan mendukung pertumbuhan ekonomi.",
+      "url": "https://news.detik.com/berita/d-8763900/pramono-bicara-wajah-baru-ancol-yang-terhubung-ke-jis-dulu-serem-kini-cerah",
+      "source": "Detik",
+      "published": "2026-11-21T17:55:24+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/21/gubernur-dki-jakarta-pramono-anung-di-kawasan-ancol-jakarta-utara-sabtu-21112026-rumondangdetikcom-1795260223488_169.jpeg?w=360&q=90"
+    },
     {
       "title": "City tertahan di Etihad, Fulham putus rentetan kekalahan",
       "summary": "Manchester City gagal meraih kemenangan di kandang setelah bermain imbang 1-1 melawan Fulham pada pekan ke-11 Liga ...",
@@ -8,14 +16,6 @@
       "source": "ANTARA",
       "published": "2026-11-21T17:10:39+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/21/1000089990.jpg"
-    },
-    {
-      "title": "Respons Desakan Sidang In Absentia Riza Chalid, Ini Kata Kejagung",
-      "summary": "Kejaksaan Agung merespons desakan sidang in absentia untuk Riza Chalid, tersangka korupsi Pertamina. Proses hukum dan pelacakan aset terus berjalan.",
-      "url": "https://news.detik.com/berita/d-8763882/respons-desakan-sidang-in-absentia-riza-chalid-ini-kata-kejagung",
-      "source": "Detik",
-      "published": "2026-11-21T17:10:37+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/02/20/kapuspenkum-kejagung-anang-supriatna-1771581048730_169.jpeg?w=360&q=90"
     },
     {
       "title": "BPBD Serang Sebut Ada Korban Terjebak Kebakaran Pabrik Permen Cikande",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
+      "summary": "Fausto Isidro Meza Flores was one of FBI’s most wanted fugitives and evaded capture for more than a decade The Mexican military captured one of the FBI’s top 10 most wanted fugitives during a special forces raid in the Mexican state of Sinaloa on Friday night. Fausto Isidro Meza Flores, known as “El Chapo Isidro”, was arrested along with two other alleged leaders of his gang after a gun battle that sparked widespread panic in the city of Guasave. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+      "source": "The Guardian",
+      "published": "2026-11-21T17:46:55+00:00",
+      "image": "https://i.guim.co.uk/img/media/109833a4d1387ede241180856c6e37007aa8a6a3/264_354_897_717/master/897.jpg?width=140&quality=85&auto=format&fit=max&s=8e424ac24ad3eb43602b54fde7ef7bfb"
+    },
+    {
       "title": "Liverpool vs Manchester United: Premier League – teams, prediction, lineups",
       "summary": "One of sport's biggest rivalries takes centre stage as Liverpool host a Man United side in the EPL relegation zone.",
       "url": "https://www.aljazeera.com/sports/2026/11/21/liverpool-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-11-21T17:28:51+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2305467715-1795257935.jpg?resize=1200%2C675"
-    },
-    {
-      "title": "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon",
-      "summary": "US vice-president says it’s not his place to second-guess the president, but refrains from endorsing Trump’s claim At a White House news conference on Friday, JD Vance stopped short of endorsing Donald Trump’s claim that Iran was so close to obtaining a nuclear weapon in February that it was essential for the US to go to war with the Islamic republic. In the White House briefing room, Trump was asked about reporting this week that he was unhappy with the US vice-president’s statement blaming Republican losses in the midterm elections on the Iran war. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/21/vance-trump-iran-nuclear-weapon",
-      "source": "The Guardian",
-      "published": "2026-11-21T17:24:51+00:00",
-      "image": "https://i.guim.co.uk/img/media/b5b32185795e8abee801ae63027a8874bf8934f3/853_0_6654_5323/master/6654.jpg?width=140&quality=85&auto=format&fit=max&s=f15e18b09d6e9d25f896019877a21ae8"
     },
     {
       "title": "FBI reportedly investigating apparent hack of its criminal database",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
