@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-21T16:45:26.391082+00:00",
+  "updated_at": "2026-11-21T17:00:43.231491+00:00",
   "national": [
     {
-      "title": "Tim SAR Temukan Jasad Warga Baduy yang Terseret Arus Sungai Cisimeut",
-      "summary": "Proses pencarian Aliyah (10) yang terseret arus Sungai Cisimeut resmi dihentikan setelah ditemukan meninggal. Tim SAR juga menemukan Pulung (21) sebelumnya.",
-      "url": "https://news.detik.com/berita/d-8763853/tim-sar-temukan-jasad-warga-baduy-yang-terseret-arus-sungai-cisimeut",
+      "title": "BPBD Serang Sebut Ada Korban Terjebak Kebakaran Pabrik Permen Cikande",
+      "summary": "BPBD Kabupaten Serang menyebut terdapat karyawan yang terjebak dalam kebakaran pabrik permen di Cikande, Serang. Upaya pencarian korban masih berlangsung.",
+      "url": "https://www.cnnindonesia.com/nasional/20261121230513-20-1429946/bpbd-serang-sebut-ada-korban-terjebak-kebakaran-pabrik-permen-cikande",
+      "source": "CNN Indonesia",
+      "published": "2026-11-21T17:00:13+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2023/05/30/ilustrasi-kebakaran_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "Wamen HAM: Jangan Jadikan Anak Sasaran Kebencian ke Orang Tuanya",
+      "summary": "Wakil Menteri HAM Mugiyanto mengingatkan agar anak tidak menjadi sasaran kebencian akibat politik orang tua. Perlindungan anak harus dijunjung tinggi.",
+      "url": "https://news.detik.com/berita/d-8763871/wamen-ham-jangan-jadikan-anak-sasaran-kebencian-ke-orang-tuanya",
       "source": "Detik",
-      "published": "2026-11-21T16:15:13+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2015/12/08/8aa9a87b-5bdb-480b-899f-70ab112d663e_169.jpg?w=360&q=90"
+      "published": "2026-11-21T16:38:27+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/08/28/wakil-menteri-wamen-ham-mugiyanto-1787896808762_169.png?w=360&q=90"
     },
     {
       "title": "RI jajaki penempatan 300 pekerja migran di Ceko pada 2027",
@@ -16,14 +24,6 @@
       "source": "ANTARA",
       "published": "2026-11-21T15:55:15+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/21/1000818754.jpg"
-    },
-    {
-      "title": "Erin Eks Istri Andre Taulany Jadi Tersangka Penganiayaan ART",
-      "summary": "Mantan istri Andre Taulany, Erin, ditetapkan sebagai tersangka penganiayaan terhadap ART. Erin tidak ditahan dan mengupayakan restorative justice.",
-      "url": "https://www.cnnindonesia.com/nasional/20261121221241-12-1429941/erin-eks-istri-andre-taulany-jadi-tersangka-penganiayaan-art",
-      "source": "CNN Indonesia",
-      "published": "2026-11-21T15:30:42+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/04/30/erin-taulany-1777516580023_169.png?w=360&q=90"
     }
   ],
   "international": [
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b01aa96-1795271318.jpg?resize=1200%2C675"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
