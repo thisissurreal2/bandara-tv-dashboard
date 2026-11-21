@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-21T03:33:11.391862+00:00",
+  "updated_at": "2026-11-21T03:45:27.254600+00:00",
   "national": [
     {
-      "title": "Cerita Megawati Sempat Ditawari Masuk Pemerintahan Tapi Pilih di Luar",
-      "summary": "Ketua Umum (Ketum) PDI Perjuangan Megawati Soekarnoputri mengungkap partainya pernah ditawari untuk bergabung dalam pemerintahan.",
-      "url": "https://www.cnnindonesia.com/nasional/20261121093300-32-1429747/cerita-megawati-sempat-ditawari-masuk-pemerintahan-tapi-pilih-di-luar",
+      "title": "Panitia Ad Hoc MPR Respons Mahfud soal Waktu Pemilihan Wapres",
+      "summary": "Panitia Ad Hoc MPR RI merespons pernyataan Polhukam Mahfud MD terkait pelaksanaan paripurna pemilihan hingga pelantikan wapres baru yang terancam tidak sah.",
+      "url": "https://www.cnnindonesia.com/nasional/20261121101034-20-1429763/panitia-ad-hoc-mpr-respons-mahfud-soal-waktu-pemilihan-wapres",
       "source": "CNN Indonesia",
-      "published": "2026-11-21T03:30:05+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/02/10/megawati-soekarnoputri-terima-gelar-doktor-kehormatan-di-riyadh-1770696260026_169.jpeg?w=360&q=90"
+      "published": "2026-11-21T03:35:13+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/05/06/konferensi-pers-rekomendasi-komisi-percepatan-reformasi-polri-1778052278052_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "Gempa Bumi M 6,7 Guncang Peru, Tak Ada Peringatan Tsunami",
+      "summary": "Gempa bumi berkekuatan Magnitudo 6,7 mengguncang wilayah Peru bagian tengah pada Jumat (20/11) malam waktu setempat.",
+      "url": "https://news.detik.com/internasional/d-8762933/gempa-bumi-m-6-7-guncang-peru-tak-ada-peringatan-tsunami",
+      "source": "Detik",
+      "published": "2026-11-21T03:33:15+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2023/02/09/ilustrasi-gempa_169.jpeg?w=360&q=90"
     },
     {
       "title": "Menhub: RI perluas kerja sama ICAO demi penerbangan berkelanjutan",
@@ -16,14 +24,6 @@
       "source": "ANTARA",
       "published": "2026-11-21T02:57:31+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/21/F06BEE1C-DD32-45AD-BAD6-C2DDE2BB8096.jpeg"
-    },
-    {
-      "title": "Kemendagri Beri Apresiasi Pemda Berprestasi di Regional Maluku-Nusra",
-      "summary": "Kemendagri dorong kinerja Pemda melalui Apresiasi Pemda Berprestasi 2026. Tiga kategori dinilai untuk tingkatkan inovasi dan pertumbuhan ekonomi daerah.",
-      "url": "https://news.detik.com/berita/d-8762898/kemendagri-beri-apresiasi-pemda-berprestasi-di-regional-maluku-nusra",
-      "source": "Detik",
-      "published": "2026-11-21T02:53:16+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/21/kemendagri-1795229574146_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
@@ -52,9 +52,5 @@
       "image": "https://i.guim.co.uk/img/media/9ac7a13c61ac09c8989f886adde8097c03d0fc03/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=4513785efb37d1da06beb027b45f87f7"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
