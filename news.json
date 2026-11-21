@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T20:00:36.681514+00:00",
+  "updated_at": "2026-11-21T20:15:24.747380+00:00",
   "national": [
     {
       "title": "Eks Kepala Polisi Italia Bunuh Diri Usai Dituduh Terlibat Pembunuhan Hakim",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Noni Madueke salvages draw for Arsenal at Newcastle United as Raya injured",
+      "summary": "League leaders Arsenal miss the chance to go eight points clear of second placed Brighton, who play on Sunday.",
+      "url": "https://www.aljazeera.com/sports/2026/11/21/noni-madueke-salvages-draw-for-arsenal-at-newcastle-united-as-raya-injured?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-21T19:53:00+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b01f4d3a5-1795290323.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "Man charged with attempted murder after councillor stabbed in Bradford",
       "summary": "Arfan Ali, 31, has also been charged with assault and possession of an offensive weapon in a public place A man has been charged with attempted murder after a local councillor was stabbed while working in the community in Bradford, police have said. Arfan Ali, 32, is accused of attacking Ibrar Ali, 52, at about 11am on Thursday in the West Yorkshire city. Continue reading...",
       "url": "https://www.theguardian.com/uk-news/2026/nov/21/man-charged-with-attempted-after-councillor-stabbed-in-bradford",
@@ -42,14 +50,6 @@
       "source": "BBC",
       "published": "2026-11-21T19:33:49+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg"
-    },
-    {
-      "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
-      "summary": "Russia launched more than 400 drones and 110 missiles across Ukraine overnight, killing at least seven in Kyiv.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/aje-onl-nf_deadly-attack-in-kyiv-as-russia-launches-barrage-211126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-21T18:42:38+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795286551.jpg?resize=1920%2C1080&quality=80"
     }
   ],
   "feed_warnings": []
