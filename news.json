@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-21T10:45:24.525496+00:00",
+  "updated_at": "2026-11-21T11:00:36.541113+00:00",
   "national": [
+    {
+      "title": "Trump Tak Yakin Denuklirisasi Bisa Benar-benar Terwujud",
+      "summary": "Trump mengaku tidak yakin jika denuklirisasi benar-benar bisa diwujudkan. Hal itu disampaikan Trump setelah melakukan pertemuan trilateral Putin dan Xi Jinping.",
+      "url": "https://news.detik.com/internasional/d-8763550/trump-tak-yakin-denuklirisasi-bisa-benar-benar-terwujud",
+      "source": "Detik",
+      "published": "2026-11-21T10:56:40+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/21/pertemuan-trilateral-bersejarah-antara-trump-putin-dan-xi-jinping-di-shenzhen-pada-kamis-1911-waktu-setempat-1795258241442_169.jpeg?w=360&q=90"
+    },
     {
       "title": "PSI: Cakra Adi Negara Sudah Lama Dipecat dari Partai",
       "summary": "DPD PSI Bekasi menegaskan Cakra Adi Negara bukan anggota sejak September 2020. Ia ditangkap Polda Metro Jaya atas dugaan pencemaran nama baik.",
@@ -10,20 +18,12 @@
       "image": "https://akcdn.detik.net.id/visual/2025/07/15/bendera-psi-berlogo-gajah-1752547535391_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Sempat Jadi ART-Penjaga Warteg, Cika Ingin Ubah Nasib dari Sekolah Rakyat",
-      "summary": "Cika Utami Putri kembali ke sekolah setelah bekerja sebagai ART dan baby sitter. Ia berharap pendidikan membawanya menuju kehidupan yang lebih baik.",
-      "url": "https://news.detik.com/berita/d-8763498/sempat-jadi-art-penjaga-warteg-cika-ingin-ubah-nasib-dari-sekolah-rakyat",
-      "source": "Detik",
-      "published": "2026-11-21T10:20:04+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/21/kemensos-1795256357870_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Hasil KTT APEC 2026",
-      "summary": "Presiden Prabowo Subianto menghadiri Konferensi Tingkat Tinggi (KTT) Kerja Sama Ekonomi Asia Pasifik (APEC) 2026 di ...",
-      "url": "https://www.antaranews.com/infografik/5869575/hasil-ktt-apec-2026",
+      "title": "Indonesia umumkan 12 pemain untuk pra-kualifikasi FIBA Asia Cup 2029",
+      "summary": "Tim nasional basket Indonesia mengumumkan sebanyak 12 pemain putra untuk berlaga pada Ronde 2 Pra-Kualifikasi FIBA Asia ...",
+      "url": "https://www.antaranews.com/berita/5869743/indonesia-umumkan-12-pemain-untuk-pra-kualifikasi-fiba-asia-cup-2029",
       "source": "ANTARA",
-      "published": "2026-11-21T08:55:00+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/21/20261121-Hasil-KTT-APEC-2026.jpg"
+      "published": "2026-11-21T10:26:10+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/17/1000599449.jpg"
     }
   ],
   "international": [
@@ -52,9 +52,5 @@
       "image": "https://i.guim.co.uk/img/media/52093157cacdf8e54284e868c36d64a07b207178/106_0_4298_3438/master/4298.jpg?width=140&quality=85&auto=format&fit=max&s=c04e3f7086b282dd6f55205d3818fc72"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
