@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-21T16:00:38.838926+00:00",
+  "updated_at": "2026-11-21T16:15:25.704604+00:00",
   "national": [
     {
-      "title": "Mendag: Penandatanganan IEU CEPA perluas ekspor sawit hingga karet",
-      "summary": "Menteri Perdagangan (Mendag) Budi Santoso optimistis penandatanganan Perjanjian Kemitraan Ekonomi Komprehensif ...",
-      "url": "https://www.antaranews.com/berita/5870175/mendag-penandatanganan-ieu-cepa-perluas-ekspor-sawit-hingga-karet",
+      "title": "RI jajaki penempatan 300 pekerja migran di Ceko pada 2027",
+      "summary": "Kementerian Pelindungan Pekerja Migran Indonesia (KP2MI) menjajaki peluang penempatan kerja sebanyak 300 pekerja migran ...",
+      "url": "https://www.antaranews.com/berita/5870195/ri-jajaki-penempatan-300-pekerja-migran-di-ceko-pada-2027",
       "source": "ANTARA",
-      "published": "2026-11-21T15:38:06+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/21/IMG_4814.jpeg"
+      "published": "2026-11-21T15:55:15+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/21/1000818754.jpg"
+    },
+    {
+      "title": "Kepala BRAN Beri Contoh Masalah Agraria di Desa hingga Kota dan Tindaklanjutnya",
+      "summary": "BRAN menekankan pentingnya reforma agraria untuk semua lapisan masyarakat, dari petani hingga warga perkotaan, guna memastikan hak dan kesejahteraan rakyat.",
+      "url": "https://news.detik.com/berita/d-8763842/kepala-bran-beri-contoh-masalah-agraria-di-desa-hingga-kota-dan-tindaklanjutnya",
+      "source": "Detik",
+      "published": "2026-11-21T15:49:47+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/21/kepala-bran-dedi-prasetyo-1795276077429_43.jpeg?w=360&q=90"
     },
     {
       "title": "Erin Eks Istri Andre Taulany Jadi Tersangka Penganiayaan ART",
@@ -16,14 +24,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-21T15:30:42+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/04/30/erin-taulany-1777516580023_169.png?w=360&q=90"
-    },
-    {
-      "title": "Diungkapnya Bukti Telak Myanmar Genosida Rohingya",
-      "summary": "Mahkamah Internasional menyatakan Myanmar bersalah melakukan genosida terhadap Rohingya, menandai preseden penting dalam hukum internasional.",
-      "url": "https://news.detik.com/internasional/d-8763789/diungkapnya-bukti-telak-myanmar-genosida-rohingya",
-      "source": "Detik",
-      "published": "2026-11-21T15:10:08+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/20/myanmar-divonis-melakukan-genosida-terhadap-kelompok-minoritas-rohingya-1795138146618_169.png?w=360&q=90"
     }
   ],
   "international": [
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
