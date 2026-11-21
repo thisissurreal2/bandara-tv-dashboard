@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-21T09:00:35.528855+00:00",
+  "updated_at": "2026-11-21T09:15:25.605355+00:00",
   "national": [
+    {
+      "title": "3 Polisi Dipatsus Usai Diduga Langgar Kode Etik Ricuh Demo Yogyakarta",
+      "summary": "Tiga personel Polda DIY diduga melanggar kode etik saat mengamankan demonstrasi. Bidpropam sedang mendalami kasus ini untuk penegakan disiplin.",
+      "url": "https://www.cnnindonesia.com/nasional/20261121144344-12-1429836/3-polisi-dipatsus-usai-diduga-langgar-kode-etik-ricuh-demo-yogyakarta",
+      "source": "CNN Indonesia",
+      "published": "2026-11-21T09:10:30+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/11/polisi-tangkap-106-orang-terkait-demo-berujung-ricuh-di-dprd-diy-1794358451602_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Hasil KTT APEC 2026",
       "summary": "Presiden Prabowo Subianto menghadiri Konferensi Tingkat Tinggi (KTT) Kerja Sama Ekonomi Asia Pasifik (APEC) 2026 di ...",
@@ -16,24 +24,16 @@
       "source": "Detik",
       "published": "2026-11-21T08:53:01+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/05/kabid-humas-polda-metro-jaya-kombes-budi-hermanto-1791215651176_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Polisi Gagalkan Perekrutan 22 WNI untuk Tentara Bayaran Rusia",
-      "summary": "Kepolisian Bogor gagalkan keberangkatan 22 WNI yang direkrut jadi tentara bayaran di Rusia. Dua koordinator ditangkap, penyelidikan masih berlanjut.",
-      "url": "https://www.cnnindonesia.com/nasional/20261121142600-12-1429831/polisi-gagalkan-perekrutan-22-wni-untuk-tentara-bayaran-rusia",
-      "source": "CNN Indonesia",
-      "published": "2026-11-21T08:35:08+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/20/17-wni-jadi-tentara-bayaran-rusia-ikut-perang-lawan-ukraina-1795168657477_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
     {
-      "title": "Gianni Infantino’s FIFA re-election backed by South America’s CONMEBOL",
-      "summary": "Infantino handed huge boost in re-election campaign as FIFA president as CONMEBOL offers unanimous support.",
-      "url": "https://www.aljazeera.com/sports/2026/11/21/gianni-infantinos-fifa-re-election-backed-by-south-americas-conmebol?traffic_source=rss",
+      "title": "Swimmer braves tanker attacks to expose Hormuz contamination",
+      "summary": "As tankers burned in Hormuz, swimmer Lewis Pugh exposed another casualty of the US-Israeli war on Iran: marine life.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-21T08:33:52+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-19T140603Z_258375681_UP1EMBJ123W7Z_RTRMADP_3_SOCCER-AFC-AWARDS-1795249009.jpg?resize=1920%2C1440"
+      "published": "2026-11-21T08:39:35+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795250294.jpg?resize=1639%2C1080&quality=80"
     },
     {
       "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
@@ -52,5 +52,9 @@
       "image": "https://i.guim.co.uk/img/media/351f708be30dca27b8ca1b2a67fcd37484ca596e/0_0_4219_3375/master/4219.jpg?width=140&quality=85&auto=format&fit=max&s=5105b308499a22836f9d72388fbda9e6"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
