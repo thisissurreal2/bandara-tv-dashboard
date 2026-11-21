@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-21T19:45:24.526126+00:00",
+  "updated_at": "2026-11-21T20:00:36.681514+00:00",
   "national": [
     {
-      "title": "Polisi Bongkar Prostitusi Online di Apartemen Cikarang, 3 Orang Ditangkap",
-      "summary": "Polres Metro Bekasi ungkap praktik prostitusi online melibatkan anak di bawah umur. Tiga pelaku ditangkap, dan korban ditawarkan melalui aplikasi MiChat.",
-      "url": "https://news.detik.com/berita/d-8763940/polisi-bongkar-prostitusi-online-di-apartemen-cikarang-3-orang-ditangkap",
+      "title": "Eks Kepala Polisi Italia Bunuh Diri Usai Dituduh Terlibat Pembunuhan Hakim",
+      "summary": "Eks kepala polisi Italia, Gianni De Gennaro, ditemukan tewas diduga bunuh diri saat diselidiki atas dugaan menghalangi penyidikan pembunuhan hakim Borsellino.",
+      "url": "https://news.detik.com/internasional/d-8763943/eks-kepala-polisi-italia-bunuh-diri-usai-dituduh-terlibat-pembunuhan-hakim",
       "source": "Detik",
-      "published": "2026-11-21T19:10:26+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/22/polisi-menunjukkan-barang-bukti-tindak-pidana-prostitusi-daring-dari-sebuah-hunian-vertikal-di-jalan-inspeksi-kalimalang-desa--1795284579348_169.jpeg?w=360&q=90"
+      "published": "2026-11-21T19:51:55+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2015/08/07/978426ea-7578-4a99-80c8-5b0e06d4921a_169.jpg?w=360&q=90"
     },
     {
       "title": "City tertahan di Etihad, Fulham putus rentetan kekalahan",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Man charged with attempted murder after councillor stabbed in Bradford",
+      "summary": "Arfan Ali, 31, has also been charged with assault and possession of an offensive weapon in a public place A man has been charged with attempted murder after a local councillor was stabbed while working in the community in Bradford, police have said. Arfan Ali, 32, is accused of attacking Ibrar Ali, 52, at about 11am on Thursday in the West Yorkshire city. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/21/man-charged-with-attempted-after-councillor-stabbed-in-bradford",
+      "source": "The Guardian",
+      "published": "2026-11-21T19:42:42+00:00",
+      "image": "https://i.guim.co.uk/img/media/d5d63a095a45669cc7ca9471cec50901a1e1863d/0_688_1796_1437/master/1796.jpg?width=140&quality=85&auto=format&fit=max&s=ec99552cf68785b3ea7b28db64834b0b"
+    },
+    {
       "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
       "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
       "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-21T19:33:49+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg"
-    },
-    {
-      "title": "‘Six, seven, maybe more preventable deaths’: Queensland’s LNP faces reckoning over broken health system",
-      "summary": "A government in office for more than two years is finally forced to take responsibility and seemingly no longer able to blame its Labor predecessors Get our daily political email , free app or daily news podcast At the beginning of another Queensland parliamentary sitting week, anonymous sources were out in force, this time background briefing against the state’s Labor leader, Steven Miles. It is no great revelation to observers of Queensland politics that Miles, still seemingly bruised from his election loss two years ago, has struggled to find his feet as opposition leader. Many wondered why he wanted to stay on after the party’s drubbing in 2024. Some of Labor’s factional whisperers were telling anyone who would listen that the former premier’s leadership would come to an end in the weeks before Christmas. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/22/queensland-health-ambulance-deaths-lnp-labor-ntwnfb",
-      "source": "The Guardian",
-      "published": "2026-11-21T19:00:08+00:00",
-      "image": "https://i.guim.co.uk/img/media/e9bb488d6f56a808e4c08a19e1ddea696735455d/410_0_2606_2085/master/2606.jpg?width=140&quality=85&auto=format&fit=max&s=4f36239acbfcd8f7333ae1e3de2f8bf2"
     },
     {
       "title": "Deadly attack in Kyiv as Russia launches barrage against Ukraine",
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795286551.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
