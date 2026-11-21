@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T17:30:34.488693+00:00",
+  "updated_at": "2026-11-21T17:45:27.833614+00:00",
   "national": [
     {
       "title": "City tertahan di Etihad, Fulham putus rentetan kekalahan",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Liverpool vs Manchester United: Premier League – teams, prediction, lineups",
+      "summary": "One of sport's biggest rivalries takes centre stage as Liverpool host a Man United side in the EPL relegation zone.",
+      "url": "https://www.aljazeera.com/sports/2026/11/21/liverpool-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-21T17:28:51+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2305467715-1795257935.jpg?resize=1200%2C675"
+    },
+    {
       "title": "Vance stops short of endorsing Trump’s claim that Iran was close to nuclear weapon",
       "summary": "US vice-president says it’s not his place to second-guess the president, but refrains from endorsing Trump’s claim At a White House news conference on Friday, JD Vance stopped short of endorsing Donald Trump’s claim that Iran was so close to obtaining a nuclear weapon in February that it was essential for the US to go to war with the Islamic republic. In the White House briefing room, Trump was asked about reporting this week that he was unhappy with the US vice-president’s statement blaming Republican losses in the midterm elections on the Iran war. Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/nov/21/vance-trump-iran-nuclear-weapon",
@@ -42,15 +50,11 @@
       "source": "BBC",
       "published": "2026-11-21T16:35:15+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "title": "India’s opposition stages protests against Meta over account removals",
-      "summary": "Indian Youth Congress issues a seven-day 'ultimatum' to the US technology giant, urging it to lift all restrictions.",
-      "url": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-21T16:14:01+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b01aa96-1795271318.jpg?resize=1200%2C675"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
