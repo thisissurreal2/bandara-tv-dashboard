@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T16:30:31.805460+00:00",
+  "updated_at": "2026-11-21T16:45:26.391082+00:00",
   "national": [
     {
       "title": "Tim SAR Temukan Jasad Warga Baduy yang Terseret Arus Sungai Cisimeut",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
+      "title": "Anthropic mathematician claims he used Claude to prove 19th-century Riemann hypothesis",
+      "summary": "Levent Alpöge says it took six weeks for him using the AI tool to solve the math problem involving prime numbers A mathematician at Anthropic is contending that the San Francisco -based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved problems in mathematics. Levent Alpöge, a Turkish American mathematician, on Friday posted a note on his personal website saying that Claude, the AI software, had helped prove the Riemann hypothesis. He says that Claude helped develop a solution to the problem during the course of about six weeks. Continue reading...",
+      "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+      "source": "The Guardian",
+      "published": "2026-11-21T16:39:49+00:00",
+      "image": "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=140&quality=85&auto=format&fit=max&s=2be6ea0855df616ea30ffc89afed2e1f"
+    },
+    {
       "title": "FBI reportedly investigating apparent hack of its criminal database",
       "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
       "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-21T16:27:14+00:00",
+      "published": "2026-11-21T16:35:15+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg"
     },
     {
-      "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
-      "summary": "Mexican forces arrested Chapo Isidro in Sinaloa. He was on the FBI’s most wanted list and faces US drug charges.",
-      "url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
+      "title": "India’s opposition stages protests against Meta over account removals",
+      "summary": "Indian Youth Congress issues a seven-day 'ultimatum' to the US technology giant, urging it to lift all restrictions.",
+      "url": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-21T16:03:16+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b01ba7ee1af-1795275390.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Virginia child dies in state’s first measles-associated death of 2026",
-      "summary": "Death adds to national measles outbreak that recently cost the US its measles elimination status after 26 years Virginia reported its first measles-associated death of 2026 ⁠on Friday, involving a child who tested positive for the infectious disease, the state’s health department said. The department said the child was ⁠age four or younger. It did not disclose additional details, including the child’s vaccination status, citing the family’s privacy. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/21/virginia-child-dies-measles",
-      "source": "The Guardian",
-      "published": "2026-11-21T15:30:07+00:00",
-      "image": "https://i.guim.co.uk/img/media/c0ce942a27e560d3ae51a4e8900971d7de2d7ccb/574_0_5736_4589/master/5736.jpg?width=140&quality=85&auto=format&fit=max&s=1636a3ff8a4d86dc6e0b6d3ec9c17bee"
+      "published": "2026-11-21T16:14:01+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b01aa96-1795271318.jpg?resize=1200%2C675"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
