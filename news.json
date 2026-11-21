@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-21T13:45:25.360912+00:00",
+  "updated_at": "2026-11-21T14:00:38.259730+00:00",
   "national": [
+    {
+      "title": "Fadli Zon Respons Sentilan Siera Tamihardja soal Pemerkosaan Massal 98",
+      "summary": "Fadli Zon tak membantah adanya pemerkosaan pada Mei 1998, namun meminta penggunaan istilah \"massal\" didukung fakta dan dokumentasi akurat.",
+      "url": "https://www.cnnindonesia.com/nasional/20261121192745-20-1429928/fadli-zon-respons-sentilan-siera-tamihardja-soal-pemerkosaan-massal-98",
+      "source": "CNN Indonesia",
+      "published": "2026-11-21T13:50:00+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2025/10/02/fadli-zon-1759404769981_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Restoran di Blok M Hub Kebakaran",
       "summary": "Restoran di Blok M Hub, Kebayoran Baru, Jakarta Selatan mengalami kebakaran. Belum diketahui secara pasti penyabab kebakaran ini.",
@@ -10,20 +18,12 @@
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/21/restoran-di-blok-m-hub-kebayoran-baru-jakarta-selatan-mengalami-kebakaran-belum-diketahui-secara-pasti-penyabab-kebakaran-ini--1795268541037_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Polisi Sita Kasur hingga Bantal Usai Geledah Rumah Dinas Bupati Kupang",
-      "summary": "Polisi menggeledah rumah dinas Bupati Kupang, Yosef Lede, menyita barang bukti terkait dugaan kekerasan seksual terhadap mahasiswi. Penyidikan terus berlanjut.",
-      "url": "https://www.cnnindonesia.com/nasional/20261121194519-12-1429931/polisi-sita-kasur-hingga-bantal-usai-geledah-rumah-dinas-bupati-kupang",
-      "source": "CNN Indonesia",
-      "published": "2026-11-21T13:40:20+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2020/04/21/7c0e582e-a703-43cb-a572-13055f046d5f_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Indonesia dan Belanda kerja sama benahi tata kelola sampah di COP31",
-      "summary": "Pemerintah Indonesia melalui Kementerian Lingkungan Hidup dan Pemerintah Belanda resmi menandatangani Nota Kesepahaman ...",
-      "url": "https://www.antaranews.com/berita/5869899/indonesia-dan-belanda-kerja-sama-benahi-tata-kelola-sampah-di-cop31",
+      "title": "Indonesia-Uni Eropa tandatangani IEU-CEPA perkuat kerja sama dagang",
+      "summary": "Pemerintah Indonesia dan Uni Eropa resmi melakukan penandatanganan persetujuan Indonesia–European Union ...",
+      "url": "https://www.antaranews.com/berita/5870031/indonesia-uni-eropa-tandatangani-ieu-cepa-perkuat-kerja-sama-dagang",
       "source": "ANTARA",
-      "published": "2026-11-21T12:25:04+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/21/DSC01220_1.jpg"
+      "published": "2026-11-21T13:37:17+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/21/IMG_20261121_202618.jpg"
     }
   ],
   "international": [
@@ -52,5 +52,9 @@
       "image": "https://i.guim.co.uk/img/media/232b3595bc9ba8b26b7f2eb469c9abc7c333d154/716_0_4901_3923/master/4901.jpg?width=140&quality=85&auto=format&fit=max&s=5251357948436a2696afae318db5ebea"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
