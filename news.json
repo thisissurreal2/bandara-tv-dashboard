@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-21T14:15:26.614708+00:00",
+  "updated_at": "2026-11-21T14:30:32.336744+00:00",
   "national": [
+    {
+      "title": "Kepergok Bobol Toko Kue, Pria di Ciledug Langsung Diringkus Polisi",
+      "summary": "Polisi menangkap MMI di Jakarta Cheese Factory saat membobol ruko. Pelaku, residivis, membawa alat untuk merusak kunci. Proses hukum sedang berlangsung.",
+      "url": "https://news.detik.com/berita/d-8763760/kepergok-bobol-toko-kue-pria-di-ciledug-langsung-diringkus-polisi",
+      "source": "Detik",
+      "published": "2026-11-21T14:15:36+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2015/11/20/ceaef288-b8cd-4a93-a5d1-95ac2ad7aa5a_169.jpg?w=360&q=90"
+    },
     {
       "title": "Fadli Zon Respons Sentilan Siera Tamihardja soal Pemerkosaan Massal 98",
       "summary": "Fadli Zon tak membantah adanya pemerkosaan pada Mei 1998, namun meminta penggunaan istilah \"massal\" didukung fakta dan dokumentasi akurat.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-21T13:50:00+00:00",
       "image": "https://akcdn.detik.net.id/visual/2025/10/02/fadli-zon-1759404769981_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Restoran di Blok M Hub Kebakaran",
-      "summary": "Restoran di Blok M Hub, Kebayoran Baru, Jakarta Selatan mengalami kebakaran. Belum diketahui secara pasti penyabab kebakaran ini.",
-      "url": "https://news.detik.com/berita/d-8763733/restoran-di-blok-m-hub-kebakaran",
-      "source": "Detik",
-      "published": "2026-11-21T13:42:35+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/21/restoran-di-blok-m-hub-kebayoran-baru-jakarta-selatan-mengalami-kebakaran-belum-diketahui-secara-pasti-penyabab-kebakaran-ini--1795268541037_169.jpeg?w=360&q=90"
     },
     {
       "title": "Indonesia-Uni Eropa tandatangani IEU-CEPA perkuat kerja sama dagang",
@@ -36,25 +36,21 @@
       "image": "https://i.guim.co.uk/img/media/b150fbf305d621454311041d7c8c8c7d201d7d70/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=dafbe2e6e35771a70bb5deec81cfabd2"
     },
     {
+      "title": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
+      "summary": "Jerusalem Daily: Gaza faces deadly strikes and health crisis",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/jerusalem-daily-gaza-faces-deadly-strikes-and-health-crisis?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-21T14:06:06+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795269949.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
       "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
       "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
       "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-21T13:17:38+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "title": "Chaudhary helps Australia beat England in T20 shake-off of scandal-hit run",
-      "summary": "Australia beat England by three wickets with only one ball to spare as Nikhil Chaudhary's 66 leads charge in Melbourne.",
-      "url": "https://www.aljazeera.com/sports/2026/11/21/chaudhary-helps-australia-beat-england-in-t20-shake-off-of-scandal-hit-run?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-21T13:08:59+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2306179254-1795265252.jpg?resize=1200%2C675"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
