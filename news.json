@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-21T21:15:27.150126+00:00",
+  "updated_at": "2026-11-21T21:30:36.669977+00:00",
   "national": [
     {
-      "title": "Gempa M 4,2 Terjadi di Pesisir Selatan Sumbar",
-      "summary": "Gempa magnitudo 4,2 mengguncang Pesisir Selatan, Sumbar, pada kedalaman 55 km. BMKG menginformasikan lokasi dan waktu kejadian. Dampak belum diketahui.",
-      "url": "https://news.detik.com/berita/d-8763947/gempa-m-4-2-terjadi-di-pesisir-selatan-sumbar",
+      "title": "Gubernur dan Kapolda Banten Pantau Kebakaran Pabrik Permen di Cikande",
+      "summary": "Gubernur Banten dan Kapolda memantau kebakaran pabrik permen di Cikande. Proses pemadaman intensif dilakukan, 40 pekerja belum teridentifikasi.",
+      "url": "https://news.detik.com/berita/d-8763952/gubernur-dan-kapolda-banten-pantau-kebakaran-pabrik-permen-di-cikande",
       "source": "Detik",
-      "published": "2026-11-21T20:23:46+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/06/08/ilustrasi-gempa-1780909642348_169.jpeg?w=360&q=90"
+      "published": "2026-11-21T21:10:38+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/22/gubernur-banten-andra-soni-bersama-kapolda-banten-irjen-hendra-kurniawan-memantau-penanganan-kebakaran-pabrik-permen-di-kawasa-1795295024663_169.jpeg?w=360&q=90"
     },
     {
       "title": "City tertahan di Etihad, Fulham putus rentetan kekalahan",
@@ -28,14 +28,6 @@
   ],
   "international": [
     {
-      "title": "Impunity fuels surge in settler violence across occupied West Bank",
-      "summary": "Impunity fuels surge in settler violence across occupied West Bank",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-21T21:11:54+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795295433.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
       "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
       "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
       "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
@@ -44,17 +36,21 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg"
     },
     {
+      "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
+      "summary": "Iran's foreign minister says reopening the strait is 'not difficult' if the US accepts reasonable conditions.",
+      "url": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-21T20:56:35+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b01e7c0bd47-1795286976.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
-      "summary": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has convincingly said that the San Francisco -based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved problems in mathematics. Levent Alpöge, a Turkish American mathematician, on Friday posted a note on his personal website saying that Claude, the AI software, had helped prove the Riemann hypothesis. He says that Claude helped develop a solution to the problem during the course of about six weeks. Continue reading...",
+      "summary": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has said that the San Francisco -based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved problems in mathematics – and experts say the claim checks out. Levent Alpöge, a Turkish American mathematician, on Friday posted a note on his personal website saying that Claude, the AI software, had helped prove the Riemann hypothesis. He says that Claude helped develop a solution to the problem during the course of about six weeks. Continue reading...",
       "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
       "source": "The Guardian",
       "published": "2026-11-21T20:15:57+00:00",
       "image": "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=140&quality=85&auto=format&fit=max&s=2be6ea0855df616ea30ffc89afed2e1f"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
