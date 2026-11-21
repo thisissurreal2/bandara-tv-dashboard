@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-21T13:15:27.917788+00:00",
+  "updated_at": "2026-11-21T13:30:33.776933+00:00",
   "national": [
+    {
+      "title": "Zulhas Tegaskan PAN Dukung Kader Gerindra Jadi Wapres Baru",
+      "summary": "Ketua Umum PAN Zulkifli Hasan mendukung kader Gerindra sebagai wapres mendampingi Prabowo. PAN serahkan sepenuhnya pilihan kepada Prabowo.",
+      "url": "https://www.cnnindonesia.com/nasional/20261121190950-32-1429921/zulhas-tegaskan-pan-dukung-kader-gerindra-jadi-wapres-baru",
+      "source": "CNN Indonesia",
+      "published": "2026-11-21T13:20:32+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/10/19/menteri-koordinator-bidang-pangan-zulkifli-hasan-di-cnn-indonesia-agrifood-forum-2026-1792384626066_169.png?w=360&q=90"
+    },
     {
       "title": "Makin Memanas Aksi Saling Serang Saudi Vs Houthi",
       "summary": "Konflik antara Arab Saudi dan kelompok Houthi di Yaman semakin memanas. Kedua pihak saling melancarkan serangan.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-21T13:12:27+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2017/12/05/dcaa6a44-18db-4e31-9c3c-02da0ce49ce8_169.jpg?w=360&q=90"
-    },
-    {
-      "title": "Cakra Adi Negara Dipulangkan, Wajib Lapor Berkala ke Polisi",
-      "summary": "Polda Metro Jaya tidak menahan mantan kader PSI Cakra Adi Negara setelah ditangkap terkait kasus dugaan pencemaran nama baik dan fitnah melalui media elektronik",
-      "url": "https://www.cnnindonesia.com/nasional/20261121182503-12-1429915/cakra-adi-negara-dipulangkan-wajib-lapor-berkala-ke-polisi",
-      "source": "CNN Indonesia",
-      "published": "2026-11-21T12:40:00+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2015/07/24/0676200f-0af8-4c87-a754-bff6467e55d7_169.jpg?w=360&q=90"
     },
     {
       "title": "Indonesia dan Belanda kerja sama benahi tata kelola sampah di COP31",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-21T13:17:38+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "title": "Chaudhary helps Australia beat England in T20 shake-off of scandal-hit run",
+      "summary": "Australia beat England by three wickets with only one ball to spare as Nikhil Chaudhary's 66 leads charge in Melbourne.",
+      "url": "https://www.aljazeera.com/sports/2026/11/21/chaudhary-helps-australia-beat-england-in-t20-shake-off-of-scandal-hit-run?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-21T13:08:59+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2306179254-1795265252.jpg?resize=1200%2C675"
+    },
+    {
       "title": "US pursuit of ‘Trump-class’ warships has blown cost of new fleet by billions, report warns",
       "summary": "Iran war stretching fleet’s capacity, navy chief admits, as CBO finds estimated cost of new ships ‘unrealistically low’ The US navy’s commitment to the new Trump-class battleships has blown out the cost of its new fleet by billions of dollars, a report to the US Congress has found, as the acting secretary of the navy conceded this week the Iran war was “stretching” the fleet’s capacity. The challenges facing the world’s biggest naval force were highlighted this week, when the return of the USS George Washington from the Middle East on Wednesday ended a rare three-month period when the US had no aircraft carrier across all of the Pacific. Deployments have been regularly running beyond 300 days, with the maintenance and repair of ships deferred so they can stay at sea longer. Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-class-warships",
       "source": "The Guardian",
       "published": "2026-11-21T13:00:00+00:00",
       "image": "https://i.guim.co.uk/img/media/232b3595bc9ba8b26b7f2eb469c9abc7c333d154/716_0_4901_3923/master/4901.jpg?width=140&quality=85&auto=format&fit=max&s=5251357948436a2696afae318db5ebea"
-    },
-    {
-      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
-      "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-21T12:52:00+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3686/live/9ee585d0-e5a6-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "title": "Riemann hypothesis: Has the world’s most famous maths problem been cracked?",
-      "summary": "Mathematicians say the claimed proof, made with Claude, could be historic, but it may take weeks to understand it.",
-      "url": "https://www.aljazeera.com/news/2026/11/21/riemann-hypothesis-has-the-worlds-most-famous-maths-problem-been-cracked?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-21T12:49:20+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-515252266-1795262357_4321f0-1795262397.jpg?resize=1200%2C630&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
