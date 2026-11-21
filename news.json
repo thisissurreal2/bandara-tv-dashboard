@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-21T16:15:25.704604+00:00",
+  "updated_at": "2026-11-21T16:30:31.805460+00:00",
   "national": [
+    {
+      "title": "Tim SAR Temukan Jasad Warga Baduy yang Terseret Arus Sungai Cisimeut",
+      "summary": "Proses pencarian Aliyah (10) yang terseret arus Sungai Cisimeut resmi dihentikan setelah ditemukan meninggal. Tim SAR juga menemukan Pulung (21) sebelumnya.",
+      "url": "https://news.detik.com/berita/d-8763853/tim-sar-temukan-jasad-warga-baduy-yang-terseret-arus-sungai-cisimeut",
+      "source": "Detik",
+      "published": "2026-11-21T16:15:13+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2015/12/08/8aa9a87b-5bdb-480b-899f-70ab112d663e_169.jpg?w=360&q=90"
+    },
     {
       "title": "RI jajaki penempatan 300 pekerja migran di Ceko pada 2027",
       "summary": "Kementerian Pelindungan Pekerja Migran Indonesia (KP2MI) menjajaki peluang penempatan kerja sebanyak 300 pekerja migran ...",
@@ -8,14 +16,6 @@
       "source": "ANTARA",
       "published": "2026-11-21T15:55:15+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/21/1000818754.jpg"
-    },
-    {
-      "title": "Kepala BRAN Beri Contoh Masalah Agraria di Desa hingga Kota dan Tindaklanjutnya",
-      "summary": "BRAN menekankan pentingnya reforma agraria untuk semua lapisan masyarakat, dari petani hingga warga perkotaan, guna memastikan hak dan kesejahteraan rakyat.",
-      "url": "https://news.detik.com/berita/d-8763842/kepala-bran-beri-contoh-masalah-agraria-di-desa-hingga-kota-dan-tindaklanjutnya",
-      "source": "Detik",
-      "published": "2026-11-21T15:49:47+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/21/kepala-bran-dedi-prasetyo-1795276077429_43.jpeg?w=360&q=90"
     },
     {
       "title": "Erin Eks Istri Andre Taulany Jadi Tersangka Penganiayaan ART",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "US midterms 2026: What happens before the new Congress takes office?",
-      "summary": "What happens between the US midterm elections and January, when Democrats take control of Congress?",
-      "url": "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-21T16:27:14+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
+      "summary": "Mexican forces arrested Chapo Isidro in Sinaloa. He was on the FBI’s most wanted list and faces US drug charges.",
+      "url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-21T15:49:32+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-17T122640Z_1733617564_RC2NPOA4FN91_RTRMADP_3_USA-CONGRESS-1794947507.jpg?resize=1920%2C1440"
+      "published": "2026-11-21T16:03:16+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b01ba7ee1af-1795275390.jpg?resize=1920%2C1440"
     },
     {
       "title": "Virginia child dies in state’s first measles-associated death of 2026",
@@ -42,14 +50,6 @@
       "source": "The Guardian",
       "published": "2026-11-21T15:30:07+00:00",
       "image": "https://i.guim.co.uk/img/media/c0ce942a27e560d3ae51a4e8900971d7de2d7ccb/574_0_5736_4589/master/5736.jpg?width=140&quality=85&auto=format&fit=max&s=1636a3ff8a4d86dc6e0b6d3ec9c17bee"
-    },
-    {
-      "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
-      "summary": "Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.",
-      "url": "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-21T14:54:24+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg"
     }
   ],
   "feed_warnings": []
