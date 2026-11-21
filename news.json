@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-21T02:45:29.239756+00:00",
+  "updated_at": "2026-11-21T03:00:41.178808+00:00",
   "national": [
     {
-      "title": "KA SiantarEkspresTertemper Angkot, 3 Petugas KAI Luka Serius",
+      "title": "Menhub: RI perluas kerja sama ICAO demi penerbangan berkelanjutan",
+      "summary": "Menteri Perhubungan (Menhub) Dudy Purwagandhi memastikan Indonesia memperluas kerja sama melalui Dewan (International ...",
+      "url": "https://www.antaranews.com/berita/5869071/menhub-ri-perluas-kerja-sama-icao-demi-penerbangan-berkelanjutan",
+      "source": "ANTARA",
+      "published": "2026-11-21T02:57:31+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/21/F06BEE1C-DD32-45AD-BAD6-C2DDE2BB8096.jpeg"
+    },
+    {
+      "title": "Kemendagri Beri Apresiasi Pemda Berprestasi di Regional Maluku-Nusra",
+      "summary": "Kemendagri dorong kinerja Pemda melalui Apresiasi Pemda Berprestasi 2026. Tiga kategori dinilai untuk tingkatkan inovasi dan pertumbuhan ekonomi daerah.",
+      "url": "https://news.detik.com/berita/d-8762898/kemendagri-beri-apresiasi-pemda-berprestasi-di-regional-maluku-nusra",
+      "source": "Detik",
+      "published": "2026-11-21T02:53:16+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/21/kemendagri-1795229574146_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "KA Siantar Ekspres Tertemper Angkot, 3 Petugas KAI Luka Serius",
       "summary": "Tiga petugas KAI terluka serius akibat insiden kereta tertemper angkot di perlintasan liar. KAI prioritaskan pemulihan dan normalisasi layanan.",
-      "url": "https://www.cnnindonesia.com/nasional/20261121092431-20-1429743/ka-siantareksprestertemper-angkot-3-petugas-kai-luka-serius",
+      "url": "https://www.cnnindonesia.com/nasional/20261121092431-20-1429743/ka-siantar-ekspres-tertemper-angkot-3-petugas-kai-luka-serius",
       "source": "CNN Indonesia",
       "published": "2026-11-21T02:40:07+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/20/thumbnail-video-1795174589390_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Hari Anak Sedunia, Kak Seto ingatkan bahaya perundungan",
-      "summary": "Psikolog anak Seto Mulyadi atau yang akrab disapa Kak Seto mengingatkan pentingnya pemenuhan hak anak serta ...",
-      "url": "https://www.antaranews.com/berita/5868987/hari-anak-sedunia-kak-seto-ingatkan-bahaya-perundungan",
-      "source": "ANTARA",
-      "published": "2026-11-21T02:16:40+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/06/04/IMG_8185.jpg"
-    },
-    {
-      "title": "Puan Singgung Peran Parlemen untuk Masa Depan ASEAN di Sidang AIPA Manila",
-      "summary": "Ketua DPR Puan Maharani hadir di Sidang Umum AIPA ke-47 di Filipina, menandatangani komitmen untuk perdamaian dan kesejahteraan rakyat ASEAN.",
-      "url": "https://news.detik.com/berita/d-8762837/puan-singgung-peran-parlemen-untuk-masa-depan-asean-di-sidang-aipa-manila",
-      "source": "Detik",
-      "published": "2026-11-21T02:08:35+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/21/puan-maharani-1795227061651_169.png?w=360&q=90"
     }
   ],
   "international": [
@@ -52,9 +52,5 @@
       "image": "https://i.guim.co.uk/img/media/9ac7a13c61ac09c8989f886adde8097c03d0fc03/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=4513785efb37d1da06beb027b45f87f7"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
