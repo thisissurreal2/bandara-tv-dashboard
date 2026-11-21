@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-21T10:30:34.130576+00:00",
+  "updated_at": "2026-11-21T10:45:24.525496+00:00",
   "national": [
+    {
+      "title": "PSI: Cakra Adi Negara Sudah Lama Dipecat dari Partai",
+      "summary": "DPD PSI Bekasi menegaskan Cakra Adi Negara bukan anggota sejak September 2020. Ia ditangkap Polda Metro Jaya atas dugaan pencemaran nama baik.",
+      "url": "https://www.cnnindonesia.com/nasional/20261121160932-32-1429870/psi-cakra-adi-negara-sudah-lama-dipecat-dari-partai",
+      "source": "CNN Indonesia",
+      "published": "2026-11-21T10:40:05+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2025/07/15/bendera-psi-berlogo-gajah-1752547535391_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Sempat Jadi ART-Penjaga Warteg, Cika Ingin Ubah Nasib dari Sekolah Rakyat",
       "summary": "Cika Utami Putri kembali ke sekolah setelah bekerja sebagai ART dan baby sitter. Ia berharap pendidikan membawanya menuju kehidupan yang lebih baik.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-21T10:20:04+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/21/kemensos-1795256357870_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Gempa M 7,2 Guncang Maluku Barat Daya",
-      "summary": "Gempa bumi berkekuatan magnitudo (M) 7,2 mengguncang wilayah Maluku Barat Daya, Maluku, pada Sabtu (21/11) sore.",
-      "url": "https://www.cnnindonesia.com/nasional/20261121171504-20-1429894/gempa-m-72-guncang-maluku-barat-daya",
-      "source": "CNN Indonesia",
-      "published": "2026-11-21T10:17:40+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2019/11/16/6b71c58c-8a52-45c7-9e56-a1feb8e24c6a_169.jpeg?w=360&q=90"
     },
     {
       "title": "Hasil KTT APEC 2026",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Cavaliers’ Harden passes Bryant, closes on Jordan in NBA 50-point game list",
+      "summary": "James Harden climbs NBA career record list in leading Cleveland Cavaliers to 128-119 win over Indiana Pacers.",
+      "url": "https://www.aljazeera.com/sports/2026/11/21/cavaliers-james-harden-closes-on-michael-jordan-in-nba-50-point-game-list?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-21T10:27:23+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261121__2306138096__v1__HighRes__IndianaPacersVClevelandCavaliers-1795254075.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
       "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
       "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-21T10:26:36+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9834/live/684cb9a0-e527-11f1-b32f-b1f1a32fbf0e.jpg"
-    },
-    {
-      "title": "Verstappen escapes Vegas F1 discipline, takes pole as Antonelli penalised",
-      "summary": "Max Verstappen escapes discipline in Vegas F1 practice after run-ins and takes pole as Kimi Antonelli hit with penalty.",
-      "url": "https://www.aljazeera.com/sports/2026/11/21/verstappen-escapes-las-vegas-discipline-takes-pole-as-antonelli-penalised?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-21T09:58:59+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26325202191822-1795252438.jpg?resize=1920%2C1440"
     },
     {
       "title": "Black Friday deals for liquid Brazilian butt lifts criticised over safety fears",
@@ -52,5 +52,9 @@
       "image": "https://i.guim.co.uk/img/media/52093157cacdf8e54284e868c36d64a07b207178/106_0_4298_3438/master/4298.jpg?width=140&quality=85&auto=format&fit=max&s=c04e3f7086b282dd6f55205d3818fc72"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
