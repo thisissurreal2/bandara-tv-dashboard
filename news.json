@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T20:45:26.383856+00:00",
+  "updated_at": "2026-11-21T21:00:39.024601+00:00",
   "national": [
     {
       "title": "Gempa M 4,2 Terjadi di Pesisir Selatan Sumbar",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Thousands protest across Europe over living costs and housing",
+      "summary": "Demonstrations in France and Portugal follow youth-led protests over education and economic hardship across Europe.",
+      "url": "https://www.aljazeera.com/news/2026/11/21/thousands-protest-across-europe-over-living-costs-and-housing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-21T20:47:50+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-21T171053Z_1177590545_RC2FSOAHFU7E_RTRMADP_3_PORTUGAL-POLITICS-PROTESTS-1795290649.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
       "summary": "Anthropic’s Levent Alpöge says it took six weeks for him using the AI tool to solve 19th-century Riemann hypothesis A mathematician at Anthropic has convincingly said that the San Francisco -based artificial intelligence (AI) company’s software has helped crack one of the most important unsolved problems in mathematics. Levent Alpöge, a Turkish American mathematician, on Friday posted a note on his personal website saying that Claude, the AI software, had helped prove the Riemann hypothesis. He says that Claude helped develop a solution to the problem during the course of about six weeks. Continue reading...",
       "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
       "source": "The Guardian",
       "published": "2026-11-21T20:15:57+00:00",
       "image": "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=140&quality=85&auto=format&fit=max&s=2be6ea0855df616ea30ffc89afed2e1f"
-    },
-    {
-      "title": "Why is the US Army detonating lead-rich explosives in Iowa?",
-      "summary": "The delayed blasts have stoked environmental fears and concerns about health effects in the state.",
-      "url": "https://www.aljazeera.com/news/2026/11/21/why-is-the-us-army-detonating-lead-rich-explosives-in-iowa?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-21T20:15:13+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6affd5f9cea7-1795151353.jpg?resize=1920%2C1440"
     },
     {
       "title": "Fight over fossil fuels leaves COP31 climate talks in deadlock",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5253/live/c9ca5500-e579-11f1-a5f6-b3028adf2d6d.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
