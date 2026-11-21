@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T02:15:27.557292+00:00",
+  "updated_at": "2026-11-21T02:30:32.900483+00:00",
   "national": [
     {
       "title": "Kasus Dugaan Pemerkosaan, Polda NTT Geledah Rumah Dinas Bupati Kupang",
@@ -18,12 +18,12 @@
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/21/puan-maharani-1795227061651_169.png?w=360&q=90"
     },
     {
-      "title": "Gempa magnitudo antara 6,7-6,9 guncang Peru, belum ada laporan korban",
-      "summary": "Gempa bumi bermagnitudo antara 6,7 hingga 6,9 mengguncang wilayah Junin, Peru bagian tengah, pada Jumat (21/11) malam ...",
-      "url": "https://www.antaranews.com/berita/5868951/gempa-magnitudo-antara-67-69-guncang-peru-belum-ada-laporan-korban",
+      "title": "Kemenekraf dorong ekosistem film dan gim Desa Kesiman Kertalangu",
+      "summary": "Kementerian Ekonomi Kreatif (Kemenekraf) mendorong pengembangan ekosistem industri film dan gim di Desa Kesiman ...",
+      "url": "https://www.antaranews.com/berita/5868955/kemenekraf-dorong-ekosistem-film-dan-gim-desa-kesiman-kertalangu",
       "source": "ANTARA",
-      "published": "2026-11-21T01:42:39+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/09/14/1001489196.jpg"
+      "published": "2026-11-21T01:44:35+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/21/1000672198.jpg"
     }
   ],
   "international": [
@@ -52,5 +52,9 @@
       "image": "https://i.guim.co.uk/img/media/9ac7a13c61ac09c8989f886adde8097c03d0fc03/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=4513785efb37d1da06beb027b45f87f7"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
