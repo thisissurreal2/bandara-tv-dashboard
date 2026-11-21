@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T23:45:28.117192+00:00",
+  "updated_at": "2026-11-21T00:00:38.224128+00:00",
   "national": [
     {
       "title": "Pertimbangan Tidak Dimuatnya Ketentuan Illicit Enrichment dalam UU Perampasan Aset",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
+      "title": "Republican senator blocks Trump cyber nominee over January 6 denial",
+      "summary": "Thom Tillis move comes after Michael LoSapio, nominated for Cisa role, told hearing ‘I don’t believe it was an attack’ Senator Thom Tillis, the outgoing North Carolina Republican who is due to be replaced by a Democrat, has reportedly blocked a confirmation vote on Donald Trump’s nominee to lead a key US cybersecurity agency, Michael LoSapio, after he denied during a hearing that the Capitol was attacked on January 6 2021. Tillis, who declined to run for re-election and after repeated clashes with Trump’s, confirmed to HuffPost on Friday that he has placed a hold on LoSapio’s nomination to serve as a director of the US Cybersecurity and Infrastructure Agency (Cisa). His block on the nomination will prevent it from being included in a package of nominees to be voted on next month, before the Republicans lose their majority in the Senate. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/tillis-republican-senator-trump-cyber-nominee",
+      "source": "The Guardian",
+      "published": "2026-11-20T23:48:38+00:00",
+      "image": "https://i.guim.co.uk/img/media/cac7b215020ab17f2e1926d910d082e9f9ca8ad3/444_0_4416_3535/master/4416.jpg?width=140&quality=85&auto=format&fit=max&s=892fc0c8d9b7b741fcb53f80e10cc653"
+    },
+    {
+      "title": "Overturned boat carrying mourners to funeral kills at least four in Nigeria",
+      "summary": "Police say two children among dead as search continues for more victims.",
+      "url": "https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-20T23:36:36+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b00c9fc8dc7-1795213820.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "A new Nepal, an old neighbour - Balendra Shah's India test",
       "summary": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
       "url": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-20T23:28:17+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ce4/live/0cd0ed60-e3e9-11f1-a16c-7de3762c094b.jpg"
-    },
-    {
-      "title": "Rahul Gandhi backs strong India-Israel ties despite Gaza war",
-      "summary": "India’s opposition leader Rahul Gandhi, says New Delhi should continue to maintain strong ties with Israel.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-20T23:20:50+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/cms-wide-thumb-raga2011-1795216805.png?resize=1920%2C1080&quality=80"
-    },
-    {
-      "title": "Man accused of sparking deadly Los Angeles wildfire found guilty",
-      "summary": "Verdict in case against former Uber driver Jonathan Rinderknecht comes after first trial ended with hung jury The 30-year-old accused of sparking the deadly Palisades fire in Los Angeles was found guilty of two federal arson charges in a Friday verdict that came months after his first trial concluded with a hung jury. For two weeks, a fresh batch of jurors listened to prosecutors mount their case against Jonathan Rinderknecht. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict",
-      "source": "The Guardian",
-      "published": "2026-11-20T23:20:29+00:00",
-      "image": "https://i.guim.co.uk/img/media/9ac7a13c61ac09c8989f886adde8097c03d0fc03/720_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=4513785efb37d1da06beb027b45f87f7"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
