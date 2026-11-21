@@ -1,32 +1,40 @@
 {
-  "updated_at": "2026-11-21T08:30:36.592528+00:00",
+  "updated_at": "2026-11-21T08:45:26.961898+00:00",
   "national": [
     {
-      "title": "KPAI Minta Pemilih Pemula Diubah Jadi 18 tahun",
-      "summary": "KPAI dorong revisi UU Pemilu dan UU Adminduk untuk perlindungan anak. Usulan batas usia pemilih 18 tahun dan hapus syarat perkawinan sebagai pemilih.",
-      "url": "https://www.cnnindonesia.com/nasional/20261121141511-20-1429830/kpai-minta-pemilih-pemula-diubah-jadi-18-tahun",
+      "title": "Polisi Gagalkan Perekrutan 22 WNI untuk Tentara Bayaran Rusia",
+      "summary": "Kepolisian Bogor gagalkan keberangkatan 22 WNI yang direkrut jadi tentara bayaran di Rusia. Dua koordinator ditangkap, penyelidikan masih berlanjut.",
+      "url": "https://www.cnnindonesia.com/nasional/20261121142600-12-1429831/polisi-gagalkan-perekrutan-22-wni-untuk-tentara-bayaran-rusia",
       "source": "CNN Indonesia",
-      "published": "2026-11-21T08:25:22+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2024/02/04/ilustrasi-pemilu_169.jpeg?w=360&q=90"
+      "published": "2026-11-21T08:35:08+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/20/17-wni-jadi-tentara-bayaran-rusia-ikut-perang-lawan-ukraina-1795168657477_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Kemnaker verifikasi mitra penyelenggara MagangHub hingga 27 November",
-      "summary": "Kementerian Ketenagakerjaan (Kemnaker) melakukan verifikasi terhadap perusahaan dan instansi pemerintah yang mendaftar ...",
-      "url": "https://www.antaranews.com/berita/5869479/kemnaker-verifikasi-mitra-penyelenggara-maganghub-hingga-27-november",
-      "source": "ANTARA",
-      "published": "2026-11-21T07:40:05+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/04/23/ff63afaf-7778-47fe-833d-5a8068af9a51_1.jpeg"
-    },
-    {
-      "title": "Cerita Warga Petukangan Jaksel soal TK Kerap Banjir Meski Tak Hujan Besar",
-      "summary": "Wilayah Petukangan Utara, Pesanggrahan, Jakarta Selatan (Jaksel) dilanda banjir sejak kemarin. Salah satu yang terdampak ialah bangunan TK.",
-      "url": "https://news.detik.com/berita/d-8763254/cerita-warga-petukangan-jaksel-soal-tk-kerap-banjir-meski-tak-hujan-besar",
+      "title": "Wamen LH Bawa Gerakan ASRI ke COP31 Turki, Singgung Aksi Warga Rorotan",
+      "summary": "Wakil Menteri LH Diaz Hendropriyono memperkenalkan Gerakan Indonesia ASRI di COP31, mengajak masyarakat terlibat dalam aksi iklim melalui kegiatan lokal.",
+      "url": "https://news.detik.com/berita/d-8763335/wamen-lh-bawa-gerakan-asri-ke-cop31-turki-singgung-aksi-warga-rorotan",
       "source": "Detik",
-      "published": "2026-11-21T07:24:31+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/21/wilayah-petukangan-utara-pesanggrahan-jakarta-selatan-jaksel-dilanda-banjir-sejak-kemarin-salah-satu-yang-terdampak-ialah-bang-1795245687539_169.jpeg?w=360&q=90"
+      "published": "2026-11-21T08:31:49+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/21/wakil-menteri-lingkungan-hidup-diaz-hendropriyono-dalam-forum-impactful-climate-communications-yang-digelar-climate-interactiv-1795249779278_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "BPH Migas: AI perkuat pengelolaan hilir Migas hingga daerah 3T",
+      "summary": "Badan Pengatur Hilir Minyak dan Gas Bumi (BPH Migas) menyebut pemanfaatan teknologi digital dan kecerdasan buatan ...",
+      "url": "https://www.antaranews.com/berita/5869539/bph-migas-ai-perkuat-pengelolaan-hilir-migas-hingga-daerah-3t",
+      "source": "ANTARA",
+      "published": "2026-11-21T08:18:17+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/21/7C269124-6C14-4503-9E58-39939C28D51C.jpeg"
     }
   ],
   "international": [
+    {
+      "title": "Swimmer braves tanker attacks to expose Hormuz contamination",
+      "summary": "As tankers burned in Hormuz, swimmer Lewis Pugh exposed another casualty of the US-Israeli war on Iran: marine life.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/swimmer-braves-tanker-attacks-to-expose-hormuz-contamination?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-21T08:39:35+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795250294.jpg?resize=1639%2C1080&quality=80"
+    },
     {
       "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
       "summary": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
@@ -42,19 +50,7 @@
       "source": "The Guardian",
       "published": "2026-11-21T08:00:53+00:00",
       "image": "https://i.guim.co.uk/img/media/351f708be30dca27b8ca1b2a67fcd37484ca596e/0_0_4219_3375/master/4219.jpg?width=140&quality=85&auto=format&fit=max&s=5105b308499a22836f9d72388fbda9e6"
-    },
-    {
-      "title": "Can mediation succeed in a war-torn world? | Episode 1",
-      "summary": "With more than 65 armed conflicts raging worldwide, top mediators reveal why peace has never been harder to achieve.",
-      "url": "https://www.aljazeera.com/video/the-art-of-negotiation/2026/11/21/can-mediation-succeed-in-a-war-torn-world-episode-1?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-21T07:38:38+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795246644.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
