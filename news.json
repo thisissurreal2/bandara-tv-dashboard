@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-22T15:30:35.033450+00:00",
+  "updated_at": "2026-11-22T15:45:28.617925+00:00",
   "national": [
+    {
+      "title": "Penangkapan Dua Penumpang di Bandara Seattle Tuai Aksi Protes",
+      "summary": "Aksi protes mewarnai Bandara Seattle-Tacoma, AS, setelah petugas ICE menangkap dua orang yang hendak menaiki penerbangan Alaska Airlines.",
+      "url": "https://news.detik.com/foto-news/d-8764327/penangkapan-dua-penumpang-di-bandara-seattle-tuai-aksi-protes",
+      "source": "Detik",
+      "published": "2026-11-22T15:30:18+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/22/penangkapan-dua-penumpang-di-bandara-seattle-tuai-aksi-protes-1795325496126_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Gunung Karangetang Erupsi 2 Kali Disertai Guguran Lava Pijar",
       "summary": "Gunung Karangetang di Pulau Siau, Kabupaten Kepulauan Sitaro, Sulawesi Utara, dua kali erupsi pada Minggu (22/11) sore yang disertai guguran lava pijar.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-22T15:25:00+00:00",
       "image": "https://akcdn.detik.net.id/visual/2015/05/13/de135324-f43e-4784-9cb6-60d1b11dcaaf_169.jpg?w=360&q=90"
-    },
-    {
-      "title": "Duduk Perkara Provokasi 'Tabrak Lari' hingga 2 Pengeroyok Polisi Diciduk",
-      "summary": "Mobil polisi dikejar dan dikeroyok sekuriti di PIK setelah dituduh tabrak lari. Lima anggota polisi terluka, dua pelaku pengeroyokan ditangkap.",
-      "url": "https://news.detik.com/berita/d-8764904/duduk-perkara-provokasi-tabrak-lari-hingga-2-pengeroyok-polisi-diciduk",
-      "source": "Detik",
-      "published": "2026-11-22T14:47:19+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/19/viral-sekuriti-nemplok-di-mobil-yang-dikejar-kejar-massa-di-pik-jakarta-utara-1795097632463_169.png?w=360&q=90"
     },
     {
       "title": "Khofifah tetapkan UMP Jatim 2027 sebesar Rp2,73 juta",
@@ -55,9 +55,6 @@
   "feed_warnings": [
     "ANTARA: ParseError",
     "ANTARA: no fresh stories",
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "ANTARA: keeping previous story",
-    "Detik: keeping previous story"
+    "ANTARA: keeping previous story"
   ]
 }
