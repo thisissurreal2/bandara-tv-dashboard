@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-22T06:45:26.349578+00:00",
+  "updated_at": "2026-11-22T07:00:37.541747+00:00",
   "national": [
     {
-      "title": "Siapa El Chapo Isidro? Bos Kartel Narkoba Buronan FBI yang Kini Ditangkap",
-      "summary": "El Chapo dulunya hanyalah bandar kelas teri, namun kemudian menjelma sebagai bos kartel internasional.",
-      "url": "https://news.detik.com/internasional/d-8764371/siapa-el-chapo-isidro-bos-kartel-narkoba-buronan-fbi-yang-kini-ditangkap",
+      "title": "Mensos Apresiasi Pemkot Mataram, 45% KK Sudah Terdaftar di Perlinsos Digital",
+      "summary": "Menteri Sosial Gus Ipul apresiasi Pemkot Mataram atas registrasi bansos. 45% KK terdaftar dalam sistem Perlinsos Digital, memudahkan akses bantuan sosial.",
+      "url": "https://news.detik.com/berita/d-8764419/mensos-apresiasi-pemkot-mataram-45-kk-sudah-terdaftar-di-perlinsos-digital",
       "source": "Detik",
-      "published": "2026-11-22T06:11:19+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/22/meza-flores-atau-el-chapo-isidro-1795316969683_169.webp?w=360&q=90"
+      "published": "2026-11-22T06:53:53+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/22/kemensos-1795330412056.jpeg?w=360&q=90"
+    },
+    {
+      "title": "Pemerintah Targetkan Ikan Masuk Menu MBG 2 Kali Sepekan",
+      "summary": "Kementerian Kelautan dan Perikanan targetkan ikan dalam menu program makan bergizi gratis dua kali seminggu. Pelaksanaan diatur agar berjalan efektif.",
+      "url": "https://www.cnnindonesia.com/nasional/20261122132157-20-1430034/pemerintah-targetkan-ikan-masuk-menu-mbg-2-kali-sepekan",
+      "source": "CNN Indonesia",
+      "published": "2026-11-22T06:52:13+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/10/18/sppg-prasmanan-di-pejaten-1792317545625_169.jpeg?w=360&q=90"
     },
     {
       "title": "Khofifah tetapkan UMP Jatim 2027 sebesar Rp2,73 juta",
@@ -16,17 +24,17 @@
       "source": "ANTARA",
       "published": "2026-11-22T06:01:27+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/22/1699952.jpg"
-    },
-    {
-      "title": "Jadi Tersangka Penganiayaan, Erin Mantan Istri Andre Taulany Ajukan RJ",
-      "summary": "Mantan istri Andre Taulany, Erin, ditetapkan sebagai tersangka penganiayaan ART dan menempuh upaya restorative justice.",
-      "url": "https://www.cnnindonesia.com/nasional/20261116183056-12-1427839/jadi-tersangka-penganiayaan-erin-mantan-istri-andre-taulany-ajukan-rj",
-      "source": "CNN Indonesia",
-      "published": "2026-11-22T06:00:54+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/04/30/erin-taulany-1777516580023_169.png?w=360&q=90"
     }
   ],
   "international": [
+    {
+      "title": "New draft deal aims to avert collapse of talks at climate summit",
+      "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
+      "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-22T06:54:06+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg"
+    },
     {
       "title": "Kansas City Current defeat Washington Spirit 2-1 to lift first NWSL title",
       "summary": "Trinity Rodman left in tears after scoring Spirit's only goal as DiBernardo and Debinha give Current a closely fought win.",
@@ -34,14 +42,6 @@
       "source": "Al Jazeera",
       "published": "2026-11-22T06:40:18+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261122__2306291978__v1__HighRes__WashingtonSpiritVKansasCityCurrentNwsl2026Ch-1795325841_ae9f62-1795326491.jpg?resize=1200%2C630&quality=80"
-    },
-    {
-      "title": "Dozens missing after fire at Indonesian factory",
-      "summary": "At least three people were killed and four injured in a fire at a confectionary factory over the weekend.",
-      "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-22T06:05:00+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0675/live/85d2f2e0-e62c-11f1-b2ea-350d14ed1ad7.jpg"
     },
     {
       "title": "‘Serious error of judgment’: outrage over military AI event at Berlin arts complex",
@@ -53,8 +53,8 @@
     }
   ],
   "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
+    "ANTARA: ParseError",
+    "ANTARA: no fresh stories",
+    "ANTARA: keeping previous story"
   ]
 }
