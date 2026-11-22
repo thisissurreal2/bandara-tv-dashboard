@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-22T00:30:32.733020+00:00",
+  "updated_at": "2026-11-22T00:45:25.668669+00:00",
   "national": [
     {
-      "title": "Fakta Kasus Cakra Adi Negara: Wajib Lapor Polisi-Tak Lagi Kader PSI",
-      "summary": "Polda Metro Jaya tidak lagi menahan eks kader PSI Cakra Adi Negara usai sempat ditangkap terkait dugaan pencemaran nama baik dan fitnah lewat media elektronik.",
-      "url": "https://www.cnnindonesia.com/nasional/20261122065654-32-1429957/fakta-kasus-cakra-adi-negara-wajib-lapor-polisi-tak-lagi-kader-psi",
-      "source": "CNN Indonesia",
-      "published": "2026-11-22T00:10:00+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2021/10/08/partai-solidaritas-indonesia_169.jpeg?w=360&q=90"
+      "title": "Hangus Tugu Kunstkring Paleis Dilalap Api Saat Dini Hari",
+      "summary": "Bangunan bersejarah di Menteng, Jakarta Pusat, Tugu Kunstkring Paleis hangus terbakar. Bangunan yang sudah berusia seabad itu terbakar saat dini hari.",
+      "url": "https://news.detik.com/berita/d-8763999/hangus-tugu-kunstkring-paleis-dilalap-api-saat-dini-hari",
+      "source": "Detik",
+      "published": "2026-11-22T00:35:39+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/21/bangunan-restoran-bersejarah-tugu-kunstkring-paleis-terbakar-dini-hari-tadi-dok-damkar-jakpus-1795238552231_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Andra Soni Bantu Pembangunan Rumah Adat Baduy Luar yang Terbakar",
-      "summary": "Gubernur Banten Andra Soni akan bantu bangun 36 rumah warga Baduy yang terbakar, sesuai adat, dimulai Desember 2026. Bantuan juga mencakup kebutuhan mendesak.",
-      "url": "https://news.detik.com/berita/d-8763984/andra-soni-bantu-pembangunan-rumah-adat-baduy-luar-yang-terbakar",
-      "source": "Detik",
-      "published": "2026-11-21T23:54:11+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/04/10/gubernur-banten-andra-soni-1775807404673_169.jpeg?w=360&q=90"
+      "title": "Ahrie Sonta Dicopot dari Kadivkum Polri di Tengah Kasus Dugaan Makar",
+      "summary": "Irjen Polisi Ahrie Sonta dimutasi dari jabatan Kepala Divisi Hukum Polri menjadi Perwira Tinggi Yanma Polri.",
+      "url": "https://www.cnnindonesia.com/nasional/20261122072824-12-1429960/ahrie-sonta-dicopot-dari-kadivkum-polri-di-tengah-kasus-dugaan-makar",
+      "source": "CNN Indonesia",
+      "published": "2026-11-22T00:33:33+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/10/sidang-etik-eks-kadiv-hukum-polri-irjen-ahrie-sonta-1794322248720_169.jpeg?w=360&q=90"
     },
     {
       "title": "BMKG peringatkan hujan lebat di sejumlah wilayah Indonesia pada Minggu",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Clashes erupt across France in another night of protest",
+      "summary": "French police charged to disperse crowds on Saturday as the country faced a sixth weekend of demonstrations.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-22T00:37:32+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795307837.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
       "title": "FBI reportedly investigating apparent hack of its criminal database",
       "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
       "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-22T00:10:44+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "title": "Iran war live: Iran targets US military in Bahrain; Houthi strikes continue",
-      "summary": "Bahrain has condemned Iran's strikes on US military assets in the Gulf country as Houthis keep Saudi Arabia on edge.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-21T23:59:03+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b022741d913-1795303233.jpg?resize=1920%2C1440"
     },
     {
       "title": "Man found dead on Flinders Island linked to shooting of police officer, Tasmanian authorities say",
@@ -52,9 +52,5 @@
       "image": "https://i.guim.co.uk/img/media/37ac1eff6d2198604ce1f56e02ba752ac5645c8a/531_0_4102_3283/master/4102.jpg?width=140&quality=85&auto=format&fit=max&s=26d1f4dbd1fc4ff0ffb581dcebb1e837"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
