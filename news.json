@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-22T09:00:37.561804+00:00",
+  "updated_at": "2026-11-22T09:15:25.713292+00:00",
   "national": [
+    {
+      "title": "Update Kebakaran Pabrik Semen Cikande: 7 Kantong Jenazah Dievakuasi",
+      "summary": "Petugas gabungan mengungkapkan tambahan satu kantong jenazah dari kebakaran pabrik permen di Banten, total menjadi tujuh.",
+      "url": "https://www.cnnindonesia.com/nasional/20261122151116-20-1430085/update-kebakaran-pabrik-semen-cikande-7-kantong-jenazah-dievakuasi",
+      "source": "CNN Indonesia",
+      "published": "2026-11-22T09:10:07+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2018/08/24/ca0b6319-3d8e-4930-997e-f25dd1479c26_169.jpeg?w=360&q=90"
+    },
     {
       "title": "7 Kantong Jenazah Dibawa dari Pabrik Terbakar di Serang, Kondisi Tak Dikenali",
       "summary": "Tujuh kantong jenazah ditemukan di kebakaran pabrik permen, Serang, Banten. Identifikasi korban terhambat akibat kondisi jenazah yang tidak dapat dikenali.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-22T08:49:36+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/22/tim-sar-evakuasi-mayat-dari-lokasi-kebakaran-pabrik-permen-di-serang-ariefdetikcom-1795317185974_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Irjen Yudhi Dimutasi dari Kapolda Bengkulu Usai Viral Aksi Sujud",
-      "summary": "Kapolri Jenderal Suyudi Ario Seto turut merotasi Irjen Yudhi Sulistianto dari jabatannya sebagai Kapolda Bengkulu.",
-      "url": "https://www.cnnindonesia.com/nasional/20261122153044-20-1430091/irjen-yudhi-dimutasi-dari-kapolda-bengkulu-usai-viral-aksi-sujud",
-      "source": "CNN Indonesia",
-      "published": "2026-11-22T08:35:13+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/21/viral-aksi-kapolda-bengkulu-bersujud-minta-maaf-ke-mahasiswa-1795252814365_169.jpeg?w=360&q=90"
     },
     {
       "title": "Khofifah tetapkan UMP Jatim 2027 sebesar Rp2,73 juta",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Burnham should ‘move on’ from Brexit, says Theresa May, as critics hit out over closer EU ties – UK politics live",
+      "summary": "Issue dominates Sunday broadcast round following Friday’s deals on trade and youth mobility Theresa May ‘aghast’ at Andy Burnham’s talk about rejoining EU Good morning and welcome to our UK politics blog. Brexit – or reversing it, 10 years after the event – is the topic dominating the Sunday politics shows this morning after major deals were struck with the EU on Friday on trade, travel, emissions and visas for young people. Continue reading...",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/22/andy-burnham-brexit-theresa-may-michael-gove-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-22T09:09:22+00:00",
+      "image": "https://i.guim.co.uk/img/media/fe3c1f101f487524f1490010fbd18d991551cffe/198_0_1961_1569/master/1961.jpg?width=140&quality=85&auto=format&fit=max&s=b9444122e4b177b023f8d84196ad4615"
+    },
+    {
       "title": "Gukesh vs Sindarov: The youngest World Chess Championship in history",
       "summary": "India's Gukesh defends his title against Uzbekistan’s Sindarov in up to 14 games in Geneva from November 22.",
       "url": "https://www.aljazeera.com/sports/2026/11/22/gukesh-vs-sindarov-the-youngest-world-chess-championship-in-history?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-11-22T08:11:40+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/INTERACTIVE-Chess-cover-image-1795082203.png?resize=1200%2C630"
-    },
-    {
-      "title": "Highly lucrative: Bank of England directors illegally profited from post-abolition enslavement in Cuba",
-      "summary": "New research finds that the British-led Cobre Mining Company helped industrialise Manchester via copper deposits and enslaved African people • Slave-trade wealth was embedded in Britain’s financial system, research finds British businesses run by long-serving directors of the Bank of England profited from “brutal” enslavement in Cuba for decades after slavery’s abolition in the British empire, according to research. Men and boys were enslaved in prison conditions at the El Cobre copper ore mine near Santiago de Cuba, which supplied British firms during the Industrial Revolution, the historian Chris Evans has found. Continue reading...",
-      "url": "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
-      "source": "The Guardian",
-      "published": "2026-11-22T08:00:22+00:00",
-      "image": "https://i.guim.co.uk/img/media/8e8d4ce7d37742836e3c3c5add2beb073cc8be21/0_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=e5620c45cf4b29b42ed906346159bdc1"
     },
     {
       "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
@@ -55,6 +55,9 @@
   "feed_warnings": [
     "ANTARA: ParseError",
     "ANTARA: no fresh stories",
-    "ANTARA: keeping previous story"
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "ANTARA: keeping previous story",
+    "Detik: keeping previous story"
   ]
 }
