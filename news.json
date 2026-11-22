@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-22T12:30:34.294770+00:00",
+  "updated_at": "2026-11-22T12:45:26.908509+00:00",
   "national": [
     {
-      "title": "UU Perampasan Aset Sah, Aset Riza Chalid hingga Jurist Tan Akan Diburu",
-      "summary": "Kejagung akan pakai UU Perampasan Aset untuk memburu aset Riza Chalid di kasus korupsi minyak mentah hingga Jurist Tan di kasus Chromebook.",
-      "url": "https://www.cnnindonesia.com/nasional/20261122180125-12-1430137/uu-perampasan-aset-sah-aset-riza-chalid-hingga-jurist-tan-akan-diburu",
+      "title": "Direktur PPA Polda NTT Dimutasi di Tengah Dugaan Pemerkosaan Bupati",
+      "summary": "Direktur Reserse PPA Polda NTT, Kombes Nova Irone Surentu dimutasi oleh Kapolri Jenderal Suyudi Ario Seto.",
+      "url": "https://www.cnnindonesia.com/nasional/20261122184423-20-1430142/direktur-ppa-polda-ntt-dimutasi-di-tengah-dugaan-pemerkosaan-bupati",
       "source": "CNN Indonesia",
-      "published": "2026-11-22T12:25:58+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2025/02/26/mohammad-riza-chalid-1740576634220_169.jpeg?w=360&q=90"
+      "published": "2026-11-22T12:32:59+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/21/penggeledahan-di-rumah-dinas-bupati-kupang-1795227077889_169.jpeg?w=360&q=90"
     },
     {
       "title": "Sejumlah Warga Terdampak Longsor Pasar Minggu Ngungsi ke Musala",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Israeli settlers attack several Palestinian villages in occupied West Bank",
+      "summary": "Attacks in Ramallah, el-Bireh provinces included the burning of 12 vehicles and spray-painting racist slogans on homes.",
+      "url": "https://www.aljazeera.com/news/2026/11/22/israeli-settlers-attack-several-palestinian-villages-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-22T12:19:42+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-22T071015Z_268220017_RC2VSOAP8KV4_RTRMADP_3_ISRAEL-PALESTINIANS-SETTLERS-AFTERMATH-1795343380.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "South Korea education minister resigns after AI cheating scandal engulfs university exams",
       "summary": "Choi Kyo-jin says he ‘failed to prepare adequately’ for entrance exams, which this year had phones banned and checks for cameras hidden in clothing South Korea’s education minister has resigned after an AI-assisted cheating scandal that erupted in the lead-up to key university entrance exams last week. The country has been gripped by fears of AI-assisted exam cheating since last Sunday, when the top scorer in a national tax accountant exam confessed to using a miniature camera and smartphone to achieve a near-perfect score, just four days before the crucial university entrance exam, known as the suneung. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
       "source": "The Guardian",
       "published": "2026-11-22T12:12:08+00:00",
       "image": "https://i.guim.co.uk/img/media/3d9052371f434580f71c25a962110e47f2e6a076/605_0_6228_4986/master/6228.jpg?width=140&quality=85&auto=format&fit=max&s=b27cbf562e91080e6b506b93ff0b44c3"
-    },
-    {
-      "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
-      "summary": "Tehran has ramped up attacks as the US naval blockade and sanctions campaign hurt the country economically.",
-      "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-22T11:46:42+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-22T054830Z_561340037_RC2TSOAVQ66D_RTRMADP_3_IRAN-CRISIS-BAHRAIN-1-1795348266.jpg?resize=1758%2C1080"
     },
     {
       "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
@@ -55,6 +55,9 @@
   "feed_warnings": [
     "ANTARA: ParseError",
     "ANTARA: no fresh stories",
-    "ANTARA: keeping previous story"
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "ANTARA: keeping previous story",
+    "Detik: keeping previous story"
   ]
 }
