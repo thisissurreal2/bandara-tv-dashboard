@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-22T14:00:39.183520+00:00",
+  "updated_at": "2026-11-22T14:15:29.986821+00:00",
   "national": [
     {
-      "title": "Longsor di Pasar Minggu Jaksel: Warga Mengungsi hingga Terjebak Air",
-      "summary": "Longsor di Pasar Minggu Jakarta Selatan, memicu banjir. Warga terpaksa mengungsi ke Musala.",
-      "url": "https://www.cnnindonesia.com/nasional/20261122203608-20-1430170/longsor-di-pasar-minggu-jaksel-warga-mengungsi-hingga-terjebak-air",
+      "title": "G20 Empower RI Dorong Peran Perempuan Diperluas di Berbagai Sektor",
+      "summary": "G20 EMPOWER Indonesia mendorong pemberdayaan perempuan di sektor strategis seperti energi dan infrastruktur.",
+      "url": "https://www.cnnindonesia.com/nasional/20261122185501-20-1430144/g20-empower-ri-dorong-peran-perempuan-diperluas-di-berbagai-sektor",
       "source": "CNN Indonesia",
-      "published": "2026-11-22T13:55:01+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/22/longsor-akibatkan-banjir-di-pasar-minggu-1795344024507_169.jpeg?w=360&q=90"
+      "published": "2026-11-22T14:10:22+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2021/09/20/ilustrasi-perempuan-di-penyeberangan-jalan_169.jpeg?w=360&q=90"
     },
     {
       "title": "2 Jasad Berpelukan Ditemukan dalam Pabrik Permen Terbakar di Serang",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Briton swims length of strait of Hormuz to highlight environmental cost of war",
-      "summary": "UN patron Lewis Pugh saw ships ablaze and fighter jets overhead during three-day swim as Iran conflict continues A British endurance swimmer has completed a three-day swim through the strait of Hormuz to highlight the environmental cost of the Iran war. Lewis Pugh, a UN patron of the oceans, swam the 9.3-mile (15km) length of the waterway, which is a key route for oil shipments from the Middle East. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/nov/22/briton-lewis-pugh-swims-strait-of-hormuz-environment-war",
+      "title": "Three killed and dozens missing after fire at Indonesian factory",
+      "summary": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
+      "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-22T14:05:20+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0675/live/85d2f2e0-e62c-11f1-b2ea-350d14ed1ad7.jpg"
+    },
+    {
+      "title": "Experts say ‘trusted messengers’ critical as Amish grapple with measles outbreak",
+      "summary": "Unfolding crisis shows importance of ‘human connections’ over the long term – especially in under-vaccinated areas Tristan Sharratt, a family nurse practitioner and public health researcher, began serving an Amish community in central New York almost inadvertently. A friend told an Amish neighbor that Sharratt was accepting new patients and was a good, solid guy. Word spread quickly, and now Sharratt sees many members of the community, which numbers in the hundreds. He is what is called a “trusted messenger” – someone who understands a community and has earned their respect. Other trusted messengers can be neighbors, co-workers, customers, midwives, or people who work as long-distance drivers for the Amish. Connecting with such people will be crucial for ending the measles outbreak and preventing future crises. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/measles-amish-outbreak",
       "source": "The Guardian",
-      "published": "2026-11-22T13:36:01+00:00",
-      "image": "https://i.guim.co.uk/img/media/e6a395e17ba14aa21ecea678066783a153abb5d1/316_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=da865a24f8f25617d2c93589f60ab60a"
+      "published": "2026-11-22T14:00:33+00:00",
+      "image": "https://i.guim.co.uk/img/media/75572d989e49430c572626c68c8e4da3241921a3/148_0_3062_2449/master/3062.jpg?width=140&quality=85&auto=format&fit=max&s=2f6e3b6b8fbac726388705e11e4a10d0"
     },
     {
       "title": "Life, work of Kuwait’s first female composer featured at Doha Film Festival",
@@ -42,19 +50,14 @@
       "source": "Al Jazeera",
       "published": "2026-11-22T13:35:09+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795354503.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
-      "summary": "Finnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
-      "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-22T11:25:14+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6f9/live/a55b16b0-e66d-11f1-9e24-791c5321ff0f.jpg"
     }
   ],
   "feed_warnings": [
     "ANTARA: ParseError",
     "ANTARA: no fresh stories",
-    "ANTARA: keeping previous story"
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "ANTARA: keeping previous story",
+    "Detik: keeping previous story"
   ]
 }
