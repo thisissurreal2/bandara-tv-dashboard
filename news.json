@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-22T00:00:38.029132+00:00",
+  "updated_at": "2026-11-22T00:15:28.275320+00:00",
   "national": [
+    {
+      "title": "Fakta Kasus Cakra Adi Negara: Wajib Lapor Polisi-Tak Lagi Kader PSI",
+      "summary": "Polda Metro Jaya tidak lagi menahan eks kader PSI Cakra Adi Negara usai sempat ditangkap terkait dugaan pencemaran nama baik dan fitnah lewat media elektronik.",
+      "url": "https://www.cnnindonesia.com/nasional/20261122065654-32-1429957/fakta-kasus-cakra-adi-negara-wajib-lapor-polisi-tak-lagi-kader-psi",
+      "source": "CNN Indonesia",
+      "published": "2026-11-22T00:10:00+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2021/10/08/partai-solidaritas-indonesia_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Andra Soni Bantu Pembangunan Rumah Adat Baduy Luar yang Terbakar",
       "summary": "Gubernur Banten Andra Soni akan bantu bangun 36 rumah warga Baduy yang terbakar, sesuai adat, dimulai Desember 2026. Bantuan juga mencakup kebutuhan mendesak.",
@@ -16,32 +24,24 @@
       "source": "ANTARA",
       "published": "2026-11-21T23:02:23+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/22/IMG-20261120-WA0017.jpg"
-    },
-    {
-      "title": "Pramono Anung Jawab Kritik Said Iqbal Soal UMP Jakarta Rp6,1 Juta",
-      "summary": "Merespons Said Iqbal soal UMP DKI 2027 yang lebih rendah dari UMK Bekasi, Gubernur Pramono Anung menegaskan perbandingan harus apple-to-apple.",
-      "url": "https://www.cnnindonesia.com/nasional/20261121203409-20-1429933/pramono-anung-jawab-kritik-said-iqbal-soal-ump-jakarta-rp61-juta",
-      "source": "CNN Indonesia",
-      "published": "2026-11-21T23:00:46+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/13/pramono-minta-penyelesaian-penataan-kawasan-kramat-jati-humanis-dan-terbuka-1794573815459_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
     {
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "title": "FBI reportedly investigating apparent hack of its criminal database",
+      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
+      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-21T23:31:17+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg"
+      "published": "2026-11-22T00:10:44+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg"
     },
     {
-      "title": "Iran faces a ‘silent economic war’, says Iranian president",
-      "summary": "Iran faces a ‘silent economic war’, says Iranian president",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
+      "title": "Iran war live: Iran targets US military in Bahrain; Houthi strikes continue",
+      "summary": "Bahrain has condemned Iran's strikes on US military assets in the Gulf country as Houthis keep Saudi Arabia on edge.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-21T23:18:14+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/iran-pres-horizontal-thumb-1795302988.jpg?resize=1920%2C1080&quality=80"
+      "published": "2026-11-21T23:59:03+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b022741d913-1795303233.jpg?resize=1920%2C1440"
     },
     {
       "title": "Man found dead on Flinders Island linked to shooting of police officer, Tasmanian authorities say",
@@ -52,5 +52,9 @@
       "image": "https://i.guim.co.uk/img/media/37ac1eff6d2198604ce1f56e02ba752ac5645c8a/531_0_4102_3283/master/4102.jpg?width=140&quality=85&auto=format&fit=max&s=26d1f4dbd1fc4ff0ffb581dcebb1e837"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
