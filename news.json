@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T10:45:25.604928+00:00",
+  "updated_at": "2026-11-22T11:00:39.399548+00:00",
   "national": [
     {
       "title": "Banjir di Sumut hingga Kalbar, Ratusan Keluarga Terdampak",
@@ -55,7 +55,7 @@
   "feed_warnings": [
     "ANTARA: ParseError",
     "ANTARA: no fresh stories",
-    "Detik: TimeoutError",
+    "Detik: URLError",
     "Detik: no fresh stories",
     "ANTARA: keeping previous story",
     "Detik: keeping previous story"
