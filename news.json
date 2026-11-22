@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-22T08:30:30.365080+00:00",
+  "updated_at": "2026-11-22T08:45:27.091783+00:00",
   "national": [
+    {
+      "title": "Irjen Yudhi Dimutasi dari Kapolda Bengkulu Usai Viral Aksi Sujud",
+      "summary": "Kapolri Jenderal Suyudi Ario Seto turut merotasi Irjen Yudhi Sulistianto dari jabatannya sebagai Kapolda Bengkulu.",
+      "url": "https://www.cnnindonesia.com/nasional/20261122153044-20-1430091/irjen-yudhi-dimutasi-dari-kapolda-bengkulu-usai-viral-aksi-sujud",
+      "source": "CNN Indonesia",
+      "published": "2026-11-22T08:35:13+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/21/viral-aksi-kapolda-bengkulu-bersujud-minta-maaf-ke-mahasiswa-1795252814365_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Banjir Terjadi di Sumut dan Kalbar, Ratusan Keluarga Terdampak",
       "summary": "Banjir terjadi di Padang Lawas Utara, Sumatera Utara (Sumut), dan Sambas, Kalimantan Barat (Kalbar).",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-22T08:23:15+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/22/kondisi-banjir-di-padang-lawas-utara-sumut-pada-sabtu-2111-dok-bpbd-padang-lawas-utara-1795335780052_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Kapolri Ungkap Sudah Sita 600 Ton Narkoba dalam 2 Bulan: Rekor Dunia",
-      "summary": "Kapolri Suyudi Ario Seto ungkap pengamanan 600 ton narkotika dalam dua bulan dan menegaskan pemberantasan narkoba jadi prioritas Polri.",
-      "url": "https://www.cnnindonesia.com/nasional/20261122143813-12-1430061/kapolri-ungkap-sudah-sita-600-ton-narkoba-dalam-2-bulan-rekor-dunia",
-      "source": "CNN Indonesia",
-      "published": "2026-11-22T08:01:12+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/12/raker-kapolri-dan-komisi-3-dpr-1794450472248_169.jpeg?w=360&q=90"
     },
     {
       "title": "Khofifah tetapkan UMP Jatim 2027 sebesar Rp2,73 juta",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Gukesh vs Sindarov: The youngest World Chess Championship in history",
+      "summary": "India's Gukesh defends his title against Uzbekistan’s Sindarov in up to 14 games in Geneva from November 22.",
+      "url": "https://www.aljazeera.com/sports/2026/11/22/gukesh-vs-sindarov-the-youngest-world-chess-championship-in-history?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-22T08:11:40+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/INTERACTIVE-Chess-cover-image-1795082203.png?resize=1200%2C630"
+    },
+    {
       "title": "Highly lucrative: Bank of England directors illegally profited from post-abolition enslavement in Cuba",
       "summary": "New research finds that the British-led Cobre Mining Company helped industrialise Manchester via copper deposits and enslaved African people • Slave-trade wealth was embedded in Britain’s financial system, research finds British businesses run by long-serving directors of the Bank of England profited from “brutal” enslavement in Cuba for decades after slavery’s abolition in the British empire, according to research. Men and boys were enslaved in prison conditions at the El Cobre copper ore mine near Santiago de Cuba, which supplied British firms during the Industrial Revolution, the historian Chris Evans has found. Continue reading...",
       "url": "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
       "source": "The Guardian",
       "published": "2026-11-22T08:00:22+00:00",
       "image": "https://i.guim.co.uk/img/media/8e8d4ce7d37742836e3c3c5add2beb073cc8be21/0_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=e5620c45cf4b29b42ed906346159bdc1"
-    },
-    {
-      "title": "Dashcam captures Russian missile strike on Lviv, Ukraine",
-      "summary": "Dashcam video captured the moment a missile struck a residential neighbourhood in Lviv, western Ukraine.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dashcam-captures-russian-missile-strike-on-lviv-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-22T07:59:29+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795334360.jpg?resize=1920%2C1080&quality=80"
     },
     {
       "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
@@ -55,6 +55,9 @@
   "feed_warnings": [
     "ANTARA: ParseError",
     "ANTARA: no fresh stories",
-    "ANTARA: keeping previous story"
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "ANTARA: keeping previous story",
+    "Detik: keeping previous story"
   ]
 }
