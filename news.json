@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T17:00:39.454009+00:00",
+  "updated_at": "2026-11-22T17:15:25.404323+00:00",
   "national": [
     {
       "title": "Sekuriti Nemplok Mobil Polisi gegara Teriakan Tabrak Lari di PIK Diperiksa",
@@ -28,28 +28,28 @@
   ],
   "international": [
     {
-      "title": "‘Disappointing’: Delegates react after COP31 climate talks end without deal",
-      "summary": "Draft text considered too weak to deal with climate change after oil-producing countries oppose the term 'fossil fuels'.",
-      "url": "https://www.aljazeera.com/news/2026/11/22/countries-react-after-cop31-climate-talks-end-in-collapse?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-22T16:33:26+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b031379-1795363705.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Cop31 climate talks break down as key deal rejected",
-      "summary": "EU, UK and some of developing world object to main text that ‘failed to meet the moment’ and did not mention fossil fuels • Cop31 live blog: longest climate summit ever faces collapse The EU, the UK and allies in the developing world rejected what they called an unacceptable deal on the future of the climate, which failed even to mention fossil fuels, in a dramatic finish to the Cop31 UN talks in Turkey. The proposed deal “failed to meet the moment”, said Ireland’s environment minister, Darragh O’Brien, speaking for the EU. “We will not endorse a decision that does not respond to the science and that actually risks deepening the chasm between global commitments and the action required. [It] does not even mention fossil fuels.” Continue reading...",
-      "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
-      "source": "The Guardian",
-      "published": "2026-11-22T16:14:46+00:00",
-      "image": "https://i.guim.co.uk/img/media/f4d171fdee03f0450e71d98657eea9f310f36fd9/435_0_3766_3014/master/3766.jpg?width=140&quality=85&auto=format&fit=max&s=1d4e5cb91f44ed77668a8862b38fa660"
-    },
-    {
       "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
-      "summary": "Libya's eastern government says it is working with Russia to investigate the incident.",
+      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
       "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-22T16:05:25+00:00",
+      "published": "2026-11-22T17:12:01+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15a8/live/15e18c00-e693-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "title": "Blast on Russian ship in Benghazi a suspected drone attack, say Libyan authorities",
+      "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia An explosion on a Russian ship docked at the naval base in the Libyan port city of Benghazi was caused by a suspected drone attack, Libya’s eastern-based government has said. There was no immediate claim of responsibility for the suspected strike, but it comes as Ukrainian forces have stepped up their long-range barrages against Russia far beyond the frontlines. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+      "source": "The Guardian",
+      "published": "2026-11-22T16:55:49+00:00",
+      "image": "https://i.guim.co.uk/img/media/196206fc578eb19b5303b6bfe5930996ed24961b/0_0_900_720/master/900.jpg?width=140&quality=85&auto=format&fit=max&s=4a5a7fec09c73b0d217b6d1303a01b0c"
+    },
+    {
+      "title": "Israeli settlers attack multiple Palestinian villages as pogroms surge",
+      "summary": "Israeli settlers attacked several Palestinian towns and villages in the occupied West Bank on Sunday.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-22T16:50:48+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795366222.jpg?resize=1920%2C1080&quality=80"
     }
   ],
   "feed_warnings": [
