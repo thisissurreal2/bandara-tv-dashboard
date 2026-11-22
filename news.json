@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-22T15:15:29.479439+00:00",
+  "updated_at": "2026-11-22T15:30:35.033450+00:00",
   "national": [
     {
-      "title": "2 Jasad Korban Kebakaran Pabrik Permen di Serang Ditemukan Berpelukan",
-      "summary": "Tim SAR menemukan ada dua jasad korban saling berpelukan dalam peristiwa kebakaran pabrik permen di Serang.",
-      "url": "https://www.cnnindonesia.com/nasional/20261122212754-20-1430178/2-jasad-korban-kebakaran-pabrik-permen-di-serang-ditemukan-berpelukan",
+      "title": "Gunung Karangetang Erupsi 2 Kali Disertai Guguran Lava Pijar",
+      "summary": "Gunung Karangetang di Pulau Siau, Kabupaten Kepulauan Sitaro, Sulawesi Utara, dua kali erupsi pada Minggu (22/11) sore yang disertai guguran lava pijar.",
+      "url": "https://www.cnnindonesia.com/nasional/20261122214058-20-1430181/gunung-karangetang-erupsi-2-kali-disertai-guguran-lava-pijar",
       "source": "CNN Indonesia",
-      "published": "2026-11-22T14:55:00+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/22/korban-kebakaran-pabrik-permen-cikande-1795328441849_169.jpeg?w=360&q=90"
+      "published": "2026-11-22T15:25:00+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2015/05/13/de135324-f43e-4784-9cb6-60d1b11dcaaf_169.jpg?w=360&q=90"
     },
     {
       "title": "Duduk Perkara Provokasi 'Tabrak Lari' hingga 2 Pengeroyok Polisi Diciduk",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "The Drugs Don’t Work",
-      "summary": "A look at how antibiotic overuse could fuel superbugs, killing eight million people annually by 2050.",
-      "url": "https://www.aljazeera.com/video/featured-documentaries/2026/11/22/the-drugs-dont-work?traffic_source=rss",
+      "title": "Dozens drown as boat capsizes in Nigeria en route to funeral",
+      "summary": "At least 24 people have been killed after a boat carrying mourners to a funeral capsized in Nigeria.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/dozens-drown-as-boat-capsizes-in-nigeria-en-route-to-funeral?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-22T14:51:39+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795359093.jpg?resize=1920%2C1080&quality=80"
+      "published": "2026-11-22T15:24:20+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795361050.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
+      "title": "Netanyahu rival condemns settler arson attacks on Palestinian villages in West Bank",
+      "summary": "Dozens of militant Israeli settlers raided communities on Saturday night, setting fire to vehicles and several homes Arson attacks by militant Israeli settlers on Palestinian villages in the occupied West Bank have caused a political row in Israel, drawing condemnation from Gadi Eisenkot, the opposition leader, who described them as “Jewish terrorism”. Dozens of settlers raided Palestinian communities overnight on Saturday, setting fire to about a dozen vehicles and several homes and scrawling racist graffiti. At least four communities were attacked. Israeli police said they had launched an investigation with forensic teams. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
+      "source": "The Guardian",
+      "published": "2026-11-22T15:22:38+00:00",
+      "image": "https://i.guim.co.uk/img/media/efe4dd70505bfcec6b5ab71dc65a3481bf1215d9/1004_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=ba6ce3b8eb675d521051394ab6b7e42e"
     },
     {
       "title": "Three killed and dozens missing after fire at Indonesian factory",
@@ -42,14 +50,6 @@
       "source": "BBC",
       "published": "2026-11-22T14:05:20+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0675/live/85d2f2e0-e62c-11f1-b2ea-350d14ed1ad7.jpg"
-    },
-    {
-      "title": "Experts say ‘trusted messengers’ critical as Amish grapple with measles outbreak",
-      "summary": "Unfolding crisis shows importance of ‘human connections’ over the long term – especially in under-vaccinated areas Tristan Sharratt, a family nurse practitioner and public health researcher, began serving an Amish community in central New York almost inadvertently. A friend told an Amish neighbor that Sharratt was accepting new patients and was a good, solid guy. Word spread quickly, and now Sharratt sees many members of the community, which numbers in the hundreds. He is what is called a “trusted messenger” – someone who understands a community and has earned their respect. Other trusted messengers can be neighbors, co-workers, customers, midwives, or people who work as long-distance drivers for the Amish. Connecting with such people will be crucial for ending the measles outbreak and preventing future crises. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/22/measles-amish-outbreak",
-      "source": "The Guardian",
-      "published": "2026-11-22T14:00:33+00:00",
-      "image": "https://i.guim.co.uk/img/media/75572d989e49430c572626c68c8e4da3241921a3/148_0_3062_2449/master/3062.jpg?width=140&quality=85&auto=format&fit=max&s=2f6e3b6b8fbac726388705e11e4a10d0"
     }
   ],
   "feed_warnings": [
