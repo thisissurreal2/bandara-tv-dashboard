@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-22T16:15:27.070710+00:00",
+  "updated_at": "2026-11-22T16:30:37.498233+00:00",
   "national": [
     {
-      "title": "Gunung Karangetang Sulut 2 Kali Erupsi, Muntahkan Lava Sejauh 400 Meter",
-      "summary": "Gunung Karangetang di Sulawesi Utara erupsi dua kali, memuntahkan lava dan abu. Status waspada, masyarakat diimbau untuk menjauhi zona bahaya.",
-      "url": "https://news.detik.com/berita/d-8764955/gunung-karangetang-sulut-2-kali-erupsi-muntahkan-lava-sejauh-400-meter",
+      "title": "Chongqing Sasar Pasien ASEAN, Tawarkan Wisata Medis dengan Teknologi Modern",
+      "summary": "Kota Chongqing di China resmi membuka akses layanan kesehatan terpadu yang mengintegrasikan teknologi medis modern dengan pengobatan tradisional China.",
+      "url": "https://news.detik.com/berita/d-8764967/chongqing-sasar-pasien-asean-tawarkan-wisata-medis-dengan-teknologi-modern",
       "source": "Detik",
-      "published": "2026-11-22T15:51:14+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/07/12/gunung-karangetang-di-pulau-siau-meletus-melontarkan-lava-pijar-di-sekitar-kawah-lontaran-material-pijar-kemudian-membakar-ala-1783871856935_169.jpeg?w=360&q=90"
+      "published": "2026-11-22T16:04:11+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/22/chongqing-sasar-pasien-asean-tawarkan-wisata-medis-dengan-teknologi-modern-1795330899635_169.jpeg?w=360&q=90"
     },
     {
       "title": "Korban Kebakaran Pabrik Permen di Serang Dijamin BPJS Ketenagakerjaan",
@@ -28,36 +28,33 @@
   ],
   "international": [
     {
-      "title": "Canada’s PM appears next to Trump impersonator at press dinner",
-      "summary": "A Donald Trump impersonator took to the stage alongside Mark Carney at Canada’s annual Parliamentary Press Gallery.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/canadas-pm-appears-next-to-trump-impersonator-at-press-dinner?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-22T16:06:46+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795363512.jpg?resize=1920%2C1080&quality=80"
+      "title": "Cop31 climate talks break down as key deal rejected",
+      "summary": "EU, UK and some of developing world object to main text that ‘failed to meet the moment’ and did not mention fossil fuels • Cop31 live blog: longest climate summit ever faces collapse The EU, the UK and allies in the developing world rejected what they called an unacceptable deal on the future of the climate, which failed even to mention fossil fuels, in a dramatic finish to the Cop31 UN talks in Turkey. The proposed deal “failed to meet the moment”, said Ireland’s environment minister, Darragh O’Brien, speaking for the EU. “We will not endorse a decision that does not respond to the science and that actually risks deepening the chasm between global commitments and the action required. [It] does not even mention fossil fuels.” Continue reading...",
+      "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
+      "source": "The Guardian",
+      "published": "2026-11-22T16:14:46+00:00",
+      "image": "https://i.guim.co.uk/img/media/f4d171fdee03f0450e71d98657eea9f310f36fd9/435_0_3766_3014/master/3766.jpg?width=140&quality=85&auto=format&fit=max&s=1d4e5cb91f44ed77668a8862b38fa660"
     },
     {
-      "title": "Explosion on Russian ship at Libya port likely caused by drone attack, officials say",
-      "summary": "Libya's eastern rival government says it is working with Russia to investigate the incident.",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "summary": "Libya's eastern government says it is working with Russia to investigate the incident.",
       "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-22T16:05:25+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/577b/live/c0d843f0-e68a-11f1-936e-1fd1d31671db.jpg"
     },
     {
-      "title": "US releases files on suspected Bigfoot sightings in Montana and Oregon",
-      "summary": "Forest Service releases files months after residents in rural Ontario reported encounters with massive figures Bigfoot has quietly appeared again. Well, not Sasquatch directly, but new files about the cryptid. “The stride of the tracks did not change with slope.” “The tracks at both sites were not to the ‘bottom’ of the mud. “The small toes lack a definite ‘pad’ at the tips as would be expected.” Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/22/bigfoot-sighting-report-released-montana-oregon-forest-service",
-      "source": "The Guardian",
-      "published": "2026-11-22T15:53:24+00:00",
-      "image": "https://i.guim.co.uk/img/media/8b089c6c50a5bd459eb3e00ff7509ac98e0e251c/720_0_4965_3972/master/4965.jpg?width=140&quality=85&auto=format&fit=max&s=a639039bf10af21ac55dd634c94f1db1"
+      "title": "Can we build a more ethical AI future?",
+      "summary": "Marc Lamont Hill speaks with tech entrepreneur Anil Dash about AI's risks and the fight for ethical technology.",
+      "url": "https://www.aljazeera.com/video/upfront/2026/11/22/can-we-build-a-more-ethical-ai-future?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-22T15:30:09+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795361403.jpg?resize=1920%2C1080&quality=80"
     }
   ],
   "feed_warnings": [
     "ANTARA: ParseError",
     "ANTARA: no fresh stories",
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "ANTARA: keeping previous story",
-    "Detik: keeping previous story"
+    "ANTARA: keeping previous story"
   ]
 }
