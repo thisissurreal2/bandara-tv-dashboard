@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T18:45:30.223062+00:00",
+  "updated_at": "2026-11-22T19:00:35.118426+00:00",
   "national": [
     {
       "title": "Silaturahmi dengan Jajaran Hanura Bali, OSO Ingatkan Kader Kerja Keras",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Hakeem Jeffries willing to cross political aisle to work on Democrats’ agenda",
-      "summary": "Incoming House speaker says party focused on affordability and fixing ‘broken’ healthcare and immigration systems The incoming US House speaker, Hakeem Jeffries , has said he and his fellow Democrats are focused on affordability, expanding healthcare and fixing the “broken” immigration system in the country – and willing to cross the political aisle to do so. Jeffries laid out that agenda in an interview on Sunday with CBS News’s Face the Nation, less than three weeks after Democrats seized control of Congress during the 3 November midterms for the latter half of Donald Trump’s second presidency. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/22/hakeem-jeffries-democrats-agenda",
+      "title": "What's next after no deal at COP31 climate talks?",
+      "summary": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
+      "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-22T18:57:24+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d3e/live/8a730770-e6a6-11f1-af06-85d9f9869f1b.jpg"
+    },
+    {
+      "title": "Russian ship hit in Benghazi by suspected Ukrainian drone attack, say Libyan officials",
+      "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia A suspected Ukrainian drone attack caused an explosion on a Russian warship docked at the naval base in the Libyan port city of Benghazi, Libyan officials have said. The strike severely damaged the Merkury, a Russian navy warship, and ignited a fire at the naval base, they said. Several Ukrainian sea drones were launched at the ship from a base run by Ukrainian forces in western Libya, according to an initial investigation into the attack. At least four drones were intercepted and destroyed, while two hit the warship, the officials told the Associated Press. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
       "source": "The Guardian",
-      "published": "2026-11-22T18:25:42+00:00",
-      "image": "https://i.guim.co.uk/img/media/4e6eb28d17340c345907199ceb683c4277945b37/471_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=b0e019bfc9f5c34467d6e1e99fef18b1"
+      "published": "2026-11-22T18:50:56+00:00",
+      "image": "https://i.guim.co.uk/img/media/196206fc578eb19b5303b6bfe5930996ed24961b/0_0_900_720/master/900.jpg?width=140&quality=85&auto=format&fit=max&s=4a5a7fec09c73b0d217b6d1303a01b0c"
     },
     {
       "title": "Civilians killed in RSF drone strikes in Sudan",
@@ -42,22 +50,11 @@
       "source": "Al Jazeera",
       "published": "2026-11-22T18:12:07+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795371105.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-      "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
-      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-22T17:57:43+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f57f/live/25f17b40-e69e-11f1-9d9b-5dad4444a651.jpg"
     }
   ],
   "feed_warnings": [
     "ANTARA: ParseError",
     "ANTARA: no fresh stories",
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "ANTARA: keeping previous story",
-    "Detik: keeping previous story"
+    "ANTARA: keeping previous story"
   ]
 }
