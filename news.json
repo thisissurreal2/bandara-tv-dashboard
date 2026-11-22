@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T17:30:32.052000+00:00",
+  "updated_at": "2026-11-22T17:45:25.657925+00:00",
   "national": [
     {
       "title": "Sekuriti Nemplok Mobil Polisi gegara Teriakan Tabrak Lari di PIK Diperiksa",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Pip review will call for overhaul rather than scrapping benefit for under-25s",
+      "summary": "Recommendations overseen by Stephen Timms would retain system for all ages, unlike last week’s Milburn review A long-awaited review into the personal independence payment (Pip) system will this week recommend that it is overhauled – a week after another report called for it to be partially scrapped. The final report into Pip by a committee co-led by the social security minister, Stephen Timms, is expected to come out as soon as Tuesday, presenting Andy Burnham with one of his most politically sensitive decisions as prime minister. Continue reading...",
+      "url": "https://www.theguardian.com/society/2026/nov/22/pip-review-overhaul-rather-than-scrapping-benefit-under-25s-timms",
+      "source": "The Guardian",
+      "published": "2026-11-22T17:32:14+00:00",
+      "image": "https://i.guim.co.uk/img/media/2a5028d419651d2f1d4a4dd9d99f0cd1cdcdd343/905_0_6139_4912/master/6139.jpg?width=140&quality=85&auto=format&fit=max&s=8d16c6c659071e49cf59960dbea9e77d"
+    },
+    {
       "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
       "summary": "Finnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
       "url": "https://www.bbc.co.uk/news/articles/cj752ddve27ko?at_medium=RSS&at_campaign=rss",
@@ -42,14 +50,6 @@
       "source": "Al Jazeera",
       "published": "2026-11-22T17:12:48+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2017/04/6da23139d90a45afb43d4277d35b8d27_18.jpeg?resize=1200%2C675"
-    },
-    {
-      "title": "Blast on Russian ship in Benghazi a suspected drone attack, say Libyan authorities",
-      "summary": "No one has claimed responsibility for the strike on the vessel, which had docked on its way back to Russia An explosion on a Russian ship docked at the naval base in the Libyan port city of Benghazi was caused by a suspected drone attack, Libya’s eastern-based government has said. There was no immediate claim of responsibility for the suspected strike, but it comes as Ukrainian forces have stepped up their long-range barrages against Russia far beyond the frontlines. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-      "source": "The Guardian",
-      "published": "2026-11-22T16:55:49+00:00",
-      "image": "https://i.guim.co.uk/img/media/196206fc578eb19b5303b6bfe5930996ed24961b/0_0_900_720/master/900.jpg?width=140&quality=85&auto=format&fit=max&s=4a5a7fec09c73b0d217b6d1303a01b0c"
     }
   ],
   "feed_warnings": [
