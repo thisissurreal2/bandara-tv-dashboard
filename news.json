@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T22:15:32.757999+00:00",
+  "updated_at": "2026-11-22T22:30:38.065139+00:00",
   "national": [
     {
       "title": "Pembangkit Listrik di Irak Kebakaran, 4 Orang Tewas-35 Terluka",
@@ -55,6 +55,9 @@
   "feed_warnings": [
     "ANTARA: ParseError",
     "ANTARA: no fresh stories",
-    "ANTARA: keeping previous story"
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "ANTARA: keeping previous story",
+    "Detik: keeping previous story"
   ]
 }
