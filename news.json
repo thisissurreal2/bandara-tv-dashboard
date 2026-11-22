@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-21T23:45:26.409838+00:00",
+  "updated_at": "2026-11-22T00:00:38.029132+00:00",
   "national": [
     {
-      "title": "Legislator Golkar Pastikan Illicit Enrichment Sudah Diatur di UU Tipikor-TPPU",
-      "summary": "Soedeson Tandra menilai pengaduan ICW terhadap Habiburokhman tidak tepat. Dia menjelaskan alasan illicit enrichment tidak diatur dalam UU Perampasan Aset.",
-      "url": "https://news.detik.com/berita/d-8763963/legislator-golkar-pastikan-illicit-enrichment-sudah-diatur-di-uu-tipikor-tppu",
+      "title": "Andra Soni Bantu Pembangunan Rumah Adat Baduy Luar yang Terbakar",
+      "summary": "Gubernur Banten Andra Soni akan bantu bangun 36 rumah warga Baduy yang terbakar, sesuai adat, dimulai Desember 2026. Bantuan juga mencakup kebutuhan mendesak.",
+      "url": "https://news.detik.com/berita/d-8763984/andra-soni-bantu-pembangunan-rumah-adat-baduy-luar-yang-terbakar",
       "source": "Detik",
-      "published": "2026-11-21T23:15:09+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2024/12/09/anggota-komisi-iii-dpr-ri-soedeson-tandra_169.jpeg?w=360&q=90"
+      "published": "2026-11-21T23:54:11+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/04/10/gubernur-banten-andra-soni-1775807404673_169.jpeg?w=360&q=90"
     },
     {
       "title": "BMKG peringatkan hujan lebat di sejumlah wilayah Indonesia pada Minggu",
@@ -52,9 +52,5 @@
       "image": "https://i.guim.co.uk/img/media/37ac1eff6d2198604ce1f56e02ba752ac5645c8a/531_0_4102_3283/master/4102.jpg?width=140&quality=85&auto=format&fit=max&s=26d1f4dbd1fc4ff0ffb581dcebb1e837"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
