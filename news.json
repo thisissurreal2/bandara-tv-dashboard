@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-22T03:25:31.751100+00:00",
+  "updated_at": "2026-11-22T03:30:40.639829+00:00",
   "national": [
+    {
+      "title": "Ketum Parpol Koalisi Bakal Bertemu Prabowo Hari Ini Bahas Nama Cawapres",
+      "summary": "Ketua Umum Golkar Bahlil Lahadalia mengumumkan rencana pertemuan dengan Presiden Prabowo untuk membahas calon Wapres. Pertemuan dijadwalkan sebelum 25 November.",
+      "url": "https://news.detik.com/berita/d-8764154/ketum-parpol-koalisi-bakal-bertemu-prabowo-hari-ini-bahas-nama-cawapres",
+      "source": "Detik",
+      "published": "2026-11-22T03:26:15+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/22/bahlil-lahadalia-1795317914083_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Update Kebakaran Pabrik Permen di Cikande: 4 Luka, 39 Hilang",
       "summary": "SAR melaporkan sebanyak 15 orang berhasil ditemukan dalam kondisi selamat dalam insiden kebakaran pabrik permen milik PT Fonusa Agung Mulia di Cikande, Banten.",
@@ -16,17 +24,17 @@
       "source": "ANTARA",
       "published": "2026-11-22T02:12:35+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/10/16/7f93e590-f3a2-4a2f-bb8d-e20f9c78aab7.jpeg"
-    },
-    {
-      "title": "Jateng Siapkan 426 Event Wisata pada 2027 untuk Dongkrak Ekonomi Daerah",
-      "summary": "Pemprov Jateng luncurkan Calender of Events 2027 dengan 426 event untuk pariwisata berkelanjutan. Program ini dorong kunjungan wisatawan.",
-      "url": "https://news.detik.com/bangun-indonesia/d-8764045/jateng-siapkan-426-event-wisata-pada-2027-untuk-dongkrak-ekonomi-daerah",
-      "source": "Detik",
-      "published": "2026-11-22T01:35:31+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/22/pemprov-jateng-1795311305484_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
+    {
+      "title": "Overturned boat carrying mourners to funeral kills at least 24 in Nigeria",
+      "summary": "Police say the boat driver fled and the vessel’s manager was taken into custody.",
+      "url": "https://www.aljazeera.com/news/2026/11/22/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-22T02:50:36+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26325766410570-1795313225.jpg?resize=1920%2C1440"
+    },
     {
       "title": "Man found dead on Flinders Island believed to have been shot by officer, police say",
       "summary": "The sergeant, who was shot, fired his weapon a number of times after alleged ‘targeted’ attack outside island’s police station Get our breaking news email , free app or daily news podcast A police officer who was shot outside a remote Tasmanian police station is alleged to have shot and killed his attacker in response to what authorities believe was a “targeted” incident. Tasmania police deputy commissioner, Jonathan Higgins, said the sergeant had just come off shift at Whitemark police station on Flinders Island, which is north-east of the Tasmanian mainland. He had parked and gotten out of his police vehicle when he was shot at about 9.45pm on Saturday, Higgins told reporters on Sunday. Continue reading...",
@@ -34,14 +42,6 @@
       "source": "The Guardian",
       "published": "2026-11-22T02:44:01+00:00",
       "image": "https://i.guim.co.uk/img/media/37ac1eff6d2198604ce1f56e02ba752ac5645c8a/531_0_4102_3283/master/4102.jpg?width=140&quality=85&auto=format&fit=max&s=26d1f4dbd1fc4ff0ffb581dcebb1e837"
-    },
-    {
-      "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
-      "summary": "Israeli forces continue to destroy residential buildings as part of a 'gradual displacement' policy, a Gaza mayor says.",
-      "url": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-22T02:14:18+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b00990b1735-1795201291.jpg?resize=1920%2C1440"
     },
     {
       "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
