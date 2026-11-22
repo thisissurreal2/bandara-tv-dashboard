@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T18:15:27.758350+00:00",
+  "updated_at": "2026-11-22T18:30:37.608114+00:00",
   "national": [
     {
       "title": "Silaturahmi dengan Jajaran Hanura Bali, OSO Ingatkan Kader Kerja Keras",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Civilians killed in RSF drone strikes in Sudan",
+      "summary": "Several civilians have been killed and several buildings damaged in drone strikes by Sudan’s Rapid Support Forces.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-22T18:12:07+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795371105.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
       "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
       "summary": "The BBC's Sarah Rainsford reports from the scene of a collapsed residential building in Ukraine's Kyiv region.",
       "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
@@ -42,19 +50,14 @@
       "source": "The Guardian",
       "published": "2026-11-22T17:55:27+00:00",
       "image": "https://i.guim.co.uk/img/media/d3154f68df589c297fc3d173e2bb3d95faca05c9/530_0_4678_3742/master/4678.jpg?width=140&quality=85&auto=format&fit=max&s=2be6ea0855df616ea30ffc89afed2e1f"
-    },
-    {
-      "title": "India-Pakistan cricket rivalry brings World Cup atmosphere to Qatar",
-      "summary": "India and Pakistan’s A teams meet at the Asia Cup Rising Stars. The packed stands show the rivalry remains as intense.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/india-pakistan-cricket-rivalry-brings-world-cup-atmosphere-to-qatar?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-22T17:46:32+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795369515.jpg?resize=1914%2C1080&quality=80"
     }
   ],
   "feed_warnings": [
     "ANTARA: ParseError",
     "ANTARA: no fresh stories",
-    "ANTARA: keeping previous story"
+    "Detik: TimeoutError",
+    "Detik: no fresh stories",
+    "ANTARA: keeping previous story",
+    "Detik: keeping previous story"
   ]
 }
