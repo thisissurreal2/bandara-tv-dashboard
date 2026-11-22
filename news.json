@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T06:30:33.520658+00:00",
+  "updated_at": "2026-11-22T06:45:26.349578+00:00",
   "national": [
     {
       "title": "Siapa El Chapo Isidro? Bos Kartel Narkoba Buronan FBI yang Kini Ditangkap",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Kansas City Current defeat Washington Spirit 2-1 to lift first NWSL title",
+      "summary": "Trinity Rodman left in tears after scoring Spirit's only goal as DiBernardo and Debinha give Current a closely fought win.",
+      "url": "https://www.aljazeera.com/sports/2026/11/22/kansas-city-current-nwsl-2026-final-washington-spirit-womens-soccer?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-22T06:40:18+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261122__2306291978__v1__HighRes__WashingtonSpiritVKansasCityCurrentNwsl2026Ch-1795325841_ae9f62-1795326491.jpg?resize=1200%2C630&quality=80"
+    },
+    {
       "title": "Dozens missing after fire at Indonesian factory",
       "summary": "At least three people were killed and four injured in a fire at a confectionary factory over the weekend.",
       "url": "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo?at_medium=RSS&at_campaign=rss",
@@ -42,14 +50,6 @@
       "source": "The Guardian",
       "published": "2026-11-22T06:00:21+00:00",
       "image": "https://i.guim.co.uk/img/media/4d3b2eefdc19be5ce451b348a00b741e730d6dbd/1327_0_6144_4918/master/6144.jpg?width=140&quality=85&auto=format&fit=max&s=afb066577694373a8420080e6f970403"
-    },
-    {
-      "title": "Kenya’s internet metering bill raises privacy and affordability concerns",
-      "summary": "Kenya’s proposed internet metering law has prompted concerns over privacy, surveillance and rising connectivity costs.",
-      "url": "https://www.aljazeera.com/news/2026/11/22/kenyas-internet-metering-bill-raises-privacy-and-affordability-concerns?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-22T05:38:52+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2012/12/201212151725297734_20.jpeg?resize=1200%2C675"
     }
   ],
   "feed_warnings": [
