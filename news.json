@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-22T13:45:25.030712+00:00",
+  "updated_at": "2026-11-22T14:00:39.183520+00:00",
   "national": [
     {
-      "title": "Penonton Tewas Usai Ikut Tradisi Tarung Cambuk 'Tiban' di Banyuwangi",
-      "summary": "Tradisi Tiban di Banyuwangi berujung tragis saat seorang sukarelawan, SY (47), meninggal setelah bertarung.",
-      "url": "https://www.cnnindonesia.com/nasional/20261122194531-20-1430162/penonton-tewas-usai-ikut-tradisi-tarung-cambuk-tiban-di-banyuwangi",
+      "title": "Longsor di Pasar Minggu Jaksel: Warga Mengungsi hingga Terjebak Air",
+      "summary": "Longsor di Pasar Minggu Jakarta Selatan, memicu banjir. Warga terpaksa mengungsi ke Musala.",
+      "url": "https://www.cnnindonesia.com/nasional/20261122203608-20-1430170/longsor-di-pasar-minggu-jaksel-warga-mengungsi-hingga-terjebak-air",
       "source": "CNN Indonesia",
-      "published": "2026-11-22T13:35:45+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2024/02/04/ilustrasi-korban-tewas_169.jpeg?w=360&q=90"
+      "published": "2026-11-22T13:55:01+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/22/longsor-akibatkan-banjir-di-pasar-minggu-1795344024507_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Apresiasi Pemda Berprestasi Pacu Peningkatan Kinerja Daerah",
-      "summary": "Kementerian Dalam Negeri menggelar Apresiasi Pemerintah Daerah Berprestasi 2026 untuk memotivasi daerah meningkatkan kinerja dan pelayanan publik.",
-      "url": "https://news.detik.com/berita/d-8764772/apresiasi-pemda-berprestasi-pacu-peningkatan-kinerja-daerah",
+      "title": "2 Jasad Berpelukan Ditemukan dalam Pabrik Permen Terbakar di Serang",
+      "summary": "Tim SAR menemukan 24 kantong jenazah di pabrik permen terbakar di Serang. Korban ditemukan dalam posisi berpelukan, identifikasi sedang dilakukan.",
+      "url": "https://news.detik.com/berita/d-8764861/2-jasad-berpelukan-ditemukan-dalam-pabrik-permen-terbakar-di-serang",
       "source": "Detik",
-      "published": "2026-11-22T13:08:09+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/01/mal-pelayanan-publik-mpp-nusantara-di-kawasan-ibu-kota-nusantara-ikn-1790853400079_169.jpeg?w=360&q=90"
+      "published": "2026-11-22T13:49:08+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/22/tragedi-kebakaran-pabrik-permen-tujuh-kantong-jenazah-dievakuasi-1795343159238_169.jpeg?w=360&q=90"
     },
     {
       "title": "Khofifah tetapkan UMP Jatim 2027 sebesar Rp2,73 juta",
@@ -36,12 +36,12 @@
       "image": "https://i.guim.co.uk/img/media/e6a395e17ba14aa21ecea678066783a153abb5d1/316_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=da865a24f8f25617d2c93589f60ab60a"
     },
     {
-      "title": "Live: Liverpool vs Manchester United – Premier League",
-      "summary": "Previews, teams and live text commentary stream as Manchester United visit Anfield to face Liverpool in Premier League.",
-      "url": "https://www.aljazeera.com/sports/liveblog/2026/11/22/live-liverpool-vs-manchester-united-premier-league-3?traffic_source=rss",
+      "title": "Life, work of Kuwait’s first female composer featured at Doha Film Festival",
+      "summary": "Laila Abdulaziz fought society to become a pioneering Kuwaiti female musician.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/life-work-of-kuwaits-first-female-composer-featured-at-doha-film-festival?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-22T13:30:00+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2305467715-1795257935.jpg?resize=1200%2C675"
+      "published": "2026-11-22T13:35:09+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795354503.jpg?resize=1920%2C1080&quality=80"
     },
     {
       "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
@@ -55,9 +55,6 @@
   "feed_warnings": [
     "ANTARA: ParseError",
     "ANTARA: no fresh stories",
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "ANTARA: keeping previous story",
-    "Detik: keeping previous story"
+    "ANTARA: keeping previous story"
   ]
 }
