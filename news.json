@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T19:30:39.326324+00:00",
+  "updated_at": "2026-11-22T19:45:23.782846+00:00",
   "national": [
     {
       "title": "Serangan Drone Rusia Hantam Apartemen di Ukraina: 2 Orang Tewas, 10 Hilang",
@@ -41,7 +41,7 @@
       "url": "https://www.aljazeera.com/news/2026/11/22/chk_aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-11-22T19:18:29+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/aber-1-1794942045.jpg?resize=1920%2C1333"
+      "image": ""
     },
     {
       "title": "Democrats capture at least 258 House seats in largest sweep since 1992",
@@ -55,6 +55,9 @@
   "feed_warnings": [
     "ANTARA: ParseError",
     "ANTARA: no fresh stories",
-    "ANTARA: keeping previous story"
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "ANTARA: keeping previous story",
+    "Detik: keeping previous story"
   ]
 }
