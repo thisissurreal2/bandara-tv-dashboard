@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-22T14:15:29.986821+00:00",
+  "updated_at": "2026-11-22T14:30:39.392456+00:00",
   "national": [
+    {
+      "title": "Kasat Reskrim hingga Kapolsek di Polda Metro Dirotasi, Ini Daftarnya",
+      "summary": "Kapolda Metro Jaya Komjen Dadang Hartanto melakukan mutasi jabatan untuk penyegaran personel. Daftar pejabat baru termasuk Kasat Reskrim dan Kapolsek diungkap.",
+      "url": "https://news.detik.com/berita/d-8764896/kasat-reskrim-hingga-kapolsek-di-polda-metro-dirotasi-ini-daftarnya",
+      "source": "Detik",
+      "published": "2026-11-22T14:23:51+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2021/03/02/gedung-polda-metro-jaya-3_169.jpeg?w=360&q=90"
+    },
     {
       "title": "G20 Empower RI Dorong Peran Perempuan Diperluas di Berbagai Sektor",
       "summary": "G20 EMPOWER Indonesia mendorong pemberdayaan perempuan di sektor strategis seperti energi dan infrastruktur.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-22T14:10:22+00:00",
       "image": "https://akcdn.detik.net.id/visual/2021/09/20/ilustrasi-perempuan-di-penyeberangan-jalan_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "2 Jasad Berpelukan Ditemukan dalam Pabrik Permen Terbakar di Serang",
-      "summary": "Tim SAR menemukan 24 kantong jenazah di pabrik permen terbakar di Serang. Korban ditemukan dalam posisi berpelukan, identifikasi sedang dilakukan.",
-      "url": "https://news.detik.com/berita/d-8764861/2-jasad-berpelukan-ditemukan-dalam-pabrik-permen-terbakar-di-serang",
-      "source": "Detik",
-      "published": "2026-11-22T13:49:08+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/22/tragedi-kebakaran-pabrik-permen-tujuh-kantong-jenazah-dievakuasi-1795343159238_169.jpeg?w=360&q=90"
     },
     {
       "title": "Khofifah tetapkan UMP Jatim 2027 sebesar Rp2,73 juta",
@@ -27,6 +27,14 @@
     }
   ],
   "international": [
+    {
+      "title": "Uncovering a Criminal Network on the Early Internet | True Crime Reports",
+      "summary": "A global manhunt for one of the internet's earliest paedophile rings. How did police finally bring it down?",
+      "url": "https://www.aljazeera.com/video/true-crime-reports/2026/11/22/uncovering-a-criminal-network-on-the-early-internet-true-crime-reports?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-22T14:08:28+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795355540.jpg?resize=1920%2C1080&quality=80"
+    },
     {
       "title": "Three killed and dozens missing after fire at Indonesian factory",
       "summary": "At least three people were killed and many more feared dead after a fire at a confectionary factory.",
@@ -42,22 +50,11 @@
       "source": "The Guardian",
       "published": "2026-11-22T14:00:33+00:00",
       "image": "https://i.guim.co.uk/img/media/75572d989e49430c572626c68c8e4da3241921a3/148_0_3062_2449/master/3062.jpg?width=140&quality=85&auto=format&fit=max&s=2f6e3b6b8fbac726388705e11e4a10d0"
-    },
-    {
-      "title": "Life, work of Kuwait’s first female composer featured at Doha Film Festival",
-      "summary": "Laila Abdulaziz fought society to become a pioneering Kuwaiti female musician.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/life-work-of-kuwaits-first-female-composer-featured-at-doha-film-festival?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-22T13:35:09+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795354503.jpg?resize=1920%2C1080&quality=80"
     }
   ],
   "feed_warnings": [
     "ANTARA: ParseError",
     "ANTARA: no fresh stories",
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "ANTARA: keeping previous story",
-    "Detik: keeping previous story"
+    "ANTARA: keeping previous story"
   ]
 }
