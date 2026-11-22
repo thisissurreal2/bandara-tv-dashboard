@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-22T07:00:37.541747+00:00",
+  "updated_at": "2026-11-22T07:15:24.469850+00:00",
   "national": [
+    {
+      "title": "Ketua DPD Jelaskan Maksud Usulan Wapres Lebih dari Satu",
+      "summary": "Ketua DPD Sultan Baktiar Najamudin menjelaskan maksud usulannya terkait ide posisi Wakil Presiden (Wapres) RI dijabat lebih dari satu orang.",
+      "url": "https://www.cnnindonesia.com/nasional/20261122132659-32-1430033/ketua-dpd-jelaskan-maksud-usulan-wapres-lebih-dari-satu",
+      "source": "CNN Indonesia",
+      "published": "2026-11-22T07:11:59+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/17/ketua-dpd-ri-sultan-baktiar-najamudin-1794916097490_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Mensos Apresiasi Pemkot Mataram, 45% KK Sudah Terdaftar di Perlinsos Digital",
       "summary": "Menteri Sosial Gus Ipul apresiasi Pemkot Mataram atas registrasi bansos. 45% KK terdaftar dalam sistem Perlinsos Digital, memudahkan akses bantuan sosial.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-22T06:53:53+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/22/kemensos-1795330412056.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Pemerintah Targetkan Ikan Masuk Menu MBG 2 Kali Sepekan",
-      "summary": "Kementerian Kelautan dan Perikanan targetkan ikan dalam menu program makan bergizi gratis dua kali seminggu. Pelaksanaan diatur agar berjalan efektif.",
-      "url": "https://www.cnnindonesia.com/nasional/20261122132157-20-1430034/pemerintah-targetkan-ikan-masuk-menu-mbg-2-kali-sepekan",
-      "source": "CNN Indonesia",
-      "published": "2026-11-22T06:52:13+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/10/18/sppg-prasmanan-di-pejaten-1792317545625_169.jpeg?w=360&q=90"
     },
     {
       "title": "Khofifah tetapkan UMP Jatim 2027 sebesar Rp2,73 juta",
@@ -55,6 +55,9 @@
   "feed_warnings": [
     "ANTARA: ParseError",
     "ANTARA: no fresh stories",
-    "ANTARA: keeping previous story"
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "ANTARA: keeping previous story",
+    "Detik: keeping previous story"
   ]
 }
