@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-22T08:45:27.091783+00:00",
+  "updated_at": "2026-11-22T09:00:37.561804+00:00",
   "national": [
+    {
+      "title": "7 Kantong Jenazah Dibawa dari Pabrik Terbakar di Serang, Kondisi Tak Dikenali",
+      "summary": "Tujuh kantong jenazah ditemukan di kebakaran pabrik permen, Serang, Banten. Identifikasi korban terhambat akibat kondisi jenazah yang tidak dapat dikenali.",
+      "url": "https://news.detik.com/berita/d-8764542/7-kantong-jenazah-dibawa-dari-pabrik-terbakar-di-serang-kondisi-tak-dikenali",
+      "source": "Detik",
+      "published": "2026-11-22T08:49:36+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/22/tim-sar-evakuasi-mayat-dari-lokasi-kebakaran-pabrik-permen-di-serang-ariefdetikcom-1795317185974_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Irjen Yudhi Dimutasi dari Kapolda Bengkulu Usai Viral Aksi Sujud",
       "summary": "Kapolri Jenderal Suyudi Ario Seto turut merotasi Irjen Yudhi Sulistianto dari jabatannya sebagai Kapolda Bengkulu.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-22T08:35:13+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/21/viral-aksi-kapolda-bengkulu-bersujud-minta-maaf-ke-mahasiswa-1795252814365_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Banjir Terjadi di Sumut dan Kalbar, Ratusan Keluarga Terdampak",
-      "summary": "Banjir terjadi di Padang Lawas Utara, Sumatera Utara (Sumut), dan Sambas, Kalimantan Barat (Kalbar).",
-      "url": "https://news.detik.com/berita/d-8764504/banjir-terjadi-di-sumut-dan-kalbar-ratusan-keluarga-terdampak",
-      "source": "Detik",
-      "published": "2026-11-22T08:23:15+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/22/kondisi-banjir-di-padang-lawas-utara-sumut-pada-sabtu-2111-dok-bpbd-padang-lawas-utara-1795335780052_169.jpeg?w=360&q=90"
     },
     {
       "title": "Khofifah tetapkan UMP Jatim 2027 sebesar Rp2,73 juta",
@@ -55,9 +55,6 @@
   "feed_warnings": [
     "ANTARA: ParseError",
     "ANTARA: no fresh stories",
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "ANTARA: keeping previous story",
-    "Detik: keeping previous story"
+    "ANTARA: keeping previous story"
   ]
 }
