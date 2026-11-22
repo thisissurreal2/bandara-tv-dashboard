@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T01:45:26.896411+00:00",
+  "updated_at": "2026-11-22T02:00:39.388642+00:00",
   "national": [
     {
       "title": "Jateng Siapkan 426 Event Wisata pada 2027 untuk Dongkrak Ekonomi Daerah",
@@ -52,5 +52,9 @@
       "image": "https://i.guim.co.uk/img/media/2ba7cd3a290bb4876a32e7f44df6d629f62996df/0_0_6112_4892/master/6112.jpg?width=140&quality=85&auto=format&fit=max&s=22179d96566a2b070ce58d80039fc533"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
