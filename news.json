@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T05:30:31.356083+00:00",
+  "updated_at": "2026-11-22T05:45:27.630330+00:00",
   "national": [
     {
       "title": "Enam Kantong Jenazah Dievakuasi dari Lokasi Kebakaran Pabrik Permen",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Displaced Darfur families face volatile winter as Sudan aid cuts bite",
+      "summary": "Sudan's displacement crisis could worsen with winter approaching.",
+      "url": "https://www.aljazeera.com/features/2026/11/22/displaced-from-darfur-sudan-families-face-volatile-winter-as-aid-cuts-loom?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-22T05:21:46+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/20261116_120617-1795265314.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "Police say man whose body lay undiscovered in Sydney bushland for 12 days was killed in suspected hit-and-run",
       "summary": "Joshua Howard, 31, is believed to have been struck by a car and thrown over the guardrail as he was walking home from a party in Rouse Hill Get our breaking news email , free app or daily news podcast The twin brother of a man whose body lay undiscovered for 12 days after he was killed in a suspected hit and run in Sydney says it has left him feeling like half a person. Joshua Howard was last seen at a bus interchange in Parramatta, in western Sydney, about 10pm on 7 November. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb",
       "source": "The Guardian",
       "published": "2026-11-22T05:21:01+00:00",
       "image": "https://i.guim.co.uk/img/media/21037e6e3a5170670290d4fe1957b61cc7a1f5c6/181_0_1203_963/master/1203.jpg?width=140&quality=85&auto=format&fit=max&s=4fd7729cf83e66c399443419d3388c22"
-    },
-    {
-      "title": "ICE agents detain two people at Seattle airport",
-      "summary": "Masked ICE agents detained two people on a crowded airport jet bridge in Seattle as passengers were boarding a flight.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/ice-agents-detain-two-people-at-seattle-airport?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-22T05:06:32+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795323981.jpg?resize=1920%2C1080&quality=80"
     },
     {
       "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
