@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T19:15:26.824527+00:00",
+  "updated_at": "2026-11-22T19:27:54.480093+00:00",
   "national": [
     {
       "title": "Serangan Drone Rusia Hantam Apartemen di Ukraina: 2 Orang Tewas, 10 Hilang",
@@ -28,28 +28,28 @@
   ],
   "international": [
     {
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-22T19:26:54+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0559/live/3e9dd1e0-e692-11f1-936e-1fd1d31671db.jpg"
+    },
+    {
+      "title": "‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport",
+      "summary": "Video shows masked immigration agents forcibly detaining two people at Seattle airport, raising concerns over tactics.",
+      "url": "https://www.aljazeera.com/news/2026/11/22/horrific-and-chilling-officials-condemn-ice-arrests-at-seattle-airport?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-22T19:10:00+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26325789842711-1795363362.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "Datacentre bosses met Australian state premiers and ministers almost 120 times in three years, analysis finds",
       "summary": "Transparency International says Queensland’s David Crisafulli was ‘by far the most frequently accessed’ state leader, with 13 meetings Get our breaking news email , free app or daily news podcast Bosses at 10 datacentre companies secured almost 120 meetings with premiers and ministers in five states over a three-year period, with experts declaring this is “just the tip of the iceberg”. Analysis by Transparency International Australia argues these meetings, when combined with political donations, demonstrates “unfettered access” to decision makers that creates an “uneven playing field”. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
       "source": "The Guardian",
       "published": "2026-11-22T19:00:34+00:00",
       "image": "https://i.guim.co.uk/img/media/7c9ca8255b51e9604fa64118322f08bb4d19c764/475_0_3640_2912/master/3640.jpg?width=140&quality=85&auto=format&fit=max&s=841a5935e90b464a6f0e36a81358e58e"
-    },
-    {
-      "title": "What's next after no deal at COP31 climate talks?",
-      "summary": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
-      "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-22T18:57:24+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d3e/live/8a730770-e6a6-11f1-af06-85d9f9869f1b.jpg"
-    },
-    {
-      "title": "Liverpool thrash 10-man Man United in nightmare start for Pochettino",
-      "summary": "Leny Yoro's red card for Manchester United after just eight minutes paved the way for a 4-0 football defeat at Anfield.",
-      "url": "https://www.aljazeera.com/sports/2026/11/22/liverpool-thrash-10-man-man-united-in-nightmare-start-for-pochettino?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-22T18:44:24+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-22T163620Z_2012732391_UP1EMBM1A4J3R_RTRMADP_3_SOCCER-ENGLAND-LIV-MUN-1795365574.jpg?resize=1920%2C1440"
     }
   ],
   "feed_warnings": [
