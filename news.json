@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-22T01:30:31.711499+00:00",
+  "updated_at": "2026-11-22T01:45:26.896411+00:00",
   "national": [
+    {
+      "title": "Jateng Siapkan 426 Event Wisata pada 2027 untuk Dongkrak Ekonomi Daerah",
+      "summary": "Pemprov Jateng luncurkan Calender of Events 2027 dengan 426 event untuk pariwisata berkelanjutan. Program ini dorong kunjungan wisatawan.",
+      "url": "https://news.detik.com/bangun-indonesia/d-8764045/jateng-siapkan-426-event-wisata-pada-2027-untuk-dongkrak-ekonomi-daerah",
+      "source": "Detik",
+      "published": "2026-11-22T01:35:31+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/22/pemprov-jateng-1795311305484_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Polri Mutasi Besar-Besaran, Suyudi Ganti 6 Kapolda",
       "summary": "olri melakukan mutasi dan rotasi besar terhadap 704 perwira tinggi (Pati) dan perwira menengah (Pamen).",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-22T01:02:40+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/05/kapolri-jenderal-suyudi-ario-seto-1793877505687_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Gerindra Tetap Anggap PDIP Sahabat Meski Mega Pilih di Luar Pemerintahan",
-      "summary": "Megawati Soekarnoputri menegaskan PDIP tetap di luar pemerintahan. Gerindra menghormati keputusan ini dan menyatakan PDIP tetap sahabat seperjuangan.",
-      "url": "https://news.detik.com/berita/d-8764000/gerindra-tetap-anggap-pdip-sahabat-meski-mega-pilih-di-luar-pemerintahan",
-      "source": "Detik",
-      "published": "2026-11-22T00:45:06+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/13/juru-bicara-partai-gerindra-sugiat-santoso-1791870192045_169.jpeg?w=360&q=90"
     },
     {
       "title": "Warga Gunung Pati Semarang kemas tradisi syukuran kelimpahan sumber air jadi promosi wisata",
@@ -52,9 +52,5 @@
       "image": "https://i.guim.co.uk/img/media/2ba7cd3a290bb4876a32e7f44df6d629f62996df/0_0_6112_4892/master/6112.jpg?width=140&quality=85&auto=format&fit=max&s=22179d96566a2b070ce58d80039fc533"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
