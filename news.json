@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-22T10:30:34.831926+00:00",
+  "updated_at": "2026-11-22T10:45:25.604928+00:00",
   "national": [
+    {
+      "title": "Banjir di Sumut hingga Kalbar, Ratusan Keluarga Terdampak",
+      "summary": "Banjir melanda Padang Lawas Utara Sumut hingga Sambas Kalbar, mengakibatkan ratusan keluarga terdampak.",
+      "url": "https://www.cnnindonesia.com/nasional/20261122170404-20-1430117/banjir-di-sumut-hingga-kalbar-ratusan-keluarga-terdampak",
+      "source": "CNN Indonesia",
+      "published": "2026-11-22T10:30:02+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2025/12/26/tapteng-maksimalkan-status-tanggap-darurat-untuk-pemulihan-1766731051711_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Pintu Lupa Ditutup Berujung Kecelakaan Kapal Tragis",
       "summary": "Peristiwa yang terjadi pada 1987 ini terjadi karena pintu haluan lupa ditutup.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-22T10:25:42+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/22/mv-herald-of-free-enterprise-1795343033539_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Kejagung Lanjutkan Proses Hukum Riza Chalid Meski Buron di Luar Negeri",
-      "summary": "Kejagung buka suara terkait desakan agar saudagar minyak Mohammad Riza Chalid disidang secara In Absentia.",
-      "url": "https://www.cnnindonesia.com/nasional/20261122164159-12-1430110/kejagung-lanjutkan-proses-hukum-riza-chalid-meski-buron-di-luar-negeri",
-      "source": "CNN Indonesia",
-      "published": "2026-11-22T10:21:01+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2025/02/26/mohammad-riza-chalid-1740576634220_169.jpeg?w=360&q=90"
     },
     {
       "title": "Khofifah tetapkan UMP Jatim 2027 sebesar Rp2,73 juta",
@@ -29,10 +29,10 @@
   "international": [
     {
       "title": "Burnham should ‘move on’ from Brexit, says Theresa May, as critics hit out over closer EU ties – UK politics live",
-      "summary": "Issue dominates Sunday broadcast round following Friday’s deals on trade and youth mobility Theresa May ‘aghast’ at Andy Burnham’s talk about rejoining EU A chief concern for the Europeans as to the idea of the UK rejoining the bloc is frankly, the lack of British political stability this past decade, and the fear that a change in government down the line would lead to another backflip. Burghart this morning went as far as saying that a future Tory government would reverse the deals secured on Friday. We will certainly repeal this deal. This is a very bad deal. I wish that Andy Burnham had chose not to reopen the Brexit issue. I think there was no need to do so. And this deal will make a positive impact on both exports and imports, and crucially- this is the point that I noticed the retailers were making - it will reduce the costs that the retailers face, all of that Brexit red tape, millions of forms that they were having to fill in, frankly, pointlessly, as a result of the bad deals that we had. If people think the status quo is really good on Brexit and that that’s been great for Britain, well, they won’t like this deal. I think most people think the status quo has been actually pretty rubbish. And we need to make it better and that is what this deal does.” Continue reading...",
+      "summary": "Issue dominates Sunday broadcast round following Friday’s deals on trade and youth mobility Theresa May ‘aghast’ at Andy Burnham’s talk about rejoining EU The Tories and Reform have made the argument this morning that the new food deal is “bad” for British farmers, because they will be subject to EU rules and standards. They say more than 90% of British farmers currently don’t export to the EU- so why should Britain have to cede that control over standards? What we’re saying is that actually, yes, we should integrate into the market where for the first time, we’ll be able to shape decisions agreed to in the EU. Continue reading...",
       "url": "https://www.theguardian.com/politics/live/2026/nov/22/andy-burnham-brexit-theresa-may-michael-gove-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-22T10:10:39+00:00",
+      "published": "2026-11-22T10:42:34+00:00",
       "image": "https://i.guim.co.uk/img/media/fe3c1f101f487524f1490010fbd18d991551cffe/198_0_1961_1569/master/1961.jpg?width=140&quality=85&auto=format&fit=max&s=b9444122e4b177b023f8d84196ad4615"
     },
     {
@@ -55,6 +55,9 @@
   "feed_warnings": [
     "ANTARA: ParseError",
     "ANTARA: no fresh stories",
-    "ANTARA: keeping previous story"
+    "Detik: TimeoutError",
+    "Detik: no fresh stories",
+    "ANTARA: keeping previous story",
+    "Detik: keeping previous story"
   ]
 }
