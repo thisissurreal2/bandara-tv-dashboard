@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T01:15:27.038274+00:00",
+  "updated_at": "2026-11-22T01:30:31.711499+00:00",
   "national": [
     {
       "title": "Polri Mutasi Besar-Besaran, Suyudi Ganti 6 Kapolda",
@@ -28,28 +28,28 @@
   ],
   "international": [
     {
+      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-22T01:25:03+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg"
+    },
+    {
+      "title": "Moviegoers head for the exits as quake strikes Peru",
+      "summary": "Moviegoers head for the exits as quake strikes Peru",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-22T01:07:19+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/peru-earthquake-horizontal-thumb-1795309593.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
       "title": "‘No time for a culture war’: Victoria’s electricity supply is at risk. Can it avoid power shortages and bill shocks?",
       "summary": "State faces electricity supply gap when Yallourn coal-fired power station closes in 2028 as experts warn neither Labor nor the Coalition has adequate plans Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Victoria’s electricity supply will be at risk when a major power plant shuts in 2028 and neither major party is offering a plan at this month’s state election to deal with it, experts have warned. All parties concede the giant Yallourn coal plant, which has operated in the Latrobe Valley since the 1970s and supplies a fifth of Victoria’s energy, is at the end of its functional life and will shut in less than two years. Analysts say the parties vying to run the state are failing to properly explain how they will fill the power shortfall the closure will create. Sign up to get climate and environment editor Adam Morton’s Clear Air column as a free newsletter Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/nov/22/victoria-election-2026-what-are-parties-promising-energy-policy",
       "source": "The Guardian",
       "published": "2026-11-22T01:00:13+00:00",
       "image": "https://i.guim.co.uk/img/media/2ba7cd3a290bb4876a32e7f44df6d629f62996df/0_0_6112_4892/master/6112.jpg?width=140&quality=85&auto=format&fit=max&s=22179d96566a2b070ce58d80039fc533"
-    },
-    {
-      "title": "Clashes erupt across France in another night of protest",
-      "summary": "French police charged to disperse crowds on Saturday as the country faced a sixth weekend of demonstrations.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-22T00:37:32+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795307837.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "title": "FBI reportedly investigating apparent hack of its criminal database",
-      "summary": "The National Crime Information Center database is used by federal and local law enforcement to share information.",
-      "url": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-22T00:10:44+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fd7/live/9009b220-e58d-11f1-99a1-253766e7ad8b.jpg"
     }
   ],
   "feed_warnings": [
