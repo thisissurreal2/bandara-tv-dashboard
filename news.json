@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-22T13:15:26.796968+00:00",
+  "updated_at": "2026-11-22T13:30:36.632899+00:00",
   "national": [
     {
-      "title": "Ibu dan Anak Bertarung di Pilkades Karawang",
-      "summary": "Sebanyak 200 calon kepala desa bersaing memperebutkan kursi kepala desa di 67 desa tersebut.",
-      "url": "https://www.cnnindonesia.com/nasional/20261122191832-32-1430154/ibu-dan-anak-bertarung-di-pilkades-karawang",
+      "title": "24 Kantong Jenazah dari Pabrik Permen Dievakuasi, 50 Masih Hilang",
+      "summary": "Petugas evakuasi 24 kantong jenazah dari kebakaran pabrik permen di Cikande, Banten. Sebanyak 50 karyawan masih hilang.",
+      "url": "https://www.cnnindonesia.com/nasional/20261122195939-20-1430166/24-kantong-jenazah-dari-pabrik-permen-dievakuasi-50-masih-hilang",
       "source": "CNN Indonesia",
-      "published": "2026-11-22T13:13:34+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2019/07/03/9b0aac0e-942b-4777-9d3a-495f58093a5f_169.jpeg?w=360&q=90"
+      "published": "2026-11-22T13:25:08+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/22/pencarian-korban-kebakaran-pabrik-permen-1795342611278_169.jpeg?w=360&q=90"
     },
     {
       "title": "Apresiasi Pemda Berprestasi Pacu Peningkatan Kinerja Daerah",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "The life, death and improbable rebirth of LA’s most beloved diner",
-      "summary": "For decades, it served pancakes, hash browns and steaks to hungry Angelenos. Then came closure, and a city mourned – but now the Original Pantry is back Sometimes, an old-school American diner is just a diner. And sometimes, like the Original Pantry in downtown Los Angeles, it feels like the heart and soul of a city, a bellwether of good times and bad. For decades it was famous for never closing. Located in a low-slung shotgun building on a busy corner, it fed politicians, movie stars, students, criminals and street bums around the clock, seven days a week. The doors had no locks, because the place had no need for them. The portions were huge, the prices dirt cheap, and many of the servers, in bow ties and white shirts, looked like extras from a Harold Lloyd two-reeler. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/22/original-pantry-cafe-reopening-los-angeles",
+      "title": "NFL’s Jaylen Harrell reportedly assaulted driver before crash that left player seriously injured",
+      "summary": "Incident occurred in Tampa on Friday morning Crash leaves linebacker with serious injuries Tampa police are investigating whether Tennessee Titans linebacker Jaylen Harrell assaulted a rideshare driver before a crash that left the NFL player in hospital. The Tampa ⁠Police Department, in ⁠a preliminary report, said Harrell was in the back seat of the car around 8.45am on Friday in the backseat when “he reportedly assaulted the driver while ⁠the vehicle was in motion.” The driver then swerved, struck another car and collided ⁠with a utility pole, per the police report. Continue reading...",
+      "url": "https://www.theguardian.com/sport/2026/nov/22/titans-jaylen-harrell-reportedly-assaulted-driver-before-crash-that-left-player-seriously-injured",
       "source": "The Guardian",
-      "published": "2026-11-22T13:00:27+00:00",
-      "image": "https://i.guim.co.uk/img/media/0decf275f856a1cc85391003f2cf3520054f85af/738_0_4290_3432/master/4290.jpg?width=140&quality=85&auto=format&fit=max&s=6cf27996ce48739ef65a60e3645c7bef"
+      "published": "2026-11-22T13:25:37+00:00",
+      "image": "https://i.guim.co.uk/img/media/14bce411e4743792ae90c93a826dfa5d2b57373c/441_0_4413_3531/master/4413.jpg?width=140&quality=85&auto=format&fit=max&s=a0365066d5bf960064ac5f14e925ceaf"
     },
     {
-      "title": "US Congress helped end the Vietnam War. Can it stop the Iran war?",
-      "summary": "Congress forbade funding for the Vietnam War, contributing to the fall of the South Vietnamese government in Saigon.",
-      "url": "https://www.aljazeera.com/news/2026/11/22/us-congress-helped-end-the-vietnam-war-can-it-stop-the-iran?traffic_source=rss",
+      "title": "Saudi Arabia intercepts drone, missile as Houthis report attack on Sanaa",
+      "summary": "Houthi media say several people were injured in an attack on an oil company as Saudi air defences down a drone.",
+      "url": "https://www.aljazeera.com/news/2026/11/22/houthis-report-attack-on-sanaa-as-saudi-arabia-intercepts-drone?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-22T12:31:30+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/06/ap_6a2215a2cfe4c-1780618658.jpg?resize=1920%2C1440"
+      "published": "2026-11-22T13:16:45+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6afe32a94666-1795044009.jpg?resize=1920%2C1440"
     },
     {
       "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
@@ -55,6 +55,9 @@
   "feed_warnings": [
     "ANTARA: ParseError",
     "ANTARA: no fresh stories",
-    "ANTARA: keeping previous story"
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "ANTARA: keeping previous story",
+    "Detik: keeping previous story"
   ]
 }
