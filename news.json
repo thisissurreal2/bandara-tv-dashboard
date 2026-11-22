@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-22T05:45:27.630330+00:00",
+  "updated_at": "2026-11-22T06:00:37.745424+00:00",
   "national": [
+    {
+      "title": "Malaysia Bongkar Kasus Narkoba di Markas Angkatan Udara, Sita 96 Kg Sabu",
+      "summary": "Malaysia membongkar kasus dugaan penyelundupan narkoba di markas Angkatan Udara. Ada 96,6 Kg sabu yang ditemukan.",
+      "url": "https://news.detik.com/internasional/d-8764336/malaysia-bongkar-kasus-narkoba-di-markas-angkatan-udara-sita-96-kg-sabu",
+      "source": "Detik",
+      "published": "2026-11-22T05:38:59+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2024/05/30/ilustrasi-kejahatan_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Enam Kantong Jenazah Dievakuasi dari Lokasi Kebakaran Pabrik Permen",
       "summary": "Tim gabungan telah mengevakuasi enam kantong jenazah dari lokasi kebakaran bangunan pabrik milik PT Fonusa Agung Mulia (FAM).",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-22T05:19:50+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/22/enam-kantong-jenazah-di-evakuasi-dari-pabrik-permen-1795324170693_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Baku Tembak Berdarah Saat Bos Kartel El Chapo Isidro Ditangkap, 11 Orang Tewas",
-      "summary": "Fausto Isidro Meza Flores atau El Chapo Isidro di negara bagian Sinaloa, Meksiko. Operasi ini telah menewaskan sedikitnya 11 orang.",
-      "url": "https://news.detik.com/internasional/d-8764291/baku-tembak-berdarah-saat-bos-kartel-el-chapo-isidro-ditangkap-11-orang-tewas",
-      "source": "Detik",
-      "published": "2026-11-22T05:14:09+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/22/meksiko-mencekam-penangkapan-bos-kartel-picu-pembakaran-1795314277948_169.jpeg?w=360&q=90"
     },
     {
       "title": "Puluhan karyawan masih dalam pencarian saat musibah kebakaran pabrik permen di Banten",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Displaced Darfur families face volatile winter as Sudan aid cuts bite",
-      "summary": "Sudan's displacement crisis could worsen with winter approaching.",
-      "url": "https://www.aljazeera.com/features/2026/11/22/displaced-from-darfur-sudan-families-face-volatile-winter-as-aid-cuts-loom?traffic_source=rss",
+      "title": "Kenya’s internet metering bill raises privacy and affordability concerns",
+      "summary": "Kenya’s proposed internet metering law has prompted concerns over privacy, surveillance and rising connectivity costs.",
+      "url": "https://www.aljazeera.com/news/2026/11/22/kenyas-internet-metering-bill-raises-privacy-and-affordability-concerns?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-22T05:21:46+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/20261116_120617-1795265314.jpg?resize=1920%2C1440"
+      "published": "2026-11-22T05:38:52+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2012/12/201212151725297734_20.jpeg?resize=1200%2C675"
+    },
+    {
+      "title": "New draft deal aims to avert collapse of talks at climate summit",
+      "summary": "The UN COP31 meeting in Turkey enters a second day of overtime as countries struggle to reach an agreement.",
+      "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-22T05:26:10+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b71/live/e0c68530-e61e-11f1-94c8-1db910b5b42e.jpg"
     },
     {
       "title": "Police say man whose body lay undiscovered in Sydney bushland for 12 days was killed in suspected hit-and-run",
@@ -42,19 +50,7 @@
       "source": "The Guardian",
       "published": "2026-11-22T05:21:01+00:00",
       "image": "https://i.guim.co.uk/img/media/21037e6e3a5170670290d4fe1957b61cc7a1f5c6/181_0_1203_963/master/1203.jpg?width=140&quality=85&auto=format&fit=max&s=4fd7729cf83e66c399443419d3388c22"
-    },
-    {
-      "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-      "summary": "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-      "url": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-22T01:25:03+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5701/live/7ac9e270-e5ad-11f1-99a1-253766e7ad8b.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
