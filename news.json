@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-22T07:45:26.995821+00:00",
+  "updated_at": "2026-11-22T08:00:39.595119+00:00",
   "national": [
     {
-      "title": "Polisi Periksa Korban Kasus Dugaan Pemerkosaan Bupati Kupang",
-      "summary": "Polda NTT telah melakukan pemeriksaan tambahan kepada korban RWM dalam kasus dugaan pemerkosaan yang diduga dilakukan Bupati Kupang, Yosef Lede.",
-      "url": "https://www.cnnindonesia.com/nasional/20261122141610-12-1430052/polisi-periksa-korban-kasus-dugaan-pemerkosaan-bupati-kupang",
-      "source": "CNN Indonesia",
-      "published": "2026-11-22T07:32:10+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/21/penggeledahan-di-rumah-dinas-bupati-kupang-1795227077889_169.jpeg?w=360&q=90"
+      "title": "Data Terbaru: 50 Karyawan Hilang Saat Kebakaran Pabrik Permen di Serang",
+      "summary": "Polda Banten mengupdate jumlah karyawan hilang pascakebakaran pabrik permen PT Fonusa Agung Mulia, dengan 50 orang belum diketahui kabarnya.",
+      "url": "https://news.detik.com/berita/d-8764470/data-terbaru-50-karyawan-hilang-saat-kebakaran-pabrik-permen-di-serang",
+      "source": "Detik",
+      "published": "2026-11-22T07:55:32+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/22/penanganan-kebakaran-pabrik-permen-1795334104929_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Mensos Apresiasi Pemkot Mataram, 45% KK Sudah Terdaftar di Perlinsos Digital",
-      "summary": "Menteri Sosial Gus Ipul apresiasi Pemkot Mataram atas registrasi bansos. 45% KK terdaftar dalam sistem Perlinsos Digital, memudahkan akses bantuan sosial.",
-      "url": "https://news.detik.com/berita/d-8764419/mensos-apresiasi-pemkot-mataram-45-kk-sudah-terdaftar-di-perlinsos-digital",
-      "source": "Detik",
-      "published": "2026-11-22T06:53:53+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/22/kemensos-1795330412056.jpeg?w=360&q=90"
+      "title": "FOTO: Enam Kantong Jenazah Dievakuasi dari Pabrik Permen",
+      "summary": "Enam kantong jenazah telah dievakuasi dari lokasi kebakaran pabrik PT Fonusa Agung Mulia (FAM) di Cikande, Kabupaten Serang, Banten.",
+      "url": "https://www.cnnindonesia.com/nasional/20261122140126-22-1430045/foto-enam-kantong-jenazah-dievakuasi-dari-pabrik-permen",
+      "source": "CNN Indonesia",
+      "published": "2026-11-22T07:49:57+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/22/korban-kebakaran-pabrik-permen-cikande-1795328367680_169.jpeg?w=360&q=90"
     },
     {
       "title": "Khofifah tetapkan UMP Jatim 2027 sebesar Rp2,73 juta",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Max Verstappen wins F1 Las Vegas Grand Prix for third time in four years",
+      "summary": "Red Bull's Verstappen dug deep to fend off Antonelli and Russell in a race that saw a jaw-dropping 35 lead changes.",
+      "url": "https://www.aljazeera.com/sports/2026/11/22/max-verstappen-las-vegas-grand-prix-f1-norris-piastri-russell-antonelli?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-22T07:48:28+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261122__D8A29UE__v1__HighRes__776433569-1795331027_b62def-1795331848.jpg?resize=1200%2C630&quality=80"
+    },
+    {
       "title": "Fire at confectionary factory in Indonesia leaves at least three dead and dozens missing",
       "summary": "Relatives of the missing victims flocked to the factory’s entrance, seeking updates about their loved ones A fire at a confectionery factory west of Jakarta has killed three people with 36 remaining missing, an Indonesian rescue official says. Drone footage showed large parts of the factory destroyed, with the roof collapsed in places and smoke still rising from the complex. Photos and videos shared by rescuers show officers entering the charred building in search of the missing victims on Sunday, with small fires still burning in some spots. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
       "source": "The Guardian",
       "published": "2026-11-22T07:11:17+00:00",
       "image": "https://i.guim.co.uk/img/media/e0ed3952c817519e338f7b090e77d68893b48948/485_0_4287_3430/master/4287.jpg?width=140&quality=85&auto=format&fit=max&s=2adbdc76d2844e463ac3f491ddf2acc0"
-    },
-    {
-      "title": "Why Somalia’s president turned against his former ally, the UAE",
-      "summary": "Behind Somalia's break with the UAE lies a domestic power struggle with regional leaders close to Abu Dhabi.",
-      "url": "https://www.aljazeera.com/news/2026/11/22/why-somalias-president-turned-against-his-former-ally-the-uae?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-22T06:59:59+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260302__98RP2DH__v1__HighRes__SomaliaSomalilandIsraelDiplomacyEconomyPort-1795261711.jpg?resize=1920%2C1440"
     },
     {
       "title": "New draft deal aims to avert collapse of talks at COP31 climate summit",
@@ -55,9 +55,6 @@
   "feed_warnings": [
     "ANTARA: ParseError",
     "ANTARA: no fresh stories",
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "ANTARA: keeping previous story",
-    "Detik: keeping previous story"
+    "ANTARA: keeping previous story"
   ]
 }
