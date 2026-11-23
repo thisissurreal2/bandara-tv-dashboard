@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T08:45:26.750070+00:00",
+  "updated_at": "2026-11-23T09:00:40.108758+00:00",
   "national": [
     {
       "title": "Dinkes Ungkap Audit Bayi Meninggal di RSUD Priok: Nunggu Ambulans Berjam-jam",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Zelenskyy says Ukraine responsible for sinking Russian warship in Libya – Europe live",
+      "summary": "President says Kyiv responsible for sinking Merkury warship in Benghazi on Sunday and also drone attack on cargo vessel MV Angara Russian warship sinks in Benghazi after suspected Ukrainian drone attack Ukraine’s president Volodymyr Zelenskyy has claimed responsibility for sinking a Russian warship at a Libyan naval base on Sunday, saying it was part of Kyiv’s response to Russia’s continuing aggression. “An exemplary Ukrainian operation in response to Russia’s war,” he said in a post on X, with a video showing the moment the corvette was hit by Ukrainian drones. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-23T08:50:48+00:00",
+      "image": "https://i.guim.co.uk/img/media/21720bbe9ed93558a7fe4c6c2fb962f4c7bd41cb/1012_625_6112_4892/master/6112.jpg?width=140&quality=85&auto=format&fit=max&s=da3fea44607549cbbdc4de25ec543522"
+    },
+    {
       "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
       "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
       "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
@@ -36,25 +44,20 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3431/live/0e8b4920-e6be-11f1-a023-d502158f79f8.jpg"
     },
     {
-      "title": "Trump hosts third crypto gala for meme coin amid conflict of interest outcry",
-      "summary": "Virginia dinner comes as Democrats accuse president of improperly profiting from his cryptocurrency ventures Donald Trump has headlined his third cryptocurrency gala at his ​country club in Virginia, rewarding top holders of his own meme coin, as Democrats accuse the president of improperly profiting from his crypto ventures. The dinner, which took place at the Trump National golf club in Sterling, Virginia, included meet-and-greets with Trump supporters including the boxing champion Floyd Mayweather, the Shark Tank investor Kevin O’Leary, the NBA champion Tristan Thompson and the magician Lior Suchard, according to the event’s website . Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
-      "source": "The Guardian",
-      "published": "2026-11-23T08:33:10+00:00",
-      "image": "https://i.guim.co.uk/img/media/79b37a2f8a198376688fa54f0cdba008ce48d808/801_0_3988_3192/master/3988.jpg?width=140&quality=85&auto=format&fit=max&s=8e8655ae5e48a38e70dd33fcd33d5626"
-    },
-    {
-      "title": "Ukraine claims responsiblity for drone attacks on Russian ships off Libya",
-      "summary": "President Zelenskyy hails \"an exemplary Ukrainian operation\" as UN calls for investigation",
-      "url": "https://www.aljazeera.com/news/2026/11/23/ukraine-claims-responsiblity-for-drone-attacks-on-russian-ships-off-libya?traffic_source=rss",
+      "title": "Europe’s hot autumn of protests is a symptom of economic breakdown",
+      "summary": "European governments beholden to corporate interests no longer have the wellbeing of their nations as a top priority.",
+      "url": "https://www.aljazeera.com/opinions/2026/11/23/europes-hot-autumn-of-protests-is-a-symptom-of-economic-breakdown-2?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-23T08:12:29+00:00",
-      "image": ""
+      "published": "2026-11-23T08:08:00+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261121__D88Z66X__v1__HighRes__FrancePoliticsEducationStrikeDemo-1795332915.jpg?resize=1920%2C1440"
     }
   ],
   "feed_warnings": [
     "ANTARA: ParseError",
     "ANTARA: no fresh stories",
-    "ANTARA: keeping previous story"
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "ANTARA: keeping previous story",
+    "Detik: keeping previous story"
   ]
 }
