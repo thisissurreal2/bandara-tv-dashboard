@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-23T18:45:32.137436+00:00",
+  "updated_at": "2026-11-23T19:00:45.751536+00:00",
   "national": [
+    {
+      "title": "Tabrakan Beruntun Maut di Sumedang Diduga Dipicu Rem Bermasalah",
+      "summary": "Kapolda Jabar ungkap kronologi tabrakan beruntun di Sumedang. Diduga truk kehilangan kendali akibat rem tidak berfungsi dan muatan berlebih.",
+      "url": "https://news.detik.com/berita/d-8766748/tabrakan-beruntun-maut-di-sumedang-diduga-dipicu-rem-bermasalah",
+      "source": "Detik",
+      "published": "2026-11-23T18:43:06+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/23/proses-evakuasi-korban-selamat-kecelakaan-maut-beruntun-di-jalan-raya-bandung-cirebon-sumedang-1795416496848_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Pengacara: Silmy Buat Sistem Cegah Pungli, Pemerasan Harus Dibuktikan",
       "summary": "Tim kuasa hukum Silmy Karim menyoroti keterangan saksi yang tidak menyebut kliennya meminta uang dalam pengurusan izin tinggal WNA.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-23T18:00:49+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/10/29/sidang-dakwaan-silmy-karim-1793273361953_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Kebakaran di Rusunawa Tambora Jakbar, Asap Membubung",
-      "summary": "Kebakaran melanda Rusunawa Tambora, Jakarta Barat. Api membara dan asap membubung tinggi.",
-      "url": "https://news.detik.com/berita/d-8766733/kebakaran-di-rusunawa-tambora-jakbar-asap-membubung",
-      "source": "Detik",
-      "published": "2026-11-23T17:07:24+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2024/11/13/ilustrasi-api_169.jpeg?w=360&q=90"
     },
     {
       "title": "Kepala BP BUMN: Pembebasan PPh berlaku untuk transformasi BUMN",
@@ -32,16 +32,16 @@
       "summary": "Several Republican lawmakers raise questions and concerns about Nvidia’s reinstatement of Jensen Huang, saying his ‘behavior does not support reinstatement’ Nvidia shares surge 33% on Huang‘s return – business live Sign up to the Breaking News US email Nvidia ’s shares have surged by 31% at the start of trading following the news. The S+P 500 jumped 4.5% and is recovering nearly half of its brutal losses from last week, which was one of its worst since the 2008 financial crisis. Rallies for AI stocks had the Nasdaq composite up a market-leading 6.5%, while the Dow Jones Industrial Average rose 1,117 points. Here’s Trump ’s full social media post, in which he also called Jensen Huang “a Great Patriot and National Treasure”. The NVIDIA Board of Directors has made the correct and proper decision to return Jensen Huang to the position of CEO. The Country needs Jensen’s leadership at NVIDIA in order to ensure the Success and Prosperity of not only the Company, but the American Economy. The United States Government has no reason to believe that Jensen’s return to NVIDIA poses any risk to National Security. The Attorney General of the United States has confirmed that the U.S. Government does not possess evidence that he has engaged in any unlawful conduct. On a personal note, I have gotten to know Jensen, and he is a Great Patriot and National Treasure. Separately, NVIDIA should continue its thorough internal investigation of the Company’s compliance with U.S. export controls in order to ensure that it is fulfilling its legal obligations and Patriotic Duty to protect U.S. National Security. Congratulations to Jensen, the NVIDIA Board, to the People of the United States — and, indeed, the World! Continue reading...",
       "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-23T18:35:22+00:00",
+      "published": "2026-11-23T18:41:13+00:00",
       "image": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=140&quality=85&auto=format&fit=max&s=d340576f04eb84bbe9c7e4fedb6e0dce"
     },
     {
-      "title": "India pledges $1.6bn in flood relief for Nepal as Balendra Shah visits Modi",
-      "summary": "Nepal's Prime Minister Balendra Shah is in New Delhi for a two-day visit — his first since coming to power in March.",
-      "url": "https://www.aljazeera.com/news/2026/11/23/india-pledges-1-6bn-in-flood-relief-for-nepal?traffic_source=rss",
+      "title": "What Russian warship did Ukraine just sink?",
+      "summary": "Ukraine says it sank the Russian warship Merkury off the coast of Libya. Here's why the vessel is significant.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/what-russian-warship-did-ukraine-just-sink?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-23T18:12:55+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-23T092817Z_1123569228_RC2KTOAJTMT8_RTRMADP_3_INDIA-NEPAL-1795445216.jpg?resize=1920%2C1440"
+      "published": "2026-11-23T18:25:55+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795458345.jpg?resize=1918%2C1080&quality=80"
     },
     {
       "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a11/live/e201bf70-bb4c-11f1-bc1f-3f186ca4140c.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
