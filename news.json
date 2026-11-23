@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T20:00:36.170272+00:00",
+  "updated_at": "2026-11-23T20:06:12.273708+00:00",
   "national": [
     {
       "title": "Ibu dan Anak di Lampung Tercebur Sumur Sedalam 13 Meter, Ibu Meninggal",
@@ -29,19 +29,19 @@
   "international": [
     {
       "title": "Australian politics live: Penny Wong to defend US alliance; Coalition condemns Vanuatu deal",
-      "summary": "Get our breaking news email , free app or daily news podcast The Coalition has come out against a security agreement with Vanuatu because of objections to “binding conditions relating to the achievement of renewable energy and climate targets”. In June, prime minister, Anthony Albanese , and his Vanuatu counterpart, Jotham Napat , signed the Nakamal agreement in Canberra that rules out the use of its territory for foreign military bases. We acknowledge the legitimate concerns Vanuatu and other Pacific Island nations have regarding climate change and its impacts on their communities, economies, and national security. However, Coalition members object to clauses … that limit the ability of future governments to change current climate and energy policy settings, by creating binding conditions relating to the achievement of renewable energy and climate targets. Such a policy would do is surrender a central source of Australian strategic weight at precisely the moment we need every opportunity for influence available to us. What they would do is give us fewer choices and leave us more vulnerable, reducing our capacity to contribute to a regional balance in which our sovereignty can be protected. Continue reading...",
+      "summary": "Get our breaking news email , free app or daily news podcast Coalition objects to security agreement with Vanuatu The Coalition has come out against a security agreement with Vanuatu because of objections to “binding conditions relating to the achievement of renewable energy and climate targets”. We acknowledge the legitimate concerns Vanuatu and other Pacific Island nations have regarding climate change and its impacts on their communities, economies, and national security. However, Coalition members object to clauses … that limit the ability of future governments to change current climate and energy policy settings, by creating binding conditions relating to the achievement of renewable energy and climate targets. Such a policy would surrender a central source of Australian strategic weight at precisely the moment we need every opportunity for influence available to us. What they would do is give us fewer choices and leave us more vulnerable, reducing our capacity to contribute to a regional balance in which our sovereignty can be protected. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-23T19:51:55+00:00",
+      "published": "2026-11-23T19:59:34+00:00",
       "image": "https://i.guim.co.uk/img/media/4167a1e7f11df6dfeace154f41bc766312ebf83a/1339_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=7e733a0f88378fec7eb61aaeb89fc21a"
     },
     {
-      "title": "Russia threatens ‘hostile’ Estonia with ‘open war’",
-      "summary": "Moscow accuses Tallinn of 'hostile actions' citing border closure and claiming it is allowing Ukraine to launch attacks.",
-      "url": "https://www.aljazeera.com/news/2026/11/23/russia-threatens-hostile-estonia-with-open-war?traffic_source=rss",
+      "title": "As tech outages mount, some New Yorkers prepare for the worst",
+      "summary": "As digital disruptions raise concerns about essential services, some residents are preparing for prolonged outages.",
+      "url": "https://www.aljazeera.com/news/2026/11/23/as-tech-outages-mount-some-new-yorkers-prepare-for-the-worst?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-23T19:20:30+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b00a388-1795203976.jpg?resize=1920%2C1440"
+      "published": "2026-11-23T19:43:45+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2019-07-14T011940Z_2110804009_RC1E2C380100_RTRMADP_3_NEW-YORK-OUTAGES-1795385001.jpg?resize=1920%2C1440"
     },
     {
       "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a11/live/e201bf70-bb4c-11f1-bc1f-3f186ca4140c.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
