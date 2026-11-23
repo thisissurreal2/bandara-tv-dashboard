@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T19:15:29.715260+00:00",
+  "updated_at": "2026-11-23T19:30:36.241141+00:00",
   "national": [
     {
       "title": "Komnas HAM Jadikan Jakarta Percontohan Kota Berbasis HAM",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Republicans voice concerns over Jensen Huang’s Nvidia reinstatement after Trump urged board to rehire CEO – live",
-      "summary": "Several Republican lawmakers raise questions and concerns about Nvidia’s reinstatement of Jensen Huang, saying his ‘behavior does not support reinstatement’ Nvidia shares surge 33% on Huang‘s return – business live Sign up to the Breaking News US email Nvidia ’s shares have surged by 31% at the start of trading following the news. The S+P 500 jumped 4.5% and is recovering nearly half of its brutal losses from last week, which was one of its worst since the 2008 financial crisis. Rallies for AI stocks had the Nasdaq composite up a market-leading 6.5%, while the Dow Jones Industrial Average rose 1,117 points. Here’s Trump ’s full social media post, in which he also called Jensen Huang “a Great Patriot and National Treasure”. The NVIDIA Board of Directors has made the correct and proper decision to return Jensen Huang to the position of CEO. The Country needs Jensen’s leadership at NVIDIA in order to ensure the Success and Prosperity of not only the Company, but the American Economy. The United States Government has no reason to believe that Jensen’s return to NVIDIA poses any risk to National Security. The Attorney General of the United States has confirmed that the U.S. Government does not possess evidence that he has engaged in any unlawful conduct. On a personal note, I have gotten to know Jensen, and he is a Great Patriot and National Treasure. Separately, NVIDIA should continue its thorough internal investigation of the Company’s compliance with U.S. export controls in order to ensure that it is fulfilling its legal obligations and Patriotic Duty to protect U.S. National Security. Congratulations to Jensen, the NVIDIA Board, to the People of the United States — and, indeed, the World! Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+      "title": "Republican senators criticize Nvidia’s decision to reinstate Jensen Huang",
+      "summary": "Senators criticize move, and say Huang needs to testify before Congress and address national security concerns Nvidia reinstates Jensen Huang – latest updates US politics – live updates Republican US lawmakers are criticizing the Nvidia board’s decision to reinstate chief executive Jensen Huang, even after Trump said he spoke “directly and indirectly” with the board and “convinced them” to bring him back. Pete Ricketts, a senator from Nebraska, wrote on X that Huang’s “behavior does not support reinstatement”. Continue reading...",
+      "url": "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated",
       "source": "The Guardian",
-      "published": "2026-11-23T19:00:10+00:00",
-      "image": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=140&quality=85&auto=format&fit=max&s=d340576f04eb84bbe9c7e4fedb6e0dce"
+      "published": "2026-11-23T19:08:37+00:00",
+      "image": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=34726bbffd4777a0dcfd19f1ba78c125"
     },
     {
-      "title": "What Russian warship did Ukraine just sink?",
-      "summary": "Ukraine says it sank the Russian warship Merkury off the coast of Libya. Here's why the vessel is significant.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/what-russian-warship-did-ukraine-just-sink?traffic_source=rss",
+      "title": "Thousands flee Manchester concert after unknown substance released",
+      "summary": "More than 12,000 people were evacuated from Manchester’s Co-op Live arena",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-flee-manchester-concert-after-unknown-substance-released?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-23T18:25:55+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795458345.jpg?resize=1918%2C1080&quality=80"
+      "published": "2026-11-23T19:07:37+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795460852.jpg?resize=1920%2C1073&quality=80"
     },
     {
       "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a11/live/e201bf70-bb4c-11f1-bc1f-3f186ca4140c.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
