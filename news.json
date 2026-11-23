@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-23T02:15:26.587582+00:00",
+  "updated_at": "2026-11-23T02:30:33.959405+00:00",
   "national": [
     {
-      "title": "Panitia Ad Hoc MPR Rapat Bahas Pengisian Kekosongan Wapres Hari Ini",
-      "summary": "MPR RI akan menggelar sidang pembahasan pengisian kekosongan jabatan wakil presiden pada hari ini, Senin, 23 November 2026.",
-      "url": "https://www.cnnindonesia.com/nasional/20261123084807-32-1430247/panitia-ad-hoc-mpr-rapat-bahas-pengisian-kekosongan-wapres-hari-ini",
-      "source": "CNN Indonesia",
-      "published": "2026-11-23T02:08:16+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/08/16/pidato-prabowo-di-sidang-mpr-1786865300545_169.jpeg?w=360&q=90"
+      "title": "Wahana Kartboat di Kalimalang Terbalik, Ibu dan Anak Tercebur",
+      "summary": "Kecelakaan air terjadi di wahana Kalimalang, Bekasi, saat perahu kartboat terbalik. Ibu dan anak selamat, pengelola diminta evaluasi keamanan.",
+      "url": "https://news.detik.com/berita/d-8765179/wahana-kartboat-di-kalimalang-terbalik-ibu-dan-anak-tercebur",
+      "source": "Detik",
+      "published": "2026-11-23T02:24:13+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/22/kalimalang-disulap-jadi-destinasi-wisata-air-warga-antusias-berkunjung-1795334626965_169.jpeg?w=360&q=90"
     },
     {
-      "title": "1.564 Atlet Ikuti Peparprov Jateng 2026, Jadi Ajang Seleksi Menuju Peparnas",
-      "summary": "Pekan Olahraga Paralimpik (Peparprov) V Jateng 2026 dibuka di Surakarta, melibatkan 1.564 atlet dari 35 kabupaten/kota. Ajang ini jadi seleksi untuk Peparnas.",
-      "url": "https://news.detik.com/bangun-indonesia/d-8765128/1-564-atlet-ikuti-peparprov-jateng-2026-jadi-ajang-seleksi-menuju-peparnas",
-      "source": "Detik",
-      "published": "2026-11-23T01:50:53+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/23/1564-atlet-ikuti-peparprov-jateng-2026-jadi-ajang-seleksi-menuju-peparnas-1795398630089.jpeg?w=360&q=90"
+      "title": "Tiga Jenderal Polisi Ditarik dari Kementerian, Termasuk Irjen Rudi",
+      "summary": "Mabes Polri menarik tiga jenderal yang bertugas di kementerian dalam rangka persiapan pensiun.",
+      "url": "https://www.cnnindonesia.com/nasional/20261123090243-12-1430250/tiga-jenderal-polisi-ditarik-dari-kementerian-termasuk-irjen-rudi",
+      "source": "CNN Indonesia",
+      "published": "2026-11-23T02:19:18+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/09/30/imipas-fasilitas-apartemen-lapas-cibinong-tak-tercatat-sebagai-bmn-1790764081903_169.jpeg?w=360&q=90"
     },
     {
       "title": "Khofifah tetapkan UMP Jatim 2027 sebesar Rp2,73 juta",
@@ -32,7 +32,7 @@
       "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a final agreement. It’s obviously a very deeply disappointing outcome that the cover decision was not agreed to by all nations. I think what this shows is a very challenging international environment at the moment to reach agreement on almost anything and particularly a situation like this where you’ve got fossil fuel producers on the one hand and other countries that are experiencing very serious impacts from climate change. We’re seeing much greater defence engagement between Australia and Japan, Australia and the Philippines, and the Philippines and Japan. Even though I think it doesn’t quite come across in its overall score, that US defence relationship in the region is stronger, which is helping Australia. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-23T02:09:47+00:00",
+      "published": "2026-11-23T02:19:04+00:00",
       "image": "https://i.guim.co.uk/img/media/be8178f5c5e3de46c0382feac86201617d03820f/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=3317a84ecc0965543844c52cd44a69a1"
     },
     {
@@ -55,9 +55,6 @@
   "feed_warnings": [
     "ANTARA: ParseError",
     "ANTARA: no fresh stories",
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "ANTARA: keeping previous story",
-    "Detik: keeping previous story"
+    "ANTARA: keeping previous story"
   ]
 }
