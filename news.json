@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T20:15:26.712349+00:00",
+  "updated_at": "2026-11-23T20:30:43.976532+00:00",
   "national": [
     {
       "title": "Ibu dan Anak di Lampung Tercebur Sumur Sedalam 13 Meter, Ibu Meninggal",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Australian politics live: Penny Wong to defend US alliance; Coalition condemns Vanuatu deal",
-      "summary": "Get our breaking news email , free app or daily news podcast Good morning, Krishani Dhanji with you here, thanks to Martin Farrer for getting us started. The foreign minister, Penny Wong , is doing the media rounds this morning ahead of a speech to the Senate on the world order and defending Australia’s alliance the US. My colleague Tess Ikonomou brought that to you a little earlier . We acknowledge the legitimate concerns Vanuatu and other Pacific Island nations have regarding climate change and its impacts on their communities, economies, and national security. However, Coalition members object to clauses … that limit the ability of future governments to change current climate and energy policy settings, by creating binding conditions relating to the achievement of renewable energy and climate targets. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
-      "source": "The Guardian",
-      "published": "2026-11-23T20:03:13+00:00",
-      "image": "https://i.guim.co.uk/img/media/4167a1e7f11df6dfeace154f41bc766312ebf83a/1339_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=7e733a0f88378fec7eb61aaeb89fc21a"
+      "title": "Turkish police hunting for lioness stalking Istanbul",
+      "summary": "Questions being asked about big cat's origins, with suspicion falling on the country's growing role in animal smuggling.",
+      "url": "https://www.aljazeera.com/news/2026/11/23/turkish-police-hunting-for-lioness-stalking-istanbul?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-23T20:22:28+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2015/06/cc33eda29a0b471e80e28279dc0df54a_18.jpeg?resize=1200%2C675"
     },
     {
-      "title": "As tech outages mount, some New Yorkers prepare for the worst",
-      "summary": "As digital disruptions raise concerns about essential services, some residents are preparing for prolonged outages.",
-      "url": "https://www.aljazeera.com/news/2026/11/23/as-tech-outages-mount-some-new-yorkers-prepare-for-the-worst?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-23T19:43:45+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2019-07-14T011940Z_2110804009_RC1E2C380100_RTRMADP_3_NEW-YORK-OUTAGES-1795385001.jpg?resize=1920%2C1440"
+      "title": "Australian politics live: Penny Wong to defend US alliance; Coalition condemns Vanuatu deal",
+      "summary": "Get our breaking news email , free app or daily news podcast ‘We all wish a consensus statement had been reached’: Wong Penny Wong knows a thing or two about not landing a deal at COP. Well, we all wish that a consensus statement had been reached. But I’ve been a climate minister and I’ve been at conferences before where we have not managed to reach an outcome. I was famously at Copenhagen, where we had world leaders there and we still were not able to land an agreement. I know what Chris Bowen has done has been to work extremely closely with the Pacific all the way through this process. And to keep faith with them. He sought to do that the whole way through, and I’m sure did so in Turkiye as well. And the reason we sought to participate here was because we wanted to keep faith with the Pacific on climate. The work that we are doing with other countries to secure our position, and how important that is – whether it’s the UK, Canada, the European Union. Or, also, our work in the region – our work with Japan. These are important elements about how you assure Australian security and make sure that we have different options, different pathways, to pursue our interests. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+      "source": "The Guardian",
+      "published": "2026-11-23T20:14:59+00:00",
+      "image": "https://i.guim.co.uk/img/media/4167a1e7f11df6dfeace154f41bc766312ebf83a/1339_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=7e733a0f88378fec7eb61aaeb89fc21a"
     },
     {
       "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a11/live/e201bf70-bb4c-11f1-bc1f-3f186ca4140c.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: TimeoutError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
