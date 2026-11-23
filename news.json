@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T20:45:27.424834+00:00",
+  "updated_at": "2026-11-23T21:00:41.296837+00:00",
   "national": [
     {
       "title": "Ibu dan Anak di Lampung Tercebur Sumur Sedalam 13 Meter, Ibu Meninggal",
@@ -29,11 +29,19 @@
   "international": [
     {
       "title": "Australian politics live: Penny Wong to defend US alliance; rental affordability plummets to 14-year low",
-      "summary": "Get our breaking news email , free app or daily news podcast ‘It’s made news’: Wong on Jensen Huang’s return to Nvidia Well, John Howard might have called his book Lazarus Rising (for his several attempts at the Liberal leadership before finally getting it to stick), but we all know who the real modern day Lazarus is: Jensen Huang . Look, ah – certainly it’s made news. But, ultimately, a decision for the board and the company. My focus today is more broadly on how I end my speech to the Senate – the ministerial statement on securing Australia’s future in a changing world. Obviously, artificial intelligence is a big part of that. Continue reading...",
+      "summary": "Get our breaking news email , free app or daily news podcast Labor will ‘save more than we spend’ in budget update: Chalmers The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update. There’s still a fair bit of work to do to finalise it all, but we’ve made enough progress to be confident that at this stage there will be a modest net save in the budget. We’re not going to slash and burn in the budget where that would impact the payments that people receive or where it would impact some of the more sensitive parts of the economy. But we haven’t focused the savings on just one portfolio. There will be a number of savings in the mid-year update. They will be substantial, as I said. These are serious times. You can see in the quite extraordinary reaction on the stock market just how volatile global markets are right now. I think it’s a bit of a symbol of the quite extraordinary volatility, unpredictability that we’re seeing play out in markets in the AI sector, but more broadly as well. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-23T20:38:37+00:00",
+      "published": "2026-11-23T20:52:18+00:00",
       "image": "https://i.guim.co.uk/img/media/4167a1e7f11df6dfeace154f41bc766312ebf83a/1339_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=7e733a0f88378fec7eb61aaeb89fc21a"
+    },
+    {
+      "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+      "summary": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+      "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-23T20:48:35+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/363b/live/dab0da20-e771-11f1-99a1-253766e7ad8b.jpg"
     },
     {
       "title": "Iran hits US bases and civilian sites in the Gulf after a lull",
@@ -42,15 +50,11 @@
       "source": "Al Jazeera",
       "published": "2026-11-23T20:26:40+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795462137.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "title": "Iranian authorities flog singer who performed without hijab, lawyers say",
-      "summary": "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom.",
-      "url": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-23T18:04:20+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a11/live/e201bf70-bb4c-11f1-bc1f-3f186ca4140c.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
