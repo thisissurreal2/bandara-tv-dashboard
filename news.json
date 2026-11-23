@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-23T07:30:34.808852+00:00",
+  "updated_at": "2026-11-23T07:45:32.660820+00:00",
   "national": [
+    {
+      "title": "Longsor Susulan di Pejaten, Dinas SDA Akan Bangun Turap Permanen",
+      "summary": "Dinas SDA DKI Jakarta bakal membangun turap permanen untuk menangani longsor di Jalan Langgar 2, Kelurahan Pejaten Timur, Kecamatan Pasar Minggu, Jaksel.",
+      "url": "https://news.detik.com/berita/d-8765797/longsor-susulan-di-pejaten-dinas-sda-akan-bangun-turap-permanen",
+      "source": "Detik",
+      "published": "2026-11-23T07:29:51+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/22/longsor-di-pejaten-timur-1795335467824_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Kecelakaan Beruntun di Sumedang, 6 Orang Tewas",
       "summary": "Kecelakaan beruntun di Jalan Raya Cirebon-Bandung, Sumedang, mengakibatkan enam orang tewas dan satu luka berat.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-23T07:25:29+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/23/kecelakaan-beruntun-di-jalan-raya-cirebon-bandung-sumedang-6-orang-tewas-1795418273349_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Kapolda Jatim Targetkan Rekrut 10.000 Orang Lewat Polisi Peduli Pengangguran",
-      "summary": "Program Polisi Peduli Pengangguran di Jatim membidik peluang sektor ketahanan pangan. Tahap awal, program ini ditargetkan merekrut 10.000 tenaga kerja.",
-      "url": "https://news.detik.com/berita/d-8765738/kapolda-jatim-targetkan-rekrut-10-000-orang-lewat-polisi-peduli-pengangguran",
-      "source": "Detik",
-      "published": "2026-11-23T07:09:01+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/23/kapolda-jatim-irjen-dekananto-di-mojokerto-1795416104973_169.jpeg?w=360&q=90"
     },
     {
       "title": "Khofifah tetapkan UMP Jatim 2027 sebesar Rp2,73 juta",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "India-Pakistan cricket fans want ‘dirty politics’ kept out of beloved sport",
-      "summary": "Cricket's die-hard fans say players are being forced to take part in acts of aggression for the benefit of politicians.",
-      "url": "https://www.aljazeera.com/sports/2026/11/23/india-pakistan-cricket-fans-want-dirty-politics-kept-out-of-beloved-sport?traffic_source=rss",
+      "title": "MotoGP maestro Marquez makes history with eighth premier-class world title",
+      "summary": "His eighth success in the premier class of motorcycling pulled Marc Marquez level with Italian great Giacomo Agostini.",
+      "url": "https://www.aljazeera.com/sports/2026/11/23/marc-marquez-motogp-world-title-eighth-premier-class-motorcyling-portugal-gp?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-23T07:07:33+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795369515.jpg?resize=1914%2C1080&quality=80"
+      "published": "2026-11-23T07:19:47+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261122__D8AR63D__v1__HighRes__MotoPrixPorMotogp-1795414012_be0fb8-1795414953.jpg?resize=1200%2C630&quality=80"
     },
     {
       "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
@@ -55,9 +55,6 @@
   "feed_warnings": [
     "ANTARA: ParseError",
     "ANTARA: no fresh stories",
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "ANTARA: keeping previous story",
-    "Detik: keeping previous story"
+    "ANTARA: keeping previous story"
   ]
 }
