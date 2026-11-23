@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-23T16:30:35.550295+00:00",
+  "updated_at": "2026-11-23T16:45:25.207539+00:00",
   "national": [
     {
-      "title": "Kasus Dugaan Pemerkosaan Bupati Kupang, EK dan LS Diperiksa 12 Jam",
-      "summary": "Dua saksi, EK dan LS, diperiksa lebih dari 12 jam oleh Polda NTT terkait dugaan pemerkosaan oleh Bupati Kupang, Yosef Lede.",
-      "url": "https://www.cnnindonesia.com/nasional/20261123230539-12-1430614/kasus-dugaan-pemerkosaan-bupati-kupang-ek-dan-ls-diperiksa-12-jam",
+      "title": "FOTO: Prabowo Usulkan Sugiono dan Amran Jadi Calon Wapres ke MPR",
+      "summary": "Presiden Prabowo mengusulkan Sugiono dan Amran sebagai calon wakil presiden pengganti Gibran Rakabuming Raka kepada MPR, Senin (23/11).",
+      "url": "https://www.cnnindonesia.com/nasional/20261123181813-34-1430510/foto-prabowo-usulkan-sugiono-dan-amran-jadi-calon-wapres-ke-mpr",
       "source": "CNN Indonesia",
-      "published": "2026-11-23T16:11:53+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2018/12/03/55046dbb-b55c-46e0-b27b-7d77d95b5f2c_169.jpeg?w=360&q=90"
+      "published": "2026-11-23T16:30:21+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/23/presiden-prabowo-serahkan-dua-nama-cawapres-1795432240441_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "7 Orang Tewas dalam Kecelakaan Beruntun di Sumedang, Ini Identitasnya",
+      "summary": "Kecelakaan beruntun di Sumedang menewaskan tujuh orang dan melukai enam lainnya. Identitas korban telah diungkap, termasuk lima yang meninggal di lokasi.",
+      "url": "https://news.detik.com/berita/d-8766726/7-orang-tewas-dalam-kecelakaan-beruntun-di-sumedang-ini-identitasnya",
+      "source": "Detik",
+      "published": "2026-11-23T16:30:14+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/23/kapolda-jabar-irjen-hengki-saat-mengunjungi-korban-tabrakan-beruntun-di-rsud-umar-wirahadikusumah-sumedang-1795436030934_169.jpeg?w=360&q=90"
     },
     {
       "title": "Kepala BP BUMN: Pembebasan PPh berlaku untuk transformasi BUMN",
@@ -16,24 +24,24 @@
       "source": "ANTARA",
       "published": "2026-11-23T15:24:27+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/23/IMG_3127.jpg"
-    },
-    {
-      "title": "Polisi Konfirmasi 24 Jenazah Korban Kebakaran Pabrik Permen di Serang",
-      "summary": "Polisi telah mengidentifikasi 24 jenazah korban kebakaran pabrik permen di Cikande. Identitas korban belum diketahui.",
-      "url": "https://news.detik.com/berita/d-8766683/polisi-konfirmasi-24-jenazah-korban-kebakaran-pabrik-permen-di-serang",
-      "source": "Detik",
-      "published": "2026-11-23T15:16:14+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/22/api-melahap-pabrik-permen-nasib-43-karyawan-belum-diketahui-1795322718550_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
     {
-      "title": "Burnham says next decade can be ‘better one for Britain’ as he sets out new EU-UK deal in Commons – UK politics live",
-      "summary": "Prime minister gives update to MPs about his deal with the EU after Friday’s summit in Brussels In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy and reindustrialisation commissioner. She said: Giving business the confidence to invest here, and create good jobs in our industrial heartlands. Creating good quality jobs in all parts of the country. The role of the private sector is essential to fulfilling that. That is why I am delighted to announce today a new northern economy and reindustrialisation commissioner. With an impeccable industrial career we can learn much from, welcome, Juergen Maier. Continue reading...",
+      "title": "Burnham says it would be ‘unthinkable’ for the UK to rejoin the EU without a referendum – UK politics live",
+      "summary": "The prime minister’s remarks were the clearest commitment yet to not joining the EU without another vote In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy and reindustrialisation commissioner. She said: Giving business the confidence to invest here, and create good jobs in our industrial heartlands. Creating good quality jobs in all parts of the country. The role of the private sector is essential to fulfilling that. That is why I am delighted to announce today a new northern economy and reindustrialisation commissioner. With an impeccable industrial career we can learn much from, welcome, Juergen Maier. Continue reading...",
       "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-23T16:23:01+00:00",
+      "published": "2026-11-23T16:39:41+00:00",
       "image": "https://i.guim.co.uk/img/media/221b71637b12d748ec611334d61fd609cbb6a644/209_0_2082_1666/master/2082.jpg?width=140&quality=85&auto=format&fit=max&s=befa3aa2dca37b7d8801c87885d96c7e"
+    },
+    {
+      "title": "Russia warns Ukraine of ‘dangerous trend’ after Libya and Baltic attacks",
+      "summary": "Russia has reacted with fury to Ukraine's continued campaign targeting its naval and merchant shipping.",
+      "url": "https://www.aljazeera.com/news/2026/11/23/russia-warns-ukraine-of-dangerous-trend-after-libya-and-baltic-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-23T16:23:33+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0346590eba8-1795376729.jpg?resize=1200%2C610&quality=80"
     },
     {
       "title": "The rise and fall and rise again of Jensen Huang",
@@ -42,19 +50,7 @@
       "source": "BBC",
       "published": "2026-11-23T15:49:52+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38db/live/e8339120-deb0-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "title": "Israeli soldiers assault Palestinian after raiding his home",
-      "summary": "Israeli forces assault a Palestinian man during a raid on his home in the occupied West Bank.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israeli-soldiers-assault-palestinian-after-raiding-his-home?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-23T15:40:15+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-81-1795448373.png?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": [
-    "Detik: TimeoutError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
