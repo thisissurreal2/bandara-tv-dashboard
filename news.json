@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-23T02:00:40.231994+00:00",
+  "updated_at": "2026-11-23T02:15:26.587582+00:00",
   "national": [
+    {
+      "title": "Panitia Ad Hoc MPR Rapat Bahas Pengisian Kekosongan Wapres Hari Ini",
+      "summary": "MPR RI akan menggelar sidang pembahasan pengisian kekosongan jabatan wakil presiden pada hari ini, Senin, 23 November 2026.",
+      "url": "https://www.cnnindonesia.com/nasional/20261123084807-32-1430247/panitia-ad-hoc-mpr-rapat-bahas-pengisian-kekosongan-wapres-hari-ini",
+      "source": "CNN Indonesia",
+      "published": "2026-11-23T02:08:16+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/08/16/pidato-prabowo-di-sidang-mpr-1786865300545_169.jpeg?w=360&q=90"
+    },
     {
       "title": "1.564 Atlet Ikuti Peparprov Jateng 2026, Jadi Ajang Seleksi Menuju Peparnas",
       "summary": "Pekan Olahraga Paralimpik (Peparprov) V Jateng 2026 dibuka di Surakarta, melibatkan 1.564 atlet dari 35 kabupaten/kota. Ajang ini jadi seleksi untuk Peparnas.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-23T01:50:53+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/23/1564-atlet-ikuti-peparprov-jateng-2026-jadi-ajang-seleksi-menuju-peparnas-1795398630089.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Fakta-fakta Kebakaran Pabrik Permen di Cikande Serang",
-      "summary": "Kebakaran hebat di pabrik permen milik PT Fonusa Agung Mulia, Cikande, Kabupaten Serang, Banten, memakan korban jiwa. Identifikasi korban sudah mulai diketahui.",
-      "url": "https://www.cnnindonesia.com/nasional/20261123074741-20-1430226/fakta-fakta-kebakaran-pabrik-permen-di-cikande-serang",
-      "source": "CNN Indonesia",
-      "published": "2026-11-23T01:18:31+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/22/pencarian-korban-kebakaran-pabrik-permen-1795342611217_169.jpeg?w=360&q=90"
     },
     {
       "title": "Khofifah tetapkan UMP Jatim 2027 sebesar Rp2,73 juta",
@@ -32,8 +32,16 @@
       "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a final agreement. It’s obviously a very deeply disappointing outcome that the cover decision was not agreed to by all nations. I think what this shows is a very challenging international environment at the moment to reach agreement on almost anything and particularly a situation like this where you’ve got fossil fuel producers on the one hand and other countries that are experiencing very serious impacts from climate change. We’re seeing much greater defence engagement between Australia and Japan, Australia and the Philippines, and the Philippines and Japan. Even though I think it doesn’t quite come across in its overall score, that US defence relationship in the region is stronger, which is helping Australia. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-23T01:35:52+00:00",
+      "published": "2026-11-23T02:09:47+00:00",
       "image": "https://i.guim.co.uk/img/media/be8178f5c5e3de46c0382feac86201617d03820f/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=3317a84ecc0965543844c52cd44a69a1"
+    },
+    {
+      "title": "Poland says Russia tried to assassinate Ukrainian rapper twice",
+      "summary": "Polish confirmation comes after Copenhagen reveals alleged Russian plot to kill US-Ukrainian citizen on Danish soil.",
+      "url": "https://www.aljazeera.com/news/2026/11/23/poland-says-russia-tried-to-assassinate-ukrainian-rapper-twice?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-23T01:53:23+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-02-05T130309Z_991038335_RC2NFJAH27US_RTRMADP_3_UKRAINE-CRISIS-ZELENSKIY-TUSK-1795394679.jpg?resize=1920%2C1440"
     },
     {
       "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
@@ -42,19 +50,14 @@
       "source": "BBC",
       "published": "2026-11-23T01:23:43+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2aab/live/8ca719f0-e6b0-11f1-b45e-bf1e220bd648.jpg"
-    },
-    {
-      "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
-      "summary": "Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at 'grave risk', WHO warns.",
-      "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-23T00:39:51+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26224654243554-1795391797.jpg?resize=1920%2C1440"
     }
   ],
   "feed_warnings": [
     "ANTARA: ParseError",
     "ANTARA: no fresh stories",
-    "ANTARA: keeping previous story"
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "ANTARA: keeping previous story",
+    "Detik: keeping previous story"
   ]
 }
