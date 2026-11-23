@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-23T08:30:40.193366+00:00",
+  "updated_at": "2026-11-23T08:45:26.750070+00:00",
   "national": [
     {
-      "title": "Puji Diplomasi Prabowo di KTT APEC, Ketua DPD Optimis Ekonomi RI Tumbuh 8%",
-      "summary": "Ketua DPD RI Sultan Baktiar mengapresiasi diplomasi Presiden Prabowo di KTT APEC China, yang dinilai fenomenal dan berpotensi dorong pertumbuhan ekonomi 8%.",
-      "url": "https://news.detik.com/berita/d-8765923/puji-diplomasi-prabowo-di-ktt-apec-ketua-dpd-optimis-ekonomi-ri-tumbuh-8",
+      "title": "Dinkes Ungkap Audit Bayi Meninggal di RSUD Priok: Nunggu Ambulans Berjam-jam",
+      "summary": "Dinkes DKI Jakarta mengungkap hasil audit kasus bayi yang meninggal di RSUD Tanjung Priok, Jakarta Utara.",
+      "url": "https://news.detik.com/berita/d-8765950/dinkes-ungkap-audit-bayi-meninggal-di-rsud-priok-nunggu-ambulans-berjam-jam",
       "source": "Detik",
-      "published": "2026-11-23T08:25:41+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/23/ketua-dpd-puji-diplomasi-prabowo-di-ktt-apec-1795421860530_169.jpeg?w=360&q=90"
+      "published": "2026-11-23T08:38:25+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2023/11/03/plt-kepala-dinas-kesehatan-dki-jakarta-ani-ruspitawati-tiaradetikcom_169.jpeg?w=360&q=90"
     },
     {
       "title": "MPR Respons Usulan Ketua DPD soal Wapres RI Lebih dari Satu Orang",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Constitutional law expert brands defence bill allowing secret security rules ‘lazy and irresponsible’",
-      "summary": "Anne Twomey says lack of proper debate around bill is ‘flabbergasting’ amid concerns over extension of ministerial powers Labor’s new defence bill is “lazy and irresponsible” lawmaking, one of Australia’s leading constitutional scholars has warned, claiming provisions for the government to secretly class any facility as a special security zone could raise serious legal issues. Prime minister Anthony Albanese claimed on Monday that critics of the ‘accelerating capability and protecting bases’ bill were “jump[ing] at shadows”, accusing them of “absurd” claims. But parliamentary crossbenchers opposed to the bill, which was rushed through parliament with little public scrutiny, were joined on Monday by Prof Anne Twomey, who expressed alarm about what she called an increasing trend of ministers exercising discretionary powers without parliamentary oversight. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/23/constitutional-law-expert-brands-defence-bill-allowing-secret-security-rules-lazy-and-irresponsible",
-      "source": "The Guardian",
-      "published": "2026-11-23T08:23:55+00:00",
-      "image": "https://i.guim.co.uk/img/media/365d2e6449a8aa487abccf8060963566f52cd4dc/135_0_3175_2541/master/3175.jpg?width=140&quality=85&auto=format&fit=max&s=94c1f2ccbeb132b7e7bbad90892fb75d"
-    },
-    {
       "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
       "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
       "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-23T08:13:27+00:00",
+      "published": "2026-11-23T08:41:08+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3431/live/0e8b4920-e6be-11f1-a023-d502158f79f8.jpg"
+    },
+    {
+      "title": "Trump hosts third crypto gala for meme coin amid conflict of interest outcry",
+      "summary": "Virginia dinner comes as Democrats accuse president of improperly profiting from his cryptocurrency ventures Donald Trump has headlined his third cryptocurrency gala at his ​country club in Virginia, rewarding top holders of his own meme coin, as Democrats accuse the president of improperly profiting from his crypto ventures. The dinner, which took place at the Trump National golf club in Sterling, Virginia, included meet-and-greets with Trump supporters including the boxing champion Floyd Mayweather, the Shark Tank investor Kevin O’Leary, the NBA champion Tristan Thompson and the magician Lior Suchard, according to the event’s website . Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
+      "source": "The Guardian",
+      "published": "2026-11-23T08:33:10+00:00",
+      "image": "https://i.guim.co.uk/img/media/79b37a2f8a198376688fa54f0cdba008ce48d808/801_0_3988_3192/master/3988.jpg?width=140&quality=85&auto=format&fit=max&s=8e8655ae5e48a38e70dd33fcd33d5626"
     },
     {
       "title": "Ukraine claims responsiblity for drone attacks on Russian ships off Libya",
@@ -49,7 +49,7 @@
       "url": "https://www.aljazeera.com/news/2026/11/23/ukraine-claims-responsiblity-for-drone-attacks-on-russian-ships-off-libya?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-11-23T08:12:29+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b03dca5ac8b-1795415205.jpg?resize=1920%2C1440"
+      "image": ""
     }
   ],
   "feed_warnings": [
