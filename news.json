@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-23T07:15:26.357519+00:00",
+  "updated_at": "2026-11-23T07:30:34.808852+00:00",
   "national": [
     {
-      "title": "Hilirisasi Luar Jawa Jadi Kunci Pemerataan Ekonomi dan Target 8 Persen",
-      "summary": "Pemerintah dorong penguatan ekonomi daerah luar Jawa melalui hilirisasi dan investasi, Sulawesi jadi fokus dengan potensi industri dan pertumbuhan.",
-      "url": "https://www.cnnindonesia.com/nasional/20261123135538-25-1430388/hilirisasi-luar-jawa-jadi-kunci-pemerataan-ekonomi-dan-target-8-persen",
+      "title": "Kecelakaan Beruntun di Sumedang, 6 Orang Tewas",
+      "summary": "Kecelakaan beruntun di Jalan Raya Cirebon-Bandung, Sumedang, mengakibatkan enam orang tewas dan satu luka berat.",
+      "url": "https://www.cnnindonesia.com/nasional/20261123141605-20-1430394/kecelakaan-beruntun-di-sumedang-6-orang-tewas",
       "source": "CNN Indonesia",
-      "published": "2026-11-23T07:10:08+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2014/09/24/d170e8fa-c158-44f6-985c-49726c024667_169.jpg?w=360&q=90"
+      "published": "2026-11-23T07:25:29+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/23/kecelakaan-beruntun-di-jalan-raya-cirebon-bandung-sumedang-6-orang-tewas-1795418273349_169.jpeg?w=360&q=90"
     },
     {
       "title": "Kapolda Jatim Targetkan Rekrut 10.000 Orang Lewat Polisi Peduli Pengangguran",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "India-Pakistan cricket fans want ‘dirty politics’ kept out of beloved sport",
+      "summary": "Cricket's die-hard fans say players are being forced to take part in acts of aggression for the benefit of politicians.",
+      "url": "https://www.aljazeera.com/sports/2026/11/23/india-pakistan-cricket-fans-want-dirty-politics-kept-out-of-beloved-sport?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-23T07:07:33+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795369515.jpg?resize=1914%2C1080&quality=80"
+    },
+    {
       "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
       "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
       "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
@@ -42,19 +50,14 @@
       "source": "The Guardian",
       "published": "2026-11-23T07:00:50+00:00",
       "image": "https://i.guim.co.uk/img/media/85e74b0a2b1adee24b50ae167f6979eebf993d2f/283_0_4259_3407/master/4259.jpg?width=140&quality=85&auto=format&fit=max&s=7015ccd9fdcaac05a7e45fcaf7c4ce8f"
-    },
-    {
-      "title": "How Ireland resisted British rule through sport",
-      "summary": "Game Theory explores how traditional Irish sport became part of a much bigger struggle to protect its heritage",
-      "url": "https://www.aljazeera.com/video/game-theory/2026/11/23/how-ireland-resisted-british-rule-through-sport?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-23T06:47:10+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Game_Theory_S02_EP05_Thumbnail_16x9_V01_00-1795416083.png?resize=1920%2C1080&quality=80"
     }
   ],
   "feed_warnings": [
     "ANTARA: ParseError",
     "ANTARA: no fresh stories",
-    "ANTARA: keeping previous story"
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "ANTARA: keeping previous story",
+    "Detik: keeping previous story"
   ]
 }
