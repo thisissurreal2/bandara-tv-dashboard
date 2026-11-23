@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T20:06:12.273708+00:00",
+  "updated_at": "2026-11-23T20:15:26.712349+00:00",
   "national": [
     {
       "title": "Ibu dan Anak di Lampung Tercebur Sumur Sedalam 13 Meter, Ibu Meninggal",
@@ -29,10 +29,10 @@
   "international": [
     {
       "title": "Australian politics live: Penny Wong to defend US alliance; Coalition condemns Vanuatu deal",
-      "summary": "Get our breaking news email , free app or daily news podcast Coalition objects to security agreement with Vanuatu The Coalition has come out against a security agreement with Vanuatu because of objections to “binding conditions relating to the achievement of renewable energy and climate targets”. We acknowledge the legitimate concerns Vanuatu and other Pacific Island nations have regarding climate change and its impacts on their communities, economies, and national security. However, Coalition members object to clauses … that limit the ability of future governments to change current climate and energy policy settings, by creating binding conditions relating to the achievement of renewable energy and climate targets. Such a policy would surrender a central source of Australian strategic weight at precisely the moment we need every opportunity for influence available to us. What they would do is give us fewer choices and leave us more vulnerable, reducing our capacity to contribute to a regional balance in which our sovereignty can be protected. Continue reading...",
+      "summary": "Get our breaking news email , free app or daily news podcast Good morning, Krishani Dhanji with you here, thanks to Martin Farrer for getting us started. The foreign minister, Penny Wong , is doing the media rounds this morning ahead of a speech to the Senate on the world order and defending Australia’s alliance the US. My colleague Tess Ikonomou brought that to you a little earlier . We acknowledge the legitimate concerns Vanuatu and other Pacific Island nations have regarding climate change and its impacts on their communities, economies, and national security. However, Coalition members object to clauses … that limit the ability of future governments to change current climate and energy policy settings, by creating binding conditions relating to the achievement of renewable energy and climate targets. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-23T19:59:34+00:00",
+      "published": "2026-11-23T20:03:13+00:00",
       "image": "https://i.guim.co.uk/img/media/4167a1e7f11df6dfeace154f41bc766312ebf83a/1339_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=7e733a0f88378fec7eb61aaeb89fc21a"
     },
     {
@@ -53,7 +53,7 @@
     }
   ],
   "feed_warnings": [
-    "Detik: URLError",
+    "Detik: TimeoutError",
     "Detik: no fresh stories",
     "Detik: keeping previous story"
   ]
