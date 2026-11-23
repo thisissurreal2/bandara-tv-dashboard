@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-23T00:15:30.995060+00:00",
+  "updated_at": "2026-11-23T00:26:34.506450+00:00",
   "national": [
     {
-      "title": "Kapolri Lakukan Mutasi Besar-besaran, Termasuk 3 Tersangka Penyadapan",
-      "summary": "Kapolri Suyudi Ario Seto kembali melakukan mutasi dan rotasi besar-besaran di tubuh Polri. Kini, setidaknya 704 personel dipindahtugaskan dari jabatan asal.",
-      "url": "https://www.cnnindonesia.com/nasional/20261123060829-12-1430200/kapolri-lakukan-mutasi-besar-besaran-termasuk-3-tersangka-penyadapan",
+      "title": "Prabowo Akan Kumpulkan Ketum Parpol Bahas Nama Cawapres di Hambalang",
+      "summary": "Presiden Prabowo akan mengumpulkan ketua umum parpol koalisi untuk membahas calon wapres pengganti Gibran.",
+      "url": "https://www.cnnindonesia.com/nasional/20261123065841-32-1430210/prabowo-akan-kumpulkan-ketum-parpol-bahas-nama-cawapres-di-hambalang",
       "source": "CNN Indonesia",
-      "published": "2026-11-23T00:07:03+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/12/raker-kapolri-dan-komisi-3-dpr-1794450472248_169.jpeg?w=360&q=90"
+      "published": "2026-11-23T00:16:54+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2024/03/21/pidato-prabowo-subianto-usai-penetapan-kpu-3_169.jpeg?w=360&q=90"
     },
     {
       "title": "Jasad Pria Tewas Misterius di Tower ATC Eks Bandara Kemayoran Warga Wonosobo",
@@ -55,7 +55,7 @@
   "feed_warnings": [
     "ANTARA: ParseError",
     "ANTARA: no fresh stories",
-    "Detik: TimeoutError",
+    "Detik: URLError",
     "Detik: no fresh stories",
     "ANTARA: keeping previous story",
     "Detik: keeping previous story"
