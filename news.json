@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-23T13:30:44.089159+00:00",
+  "updated_at": "2026-11-23T13:45:27.446427+00:00",
   "national": [
+    {
+      "title": "GKR Hemas Dorong Penguatan Keterlibatan Perempuan di Pemerintahan",
+      "summary": "Wakil Ketua DPD RI GKR Hemas menyoroti minimnya keterlibatan perempuan dalam politik dan pemerintahan dan mendorong kesetaraan peluang.",
+      "url": "https://www.cnnindonesia.com/nasional/20261123203856-32-1430585/gkr-hemas-dorong-penguatan-keterlibatan-perempuan-di-pemerintahan",
+      "source": "CNN Indonesia",
+      "published": "2026-11-23T13:42:26+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/23/soroti-minimnya-keterlibatan-perempuan-di-pemerintahan-gkr-hemas-dorong-kesetaraan-peluang-politik-1795440973594_169.jpeg?w=360&q=90"
+    },
     {
       "title": "MPR: Jadi Cawapres, Amran dan Sugiono Tak Perlu Mundur dari Menteri",
       "summary": "MPR mengatakan Mentan Andi Amran Sulaiman dan Menko PMK Sugiono tidak perlu mundur dari jabatan saat diusulkan sebagai cawapres oleh Prabowo.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-23T13:25:07+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/habiburokhman-1794556095571_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Polri Ungkap Motif Listyo dkk: Ingin Tetap Kapolri, Lemahkan Prabowo",
-      "summary": "Bareskrim Polri ungkap dugaan makar yang melibatkan mantan Kapolri Listyo Sigit dan lima tersangka lainnya.",
-      "url": "https://www.cnnindonesia.com/nasional/20261123201208-12-1430566/polri-ungkap-motif-listyo-dkk-ingin-tetap-kapolri-lemahkan-prabowo",
-      "source": "CNN Indonesia",
-      "published": "2026-11-23T13:24:53+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/03/ahrie-sonta-1793700508343_169.jpeg?w=360&q=90"
     },
     {
       "title": "Polri tetapkan LSP dan lima personel lainnya tersangka dugaan makar",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
-      "title": "Democrats reveal details for 2028 presidential primary after midterm victories – US politics live",
-      "summary": "Party says there will be 12 debates to select a candidate from what is expected to be a large number of hopefuls Sign up to the Breaking News US email Donald Trump is scheduled to deliver remarks at the Department of Justice this afternoon, officially billed as “Remarks on Protecting American Families”. The White House hasn’t provided further information on the president’s speech, we’ll bring you all the latest when it gets under way later. The first lady, meanwhile, will welcome the new White House Christmas tree around noon ET. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
+      "title": "Rishi Sunak joins list of former Tory PMs saying Burnham wrong to open debate on rejoining EU – UK politics live",
+      "summary": "Former prime minister says issue is ‘huge distraction’ for government as Burham prepares to update MPs on his deal In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy and reindustrialisation commissioner. She said: Giving business the confidence to invest here, and create good jobs in our industrial heartlands. Creating good quality jobs in all parts of the country. The role of the private sector is essential to fulfilling that. That is why I am delighted to announce today a new northern economy and reindustrialisation commissioner. With an impeccable industrial career we can learn much from, welcome, Juergen Maier. Continue reading...",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-23T13:16:02+00:00",
-      "image": "https://i.guim.co.uk/img/media/ae465a452d2e97ec15c554ea7930d1ec27d5c56c/869_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=1f1c12635d4a971f1cecda13811e7e3c"
+      "published": "2026-11-23T13:38:55+00:00",
+      "image": "https://i.guim.co.uk/img/media/c1db663bc7667222692d12878f5578031da69604/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=02b596279ec0f6f7602a8d253e5d6d4d"
     },
     {
-      "title": "Iran says it will use ‘all available means’ to counter US blockade",
-      "summary": "Ministry of Foreign Affairs says Iran will use all tools to confront the naval siege and defend itself.",
-      "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss",
+      "title": "COP31 has failed. The climate system is working as designed",
+      "summary": "The failure exposes a diplomacy that protects fossil-fuel power while leaving vulnerable countries to pay the price.",
+      "url": "https://www.aljazeera.com/opinions/2026/11/23/cop31-has-failed-the-climate-system-is-working-as-designed?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-23T13:04:11+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261013__D3722EZ__v1__HighRes__UaeIranUsIsraelWarHormuzShipping-1795270231.jpg?resize=1920%2C1440"
+      "published": "2026-11-23T13:36:00+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b03eed6-1795419862.jpg?resize=1920%2C1440"
     },
     {
-      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-      "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
-      "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+      "title": "Flights and train services cancelled in Belgium due to strike",
+      "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
+      "url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-23T13:02:05+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4632/live/52e19140-e715-11f1-99b6-a35a62fa4264.jpg"
+      "published": "2026-11-23T13:34:02+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bf3/live/3920ed00-e738-11f1-8294-033bd8ee7e95.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
