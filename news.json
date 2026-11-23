@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-11-22T23:45:24.280880+00:00",
+  "updated_at": "2026-11-23T00:00:41.940577+00:00",
   "national": [
     {
-      "title": "Kobaran Api 16 Jam di Pabrik Permen Banten, 50 Orang Masih Hilang",
-      "summary": "Kebakaran pabrik permen PT Fonusa Agung Mulia di Cikande, Banten, menyebabkan 24 kantong jenazah dievakuasi. 50 karyawan masih hilang.",
-      "url": "https://www.cnnindonesia.com/nasional/20261122200633-20-1430165/kobaran-api-16-jam-di-pabrik-permen-banten-50-orang-masih-hilang",
+      "title": "Jenis Kelamin 6 Kantong Jenazah Korban Kebakaran Pabrik Permen Banten",
+      "summary": "Identifikasi awal terhadap 6 kantong jenazah dari kebakaran pabrik permen di Banten telah mengungkap jenis kelamin para korban tewas itu.",
+      "url": "https://www.cnnindonesia.com/nasional/20261123062126-20-1430202/jenis-kelamin-6-kantong-jenazah-korban-kebakaran-pabrik-permen-banten",
       "source": "CNN Indonesia",
-      "published": "2026-11-22T23:20:24+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/22/pencarian-korban-kebakaran-pabrik-permen-1795342611217_169.jpeg?w=360&q=90"
+      "published": "2026-11-22T23:47:36+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/22/enam-kantong-jenazah-di-evakuasi-dari-pabrik-permen-1795324170693_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Misteri Mayat di Tower ATC Kemayoran yang Mulai Tersingkap",
-      "summary": "Penemuan mayat di menara ATC Kemayoran mengejutkan warga. Korban berinisial WA ditemukan dalam kondisi membusuk. Penyebab kematian diselidiki.",
-      "url": "https://news.detik.com/berita/d-8765026/misteri-mayat-di-tower-atc-kemayoran-yang-mulai-tersingkap",
+      "title": "Jasad Pria Tewas Misterius di Tower ATC Eks Bandara Kemayoran Warga Wonosobo",
+      "summary": "Kasus kematian pria inisial WA yang ditemukan di dalam area bekas Bandara Kemayoran masih diusut. Polisi mengungkap korban merupakan warga Wonosobo",
+      "url": "https://news.detik.com/berita/d-8765035/jasad-pria-tewas-misterius-di-tower-atc-eks-bandara-kemayoran-warga-wonosobo",
       "source": "Detik",
-      "published": "2026-11-22T23:06:07+00:00",
+      "published": "2026-11-22T23:37:34+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2022/08/23/penemuan-mayat-wanita-duduk-di-melaya_169.jpeg?w=360&q=90"
     },
     {
@@ -32,7 +32,7 @@
       "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a final agreement. It’s obviously a very deeply disappointing outcome that the cover decision was not agreed to by all nations. I think what this shows is a very challenging international environment at the moment to reach agreement on almost anything and particularly a situation like this where you’ve got fossil fuel producers on the one hand and other countries that are experiencing very serious impacts from climate change. We’re seeing much greater defence engagement between Australia and Japan, Australia and the Philippines, and the Philippines and Japan. Even though I think it doesn’t quite come across in its overall score, that US defence relationship in the region is stronger, which is helping Australia. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-22T23:29:18+00:00",
+      "published": "2026-11-22T23:51:38+00:00",
       "image": "https://i.guim.co.uk/img/media/a1733c8d20d91e90b3db6172e139927f1099faab/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=322bf329669796bed6d6ce8bd6349a4a"
     },
     {
@@ -55,9 +55,6 @@
   "feed_warnings": [
     "ANTARA: ParseError",
     "ANTARA: no fresh stories",
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "ANTARA: keeping previous story",
-    "Detik: keeping previous story"
+    "ANTARA: keeping previous story"
   ]
 }
