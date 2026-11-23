@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-23T05:30:31.083858+00:00",
+  "updated_at": "2026-11-23T05:45:26.543675+00:00",
   "national": [
+    {
+      "title": "Paripurna MPR untuk Pemilihan Wapres Digeser Jadi 11 Desember",
+      "summary": "Rapat Pimpinan MPR hari ini memutuskan pemilihan wapres baru Prabowo diundur ke 11 Desember 2026, setelah kritik terkait tanggal sebelumnya.",
+      "url": "https://www.cnnindonesia.com/nasional/20261123115414-32-1430346/paripurna-mpr-untuk-pemilihan-wapres-digeser-jadi-11-desember",
+      "source": "CNN Indonesia",
+      "published": "2026-11-23T05:35:42+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/08/14/sidang-tahunan-mpr-ri-2026-1786680809514_169.jpeg?w=360&q=90"
+    },
     {
       "title": "KPK Periksa Kakanwas Bea Cukai Semarang Soal Kerugian Negara Kasus Cukai",
       "summary": "Pemeriksaan ini terkait dengan pengembangan penyidikan perkara pada Ditjen Bea Cukai Kemenkeu soal kerugian negara dari cukai.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-23T05:17:54+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2021/03/02/gedung-baru-kpk-8_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "33 Keluarga Korban Kebakaran Pabrik Permen Serahkan Data Ante Mortem",
-      "summary": "Sebanyak 33 keluarga korban kebakaran pabrik permen di Cikande, Serang, Banten, menyerahkan data ante mortem untuk membantu proses identifikasi.",
-      "url": "https://www.cnnindonesia.com/nasional/20261123113453-20-1430323/33-keluarga-korban-kebakaran-pabrik-permen-serahkan-data-ante-mortem",
-      "source": "CNN Indonesia",
-      "published": "2026-11-23T04:52:13+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/22/pencarian-korban-kebakaran-pabrik-permen-1795342611138_169.jpeg?w=360&q=90"
     },
     {
       "title": "Khofifah tetapkan UMP Jatim 2027 sebesar Rp2,73 juta",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Longest-ever UN climate talks end with no deal as deep divisions exposed",
-      "summary": "The prime minister of Australia, which co-hosted COP31, attributed the failure to \"difficult geopolitical times\".",
-      "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-23T05:15:06+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ffb0/live/d31e6e50-e6fc-11f1-9d32-695d6c00481f.jpg"
+      "title": "Australian politics live: NSW MP Alex Greenwich drops support for Fred Nile state funeral after blowback from LGBTQ+ community",
+      "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a final agreement. It’s obviously a very deeply disappointing outcome that the cover decision was not agreed to by all nations. I think what this shows is a very challenging international environment at the moment to reach agreement on almost anything and particularly a situation like this where you’ve got fossil fuel producers on the one hand and other countries that are experiencing very serious impacts from climate change. We’re seeing much greater defence engagement between Australia and Japan, Australia and the Philippines, and the Philippines and Japan. Even though I think it doesn’t quite come across in its overall score, that US defence relationship in the region is stronger, which is helping Australia. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+      "source": "The Guardian",
+      "published": "2026-11-23T05:36:36+00:00",
+      "image": "https://i.guim.co.uk/img/media/a8e4b43c304ba0c667d2b3d232ba1b4acfdb683f/378_0_3201_2562/master/3201.jpg?width=140&quality=85&auto=format&fit=max&s=e08e916f69bca5f5e2519ab10fd7e2ba"
     },
     {
-      "title": "Fewer than half in UK will pay TV licence fee within a decade, report warns",
-      "summary": "Analysis for thinktank points to cycle of falling income leading to lower spending on content in ‘spiral of decline’ Fewer than half of households in Britain will pay the BBC’s licence within a decade, according to analysis that warns that the broadcaster’s funding is locked in a “spiral of decline” . With senior BBC figures concerned about the accelerating fall in licence fee sales, the independent projections also warn that the proportion of households paying the levy will further decline to less than a third by 2037-38 should the government persist with the corporation’s current funding model. Continue reading...",
-      "url": "https://www.theguardian.com/media/2026/nov/23/bbc-tv-licence-fee-spiral-of-decline-report",
-      "source": "The Guardian",
-      "published": "2026-11-23T05:00:48+00:00",
-      "image": "https://i.guim.co.uk/img/media/8c4db6fd4ae5ad0a7eba3fd774dbdd650047180d/326_0_3750_3000/master/3750.jpg?width=140&quality=85&auto=format&fit=max&s=b1a3e93fd4cd95e247e33b25c6e31fcc"
+      "title": "What's next after no deal at COP31 climate talks?",
+      "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+      "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-23T05:34:39+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c66/live/ad00e440-e6b2-11f1-9607-338132fd22a0.jpg"
     },
     {
       "title": "Child rescued in Ukraine after Russian drone attack kills 10",
@@ -55,6 +55,9 @@
   "feed_warnings": [
     "ANTARA: ParseError",
     "ANTARA: no fresh stories",
-    "ANTARA: keeping previous story"
+    "Detik: TimeoutError",
+    "Detik: no fresh stories",
+    "ANTARA: keeping previous story",
+    "Detik: keeping previous story"
   ]
 }
