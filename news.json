@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-23T04:45:27.919256+00:00",
+  "updated_at": "2026-11-23T05:00:37.264232+00:00",
   "national": [
     {
-      "title": "Warga Bicara Sosok Wapres Ideal: Punya Empati dan Sensitif Isu Terkini",
-      "summary": "Sejumlah warga mengungkapkan harapannya terhadap wakil presiden baru pengganti Gibran Rakabuming Raka. Mereka ingin calon pemimpin itu memiliki empati.",
-      "url": "https://www.cnnindonesia.com/nasional/20261123100310-20-1430278/warga-bicara-sosok-wapres-ideal-punya-empati-sensitif-isu-terkini",
+      "title": "33 Keluarga Korban Kebakaran Pabrik Permen Serahkan Data Ante Mortem",
+      "summary": "Sebanyak 33 keluarga korban kebakaran pabrik permen di Cikande, Serang, Banten, menyerahkan data ante mortem untuk membantu proses identifikasi.",
+      "url": "https://www.cnnindonesia.com/nasional/20261123113453-20-1430323/33-keluarga-korban-kebakaran-pabrik-permen-serahkan-data-ante-mortem",
       "source": "CNN Indonesia",
-      "published": "2026-11-23T04:44:11+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/17/penurunan-foto-eks-wapres-ri-gibran-serentak-di-jakarta-1794898123873_169.jpeg?w=360&q=90"
+      "published": "2026-11-23T04:52:13+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/22/pencarian-korban-kebakaran-pabrik-permen-1795342611138_169.jpeg?w=360&q=90"
     },
     {
       "title": "Polda Metro Tangkap 9 Tersangka Penipuan Online, Kerugian Rp 1,2 M",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Australian politics live: Opposition hammers Labor over $150m ‘Cop flop’; Tehan kicked out of parliament for ‘taking mickey’ with Molly Meldrum catchphrase",
+      "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a final agreement. It’s obviously a very deeply disappointing outcome that the cover decision was not agreed to by all nations. I think what this shows is a very challenging international environment at the moment to reach agreement on almost anything and particularly a situation like this where you’ve got fossil fuel producers on the one hand and other countries that are experiencing very serious impacts from climate change. We’re seeing much greater defence engagement between Australia and Japan, Australia and the Philippines, and the Philippines and Japan. Even though I think it doesn’t quite come across in its overall score, that US defence relationship in the region is stronger, which is helping Australia. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+      "source": "The Guardian",
+      "published": "2026-11-23T04:44:18+00:00",
+      "image": "https://i.guim.co.uk/img/media/35a374f84bc824555da32cc7289f03d9c9d3d129/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=c7d1043873f73ba11f75bf1b80226fe6"
+    },
+    {
       "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
       "summary": "Ten people are dead in the attack on Dymer, with rescue efforts ongoing to find those still missing from the residential building.",
       "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-23T04:44:00+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cce0/live/b754c730-e6bd-11f1-a023-d502158f79f8.jpg"
-    },
-    {
-      "title": "Australian politics live: Opposition hammers Labor over $150m ‘Cop flop’; Tehan kicked out of parliament for ‘taking mickey’ with Molly Meldrum catchphrase",
-      "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a final agreement. It’s obviously a very deeply disappointing outcome that the cover decision was not agreed to by all nations. I think what this shows is a very challenging international environment at the moment to reach agreement on almost anything and particularly a situation like this where you’ve got fossil fuel producers on the one hand and other countries that are experiencing very serious impacts from climate change. We’re seeing much greater defence engagement between Australia and Japan, Australia and the Philippines, and the Philippines and Japan. Even though I think it doesn’t quite come across in its overall score, that US defence relationship in the region is stronger, which is helping Australia. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-      "source": "The Guardian",
-      "published": "2026-11-23T04:38:29+00:00",
-      "image": "https://i.guim.co.uk/img/media/35a374f84bc824555da32cc7289f03d9c9d3d129/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=c7d1043873f73ba11f75bf1b80226fe6"
     },
     {
       "title": "Pochettino’s nightmare start as Man U thrashed by Liverpool",
@@ -55,7 +55,7 @@
   "feed_warnings": [
     "ANTARA: ParseError",
     "ANTARA: no fresh stories",
-    "Detik: URLError",
+    "Detik: TimeoutError",
     "Detik: no fresh stories",
     "ANTARA: keeping previous story",
     "Detik: keeping previous story"
