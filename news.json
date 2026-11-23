@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T16:15:27.023339+00:00",
+  "updated_at": "2026-11-23T16:30:35.550295+00:00",
   "national": [
     {
       "title": "Kasus Dugaan Pemerkosaan Bupati Kupang, EK dan LS Diperiksa 12 Jam",
@@ -32,7 +32,7 @@
       "summary": "Prime minister gives update to MPs about his deal with the EU after Friday’s summit in Brussels In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy and reindustrialisation commissioner. She said: Giving business the confidence to invest here, and create good jobs in our industrial heartlands. Creating good quality jobs in all parts of the country. The role of the private sector is essential to fulfilling that. That is why I am delighted to announce today a new northern economy and reindustrialisation commissioner. With an impeccable industrial career we can learn much from, welcome, Juergen Maier. Continue reading...",
       "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-23T16:05:51+00:00",
+      "published": "2026-11-23T16:23:01+00:00",
       "image": "https://i.guim.co.uk/img/media/221b71637b12d748ec611334d61fd609cbb6a644/209_0_2082_1666/master/2082.jpg?width=140&quality=85&auto=format&fit=max&s=befa3aa2dca37b7d8801c87885d96c7e"
     },
     {
@@ -53,7 +53,7 @@
     }
   ],
   "feed_warnings": [
-    "Detik: URLError",
+    "Detik: TimeoutError",
     "Detik: no fresh stories",
     "Detik: keeping previous story"
   ]
