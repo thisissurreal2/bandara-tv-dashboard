@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-23T04:15:33.231238+00:00",
+  "updated_at": "2026-11-23T04:30:30.382860+00:00",
   "national": [
     {
-      "title": "PrabowoDijadwalkan Serahkan 2 Nama Calon Wapres ke MPR Hari Ini",
-      "summary": "Presiden Prabowo dijadwalkan mengirim surat berisi dua nama cawapres ke MPR pada hari ini, Senin 23 November.",
-      "url": "https://www.cnnindonesia.com/nasional/20261123110516-32-1430305/prabowodijadwalkan-serahkan-2-nama-calon-wapres-ke-mpr-hari-ini",
+      "title": "Putusan Inkrah, KPK Segera Eksekusi 3 Eks Pejabat Bea Cukai ke Penjara",
+      "summary": "KPK akan mengeksekusi tiga orang mantan pejabat Ditjen Bea dan Cukai ke penjara usai putusan pengadilan memperoleh kekuatan hukum tetap atau inkrah.",
+      "url": "https://www.cnnindonesia.com/nasional/20261123111253-12-1430313/putusan-inkrah-kpk-segera-eksekusi-3-eks-pejabat-bea-cukai-ke-penjara",
       "source": "CNN Indonesia",
-      "published": "2026-11-23T04:12:44+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/11/pidato-presiden-prabowo-subianto-di-hut-partai-nasdem-ke-15-1794409438652_169.png?w=360&q=90"
+      "published": "2026-11-23T04:28:48+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/02/06/penahanan-tersangka-ott-importasi-barang-di-djbc-1770343824284_169.jpeg?w=360&q=90"
     },
     {
       "title": "Polda Metro Tangkap 9 Tersangka Penipuan Online, Kerugian Rp 1,2 M",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Australian politics live: Opposition hammers Labor over $150m ‘Cop flop’; Tehan kicked out of question time for ‘taking the mickey’",
-      "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a final agreement. It’s obviously a very deeply disappointing outcome that the cover decision was not agreed to by all nations. I think what this shows is a very challenging international environment at the moment to reach agreement on almost anything and particularly a situation like this where you’ve got fossil fuel producers on the one hand and other countries that are experiencing very serious impacts from climate change. We’re seeing much greater defence engagement between Australia and Japan, Australia and the Philippines, and the Philippines and Japan. Even though I think it doesn’t quite come across in its overall score, that US defence relationship in the region is stronger, which is helping Australia. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+      "title": "‘Difficult geopolitical times’: Albanese defends Bowen after Cop31 deal failure",
+      "summary": "Coalition calls for climate change minister to resign immediately or be sacked over ‘catastrophic diplomatic disaster’, despite offering no alternatives on reducing emissions Sign up for climate and environment editor Adam Morton’s free Clear Air newsletter here Anthony Albanese has defended Chris Bowen from criticism following the failure of the UN Cop31 climate summit, blaming the result on “difficult geopolitical times” as the Coalition called for the minister to resign. Bowen served as president of negotiations at the talks in Turkey, helping run the conference with his Turkish counterpart, Murat Kurum. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/23/difficult-geopolitical-times-albanese-defends-bowen-after-cop31-deal-failure",
       "source": "The Guardian",
-      "published": "2026-11-23T03:56:18+00:00",
-      "image": "https://i.guim.co.uk/img/media/35a374f84bc824555da32cc7289f03d9c9d3d129/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=c7d1043873f73ba11f75bf1b80226fe6"
+      "published": "2026-11-23T04:21:00+00:00",
+      "image": "https://i.guim.co.uk/img/media/b9df393984e43418731394be8b2ebe70ca5aaf7c/845_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=28bab54fc38ecf4a33876f8afc5fb12d"
     },
     {
       "title": "Pochettino’s nightmare start as Man U thrashed by Liverpool",
@@ -55,6 +55,9 @@
   "feed_warnings": [
     "ANTARA: ParseError",
     "ANTARA: no fresh stories",
-    "ANTARA: keeping previous story"
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "ANTARA: keeping previous story",
+    "Detik: keeping previous story"
   ]
 }
