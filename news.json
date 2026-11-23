@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T02:45:26.905364+00:00",
+  "updated_at": "2026-11-23T03:00:38.800362+00:00",
   "national": [
     {
       "title": "Tim SAR Sisir 4 Sektor Cari Korban Kebakaran Pabrik Permen di Cikande",
@@ -28,33 +28,36 @@
   ],
   "international": [
     {
-      "title": "Video of ICE detaining father and daughter while boarding flight sparks protests in Seattle",
-      "summary": "Footage of Saturday incident, filmed by fellow passengers, quickly went viral on social media as mayor calls tactics ‘un-American’ Protesters marched through the Seattle-Tacoma international airport on Sunday after widely shared footage captured masked immigration agents detaining a father and daughter on an airport jet bridge as they boarded their Alaska Airlines flight. Video of the incident on Saturday – filmed by fellow passengers – quickly went viral on social media, sparking condemnation from lawmakers, including Washington Democratic governor Bob Ferguson and Seattle mayor Katie Wilson. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/23/father-daughter-ice-arrests-video-sparks-protests-seattle-airport",
-      "source": "The Guardian",
-      "published": "2026-11-23T02:38:16+00:00",
-      "image": "https://i.guim.co.uk/img/media/97c8d10c9aa99e4620ecf17b447bec64df7ce184/58_0_909_727/master/909.jpg?width=140&quality=85&auto=format&fit=max&s=806434213ba2ab7613357a08b098174a"
-    },
-    {
-      "title": "US intelligence chief defends Trump’s comments calling Putin his ‘friend’",
-      "summary": "US Director of National Intelligence Jay Clayton says Trump's comments were 'entirely appropriate' in context of summit.",
-      "url": "https://www.aljazeera.com/news/2026/11/23/us-intelligence-chief-defends-trumps-comments-calling-putin-his?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-23T02:23:13+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b037a2f-1795389999.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
-      "summary": "Democrats have now won at least 258 seats in the midterms compared to Republicans, who hold at least 173 seats.",
-      "url": "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-23T01:23:43+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2aab/live/8ca719f0-e6b0-11f1-b45e-bf1e220bd648.jpg"
+      "published": "2026-11-23T02:59:35+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a198/live/5b2f71d0-e6ae-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "title": "Australian politics live: PM’s staff numbers exceed crossbench’s allocation combined; Minns ends presser after heckling",
+      "summary": "Get our breaking news email , free app or daily news podcast ‘Very difficult to bridge that divide’: Murray Watt Cabinet minister Murray Watt says it’s increasingly difficult to bridge the divide between nations on climate policy after a frustrating Cop summit that didn’t reach a final agreement. It’s obviously a very deeply disappointing outcome that the cover decision was not agreed to by all nations. I think what this shows is a very challenging international environment at the moment to reach agreement on almost anything and particularly a situation like this where you’ve got fossil fuel producers on the one hand and other countries that are experiencing very serious impacts from climate change. We’re seeing much greater defence engagement between Australia and Japan, Australia and the Philippines, and the Philippines and Japan. Even though I think it doesn’t quite come across in its overall score, that US defence relationship in the region is stronger, which is helping Australia. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+      "source": "The Guardian",
+      "published": "2026-11-23T02:53:53+00:00",
+      "image": "https://i.guim.co.uk/img/media/be8178f5c5e3de46c0382feac86201617d03820f/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=3317a84ecc0965543844c52cd44a69a1"
+    },
+    {
+      "title": "Indonesian police remove 24 body bags from factory fire site",
+      "summary": "Authorities in Java are searching for dozens of missing workers as they continue to battle remaining hotspots.",
+      "url": "https://www.aljazeera.com/news/2026/11/23/indonesian-police-remove-24-body-bags-from-factory-fire-site?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-23T02:35:42+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-22T055534Z_1869754539_RC2TSOAY5FGD_RTRMADP_3_INDONESIA-FIRE-1795398550.jpg?resize=1920%2C1440"
     }
   ],
   "feed_warnings": [
     "ANTARA: ParseError",
     "ANTARA: no fresh stories",
-    "ANTARA: keeping previous story"
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "ANTARA: keeping previous story",
+    "Detik: keeping previous story"
   ]
 }
