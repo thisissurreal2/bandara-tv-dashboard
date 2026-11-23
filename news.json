@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-23T13:15:26.565641+00:00",
+  "updated_at": "2026-11-23T13:30:44.089159+00:00",
   "national": [
     {
-      "title": "Listyo Sigit Akan Disidang Etik Kasus Penyadapan dan Makar Kamis",
-      "summary": "Divpropam Polri mengumumkan pelaksanaan sidang etik eks Kapolri Listyo Sigit t erkait dugaan makar dan penyadapan ilegal akan digelar pada Kamis (26/11).",
-      "url": "https://www.cnnindonesia.com/nasional/20261123194907-12-1430562/listyo-sigit-akan-disidang-etik-kasus-penyadapan-dan-makar-kamis",
-      "source": "CNN Indonesia",
-      "published": "2026-11-23T13:11:53+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/10/21/ksp-listyo-1792539057941_169.jpeg?w=360&q=90"
+      "title": "MPR: Jadi Cawapres, Amran dan Sugiono Tak Perlu Mundur dari Menteri",
+      "summary": "MPR mengatakan Mentan Andi Amran Sulaiman dan Menko PMK Sugiono tidak perlu mundur dari jabatan saat diusulkan sebagai cawapres oleh Prabowo.",
+      "url": "https://news.detik.com/berita/d-8766522/mpr-jadi-cawapres-amran-dan-sugiono-tak-perlu-mundur-dari-menteri",
+      "source": "Detik",
+      "published": "2026-11-23T13:25:07+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/habiburokhman-1794556095571_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Listyo Sigit Dkk Petakan Para Tokoh Berpengaruh Sebelum Disadap",
-      "summary": "Bareskrim Polri ungkap tiga tahapan dugaan makar oleh eks Kapolri Listyo Sigit, dimulai sejak Oktober 2024, menjelang pelantikan Presiden Prabowo Subianto.",
-      "url": "https://news.detik.com/berita/d-8766489/listyo-sigit-dkk-petakan-para-tokoh-berpengaruh-sebelum-disadap",
-      "source": "Detik",
-      "published": "2026-11-23T13:08:40+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/19/ksp-jenderal-listyo-sigit-prabowo-eva-safitridetikcom-1792400674204_169.jpeg?w=360&q=90"
+      "title": "Polri Ungkap Motif Listyo dkk: Ingin Tetap Kapolri, Lemahkan Prabowo",
+      "summary": "Bareskrim Polri ungkap dugaan makar yang melibatkan mantan Kapolri Listyo Sigit dan lima tersangka lainnya.",
+      "url": "https://www.cnnindonesia.com/nasional/20261123201208-12-1430566/polri-ungkap-motif-listyo-dkk-ingin-tetap-kapolri-lemahkan-prabowo",
+      "source": "CNN Indonesia",
+      "published": "2026-11-23T13:24:53+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/03/ahrie-sonta-1793700508343_169.jpeg?w=360&q=90"
     },
     {
       "title": "Polri tetapkan LSP dan lima personel lainnya tersangka dugaan makar",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Rishi Sunak joins list of former Tory PMs saying Burnham wrong to open debate on rejoining EU – UK politics live",
-      "summary": "Former prime minister says issue is ‘huge distraction’ for government as Burham prepares to update MPs on his deal In her speech, Louise Haigh announced that Juergen Maier, chair of Great British Energy, has been appointed as the government’s northern economy and reindustrialisation commissioner. She said: Giving business the confidence to invest here, and create good jobs in our industrial heartlands. Creating good quality jobs in all parts of the country. The role of the private sector is essential to fulfilling that. That is why I am delighted to announce today a new northern economy and reindustrialisation commissioner. With an impeccable industrial career we can learn much from, welcome, Juergen Maier. Continue reading...",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
+      "title": "Democrats reveal details for 2028 presidential primary after midterm victories – US politics live",
+      "summary": "Party says there will be 12 debates to select a candidate from what is expected to be a large number of hopefuls Sign up to the Breaking News US email Donald Trump is scheduled to deliver remarks at the Department of Justice this afternoon, officially billed as “Remarks on Protecting American Families”. The White House hasn’t provided further information on the president’s speech, we’ll bring you all the latest when it gets under way later. The first lady, meanwhile, will welcome the new White House Christmas tree around noon ET. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-23T13:09:34+00:00",
-      "image": "https://i.guim.co.uk/img/media/ecc3dc6198e74a17c992bae9f8e1832c967f58bb/972_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=23f6053ed749ca16d0f6944641f7a021"
+      "published": "2026-11-23T13:16:02+00:00",
+      "image": "https://i.guim.co.uk/img/media/ae465a452d2e97ec15c554ea7930d1ec27d5c56c/869_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=1f1c12635d4a971f1cecda13811e7e3c"
+    },
+    {
+      "title": "Iran says it will use ‘all available means’ to counter US blockade",
+      "summary": "Ministry of Foreign Affairs says Iran will use all tools to confront the naval siege and defend itself.",
+      "url": "https://www.aljazeera.com/news/2026/11/23/iran-says-it-will-use-all-available-means-to-counter-us-blockade?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-23T13:04:11+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261013__D3722EZ__v1__HighRes__UaeIranUsIsraelWarHormuzShipping-1795270231.jpg?resize=1920%2C1440"
     },
     {
       "title": "Democrats win largest House majority since 1992 after flipping North Carolina seat",
@@ -42,14 +50,6 @@
       "source": "BBC",
       "published": "2026-11-23T13:02:05+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4632/live/52e19140-e715-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "title": "Argentina footballer Paredes collapses during post-match interview",
-      "summary": "Argentinian footballer Leandro Paredes collapsed during a post-match interview after their win in Colombia.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/argentina-footballer-paredes-collapses-during-post-match-interview?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-23T12:40:21+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795437604.jpg?resize=1620%2C1080&quality=80"
     }
   ],
   "feed_warnings": []
