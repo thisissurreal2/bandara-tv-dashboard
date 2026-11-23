@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-23T11:30:37.275725+00:00",
+  "updated_at": "2026-11-23T11:45:35.351793+00:00",
   "national": [
     {
-      "title": "Sepak Terjang Calon Wapres Sugiono di Dua Kementerian",
-      "summary": "Sebelum menjabat sebagai Menko PMK, Sugiono sempat menjabat sebagai menteri luar negeri.",
-      "url": "https://www.cnnindonesia.com/nasional/20261123180859-32-1430507/sepak-terjang-calon-wapres-sugiono-di-dua-kementerian",
-      "source": "CNN Indonesia",
-      "published": "2026-11-23T11:13:26+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/23/sugiono-1795422614133_169.jpeg?w=360&q=90"
+      "title": "Viral Balap Liar di Sunter, Suara Bising Sampai Terdengar dari Atas Gedung",
+      "summary": "Rekaman viral balap motor liar di Jalan Danau Sunter Selatan bikin resah warga. Polda Metro Jaya akan tindak pelaku dan tingkatkan patroli.",
+      "url": "https://news.detik.com/berita/d-8766354/viral-balap-liar-di-sunter-suara-bising-sampai-terdengar-dari-atas-gedung",
+      "source": "Detik",
+      "published": "2026-11-23T11:42:43+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2015/06/18/c88da392-bd90-458a-8651-263b163d5e48_169.jpg?w=360&q=90"
     },
     {
-      "title": "Konten 'Siswa Belikan Guru Mobil' di SMK 3 Bandung Disorot, Agensi Buka Suara",
-      "summary": "Video 'siswa' yang rela patungan hingga Rp 218 juta demi membeli mobil untuk gurunya yang pensiun dipastikan hanya konten. Video itu dibuat oleh pihak agensi.",
-      "url": "https://news.detik.com/berita/d-8766307/konten-siswa-belikan-guru-mobil-di-smk-3-bandung-disorot-agensi-buka-suara",
-      "source": "Detik",
-      "published": "2026-11-23T11:13:20+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/23/smkn-3-bandung-1795424086648_169.jpeg?w=360&q=90"
+      "title": "Tak Diusulkan Prabowo Jadi Cawapres, Dasco Buka Suara",
+      "summary": "Wakil Ketua DPR Sufmi Dasco menanggapi namanya yang tidak terpilih sebagai cawapres Prabowo gantikan Gibran.",
+      "url": "https://www.cnnindonesia.com/nasional/20261123182505-32-1430518/tak-diusulkan-prabowo-jadi-cawapres-dasco-buka-suara",
+      "source": "CNN Indonesia",
+      "published": "2026-11-23T11:41:09+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/16/presiden-prabowo-subianto-gibran-rakabuming-raka-sufmi-dasco-ahmad-1794796075999_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo tegaskan usulan dua calon wapres hasil keputusan sendiri",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Flights grounded in Belgium due to strike against austerity measures",
-      "summary": "A series of strikes have hit Belgium in recent months as the prime minister struggles to agree a budget to cut costs.",
-      "url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss",
+      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+      "summary": "Libya's eastern government says a sunken warship had stopped for fuel and supplies on its way back to Russia.",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-23T11:26:12+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4074/live/80a31490-e72a-11f1-a094-5fdc692f3e33.jpg"
+      "published": "2026-11-23T11:40:01+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7507/live/ee06aa60-e720-11f1-a094-5fdc692f3e33.jpg"
+    },
+    {
+      "title": "Flagship UK gigafactory plan in turmoil after it loses second builder in five months",
+      "summary": "Tata-owned Agratas plant to build EV batteries for sister company Jaguar Land Rover seen as crucial for long-term health of British car industry One of the UK’s flagship electric vehicle battery projects has been thrown into turmoil after its second building contractor in five months walked away, adding to questions over when Jaguar Land Rover cars will use British-made batteries. The £5.2bn gigafactory in Bridgwater, Somerset, is being built by Agratas, to provide batteries for Britain’s largest automotive employer, its sister company. Agratas and Jaguar Land Rover (JLR) are both part of Indian conglomerate Tata Group. Continue reading...",
+      "url": "https://www.theguardian.com/business/2026/nov/23/flagship-uk-gigafactory-turmoil-loses-second-builder",
+      "source": "The Guardian",
+      "published": "2026-11-23T11:33:44+00:00",
+      "image": "https://i.guim.co.uk/img/media/1077f5dfbd46f2c4535eff7ae14f9c12078f37b4/369_206_4247_3398/master/4247.jpg?width=140&quality=85&auto=format&fit=max&s=528014a7a571301bfba6b1970f094d7f"
     },
     {
       "title": "COP31: What next after UN climate talks collapse",
@@ -42,19 +50,7 @@
       "source": "Al Jazeera",
       "published": "2026-11-23T11:19:08+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b0411b25b37-1795428786.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Tories welcome Louise Haigh’s hint government could adopt their plan to scrap Natural England – UK politics live",
-      "summary": "First secretary of state has declined to say whether Natural England will be abolished as part of plans to cut the number of quangos Natural England could be abolished as part of quango cull, says Louise Haigh The full text of Louise Haigh ’s speech to the CBI is now on the Cabinet Office’s website . In her speech to the CBI, Louise Haigh , the first secretary of state, delivered one of the most detailed explanations we have had from a minister as to what Andy Burnham means when he calls for more public control of utilities. Now I know the word privatisation can start an argument. So let me be precise. This is not about whether markets work. They do. Where there is genuine competition, as in telecoms, markets have given consumers choice and kept prices low while delivering infrastructure. The social licence to operate must be won every day by building trust and having the best value, product or service. Where competition exists, it should be left to thrive, supported by our strong, independent Competition and Markets Authority. To make the experiment work, successive governments leant on regulation, first to try to recreate competition from monopolies through a spreadsheet; then to manage what private markets would never price on their own, like the spare capacity that keeps the lights on; then to deliver social policy, treated as a free good because it went on the bill, not the budget. Ofgem now has six times the staff it had in the early 2000s, almost three times the administrative budget in real terms, and a rule book more than six times longer. We’ve got a hulking, complex behemoth of a regulatory state. It satisfies no one. Not consumers, not investors. When you prioritise everything, you prioritise nothing. Continue reading...",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-23T11:14:43+00:00",
-      "image": "https://i.guim.co.uk/img/media/f19877fad077a0f724fe4ffa567383839f14e822/35_0_2240_1792/master/2240.jpg?width=140&quality=85&auto=format&fit=max&s=9927c1766e5457c1b1d4643f5bd597b5"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
