@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-23T23:15:36.008538+00:00",
+  "updated_at": "2026-11-23T23:30:32.192545+00:00",
   "national": [
+    {
+      "title": "Bareskrim Geledah 14 Lokasi di Kasus Makar, 5 Rumah Dipakai Jadi Posko",
+      "summary": "Bareskrim Polri menggeledah 14 lokasi terkait dugaan makar terhadap Presiden Prabowo Subianto, hasil pengembangan dari kasus penyadapan ilegal.",
+      "url": "https://www.cnnindonesia.com/nasional/20261124061301-12-1430624/bareskrim-geledah-14-lokasi-di-kasus-makar-5-rumah-dipakai-jadi-posko",
+      "source": "CNN Indonesia",
+      "published": "2026-11-23T23:26:19+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/23/polri-update-kasus-penyadapan-presiden-prabowo-1795439190276_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Babak Baru Erin Eks Istri Andre Taulany Ditetapkan Tersangka Aniaya ART",
       "summary": "Erin Wartia Trigina, mantan istri Andre Taulany, ditetapkan sebagai tersangka dugaan penganiayaan ART. Erin tak ditahan karena disebut kooperatif.",
@@ -16,24 +24,24 @@
       "source": "ANTARA",
       "published": "2026-11-23T23:00:00+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/24/20261124-Deretan-kerja-sama-Indonesia-China-senilai-Rp1.600-triliun.jpg"
-    },
-    {
-      "title": "FOTO: Berbeda dari KPU, MPR Turun Langsung Cek Ijazah Sugiono-Amran",
-      "summary": "MPR langsung cek ijazah Sugiono dan Amran Sulaiman usai diusulkan Prabowo jadi cawapres gantikan Gibran putra Jokowi.",
-      "url": "https://www.cnnindonesia.com/nasional/20261123210645-22-1430592/foto-berbeda-dari-kpu-mpr-turun-langsung-cek-ijazah-sugiono-amran",
-      "source": "CNN Indonesia",
-      "published": "2026-11-23T22:50:28+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/23/berbeda-dari-kpu-mpr-turun-langsung-cek-ijazah-amran-dan-sugiono-1795442799204_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
     {
-      "title": "Australian politics live: Chalmers to ‘save more than we spend’ in budget update; King Charles ‘deeply saddened’ by Meldrum’s death",
-      "summary": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update. Unlike the federal budget, where we get plenty of notice of when it will be handed down, the government only gives us a few days notice for the mid-financial year economic and fiscal outlook (or Myefo). There’s still a fair bit of work to do to finalise it all, but we’ve made enough progress to be confident that at this stage there will be a modest net save in the budget. We’re not going to slash and burn in the budget where that would impact the payments that people receive or where it would impact some of the more sensitive parts of the economy. But we haven’t focused the savings on just one portfolio. There will be a number of savings in the mid-year update. They will be substantial, as I said. These are serious times. You can see in the quite extraordinary reaction on the stock market just how volatile global markets are right now. I think it’s a bit of a symbol of the quite extraordinary volatility, unpredictability that we’re seeing play out in markets in the AI sector, but more broadly as well. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+      "title": "Top Democrats raise corruption concerns after Trump involvement in Jensen Huang’s Nvidia reinstatement – live",
+      "summary": "Robert Garcia, top Democrat on House oversight, and Chris Van Hollen, vying for Senate leadership, join Republicans in expressing concern at return of CEO felled by affair scandal and Trump administration’s involvement Sign up to the Breaking News US email Nvidia ’s shares have surged by 31% at the start of trading following the news. The S+P 500 jumped 4.5% and is recovering nearly half of its brutal losses from last week, which was one of its worst since the 2008 financial crisis. Rallies for AI stocks had the Nasdaq composite up a market-leading 6.5%, while the Dow Jones Industrial Average rose 1,117 points. Here’s Trump ’s full social media post, in which he also called Jensen Huang “a Great Patriot and National Treasure”. The NVIDIA Board of Directors has made the correct and proper decision to return Jensen Huang to the position of CEO. The Country needs Jensen’s leadership at NVIDIA in order to ensure the Success and Prosperity of not only the Company, but the American Economy. The United States Government has no reason to believe that Jensen’s return to NVIDIA poses any risk to National Security. The Attorney General of the United States has confirmed that the U.S. Government does not possess evidence that he has engaged in any unlawful conduct. On a personal note, I have gotten to know Jensen, and he is a Great Patriot and National Treasure. Separately, NVIDIA should continue its thorough internal investigation of the Company’s compliance with U.S. export controls in order to ensure that it is fulfilling its legal obligations and Patriotic Duty to protect U.S. National Security. Congratulations to Jensen, the NVIDIA Board, to the People of the United States — and, indeed, the World! Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-23T23:07:09+00:00",
-      "image": "https://i.guim.co.uk/img/media/86612b7e576ef8d8fefee996ef99ce1a4d96d978/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=3cfc00a623bc89dcb46c85bdf6218a75"
+      "published": "2026-11-23T23:23:30+00:00",
+      "image": "https://i.guim.co.uk/img/media/cef5a8a81b369bba5300d16e44b6bde6336b4772/131_0_3502_2800/master/3502.jpg?width=140&quality=85&auto=format&fit=max&s=d340576f04eb84bbe9c7e4fedb6e0dce"
+    },
+    {
+      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+      "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
+      "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-23T23:16:08+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a66/live/7c413f70-e78a-11f1-a5c2-c57ab9df3111.jpg"
     },
     {
       "title": "What Nvidia’s Jensen Huang’s return means for Washington and Wall Street?",
@@ -42,15 +50,11 @@
       "source": "Al Jazeera",
       "published": "2026-11-23T23:06:03+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b049efd4a19f-1795464957.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-      "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
-      "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-23T22:45:51+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a66/live/7c413f70-e78a-11f1-a5c2-c57ab9df3111.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
