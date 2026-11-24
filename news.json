@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-24T17:30:36.506385+00:00",
+  "updated_at": "2026-11-24T17:45:27.032737+00:00",
   "national": [
+    {
+      "title": "Ratusan WNI Diduga Terlibat Jaringan Online Scam di Filipina",
+      "summary": "Ratusan warga Indonesia diduga terlibat dalam jaringan online scam yang bermarkas di Manila, Filipina.",
+      "url": "https://www.cnnindonesia.com/nasional/20261124202348-12-1431039/ratusan-wni-diduga-terlibat-jaringan-online-scam-di-filipina",
+      "source": "CNN Indonesia",
+      "published": "2026-11-24T17:30:56+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/24/polri-bongkar-jaringan-penipuan-online-scam-di-filipina-1795526806218_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Inggris Jatuhkan Sanksi ke Houthi dan 4 Pejabatnya, Aset Dibekukan",
       "summary": "Pemerintah Inggris menjatuhkan sanksi terhadap kelompok Houthi di Yaman dan empat pejabatnya, akibat tindakan merusak stabilitas di Timur Tengah.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-24T17:11:23+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2019/03/12/af5d4fd8-8bd3-450b-8d39-361d9eba35bd_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Terdakwa Kasus Senpi Ilegal di Solo Dituntut 9 Bulan Penjara",
-      "summary": "Jaksa menuntut Murdo Krismanto Putro sembilan bulan penjara atas kepemilikan senjata api ilegal.",
-      "url": "https://www.cnnindonesia.com/nasional/20261124215609-12-1431057/terdakwa-kasus-senpi-ilegal-di-solo-dituntut-9-bulan-penjara",
-      "source": "CNN Indonesia",
-      "published": "2026-11-24T17:00:09+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2019/11/06/3abb8cd4-772c-4c33-9df8-3ae75efefcb4_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo bertemu empat mata dengan Dasco di Istana selama dua jam",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Democrats hit out at Nvidia and Trump over Huang’s return – US politics live",
-      "summary": "Possible presidential hopeful Ruben Gallego warns of a ‘bad lesson for corporate America’ while Ro Khanna says ‘rules should apply to everyone’ Congress to grill Huang over ties with China and Trump’s intervention Sign up for the Breaking News US email Earlier we mentioned Donald Trump is participating in a Medal of Freedom ceremony in the Oval Office at 11am ET. He will be awarding the nation’s highest civilian honor to former New York mayor and Trump’s onetime personal lawyer Rudy Giuliani . Trump said last year he would award the medal to Giuliani, two days after his longtime political ally was seriously injured in a car crash. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
+      "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju v Javokhir Sindarov – live",
+      "summary": "Youngest title match in chess history starts Tuesday Sindarov and Gukesh open Game 1 with Berlin defense Explainer: all your pre-match questions, answered Preview: Gukesh vows to win title ‘all over again’ Sindarov interview: ‘I can’t play games just for fun’ Play through 22 famous world championship games Bluesky Bryan at @BryanAGraham or email him The players have shaken hands and we’re off! We have a Berlin defense of the Ruy Lopez ( 1 e4 e5 2 Nf3 Nc6 3 Bb5 Nf6 ), one of the most thoroughly analyzed openings in modern chess. The Berlin famously helped Vladimir Kramnik dethrone Garry Kasparov in their 2000 world title match in London and has been a staple of elite chess ever since, earning a reputation as one of black’s most reliable weapons against 1 e4. Continue reading...",
+      "url": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
       "source": "The Guardian",
-      "published": "2026-11-24T17:13:53+00:00",
-      "image": "https://i.guim.co.uk/img/media/9560ef918dbf3e3237a2cfc686481305dc422d34/0_56_2518_2013/master/2518.jpg?width=140&quality=85&auto=format&fit=max&s=dc03fcb6a611db2dc215da5aa4a5b90f"
+      "published": "2026-11-24T17:27:14+00:00",
+      "image": "https://i.guim.co.uk/img/media/47e448ea1820c92474f615b713655bba8e109163/418_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=548b4fe70fa59abac33c4720153dd1b9"
     },
     {
       "title": "After Libya, where will Ukraine strike Russia next?",
@@ -44,13 +44,17 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795539850.jpg?resize=1920%2C1080&quality=80"
     },
     {
-      "title": "Zimbabwean convicted in South Africa of trying to fight in Ukraine",
-      "summary": "Hundreds of people from different African countries have been recruited to fight for Russia, according to Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o?at_medium=RSS&at_campaign=rss",
+      "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
+      "summary": "Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.",
+      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-24T17:04:00+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e688/live/d1155630-e820-11f1-99a1-253766e7ad8b.jpg"
+      "published": "2026-11-24T17:04:20+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/982f/live/ca95f8e0-e82b-11f1-88dc-fb4bdfcec8cb.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
