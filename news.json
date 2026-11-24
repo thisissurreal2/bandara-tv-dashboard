@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-24T15:45:50.666210+00:00",
+  "updated_at": "2026-11-24T16:00:52.157382+00:00",
   "national": [
+    {
+      "title": "InJourney Gandeng BRIN untuk Revitalisasi Pusat Sains di TMII",
+      "summary": "InJourney dan BRIN tandatangani nota kesepahaman untuk revitalisasi Indonesia Science Center di TMII.",
+      "url": "https://news.detik.com/berita/d-8768469/injourney-gandeng-brin-untuk-revitalisasi-pusat-sains-di-tmii",
+      "source": "Detik",
+      "published": "2026-11-24T15:39:05+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/24/injourney-1795534661221_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Dasco Temui Prabowo di Istana Merdeka",
       "summary": "Presiden Prabowo melakukan pertemuan tertutup dengan Wakil Ketua DPR Sufmi Dasco di Istana Merdeka.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-24T15:18:04+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/24/prabowo-subianto-bertemu-sufmi-dasco-ahmad-1795533394229_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Prabowo Bertemu 4 Mata dengan Dasco di Istana, Apa yang Dibahas?",
-      "summary": "Presiden Prabowo Subianto bertemu Wakil Ketua DPR Sufmi Dasco Ahmad selama dua jam di Istana. Apa saja yang dibahas?",
-      "url": "https://news.detik.com/berita/d-8768440/prabowo-bertemu-4-mata-dengan-dasco-di-istana-apa-yang-dibahas",
-      "source": "Detik",
-      "published": "2026-11-24T15:05:18+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/24/presiden-prabowo-subianto-bertem-empat-mata-dengan-wakil-ketua-dpr-sufmi-dasco-di-istana-jakarta-dok-instagram-seskab-1795532674839_169.jpeg?w=360&q=90"
     },
     {
       "title": "Kemenekraf meningkatkan kapasitas fesyen Aceh tembus pasar global",
@@ -27,6 +27,14 @@
     }
   ],
   "international": [
+    {
+      "title": "Two arrested after suspected burglary at home of Prince and Princess of Wales",
+      "summary": "Incident took place at the royals’ Sandringham estate country retreat in Norfolk on Monday evening Two men have been arrested on suspicion of burglary and trespassing at the Prince and Princess of Wales’s country mansion, police have said. Norfolk police are investigating the suspected break-in at Anmer Hall, a 10-bedroom country retreat given to William and Kate as a gift by Queen Elizabeth II after their wedding. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/24/two-arrested-after-suspected-burglary-prince-princess-of-wales-sandringham",
+      "source": "The Guardian",
+      "published": "2026-11-24T15:43:25+00:00",
+      "image": "https://i.guim.co.uk/img/media/c57a42ce15c414ac10362dedf52e82ad92483820/237_0_4320_3456/master/4320.jpg?width=140&quality=85&auto=format&fit=max&s=69b4ffdb744547738543c35b899b61b6"
+    },
     {
       "title": "Israeli air strike kills Hamas internal security chief in Gaza",
       "summary": "Naeem Abu Nahel, who had been in the post for two months, is among seven Palestinians reportedly killed in Israeli strikes on Tuesday.",
@@ -42,19 +50,7 @@
       "source": "Al Jazeera",
       "published": "2026-11-24T15:26:50+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b059c9e8e-1795529886.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Proposals in Timms review for changes to Pip would lead to higher welfare bill, IFS says – UK politics live",
-      "summary": "Social security minister has been overseeing review designed to ‘rehumanise’ the system but Tories say it will lead to higher spending and fewer checks Ministers approve fast-track disability payments in England and Wales Q: [From Ali Fortescue from Sky News] We have done an interview with Rishi Sunak who says he is very concerned about the rise of ethnonationalism, and particularly with the suggestion from Suella Braverman, Reform UK’s education spokesperson, that people of Asian heritage can’t be English . Do you agree with him about that, and are you going to do anything about it? Farage replied: I’m very worried about it and I think you can see with the online right, both in this country and America, some pretty extraordinary things being said that would have been unthinkable even a handful of years ago … So, yes, there is a rise in ethnonationalism. I’ve fought this all my career. No one did more to beat the BNP than me. I view it as an unwelcome debate and I don’t want to hear anything about it again. Is that clear? I do not trust the Conservative party on this issue. I trusted them back in 2019. I felt it was the right thing to do. I will never trust them again. And there’s no evidence to suggest that many of millions of others should do so. Continue reading...",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-24T15:26:48+00:00",
-      "image": "https://i.guim.co.uk/img/media/fc9b07de39a2037404bfbc03df3dfcd84bce2add/654_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=25594e3d1d0106ddee0d88dad4e782f0"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
