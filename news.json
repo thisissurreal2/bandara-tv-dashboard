@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-24T12:00:50.245094+00:00",
+  "updated_at": "2026-11-24T12:15:25.582980+00:00",
   "national": [
+    {
+      "title": "FOTO: ATM Beras Gratis untuk Warga di Masjid Pondok Indah Jaksel",
+      "summary": "Pengelola isi ulang mesin dengan seratus liter beras saban Rabu dan Kamis. Pengelola bagi jadwal pengambilan jadi dua kelompok, yakni setiap Selasa dan Jumat.",
+      "url": "https://www.cnnindonesia.com/nasional/20261124153649-22-1430897/foto-atm-beras-gratis-untuk-warga-di-masjid-pondok-indah-jaksel",
+      "source": "CNN Indonesia",
+      "published": "2026-11-24T12:13:30+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/24/atm-beras-gratis-untuk-warga-1795507976480_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Periksa Staf Bea Cukai Semarang Terkait Kasus Pita Cukai, KPK Sita Dukumen",
       "summary": "KPK memeriksa staf KPPBC Semarang terkait dugaan korupsi cukai. Penyidik menyita dokumen dan mendalami pelayanan pengurus cukai.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-24T11:53:05+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2021/03/02/gedung-baru-kpk-2_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Tim Ad Hoc Wacanakan Debat Cawapres Amran dan Sugiono di TV",
-      "summary": "Ketua Tim Ad Hoc Benny K. Harman mendukung wacana debat cawapres Sugiono dan Amran. Namun, Sekretaris MPR Ahmad Basarah menolak debat publik saat pemilihan.",
-      "url": "https://www.cnnindonesia.com/nasional/20261124182601-32-1430978/tim-ad-hoc-wacanakan-debat-cawapres-amran-dan-sugiono-di-tv",
-      "source": "CNN Indonesia",
-      "published": "2026-11-24T11:47:53+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/24/foto-kolase-amran-sulaiman-dan-sugiono-1795493318706_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo instruksikan investasi China senilai 15 M USD ditindaklanjuti",
@@ -32,8 +32,16 @@
       "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Republican senators criticize Nvidia’s decision to reinstate Jensen Huang Congress to grill Jensen Huang over ties with China and Trump’s intervention Jensen Huang’s return to Nvidia, despite concerns over his conduct and the supply of AI chips to China, may show that AI – and Huang himself – are ‘too big to fail’. That phrase was on everyone’s lips almost 20 years ago when the Global Financial Crisis struck, and several major banks were bailed out. Given Nvidia’s pivotal role in the AI capex rollout, the implications of Huang’s reinstatement could be profound. Borrowing from the GFC, are some technology CEOs now so systemically important to the future of AI and US leadership in the latest technology revolution that they cannot be fired? Questions around the scale of financing required and future monetisation remain, and the dependence on Huang for the future success of AI may paradoxically heighten those concerns especially given Anthropic fell despite yesterday’s broad market rally. “We must investigate these actions. No president who has invested in a private company should be involved in their board decisions. Congress must come together in swift bipartisan action and demand answers immediately.” Continue reading...",
       "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-24T11:41:35+00:00",
+      "published": "2026-11-24T11:57:39+00:00",
       "image": "https://i.guim.co.uk/img/media/30fc76bd30efe5d66ac748713f3618bbbd5c2e19/667_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=a3faab04167bfd13a005e3b94b37a495"
+    },
+    {
+      "title": "Car bomb tears through Colombian city wounding more than 20",
+      "summary": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
+      "url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-24T11:45:52+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d18/live/326608e0-e7e9-11f1-8b26-c1adae33e7f2.jpg"
     },
     {
       "title": "The ‘eighth front’: Why Israel’s influence war in the US is failing",
@@ -42,15 +50,11 @@
       "source": "Al Jazeera",
       "published": "2026-11-24T11:30:07+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20251229__899A8MG__v1__HighRes__IsraeliPmBenjaminNetanyahuVisits-1795408044.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
-      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-24T10:58:51+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9e8/live/05da8d30-e7d7-11f1-a094-5fdc692f3e33.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
