@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-24T23:00:37.061517+00:00",
+  "updated_at": "2026-11-24T23:15:25.850772+00:00",
   "national": [
+    {
+      "title": "BMKG: Sebagian besar wilayah RI diguyur hujan ringan hari ini",
+      "summary": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan sebagian besar wilayah di Indonesia pada Rabu ...",
+      "url": "https://www.antaranews.com/berita/5876339/bmkg-sebagian-besar-wilayah-ri-diguyur-hujan-ringan-hari-ini",
+      "source": "ANTARA",
+      "published": "2026-11-24T23:03:07+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/06/15/1000851457.jpg"
+    },
     {
       "title": "Demokrat Tunggu Arahan SBY soal Pilih Cawapres Sugiono atau Amran",
       "summary": "DPP Partai Demokrat menunggu arahan SBY untuk memilih calon wakil presiden Prabowo yang baru menggantikan Gibran.",
@@ -16,32 +24,24 @@
       "source": "Detik",
       "published": "2026-11-24T22:40:03+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2025/07/04/menhan-israel-israel-katz-1751616826762_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Real Madrid bangkit dari ketertinggalan dan balik hantam PSV 5-1",
-      "summary": "Real Madrid bangkit dari ketertinggalan dan balik menghantam PSV dengan skor 5-1 pada pertandingan kelima fase liga ...",
-      "url": "https://www.antaranews.com/berita/5876307/real-madrid-bangkit-dari-ketertinggalan-dan-balik-hantam-psv-5-1",
-      "source": "ANTARA",
-      "published": "2026-11-24T22:04:19+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/25/real_madrid_c.f._v_psv_eindhoven_-_uefa_champions_league_2026_27_league_phase_md5.jpg"
     }
   ],
   "international": [
     {
-      "title": "Australian politics live: Coalition would look to repeal digital duty of care, Hastie says; inflation expected to climb",
-      "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a ‘zero-sum’ game. I reject this sort of zero-sum game where building Australian sovereignty in AI must come at the expense of creatives or at diminishing the rights of creatives. At the moment, yes, we want deals, but we want creatives paid properly for their work. And the situation that we find ourselves in at the moment is that they’re not. They have no control and often no payment for their work. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+      "title": "Jury considers verdicts in Beau Lamarre-Condon double-murder trial",
+      "summary": "After 10-week trial, 12 jurors will decide whether former police officer murdered Jesse Baird and Luke Davies Beau Lamarre-Condon’s fate is in the hands of his peers as the 12-person jury in his double murder trial has been sent off to deliberate. The former police officer is accused of fatally shooting Jesse Baird and his new partner, Luke Davies, with his police service weapon in Baird’s Paddington home on 19 February 2024. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-jury-considers-verdict-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-24T22:40:59+00:00",
-      "image": "https://i.guim.co.uk/img/media/3b173aa586bee5d55d74accaee666bfca11c2e6e/990_241_6578_5263/master/6578.jpg?width=140&quality=85&auto=format&fit=max&s=f1c6797c4c7d38cbaa2c96589cd26bd9"
+      "published": "2026-11-24T22:57:35+00:00",
+      "image": "https://i.guim.co.uk/img/media/83556f77433668ba8656e3e68bdde36d96c3d05c/204_0_3099_2480/master/3099.jpg?width=140&quality=85&auto=format&fit=max&s=9c671c388d920851d20299834e65a6b2"
     },
     {
-      "title": "Bellingham stunner, Mbappe brace help Real Madrid rout PSV",
-      "summary": "Real Madrid come from behind to power past PSV Eindhoven with a 5-1 win in football's Champions League.",
-      "url": "https://www.aljazeera.com/sports/2026/11/24/bellingham-stunner-mbappe-brace-help-real-madrid-rout-psv?traffic_source=rss",
+      "title": "Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain",
+      "summary": "Arsenal dominate the chances as Borussia Dortmund fight back for a 1-1 draw in football's Champions League.",
+      "url": "https://www.aljazeera.com/sports/2026/11/24/arsenal-and-dortmund-draw-1-1-as-gyokeres-goes-from-hero-to-villain?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-24T22:37:20+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2306368971-1795559712.jpg?resize=1200%2C675"
+      "published": "2026-11-24T22:50:16+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2306704506-1795551283.jpg?resize=1200%2C675"
     },
     {
       "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
