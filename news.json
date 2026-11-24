@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-24T23:15:25.850772+00:00",
+  "updated_at": "2026-11-24T23:30:31.612831+00:00",
   "national": [
+    {
+      "title": "Amran dan Sugiono Jadi Cawapres, PD Harap Sosok Terpilih Bisa Perkuat Kabinet",
+      "summary": "Demokrat menanggapi dua calon wapres, Amran Sulaiman dan Sugiono usulan Prabowo. Demokrat berharap siapapun yang terpilih bisa memperkuat kabinet.",
+      "url": "https://news.detik.com/berita/d-8768559/amran-dan-sugiono-jadi-cawapres-pd-harap-sosok-terpilih-bisa-perkuat-kabinet",
+      "source": "Detik",
+      "published": "2026-11-24T23:20:15+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/06/20/juru-bicara-sekaligus-kepala-badan-komunikasi-strategis-partai-demokrat-herzaky-mahendra-putra-1781957965929_169.jpeg?w=360&q=90"
+    },
     {
       "title": "BMKG: Sebagian besar wilayah RI diguyur hujan ringan hari ini",
       "summary": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan sebagian besar wilayah di Indonesia pada Rabu ...",
@@ -16,24 +24,16 @@
       "source": "CNN Indonesia",
       "published": "2026-11-24T22:55:16+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/09/10/prabowo-hadiri-hut-partai-demokrat-1788997106310_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Ikut-ikutan AS, Israel Tuding Iran Sedang Bikin Senjata Kimia",
-      "summary": "Menteri Pertahanan Israel, Israel Katz, mengungkapkan Iran sedang mengembangkan senjata kimia. Ia menegaskan perlunya mencegah ancaman tersebut.",
-      "url": "https://news.detik.com/internasional/d-8768547/ikut-ikutan-as-israel-tuding-iran-sedang-bikin-senjata-kimia",
-      "source": "Detik",
-      "published": "2026-11-24T22:40:03+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2025/07/04/menhan-israel-israel-katz-1751616826762_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
     {
-      "title": "Jury considers verdicts in Beau Lamarre-Condon double-murder trial",
-      "summary": "After 10-week trial, 12 jurors will decide whether former police officer murdered Jesse Baird and Luke Davies Beau Lamarre-Condon’s fate is in the hands of his peers as the 12-person jury in his double murder trial has been sent off to deliberate. The former police officer is accused of fatally shooting Jesse Baird and his new partner, Luke Davies, with his police service weapon in Baird’s Paddington home on 19 February 2024. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-jury-considers-verdict-ntwnfb",
+      "title": "Australian politics live: Steggall and Spender change party name after community consultation; inflation set to climb",
+      "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a ‘zero-sum’ game. I reject this sort of zero-sum game where building Australian sovereignty in AI must come at the expense of creatives or at diminishing the rights of creatives. At the moment, yes, we want deals, but we want creatives paid properly for their work. And the situation that we find ourselves in at the moment is that they’re not. They have no control and often no payment for their work. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-24T22:57:35+00:00",
-      "image": "https://i.guim.co.uk/img/media/83556f77433668ba8656e3e68bdde36d96c3d05c/204_0_3099_2480/master/3099.jpg?width=140&quality=85&auto=format&fit=max&s=9c671c388d920851d20299834e65a6b2"
+      "published": "2026-11-24T23:14:14+00:00",
+      "image": "https://i.guim.co.uk/img/media/b0436fb3527cb8c2fd9a74c3580cf6d9c565f274/915_0_5666_4533/master/5666.jpg?width=140&quality=85&auto=format&fit=max&s=66a93ccb8fd1d779ddfa252920a8f9bc"
     },
     {
       "title": "Arsenal and Dortmund draw 1-1 as Gyokeres goes from hero to villain",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
