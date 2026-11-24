@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T18:30:34.832743+00:00",
+  "updated_at": "2026-11-24T18:45:25.537953+00:00",
   "national": [
     {
       "title": "China Selidik Korupsi Eks Walkot Beijing Elite Politbiro Partai Komunis",
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Witness-ThumbnailV2-1795541647.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
