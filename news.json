@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-24T05:00:49.436356+00:00",
+  "updated_at": "2026-11-24T05:15:25.988556+00:00",
   "national": [
     {
-      "title": "Komjen Hendro Pandowo Pimpin Sidang Etik Listyo Sigit",
-      "summary": "Komjen Pol. Hendro Pandowo resmi menjadi ketua sidang etik dengan tersangka mantan Kapolri Listyo Sigit Prabowo dalam kasus penyadapan pada Kamis (26/11).",
-      "url": "https://www.cnnindonesia.com/nasional/20261124115119-12-1430752/komjen-hendro-pandowo-pimpin-sidang-etik-listyo-sigit",
+      "title": "Tim Ad Hoc MPR Mulai Bahas Mekanisme Pemilihan Wapres Baru",
+      "summary": "Tim Ad Hoc MPR RI mulai membahas pengisian jabatan wakil presiden sisa masa jabatan 2024-2029 setelah menerima dua usulan dari Presiden Prabowo.",
+      "url": "https://www.cnnindonesia.com/nasional/20261124114424-32-1430743/tim-ad-hoc-mpr-mulai-bahas-mekanisme-pemilihan-wapres-baru",
       "source": "CNN Indonesia",
-      "published": "2026-11-24T04:57:54+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/24/hendro-pandowo-1795495823131_169.jpeg?w=360&q=90"
+      "published": "2026-11-24T05:00:22+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/11/fraksi-parpol-dpr-resmi-ajukan-hmp-pemakzulan-gibran-1794400920350_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "Alur pemilihan wakil presiden oleh MPR",
+      "summary": "Presiden Prabowo Subianto menyerahkan dua nama calon wakil presiden (wapres) kepada Majelis Permusyawaratan Rakyat ...",
+      "url": "https://www.antaranews.com/infografik/5874227/alur-pemilihan-wakil-presiden-oleh-mpr",
+      "source": "ANTARA",
+      "published": "2026-11-24T05:00:00+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/24/20261124-Alur-pemilihan-wakil-presiden-oleh-MPR.jpg"
     },
     {
       "title": "Pertama Kali Terima 10 Dubes Asing Termasuk RI, Kim Jong Un Beri Pesan Ini",
@@ -16,14 +24,6 @@
       "source": "Detik",
       "published": "2026-11-24T04:56:25+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/24/kim-jong-un-berpidato-di-hadapan-10-duta-besar-asing-termasuk-dari-indonesia-dalam-seremoni-penerimaan-surat-kepercayaan-di-py-1795495827850_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Mentan Amran sebut fokus layani petani usai masuk bursa Cawapres",
-      "summary": "Menteri Pertanian (Mentan) Andi Amran Sulaiman menegaskan tetap menjalankan tugas melayani masyarakat dan petani ...",
-      "url": "https://www.antaranews.com/berita/5874087/mentan-amran-sebut-fokus-layani-petani-usai-masuk-bursa-cawapres",
-      "source": "ANTARA",
-      "published": "2026-11-24T03:17:02+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/24/785A294F-618A-4374-B421-5701335D81B7.jpeg"
     }
   ],
   "international": [
@@ -36,21 +36,25 @@
       "image": "https://i.guim.co.uk/img/media/d9986cfb67bf7d66b96cd3b14d5e4bdb388902ba/558_0_5575_4460/master/5575.jpg?width=140&quality=85&auto=format&fit=max&s=c9b3d6c247e3a8c6043a10c696f48094"
     },
     {
+      "title": "Danish court backs ‘ghetto law’ used to evict ‘non-Western’ residents",
+      "summary": "Denmark’s Supreme Court has ruled against the ‘non-Western’ tenants evicted from Mjolnerparken housing estate.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/danish-court-backs-ghetto-law-used-to-evict-non-western-residents?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-24T04:52:06+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795495915.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
       "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
       "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
       "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-24T04:36:31+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg"
-    },
-    {
-      "title": "Mexico to try ‘El Chapo Isidro’ despite US extradition request",
-      "summary": "Fausto Meza Flores faces drug trafficking and weapons charges after his capture in a violent Sinaloa operation.",
-      "url": "https://www.aljazeera.com/news/2026/11/24/mexico-to-try-el-chapo-isidro-despite-us-extradition-request?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-24T03:20:55+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b04dc46de6e-1795480646.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
