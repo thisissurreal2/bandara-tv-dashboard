@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-24T20:00:38.372726+00:00",
+  "updated_at": "2026-11-24T20:15:33.361690+00:00",
   "national": [
     {
-      "title": "Pemotor Tewas Tertimpa Pohon Tumbang Saat Melintas di Musi Rawas Sumsel",
-      "summary": "Seorang pengendara motor asal Jambi, Hery Sugianto, tewas tertimpa pohon tumbang di Musi Rawas. Kejadian terjadi saat ia melintas di Jalinsum.",
-      "url": "https://news.detik.com/berita/d-8768522/pemotor-tewas-tertimpa-pohon-tumbang-saat-melintas-di-musi-rawas-sumsel",
+      "title": "Gagal Merampok, Kelompok Bersenjata Sandera 25 Orang di Supermarket Kolombia",
+      "summary": "Sekelompok pria bersenjata menyandera 25 orang di supermarket Cartagena, Kolombia. Operasi besar-besaran polisi dilakukan.",
+      "url": "https://news.detik.com/internasional/d-8768525/gagal-merampok-kelompok-bersenjata-sandera-25-orang-di-supermarket-kolombia",
       "source": "Detik",
-      "published": "2026-11-24T19:06:56+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/24/polisi-melakukan-olah-tkp-kecelakaan-di-musi-rawas-1795533978212_169.jpeg?w=360&q=90"
+      "published": "2026-11-24T20:00:56+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/25/penyanderaan-di-kolombia-1795546697495_169.jpeg?w=360&q=90"
     },
     {
       "title": "Mahasiswa Minta RUU Penyadapan Perjelas Batas Kewenangan Aparat",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Nvidia CEO Jensen Huang apologizes to staff: ‘I made some terrible mistakes’",
-      "summary": "Huang acknowledges he violated code of conduct by having affairs, but denied Trump was instrumental in his return Nvidia CEO Jensen Huang apologized to staff on Tuesday for the tumult he’s caused at the company. He acknowledged he violated the code of conduct for having extramarital affairs, but pushed back on the reports that Donald Trump was instrumental in his reinstatement as chief executive. “I made some terrible mistakes,” he said, according to a livestream reviewed by the New York Times . “I was unfaithful to Lori, and I hurt my kids and, of course, I hurt all of you.” Continue reading...",
-      "url": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff",
+      "title": "Trump’s DoJ ‘looked into’ concerns about Jensen Huang after affair with Chinese spy but says no security risk found – live",
+      "summary": "Justice department and other agencies reached ‘collective consensus’ that Jensen Huang is not a national security risk, attorney general Todd Blanche says Sign up for the Breaking News US email Earlier we mentioned Donald Trump is participating in a Medal of Freedom ceremony in the Oval Office at 11am ET. He will be awarding the nation’s highest civilian honor to former New York mayor and Trump’s onetime personal lawyer Rudy Giuliani . Trump said last year he would award the medal to Giuliani, two days after his longtime political ally was seriously injured in a car crash. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-24T19:41:16+00:00",
-      "image": "https://i.guim.co.uk/img/media/fb7cea8324429d0c2d9d41c175ee031e5f37efef/0_0_1280_1024/master/1280.jpg?width=140&quality=85&auto=format&fit=max&s=e03187bac627525555158a8262bf4283"
+      "published": "2026-11-24T19:59:57+00:00",
+      "image": "https://i.guim.co.uk/img/media/f5eec54236474f8092b984d82a9499d7907e0443/264_0_4169_3335/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=ee454ea4cdb9ea123a51cfd99553766d"
+    },
+    {
+      "title": "Turkish military helicopter crash kills five in western Turkiye",
+      "summary": "The Defence Ministry did not elaborate on the cause of the crash, days after another deadly army helicopter accident.",
+      "url": "https://www.aljazeera.com/news/2026/11/24/turkish-military-helicopter-crash-kills-five-in-western-turkiye?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-24T19:52:21+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b05e40274-1795548162.jpg?resize=1920%2C1440"
     },
     {
       "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
@@ -42,19 +50,7 @@
       "source": "BBC",
       "published": "2026-11-24T19:27:23+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/467b/live/5cf1a7a0-e7d4-11f1-939f-471cde339c0e.jpg"
-    },
-    {
-      "title": "Putin says retaliation ‘inevitable’ after Ukraine hit Russian oil plants",
-      "summary": "Ukrainian attacks subsided after Trump's mid-October declaration of an energy ceasefire, but picked up again afterwards.",
-      "url": "https://www.aljazeera.com/news/2026/11/24/putin-says-kyiv-hit-russian-oil-plants-despite-trump-plea-vows-retaliation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-24T19:22:44+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2022/05/2022-05-01T105125Z_349816858_RC29YT9KV71D_RTRMADP_3_UKRAINE-CRISIS-EU.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
