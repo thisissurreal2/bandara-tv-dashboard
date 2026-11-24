@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T18:45:25.537953+00:00",
+  "updated_at": "2026-11-24T19:00:38.022743+00:00",
   "national": [
     {
       "title": "China Selidik Korupsi Eks Walkot Beijing Elite Politbiro Partai Komunis",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
+      "title": "US attorney general dodges questions about Nvidia investigation",
+      "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+      "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-24T18:55:59+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/982f/live/ca95f8e0-e82b-11f1-88dc-fb4bdfcec8cb.jpg"
+    },
+    {
       "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju and Javokhir Sindarov play to 38-move draw – live reaction",
       "summary": "Sindarov and Gukesh play to 38-move draw in Game 1 Explainer: all your pre-match questions, answered Sindarov interview: ‘I can’t play games just for fun’ Play through 22 famous world championship games Bluesky Bryan at @BryanAGraham or email him The players have shaken hands and we’re off! We have a Berlin defense of the Ruy Lopez ( 1 e4 e5 2 Nf3 Nc6 3 Bb5 Nf6 ), one of the most thoroughly analyzed openings in modern chess. The Berlin famously helped Vladimir Kramnik dethrone Garry Kasparov in their 2000 world title match in London and has been a staple of elite chess ever since, earning a reputation as one of black’s most reliable weapons against 1 e4. Continue reading...",
       "url": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
       "source": "The Guardian",
-      "published": "2026-11-24T18:28:21+00:00",
+      "published": "2026-11-24T18:54:54+00:00",
       "image": "https://i.guim.co.uk/img/media/47e448ea1820c92474f615b713655bba8e109163/418_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=548b4fe70fa59abac33c4720153dd1b9"
     },
     {
-      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-      "summary": "Saurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
-      "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-24T18:07:46+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e165/live/ec246c40-e825-11f1-93d4-6d580946ad80.jpg"
-    },
-    {
-      "title": "Colombia at a Crossroads: Searching for peace amid conflict",
-      "summary": "A decade after Colombia's peace accords, former FARC fighter and artist honours killed signatories with a mural.",
-      "url": "https://www.aljazeera.com/video/witness/2026/11/24/colombia-at-a-crossroads-searching-for-peace-amid-conflict?traffic_source=rss",
+      "title": "Senior Hamas security official killed in Israeli drone strikes",
+      "summary": "A senior Hamas security official has been killed in a series of Israeli strikes across Gaza",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/senior-hamas-security-official-killed-in-israeli-drone-strikes?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-24T18:00:00+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Witness-ThumbnailV2-1795541647.jpg?resize=1920%2C1080&quality=80"
+      "published": "2026-11-24T18:20:00+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795544391.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
