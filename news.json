@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-24T07:00:42.562553+00:00",
+  "updated_at": "2026-11-24T07:15:26.692602+00:00",
   "national": [
+    {
+      "title": "Dasco: Sejak Awal Saya Tak Ada Keinginan Jadi Cawapres",
+      "summary": "Wakil Ketua DPR Sufmi Dasco Ahmad menegaskan tak berniat menjadi kandidat wapres menggantikan Gibran. Ia fokus mengawal program pemerintah.",
+      "url": "https://www.cnnindonesia.com/nasional/20261124134243-32-1430808/dasco-sejak-awal-saya-tak-ada-keinginan-jadi-cawapres",
+      "source": "CNN Indonesia",
+      "published": "2026-11-24T07:12:47+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/03/31/dpr-apresiasi-pemerintah-belum-berencana-sesuaikan-harga-bbm-1774949791712_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Bandar Narkoba AA Beli Langsung Sabu ke Myanmar, Dibawa Lewat Laut",
       "summary": "BNN RI menangkap bandar narkoba AA yang membeli sabu dari Myanmar. Jaringan besar ini terlibat dalam pencucian uang dan distribusi narkoba di Indonesia.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-24T06:57:49+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/24/konpers-bnn-ri-membongkar-kasus-tppu-senilai-rp-577-miliar-dari-bandar-narkoba-berinisial-aa-1795495220699_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Bupati Langkat Nonaktif Didakwa Terima Suap dan Gratifikasi Rp3,6 Miliar",
-      "summary": "Bupati Langkat nonaktif, Syah Afandin alias Ondim, didakwa menerima suap dan gratifikasi senilai Rp3,6 miliar.",
-      "url": "https://www.cnnindonesia.com/nasional/20261124132435-12-1430789/bupati-langkat-nonaktif-didakwa-terima-suap-gratifikasi-rp36-miliar",
-      "source": "CNN Indonesia",
-      "published": "2026-11-24T06:57:22+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/24/eks-bupati-langkat-didakwa-terima-gratifikasi-rp36-miliar-1795501572945_169.jpeg?w=360&q=90"
     },
     {
       "title": "Alur pemilihan wakil presiden oleh MPR",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Australian politics live: ‘State-sanctioned theft’: Australian news outlets demand content is protected from AI scraping and paid for in response to parliamentary inquiry",
-      "summary": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update. Unlike the federal budget, where we get plenty of notice of when it will be handed down, the government only gives us a few days notice for the mid-financial year economic and fiscal outlook (or Myefo). There’s still a fair bit of work to do to finalise it all, but we’ve made enough progress to be confident that at this stage there will be a modest net save in the budget. We’re not going to slash and burn in the budget where that would impact the payments that people receive or where it would impact some of the more sensitive parts of the economy. But we haven’t focused the savings on just one portfolio. There will be a number of savings in the mid-year update. They will be substantial, as I said. These are serious times. You can see in the quite extraordinary reaction on the stock market just how volatile global markets are right now. I think it’s a bit of a symbol of the quite extraordinary volatility, unpredictability that we’re seeing play out in markets in the AI sector, but more broadly as well. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
-      "source": "The Guardian",
-      "published": "2026-11-24T06:44:48+00:00",
-      "image": "https://i.guim.co.uk/img/media/c73ffa324954c1636a97c18c28f0e4a6d1b1dbdd/787_0_5020_4016/master/5020.jpg?width=140&quality=85&auto=format&fit=max&s=25def7de46c964ccef14452559b97d05"
+      "title": "Australia warns tech giants of multibillion-dollar fines for online ‘harm’",
+      "summary": "New internet safety bill expected to pass this week could impose fines of up to 5 percent of firms' global revenue.",
+      "url": "https://www.aljazeera.com/news/2026/11/24/australia-warns-tech-giants-of-multibillion-dollar-fines-for-online-harm?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-24T07:02:52+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b052ce9-1795501289.jpg?resize=1920%2C1440"
     },
     {
-      "title": "Nvidia live: Markets surge as Jensen Huang returns as CEO",
-      "summary": "Huang's reinstatement breathes new life into an AI market rally days after shares in the tech giant were dumped.",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/11/24/nvidia-live-markets-surge-as-jensen-huang-returns-as-ceo?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-24T06:24:25+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26316566107905-1794962097.jpg?resize=1920%2C1440"
+      "title": "UK disability benefit cuts risk worsening youth destitution, research warns",
+      "summary": "Joseph Rowntree Foundation report says millions could be left unable to regularly afford everyday basics Cuts to disability benefits are likely to increase the risks of destitution faced by young people and leave millions of people unable to regularly afford everyday basics such as food, shelter and clothing, according to new research. Destitution is “becoming the norm” with about 3.8 million people, including 1 million children, experiencing the most extreme form of financial hardship in the UK last year, says the Joseph Rowntree Foundation. Continue reading...",
+      "url": "https://www.theguardian.com/society/2026/nov/24/cuts-uk-disability-benefit-risk-worsening-youth-destitution-research-warns",
+      "source": "The Guardian",
+      "published": "2026-11-24T07:00:10+00:00",
+      "image": "https://i.guim.co.uk/img/media/02c7fea6d132724324bdd7310e98ed115cd8ef09/415_0_3753_3002/master/3753.jpg?width=140&quality=85&auto=format&fit=max&s=8ef1466f1fa5e68719a5de17a3b9ecab"
     },
     {
       "title": "Bangladesh's ex-PM Sheikh Hasina says she plans to return on 16 December",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5191/live/b1f565b0-e7c1-11f1-b55c-09f84acff1b4.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
