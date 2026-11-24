@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-24T13:45:35.432112+00:00",
+  "updated_at": "2026-11-24T14:00:41.584891+00:00",
   "national": [
+    {
+      "title": "Kasus Dugaan Pemerkosaan, Bupati Kupang Disebut Siap Diperiksa Besok",
+      "summary": "Bupati Kupang, Yosef Lede, siap diperiksa polisi terkait dugaan pemerkosaan pada Rabu (25/11) besok. Kasus ini telah naik ke penyidikan.",
+      "url": "https://www.cnnindonesia.com/nasional/20261124201749-12-1431037/kasus-dugaan-pemerkosaan-bupati-kupang-disebut-siap-diperiksa-besok",
+      "source": "CNN Indonesia",
+      "published": "2026-11-24T13:46:23+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/24/bupati-kupang-yosef-lede-1795505104139_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Kelakuan Pemukim Israel Rampas hingga Jual Rumah Warga Palestina",
       "summary": "Pemukim Israel merampas rumah warga Palestina di Yerusalem, menjualnya seharga Rp 364 miliar. Otoritas Yerusalem menegaskan hak kepemilikan warga Palestina.",
@@ -10,20 +18,12 @@
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/05/23/kompleks-masjid-al-aqsa-di-yerusalem-timur-1779504786198_169.jpeg?w=360&q=90"
     },
     {
-      "title": "MPR Batal ke Sekolah Sugiono dan Amran Buat Cek Ijazah Cawapres",
-      "summary": "MPR batalkan kunjungan verifikasi ijazah cawapres baru Prabowo ke SMA Sugiono dan Amran Sulaiman.",
-      "url": "https://www.cnnindonesia.com/nasional/20261124193951-32-1431019/mpr-batal-ke-sekolah-sugiono-dan-amran-buat-cek-ijazah-cawapres",
-      "source": "CNN Indonesia",
-      "published": "2026-11-24T13:34:55+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/24/foto-kolase-amran-sulaiman-dan-sugiono-1795491183757_169.png?w=360&q=90"
-    },
-    {
-      "title": "Prabowo instruksikan investasi China senilai 15 M USD ditindaklanjuti",
-      "summary": "Presiden Prabowo Subianto menginstruksikan jajarannya segera menindaklanjuti kerja sama investasi dengan China senilai ...",
-      "url": "https://www.antaranews.com/berita/5875263/prabowo-instruksikan-investasi-china-senilai-15-m-usd-ditindaklanjuti",
+      "title": "Polri pecat Brigjen TK buntut kasus dugaan makar",
+      "summary": "Majelis Sidang Komisi Kode Etik Polri (KKEP) menjatuhkan sanksi administratif berupa pemberhentian tidak dengan hormat ...",
+      "url": "https://www.antaranews.com/berita/5875775/polri-pecat-brigjen-tk-buntut-kasus-dugaan-makar",
       "source": "ANTARA",
-      "published": "2026-11-24T11:06:39+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/24/IMG_9190.jpg"
+      "published": "2026-11-24T13:42:11+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/24/1000096448.jpg"
     }
   ],
   "international": [
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db31/live/1b41ee00-e7f7-11f1-ab60-79086b6495b8.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
