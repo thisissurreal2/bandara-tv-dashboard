@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-24T04:15:26.842850+00:00",
+  "updated_at": "2026-11-24T04:30:37.169863+00:00",
   "national": [
     {
-      "title": "Bupati Pekalongan nonaktif Fadia Arafiq Divonis 4 Tahun Penjara",
-      "summary": "Bupati Pekalongan nonaktif Fadia Arafiq dijatuhi hukuman 4 tahun penjara dan denda Rp200 juta dalam kasus korupsi pengadaan tenaga alih daya.",
-      "url": "https://www.cnnindonesia.com/nasional/20261124110107-12-1430723/bupati-pekalongan-nonaktif-fadia-arafiq-divonis-4-tahun-penjara",
+      "title": "Jejak Pendidikan Amran dan Sugiono, 2 Cawapres Usulan Prabowo",
+      "summary": "Presiden Prabowo Subianto serahkan dua nama cawapres ke MPR: Andi Amran Sulaiman dan Sugiono. MPR akan verifikasi sebelum pemilihan pada 11 Desember.",
+      "url": "https://www.cnnindonesia.com/nasional/20261124101124-32-1430699/jejak-pendidikan-amran-dan-sugiono-2-cawapres-usulan-prabowo",
       "source": "CNN Indonesia",
-      "published": "2026-11-24T04:11:51+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/09/24/bupati-pekalongan-nonaktif-fadia-dituntut-5-tahun-penjara-1790228679119_169.jpeg?w=360&q=90"
+      "published": "2026-11-24T04:21:26+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/24/foto-kolase-amran-sulaiman-dan-sugiono-1795493318706_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Samapta Polda Metro Bantu Penanganan Kebakaran Rumah Kontrakan di Tambora",
-      "summary": "Personel Direktorat Samapta Polda Metro Jaya membantu penanganan kebakaran rumah kontrakan di Tambora, Jakarta Barat.",
-      "url": "https://news.detik.com/berita/d-8767060/samapta-polda-metro-bantu-penanganan-kebakaran-rumah-kontrakan-di-tambora",
+      "title": "Panitia Ad Hoc MPR Kembali Gelar Rapat Bahas Mekanisme Pemilihan Wapres",
+      "summary": "Panitia Ad Hoc MPR menggelar rapat untuk pengisian jabatan Wakil Presiden sisa masa jabatan 2024-2029. Rapat membahas membahas mekanisme pemilhan wapres.",
+      "url": "https://news.detik.com/berita/d-8767116/panitia-ad-hoc-mpr-kembali-gelar-rapat-bahas-mekanisme-pemilihan-wapres",
       "source": "Detik",
-      "published": "2026-11-24T03:55:45+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/24/personel-direktorat-samapta-polda-metro-jaya-membantu-penanganan-kebakaran-rumah-kontrakan-di-tambora-jakarta-barat-dok-ist-1795492531986_169.jpeg?w=360&q=90"
+      "published": "2026-11-24T04:21:02+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/24/mpr-1795493999905_169.jpeg?w=360&q=90"
     },
     {
       "title": "Mentan Amran sebut fokus layani petani usai masuk bursa Cawapres",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1177/live/c8dee990-e7a8-11f1-96e2-87034e8ab973.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
