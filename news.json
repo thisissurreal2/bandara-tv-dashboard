@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-24T10:45:34.031591+00:00",
+  "updated_at": "2026-11-24T11:00:46.930370+00:00",
   "national": [
     {
-      "title": "Penumpang TransJ Meninggal di Halte CSW, Punya Riwayat Penyakit Gula",
-      "summary": "Seorang penumpang bus TransJakarta berinisial TU (52) meninggal dunia di halte CSW, Jakarta Selatan, pada Selasa (24/11) pagi.",
-      "url": "https://www.cnnindonesia.com/nasional/20261124172012-20-1430963/penumpang-transjakarta-meninggal-di-halte-csw-diduga-karena-sakit",
+      "title": "Terlilit Utang, Polisi Bersenjata Api Rampok Toko Emas di Aceh",
+      "summary": "Seorang anggota Polri dan rekannya ditangkap usai merampok toko emas di Aceh. Aksi ini dipicu masalah utang dan melibatkan senjata api.",
+      "url": "https://www.cnnindonesia.com/nasional/20261124171129-12-1430960/terlilit-utang-polisi-bersenjata-api-rampok-toko-emas-di-aceh",
       "source": "CNN Indonesia",
-      "published": "2026-11-24T10:41:16+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2024/02/04/ilustrasi-korban-tewas_169.jpeg?w=360&q=90"
+      "published": "2026-11-24T10:51:22+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2023/05/30/ilustrasi-penangkapan-3_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "DPRD setujui APBD DKI 2027 sebesar Rp86,31 triliun",
+      "summary": "Dewan Perwakilan Rakyat Daerah (DPRD) DKI Jakarta menyetujui Rancangan Anggaran Pendapat dan Belanja Daerah (RAPBD) ...",
+      "url": "https://www.antaranews.com/berita/5875211/dprd-setujui-apbd-dki-2027-sebesar-rp8631-triliun",
+      "source": "ANTARA",
+      "published": "2026-11-24T10:44:49+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/24/1000366575.jpg"
     },
     {
       "title": "Adik Kim Jong Un Ancam Tutup Kantor Diplomatik Swiss, Ada Apa?",
@@ -16,24 +24,24 @@
       "source": "Detik",
       "published": "2026-11-24T10:35:15+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/24/kim-yo-jong-1795516462270_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "IHSG ditutup menguat ikuti bursa Asia dipicu optimisme baru sektor AI",
-      "summary": "Indeks Harga Saham Gabungan (IHSG) Bursa Efek Indonesia (BEI) pada Selasa sore ditutup menguat mengikuti bursa kawasan ...",
-      "url": "https://www.antaranews.com/berita/5875119/ihsg-ditutup-menguat-ikuti-bursa-asia-dipicu-optimisme-baru-sektor-ai",
-      "source": "ANTARA",
-      "published": "2026-11-24T10:12:45+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/12/ihsg-ditutup-menguat-13587-poin-2905843.jpg"
     }
   ],
   "international": [
     {
-      "title": "Nvidia shares fall in premarket trading as Jensen Huang’s return sparks US political backlash – business live",
-      "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Republican senators criticize Nvidia’s decision to reinstate Jensen Huang Jensen Huang’s return to Nvidia, despite concerns over his conduct and the supply of AI chips to China, may show that AI – and Huang himself – are ‘too big to fail’. That phrase was on everyone’s lips almost 20 years ago when the Global Financial Crisis struck, and several major banks were bailed out. Given Nvidia’s pivotal role in the AI capex rollout, the implications of Huang’s reinstatement could be profound. Borrowing from the GFC, are some technology CEOs now so systemically important to the future of AI and US leadership in the latest technology revolution that they cannot be fired? Questions around the scale of financing required and future monetisation remain, and the dependence on Huang for the future success of AI may paradoxically heighten those concerns especially given Anthropic fell despite yesterday’s broad market rally. “We must investigate these actions. No president who has invested in a private company should be involved in their board decisions. Congress must come together in swift bipartisan action and demand answers immediately.” Continue reading...",
-      "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+      "title": "EU to impose cap on Chinese hybrid EV imports next month",
+      "summary": "Temporary quotas on vehicles entering the bloc tariff-free will also apply to cars from the UK, Japan and Turkey Business live – latest updates The EU will next month impose its threatened caps on the number of Chinese hybrid cars that can be imported into the bloc without facing a tariff, the European Commission has announced. The quotas will also apply to hybrids from Japan, Turkey, South Korea and the UK, but the principal purpose is to limit imports from China after an agreement with Beijing in October that has led to a rise in exports to the bloc. Continue reading...",
+      "url": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk",
       "source": "The Guardian",
-      "published": "2026-11-24T10:22:13+00:00",
-      "image": "https://i.guim.co.uk/img/media/30fc76bd30efe5d66ac748713f3618bbbd5c2e19/667_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=a3faab04167bfd13a005e3b94b37a495"
+      "published": "2026-11-24T10:59:40+00:00",
+      "image": "https://i.guim.co.uk/img/media/98dafebbb2f563aff059cc3b9f77cd32f0173ea0/1495_338_4286_3429/master/4286.jpg?width=140&quality=85&auto=format&fit=max&s=978e8c7203cec588db4189a9dc62e019"
+    },
+    {
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-24T10:58:51+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9e8/live/05da8d30-e7d7-11f1-a094-5fdc692f3e33.jpg"
     },
     {
       "title": "Why S Korea issued air raid alert after Russian jets flew near its airspace",
@@ -42,15 +50,11 @@
       "source": "Al Jazeera",
       "published": "2026-11-24T09:53:55+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0542cecf24-1795506894.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-      "summary": "Nvidia had come under pressure from President Trump to reappoint Huang, whose comeback helped add $1tn to the company's stock value.",
-      "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-24T09:42:54+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: TimeoutError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
