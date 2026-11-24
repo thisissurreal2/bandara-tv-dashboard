@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T17:45:27.032737+00:00",
+  "updated_at": "2026-11-24T18:00:40.799750+00:00",
   "national": [
     {
       "title": "Ratusan WNI Diduga Terlibat Jaringan Online Scam di Filipina",
@@ -32,16 +32,16 @@
       "summary": "Youngest title match in chess history starts Tuesday Sindarov and Gukesh open Game 1 with Berlin defense Explainer: all your pre-match questions, answered Preview: Gukesh vows to win title ‘all over again’ Sindarov interview: ‘I can’t play games just for fun’ Play through 22 famous world championship games Bluesky Bryan at @BryanAGraham or email him The players have shaken hands and we’re off! We have a Berlin defense of the Ruy Lopez ( 1 e4 e5 2 Nf3 Nc6 3 Bb5 Nf6 ), one of the most thoroughly analyzed openings in modern chess. The Berlin famously helped Vladimir Kramnik dethrone Garry Kasparov in their 2000 world title match in London and has been a staple of elite chess ever since, earning a reputation as one of black’s most reliable weapons against 1 e4. Continue reading...",
       "url": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
       "source": "The Guardian",
-      "published": "2026-11-24T17:27:14+00:00",
+      "published": "2026-11-24T17:44:54+00:00",
       "image": "https://i.guim.co.uk/img/media/47e448ea1820c92474f615b713655bba8e109163/418_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=548b4fe70fa59abac33c4720153dd1b9"
     },
     {
-      "title": "After Libya, where will Ukraine strike Russia next?",
-      "summary": "From Libya to Sudan and Mali, Ukraine is targeting Russia's military networks across Africa.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/after-libya-where-will-ukraine-strike-russia-next?traffic_source=rss",
+      "title": "Five tonnes of explosives set to blow up in Iowa",
+      "summary": "The US Army is preparing to detonate nearly five tonnes of unstable explosives in Iowa on Wednesday.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/five-tonnes-of-explosives-set-to-blow-up-in-iowa?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-24T17:05:45+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795539850.jpg?resize=1920%2C1080&quality=80"
+      "published": "2026-11-24T17:33:41+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795541553.jpg?resize=1920%2C1080&quality=80"
     },
     {
       "title": "Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/982f/live/ca95f8e0-e82b-11f1-88dc-fb4bdfcec8cb.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
