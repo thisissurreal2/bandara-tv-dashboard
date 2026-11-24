@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T19:30:33.545376+00:00",
+  "updated_at": "2026-11-24T19:45:30.589134+00:00",
   "national": [
     {
       "title": "Pemotor Tewas Tertimpa Pohon Tumbang Saat Melintas di Musi Rawas Sumsel",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Nvidia CEO Jensen Huang apologizes to staff: ‘I made some terrible mistakes’",
+      "summary": "Huang acknowledges he violated code of conduct by having affairs, but denied Trump was instrumental in his return Nvidia CEO Jensen Huang apologized to staff on Tuesday for the tumult he’s caused at the company. He acknowledged he violated the code of conduct for having extramarital affairs, but pushed back on the reports that Donald Trump was instrumental in his reinstatement as chief executive. “I made some terrible mistakes,” he said, according to a livestream reviewed by the New York Times . “I was unfaithful to Lori, and I hurt my kids and, of course, I hurt all of you.” Continue reading...",
+      "url": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff",
+      "source": "The Guardian",
+      "published": "2026-11-24T19:41:16+00:00",
+      "image": "https://i.guim.co.uk/img/media/fb7cea8324429d0c2d9d41c175ee031e5f37efef/0_0_1280_1024/master/1280.jpg?width=140&quality=85&auto=format&fit=max&s=e03187bac627525555158a8262bf4283"
+    },
+    {
       "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
       "summary": "A South African fighter pilot and a Ugandan officer are reportedly among those aboard the downed plane.",
       "url": "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o?at_medium=RSS&at_campaign=rss",
@@ -42,15 +50,11 @@
       "source": "Al Jazeera",
       "published": "2026-11-24T19:22:44+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2022/05/2022-05-01T105125Z_349816858_RC29YT9KV71D_RTRMADP_3_UKRAINE-CRISIS-EU.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju and Javokhir Sindarov play to 38-move draw – live reaction",
-      "summary": "Sindarov and Gukesh play to 38-move draw in Game 1 Explainer: all your pre-match questions, answered Sindarov interview: ‘I can’t play games just for fun’ Play through 22 famous world championship games Bluesky Bryan at @BryanAGraham or email him The players have shaken hands and we’re off! We have a Berlin defense of the Ruy Lopez ( 1 e4 e5 2 Nf3 Nc6 3 Bb5 Nf6 ), one of the most thoroughly analyzed openings in modern chess. The Berlin famously helped Vladimir Kramnik dethrone Garry Kasparov in their 2000 world title match in London and has been a staple of elite chess ever since, earning a reputation as one of black’s most reliable weapons against 1 e4. Continue reading...",
-      "url": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
-      "source": "The Guardian",
-      "published": "2026-11-24T19:13:45+00:00",
-      "image": "https://i.guim.co.uk/img/media/47e448ea1820c92474f615b713655bba8e109163/418_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=548b4fe70fa59abac33c4720153dd1b9"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: TimeoutError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
