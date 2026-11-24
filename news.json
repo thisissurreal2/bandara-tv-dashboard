@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-24T12:30:35.730048+00:00",
+  "updated_at": "2026-11-24T12:45:29.929188+00:00",
   "national": [
     {
-      "title": "Jelang Penetapan UMK, Buruh Jatim Aksi di Kantor Gubernur Besok",
-      "summary": "Sebanyak 17.295 buruh yang tergabung dalam aliansi Gerakan Serikat Pekerja (GASPER) Jawa Timur akan melakukan aksi demonstrasi di Kantor Gubernur Jawa Timur.",
-      "url": "https://www.cnnindonesia.com/nasional/20261124192117-20-1431002/jelang-penetapan-umk-buruh-jatim-aksi-di-kantor-gubernur-besok",
+      "title": "Polda Banten: Kebakaran Baduy Bukan Sabotase, Api Berasal dari Tungku",
+      "summary": "Kebakaran di Baduy Luar disebabkan tungku yang lupa dimatikan. Polda Banten memastikan tidak ada unsur kesengajaan. 44 keluarga terdampak, kerugian Rp3 miliar.",
+      "url": "https://www.cnnindonesia.com/nasional/20261124191719-12-1431000/polda-banten-kebakaran-baduy-bukan-sabotase-api-berasal-dari-tungku",
       "source": "CNN Indonesia",
-      "published": "2026-11-24T12:27:03+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2020/10/08/demo-tolak-omnibus-law-di-surabaya-1_169.jpeg?w=360&q=90"
+      "published": "2026-11-24T12:40:45+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/20/kondisi-permukiman-adat-baduy-rata-dengan-tanah-imbas-kebakaran-1795178565064_169.jpeg?w=360&q=90"
     },
     {
       "title": "Satgas PRR-Kemenag Bangun Kembali MIN 5 Pidie Jaya Pascabanjir Sumatera",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Nvidia shares fall in premarket trading as Jensen Huang’s return sparks US political backlash – business live",
-      "summary": "Republicans and Democrats object over Trump’s role in Jensen Huang’s return as Nvidia CEO, following an affair with an alleged Chinese spy Republican senators criticize Nvidia’s decision to reinstate Jensen Huang Congress to grill Jensen Huang over ties with China and Trump’s intervention Jensen Huang’s return to Nvidia, despite concerns over his conduct and the supply of AI chips to China, may show that AI – and Huang himself – are ‘too big to fail’. That phrase was on everyone’s lips almost 20 years ago when the Global Financial Crisis struck, and several major banks were bailed out. Given Nvidia’s pivotal role in the AI capex rollout, the implications of Huang’s reinstatement could be profound. Borrowing from the GFC, are some technology CEOs now so systemically important to the future of AI and US leadership in the latest technology revolution that they cannot be fired? Questions around the scale of financing required and future monetisation remain, and the dependence on Huang for the future success of AI may paradoxically heighten those concerns especially given Anthropic fell despite yesterday’s broad market rally. “We must investigate these actions. No president who has invested in a private company should be involved in their board decisions. Congress must come together in swift bipartisan action and demand answers immediately.” Continue reading...",
-      "url": "https://www.theguardian.com/business/live/2026/nov/24/jensen-huang-nvidia-stock-markets-ai-trade-us-political-backlash-donald-trump-latest-news-updates",
+      "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju v Javokhir Sindarov – live",
+      "summary": "Youngest title match in chess history starts Tuesday First move at 3pm local (2pm GMT, 9am EST, 7.30pm IST) Explainer: all your pre-match questions, answered Preview: Gukesh vows to win title ‘all over again’ Sindarov interview: ‘I can’t play games just for fun’ Play through 22 famous world championship games Bluesky Bryan at @BryanAGraham or email him Hello and welcome to Geneva for day one of the World Chess Championship. Over the next three weeks, India’s defending champion Gukesh Dommaraju and Javokhir Sindarov of Uzbekistan will compete in a scheduled best-of-14-games match for the sport’s most prestigious title and a share of a $2.5m prize fund. The setting is the Fondation Martin Bodmer in Cologny, an affluent suburb overlooking Lake Geneva, where the two 20-year-olds will make history as the youngest pairing ever to contest a world championship match in the competition’s 140-year history. Gukesh became the youngest undisputed world chess champion in history when he defeated China’s Ding Liren in Singapore in December 2024, aged just 18, shattering the record held by Garry Kasparov, who was 22 when he dethroned Anatoly Karpov in 1985. An aggressive player known for creating sharp, tactically complex positions aimed at unsettling opponents, the Chennai-born grandmaster has struggled badly for form since winning the crown, sliding from a career-high No 3 to No 26 in the world rankings and raising questions over his chances of retaining the title in his first defense. Continue reading...",
+      "url": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
       "source": "The Guardian",
-      "published": "2026-11-24T12:29:35+00:00",
-      "image": "https://i.guim.co.uk/img/media/30fc76bd30efe5d66ac748713f3618bbbd5c2e19/667_0_3333_2668/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=a3faab04167bfd13a005e3b94b37a495"
+      "published": "2026-11-24T12:43:18+00:00",
+      "image": "https://i.guim.co.uk/img/media/1402001ee84ede078095fac17b4c17fbf5f37aa6/415_0_3875_3100/master/3875.jpg?width=140&quality=85&auto=format&fit=max&s=9307260482c0b6e84cf272b0e62f873c"
     },
     {
       "title": "Car bomb tears through Colombian city wounding more than 20",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20251229__899A8MG__v1__HighRes__IsraeliPmBenjaminNetanyahuVisits-1795408044.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: TimeoutError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
