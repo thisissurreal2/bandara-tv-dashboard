@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-24T05:30:32.310717+00:00",
+  "updated_at": "2026-11-24T05:45:26.783929+00:00",
   "national": [
     {
-      "title": "Komjen Rudi Darmoko Pimpin Sidang Etik Slamet Uliandi Besok",
-      "summary": "Mabes Polri menyatakan sidang etik Irjen Slamet Uliandi terkait penyadapan ilegal akan dipimpin oleh Kalemdiklat Polri Komjen Rudi Darmoko.",
-      "url": "https://www.cnnindonesia.com/nasional/20261124120212-12-1430756/komjen-rudi-darmoko-pimpin-sidang-etik-slamet-uliandi-besok",
+      "title": "Peran Brigjen Tedjo di Kasus Makar: Buntuti Calon Kapolri dan Pejabat",
+      "summary": "Bareskrim mengungkapkan keterlibatan Brigjen Tedjo dalam surveillance ilegal terhadap tokoh negara. Enam orang ditetapkan sebagai tersangka makar.",
+      "url": "https://www.cnnindonesia.com/nasional/20261124121907-12-1430763/peran-brigjen-tedjo-di-kasus-makar-buntuti-calon-kapolri-dan-pejabat",
       "source": "CNN Indonesia",
-      "published": "2026-11-24T05:14:53+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/17/eko-hadi-jalani-sidang-etik-kasus-penyadapan-1794893752261_169.jpeg?w=360&q=90"
+      "published": "2026-11-24T05:40:58+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/10/sidang-etik-eks-kadiv-hukum-polri-irjen-ahrie-sonta-1794322248534_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "BNN Bongkar TPPU Rp 57,7 M Bandar Narkoba, Sita 11 Mobil hingga Coffee Shop",
+      "summary": "BNN membongkar kasus pencucian uang Rp 57,7 miliar dari bandar narkoba AA. Penyitaan mencakup mobil, uang tunai, dan sebuah coffee shop di Yogyakarta.",
+      "url": "https://news.detik.com/berita/d-8767274/bnn-bongkar-tppu-rp-57-7-m-bandar-narkoba-sita-11-mobil-hingga-coffee-shop",
+      "source": "Detik",
+      "published": "2026-11-24T05:33:25+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/24/bnn-ri-menyita-11-mobil-dari-hasil-membongkar-kasus-tppu-senilai-rp-577-miliar-dari-bandar-narkoba-berinisial-aa-1795498246962_169.jpeg?w=360&q=90"
     },
     {
       "title": "Alur pemilihan wakil presiden oleh MPR",
@@ -16,14 +24,6 @@
       "source": "ANTARA",
       "published": "2026-11-24T05:00:00+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/24/20261124-Alur-pemilihan-wakil-presiden-oleh-MPR.jpg"
-    },
-    {
-      "title": "Pertama Kali Terima 10 Dubes Asing Termasuk RI, Kim Jong Un Beri Pesan Ini",
-      "summary": "Di hadapan para Dubes asing, termasuk RI, Kim Jong Un menegaskan akan berupaya memperluas hubungan luar negeri, sembari tetap menjaga kedaulatan Korut.",
-      "url": "https://news.detik.com/internasional/d-8767196/pertama-kali-terima-10-dubes-asing-termasuk-ri-kim-jong-un-beri-pesan-ini",
-      "source": "Detik",
-      "published": "2026-11-24T04:56:25+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/24/kim-jong-un-berpidato-di-hadapan-10-duta-besar-asing-termasuk-dari-indonesia-dalam-seremoni-penerimaan-surat-kepercayaan-di-py-1795495827850_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
@@ -32,7 +32,7 @@
       "summary": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update. Unlike the federal budget, where we get plenty of notice of when it will be handed down, the government only gives us a few days notice for the mid-financial year economic and fiscal outlook (or Myefo). There’s still a fair bit of work to do to finalise it all, but we’ve made enough progress to be confident that at this stage there will be a modest net save in the budget. We’re not going to slash and burn in the budget where that would impact the payments that people receive or where it would impact some of the more sensitive parts of the economy. But we haven’t focused the savings on just one portfolio. There will be a number of savings in the mid-year update. They will be substantial, as I said. These are serious times. You can see in the quite extraordinary reaction on the stock market just how volatile global markets are right now. I think it’s a bit of a symbol of the quite extraordinary volatility, unpredictability that we’re seeing play out in markets in the AI sector, but more broadly as well. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-24T05:06:32+00:00",
+      "published": "2026-11-24T05:22:20+00:00",
       "image": "https://i.guim.co.uk/img/media/d9986cfb67bf7d66b96cd3b14d5e4bdb388902ba/558_0_5575_4460/master/5575.jpg?width=140&quality=85&auto=format&fit=max&s=c9b3d6c247e3a8c6043a10c696f48094"
     },
     {
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c94d/live/cfb736f0-e78a-11f1-a5c2-c57ab9df3111.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
