@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T02:00:39.841069+00:00",
+  "updated_at": "2026-11-24T02:15:25.966878+00:00",
   "national": [
     {
       "title": "MK Putuskan Perubahan UU Polri Cacat Formil",
@@ -32,7 +32,7 @@
       "summary": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update. Unlike the federal budget, where we get plenty of notice of when it will be handed down, the government only gives us a few days notice for the mid-financial year economic and fiscal outlook (or Myefo). There’s still a fair bit of work to do to finalise it all, but we’ve made enough progress to be confident that at this stage there will be a modest net save in the budget. We’re not going to slash and burn in the budget where that would impact the payments that people receive or where it would impact some of the more sensitive parts of the economy. But we haven’t focused the savings on just one portfolio. There will be a number of savings in the mid-year update. They will be substantial, as I said. These are serious times. You can see in the quite extraordinary reaction on the stock market just how volatile global markets are right now. I think it’s a bit of a symbol of the quite extraordinary volatility, unpredictability that we’re seeing play out in markets in the AI sector, but more broadly as well. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-24T01:43:11+00:00",
+      "published": "2026-11-24T01:58:16+00:00",
       "image": "https://i.guim.co.uk/img/media/4582e3b6ff747315010e630a6331495bd6195f2c/417_0_2953_2363/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=265dc46605b0941d0a9dc6a3f5001195"
     },
     {
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a66/live/7c413f70-e78a-11f1-a5c2-c57ab9df3111.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
