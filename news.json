@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-24T19:00:38.022743+00:00",
+  "updated_at": "2026-11-24T19:15:38.158049+00:00",
   "national": [
     {
-      "title": "China Selidik Korupsi Eks Walkot Beijing Elite Politbiro Partai Komunis",
-      "summary": "Chen Jining, pemimpin Partai Komunis China di Shanghai, diselidiki atas pelanggaran disiplin. Ini menandakan perluasan kampanye antikorupsi Xi Jinping.",
-      "url": "https://news.detik.com/internasional/d-8768518/china-selidik-korupsi-eks-walkot-beijing-elite-politbiro-partai-komunis",
+      "title": "Pemotor Tewas Tertimpa Pohon Tumbang Saat Melintas di Musi Rawas Sumsel",
+      "summary": "Seorang pengendara motor asal Jambi, Hery Sugianto, tewas tertimpa pohon tumbang di Musi Rawas. Kejadian terjadi saat ia melintas di Jalinsum.",
+      "url": "https://news.detik.com/berita/d-8768522/pemotor-tewas-tertimpa-pohon-tumbang-saat-melintas-di-musi-rawas-sumsel",
       "source": "Detik",
-      "published": "2026-11-24T18:01:45+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2024/07/11/sebuah-bendera-china-yang-sedang-berkibar-di-depan-mesin-pengangkut-kargo-di-pelabuhan-di-china_169.jpeg?w=360&q=90"
+      "published": "2026-11-24T19:06:56+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/24/polisi-melakukan-olah-tkp-kecelakaan-di-musi-rawas-1795533978212_169.jpeg?w=360&q=90"
     },
     {
       "title": "Mahasiswa Minta RUU Penyadapan Perjelas Batas Kewenangan Aparat",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
+      "title": "Israel’s Ben-Gvir accused of seeking ‘religious war’ over mosque raids",
+      "summary": "Israeli police have confiscated mosque loudspeakers as far-right lawmakers push legislation to restrict call to prayer.",
+      "url": "https://www.aljazeera.com/news/2026/11/24/israels-ben-gvir-accused-of-seeking-religious-war-over-mosque-raids?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-24T19:02:49+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b05d7d4e2386-1795545044.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "US attorney general dodges questions about Nvidia investigation",
       "summary": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
       "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-24T18:55:59+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/982f/live/ca95f8e0-e82b-11f1-88dc-fb4bdfcec8cb.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/067a/live/dc6baca0-e839-11f1-a094-5fdc692f3e33.png"
     },
     {
       "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju and Javokhir Sindarov play to 38-move draw – live reaction",
@@ -42,19 +50,7 @@
       "source": "The Guardian",
       "published": "2026-11-24T18:54:54+00:00",
       "image": "https://i.guim.co.uk/img/media/47e448ea1820c92474f615b713655bba8e109163/418_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=548b4fe70fa59abac33c4720153dd1b9"
-    },
-    {
-      "title": "Senior Hamas security official killed in Israeli drone strikes",
-      "summary": "A senior Hamas security official has been killed in a series of Israeli strikes across Gaza",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/senior-hamas-security-official-killed-in-israeli-drone-strikes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-24T18:20:00+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795544391.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
