@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-24T15:15:26.117068+00:00",
+  "updated_at": "2026-11-24T15:20:37.039011+00:00",
   "national": [
+    {
+      "title": "Dasco Temui Prabowo di Istana Merdeka",
+      "summary": "Presiden Prabowo melakukan pertemuan tertutup dengan Wakil Ketua DPR Sufmi Dasco di Istana Merdeka.",
+      "url": "https://www.cnnindonesia.com/nasional/20261124220537-32-1431060/dasco-temui-prabowo-di-istana-merdeka",
+      "source": "CNN Indonesia",
+      "published": "2026-11-24T15:18:04+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/24/prabowo-subianto-bertemu-sufmi-dasco-ahmad-1795533394229_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Prabowo Bertemu 4 Mata dengan Dasco di Istana, Apa yang Dibahas?",
       "summary": "Presiden Prabowo Subianto bertemu Wakil Ketua DPR Sufmi Dasco Ahmad selama dua jam di Istana. Apa saja yang dibahas?",
@@ -15,25 +23,17 @@
       "url": "https://www.antaranews.com/berita/5876007/kemenekraf-meningkatkan-kapasitas-fesyen-aceh-tembus-pasar-global",
       "source": "ANTARA",
       "published": "2026-11-24T14:56:23+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/24/WhatsApp-Image-2026-11-24-at-20.32.34_1.jpeg"
-    },
-    {
-      "title": "Satu Jenazah Korban Kebakaran Pabrik Permen Cikande Teridentifikasi",
-      "summary": "Satu jenazah korban kebakaran pabrik permen PT Fonusa Agung Mulia teridentifikasi sebagai Muhamad Ma'rupin dan telah dimakamkan oleh keluarga.",
-      "url": "https://www.cnnindonesia.com/nasional/20261124214424-20-1431056/satu-jenazah-korban-kebakaran-pabrik-permen-cikande-teridentifikasi",
-      "source": "CNN Indonesia",
-      "published": "2026-11-24T14:55:32+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/23/ancaman-penjara-6-tahun-intai-pabrik-permen-cikande-1795440161927_169.jpeg?w=360&q=90"
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/24/WhatsApp-Image-2026-11-24-at-20.32.34.jpg"
     }
   ],
   "international": [
     {
-      "title": "World Chess Championship 2026 Game 1: Gukesh Dommaraju v Javokhir Sindarov – live",
-      "summary": "Youngest title match in chess history starts Tuesday Sindarov and Gukesh open Game 1 with Berlin defense Explainer: all your pre-match questions, answered Preview: Gukesh vows to win title ‘all over again’ Sindarov interview: ‘I can’t play games just for fun’ Play through 22 famous world championship games Bluesky Bryan at @BryanAGraham or email him The players have shaken hands and we’re off! We have a Berlin defense of the Ruy Lopez ( 1 e4 e5 2 Nf3 Nc6 3 Bb5 Nf6 ), one of the most thoroughly analyzed openings in modern chess. The Berlin famously helped Vladimir Kramnik dethrone Garry Kasparov in their 2000 world title match in London and has been a staple of elite chess ever since, earning a reputation as one of black’s most reliable weapons against 1 e4. Continue reading...",
-      "url": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
+      "title": "Proposals in Timms review for changes to Pip would lead to higher welfare bill, IFS says – UK politics live",
+      "summary": "Social security minister has been overseeing review designed to ‘rehumanise’ the system but Tories say it will lead to higher spending and fewer checks Ministers approve fast-track disability payments in England and Wales Q: [From Ali Fortescue from Sky News] We have done an interview with Rishi Sunak who says he is very concerned about the rise of ethnonationalism, and particularly with the suggestion from Suella Braverman, Reform UK’s education spokesperson, that people of Asian heritage can’t be English . Do you agree with him about that, and are you going to do anything about it? Farage replied: I’m very worried about it and I think you can see with the online right, both in this country and America, some pretty extraordinary things being said that would have been unthinkable even a handful of years ago … So, yes, there is a rise in ethnonationalism. I’ve fought this all my career. No one did more to beat the BNP than me. I view it as an unwelcome debate and I don’t want to hear anything about it again. Is that clear? I do not trust the Conservative party on this issue. I trusted them back in 2019. I felt it was the right thing to do. I will never trust them again. And there’s no evidence to suggest that many of millions of others should do so. Continue reading...",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-24T14:59:10+00:00",
-      "image": "https://i.guim.co.uk/img/media/47e448ea1820c92474f615b713655bba8e109163/418_0_4164_3333/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=548b4fe70fa59abac33c4720153dd1b9"
+      "published": "2026-11-24T15:12:27+00:00",
+      "image": "https://i.guim.co.uk/img/media/fc9b07de39a2037404bfbc03df3dfcd84bce2add/654_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=25594e3d1d0106ddee0d88dad4e782f0"
     },
     {
       "title": "Russia tows it cargo ship back home after Ukrainian drone attack",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db31/live/1b41ee00-e7f7-11f1-ab60-79086b6495b8.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
