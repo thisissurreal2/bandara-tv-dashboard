@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-24T20:30:32.790940+00:00",
+  "updated_at": "2026-11-24T20:45:28.956567+00:00",
   "national": [
+    {
+      "title": "32 Jaksa Dikerahkan Usut Kasus Penyadapan dan Makar Listyo Sigit Cs",
+      "summary": "Kejaksaan Agung menunjuk 32 jaksa untuk mengusut kasus makar dan penyadapan terhadap Presiden Prabowo, yang melibatkan mantan Kapolri.",
+      "url": "https://www.cnnindonesia.com/nasional/20261124221107-12-1431061/32-jaksa-dikerahkan-usut-kasus-penyadapan-dan-makar-listyo-sigit-cs",
+      "source": "CNN Indonesia",
+      "published": "2026-11-24T20:30:08+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/03/ahrie-sonta-1793700508343_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Gagal Merampok, Kelompok Bersenjata Sandera 25 Orang di Supermarket Kolombia",
       "summary": "Sekelompok pria bersenjata menyandera 25 orang di supermarket Cartagena, Kolombia. Operasi besar-besaran polisi dilakukan.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-24T20:00:56+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/25/penyanderaan-di-kolombia-1795546697495_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Mahasiswa Minta RUU Penyadapan Perjelas Batas Kewenangan Aparat",
-      "summary": "Revisi RUU Penyadapan diminta untuk memperjelas kewenangan aparat hukum hingga pengawasan dan perlindungan data pribadi.",
-      "url": "https://www.cnnindonesia.com/nasional/20261124220010-12-1431058/mahasiswa-minta-ruu-penyadapan-perjelas-batas-kewenangan-aparat",
-      "source": "CNN Indonesia",
-      "published": "2026-11-24T18:00:11+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2024/08/23/demo-tolak-revisi-uu-pilkada-di-kpu-1_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo bertemu empat mata dengan Dasco di Istana selama dua jam",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Australian politics live: Chalmers notes ‘serious moment for our economy’; inflation expected to jump to 4.8%",
-      "summary": "Get our daily political email , free app or daily news podcast Good morning Krishani Dhanji here with you for the second-last sitting day of the year. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
-      "source": "The Guardian",
-      "published": "2026-11-24T20:08:55+00:00",
-      "image": "https://i.guim.co.uk/img/media/225db5ddbf67036e02aa877e209fa7a017281505/868_768_3204_2565/master/3204.jpg?width=140&quality=85&auto=format&fit=max&s=85e5b45b6c5cfbb4be355f9033b66c76"
+      "title": "Libya’s Haftar visits Turkiye days after Ukraine hits Russian warship",
+      "summary": "Ahead of Erdogan’s Libya trip, Haftar’s visit suggests Turkiye seeks another way to bring the country's rivals together.",
+      "url": "https://www.aljazeera.com/news/2026/11/24/libyas-haftar-visits-turkiye-days-after-ukraine-hits-russian-warship?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-24T20:35:03+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/IMG_5435-1795549817.jpg?resize=1920%2C1381"
     },
     {
-      "title": "Turkish military helicopter crash kills five in western Turkiye",
-      "summary": "The Defence Ministry did not elaborate on the cause of the crash, days after another deadly army helicopter accident.",
-      "url": "https://www.aljazeera.com/news/2026/11/24/turkish-military-helicopter-crash-kills-five-in-western-turkiye?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-24T19:52:21+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b05e40274-1795548162.jpg?resize=1920%2C1440"
+      "title": "Australian politics live: Chalmers notes ‘serious moment for our economy’; inflation expected to jump to 4.8%",
+      "summary": "Get our daily political email , free app or daily news podcast Coalition welcomes Solomon Islands dropping China pact Liberal leader, Angus Taylor , has welcomed the Solomon Islands scrapping its pact with Beijing and signing a treaty with Australia – with the leader, Matthew Wale , in Canberra today. Well, you do have to nurture these relationships. It’s important. Obviously, it depends on who’s leading, and we have a leader there now who is determined to drop that arrangement. And that is a good thing. We welcome it very much. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+      "source": "The Guardian",
+      "published": "2026-11-24T20:20:46+00:00",
+      "image": "https://i.guim.co.uk/img/media/225db5ddbf67036e02aa877e209fa7a017281505/868_768_3204_2565/master/3204.jpg?width=140&quality=85&auto=format&fit=max&s=85e5b45b6c5cfbb4be355f9033b66c76"
     },
     {
       "title": "DR Congo says military aircraft missing as rebels claim to shoot down plane",
