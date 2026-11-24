@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-24T04:00:37.289147+00:00",
+  "updated_at": "2026-11-24T04:15:26.842850+00:00",
   "national": [
+    {
+      "title": "Bupati Pekalongan nonaktif Fadia Arafiq Divonis 4 Tahun Penjara",
+      "summary": "Bupati Pekalongan nonaktif Fadia Arafiq dijatuhi hukuman 4 tahun penjara dan denda Rp200 juta dalam kasus korupsi pengadaan tenaga alih daya.",
+      "url": "https://www.cnnindonesia.com/nasional/20261124110107-12-1430723/bupati-pekalongan-nonaktif-fadia-arafiq-divonis-4-tahun-penjara",
+      "source": "CNN Indonesia",
+      "published": "2026-11-24T04:11:51+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/09/24/bupati-pekalongan-nonaktif-fadia-dituntut-5-tahun-penjara-1790228679119_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Samapta Polda Metro Bantu Penanganan Kebakaran Rumah Kontrakan di Tambora",
       "summary": "Personel Direktorat Samapta Polda Metro Jaya membantu penanganan kebakaran rumah kontrakan di Tambora, Jakarta Barat.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-24T03:55:45+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/24/personel-direktorat-samapta-polda-metro-jaya-membantu-penanganan-kebakaran-rumah-kontrakan-di-tambora-jakarta-barat-dok-ist-1795492531986_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Keluarga Harap Korban Kebakaran Pabrik Permen Segera Ditemukan",
-      "summary": "Keluarga Dea Puspita, pekerja hilang dalam kebakaran pabrik, menggelar doa bersama. Ayahnya berharap tim SAR segera menemukan putrinya untuk kepastian.",
-      "url": "https://www.cnnindonesia.com/nasional/20261124071448-20-1430640/keluarga-harap-korban-kebakaran-pabrik-permen-segera-ditemukan",
-      "source": "CNN Indonesia",
-      "published": "2026-11-24T03:45:43+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/23/ancaman-penjara-6-tahun-intai-pabrik-permen-cikande-1795440162050_169.jpeg?w=360&q=90"
     },
     {
       "title": "Mentan Amran sebut fokus layani petani usai masuk bursa Cawapres",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Australian politics live: Hanson-Young says digital duty of care bill will hit tech companies ‘where it hurts’; question time tribute to late MP Neil Andrew",
-      "summary": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update. Unlike the federal budget, where we get plenty of notice of when it will be handed down, the government only gives us a few days notice for the mid-financial year economic and fiscal outlook (or Myefo). There’s still a fair bit of work to do to finalise it all, but we’ve made enough progress to be confident that at this stage there will be a modest net save in the budget. We’re not going to slash and burn in the budget where that would impact the payments that people receive or where it would impact some of the more sensitive parts of the economy. But we haven’t focused the savings on just one portfolio. There will be a number of savings in the mid-year update. They will be substantial, as I said. These are serious times. You can see in the quite extraordinary reaction on the stock market just how volatile global markets are right now. I think it’s a bit of a symbol of the quite extraordinary volatility, unpredictability that we’re seeing play out in markets in the AI sector, but more broadly as well. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+      "title": "South Korea tells island residents to take shelter after Russian military aircraft approach",
+      "summary": "The order was issued after aircraft entered the country’s air defence identification zone over the island of Ulleungdo Residents of a remote South Korean island were ordered to take shelter on Tuesday morning after several Russian military aircraft came close to entering its airspace, prompting a pre-emptive alert from the military that anticipated a violation. The defence ministry said it would summon the Russian defence attaché on Tuesday afternoon to lodge a strong protest. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach",
       "source": "The Guardian",
-      "published": "2026-11-24T03:43:48+00:00",
-      "image": "https://i.guim.co.uk/img/media/cf99794a8a5f8989a92e0e64dfde972055492a8d/232_15_2441_1953/master/2441.jpg?width=140&quality=85&auto=format&fit=max&s=130f6d9aa9940eb55a570ba957e1fd79"
+      "published": "2026-11-24T04:14:43+00:00",
+      "image": "https://i.guim.co.uk/img/media/a64555d05e60fde8290f1489232b209ec8ba900c/996_199_4012_3210/master/4012.jpg?width=140&quality=85&auto=format&fit=max&s=3029f9b2443baacb8f134a3006fb300b"
     },
     {
       "title": "Mexico to try ‘El Chapo Isidro’ despite US extradition request",
@@ -44,13 +44,17 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b04dc46de6e-1795480646.jpg?resize=1920%2C1440"
     },
     {
-      "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
-      "summary": "BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
-      "url": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss",
+      "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+      "summary": "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+      "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-24T01:21:41+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f3b/live/388100e0-e7a3-11f1-99a1-253766e7ad8b.jpg"
+      "published": "2026-11-24T02:15:59+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1177/live/c8dee990-e7a8-11f1-96e2-87034e8ab973.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
