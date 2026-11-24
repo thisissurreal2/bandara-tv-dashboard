@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T04:43:15.304289+00:00",
+  "updated_at": "2026-11-24T04:45:29.660746+00:00",
   "national": [
     {
       "title": "Jelang Musim Hujan, Brimob Polda Metro Siapkan Tim Antisipasi Banjir",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b04dc46de6e-1795480646.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
