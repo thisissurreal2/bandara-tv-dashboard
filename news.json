@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-24T08:45:29.764715+00:00",
+  "updated_at": "2026-11-24T09:00:41.680026+00:00",
   "national": [
+    {
+      "title": "Respons Amran Sulaiman Jadi Cawapres: Berdoa yang Terbaik untuk Bangsa",
+      "summary": "Menteri Pertanian (Mentan) Andi Amran Sulaiman buka suara setelah namanya masuk dalam dua kandidat calon wapres yang diusulkan Presiden Prabowo Subianto.",
+      "url": "https://www.cnnindonesia.com/nasional/20261112084536-36-1426174/respons-amran-sulaiman-jadi-cawapres-berdoa-yang-terbaik-untuk-bangsa",
+      "source": "CNN Indonesia",
+      "published": "2026-11-24T08:49:38+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/24/thumbnail-video-1795501350413_169.jpeg?w=360&q=90"
+    },
     {
       "title": "RI-Inggris Perkuat Kerja Sama Ekonomi, Ini Sektor yang Dibidik",
       "summary": "Indonesia dan Inggris sepakat memperkuat kerja sama ekonomi melalui Economic Growth Partnership (EGP) untuk meningkatkan perdagangan dan investasi yang inklusif",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-24T08:39:23+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/24/indonesia-dan-inggris-mendorong-pengembangan-kerja-sama-ekonomi-melalui-kerangka-economic-growth-partnership-egp-yang-ditandat-1795509512168.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Paspampres Langsung Diterjunkan Kawal Wapres Baru Setelah Dilantik MPR",
-      "summary": "Paspampres akan mulai mengawal wakil presiden setelah pelantikan oleh MPR. Dua nama cawapres telah disetor Prabowo untuk mengisi jabatan kosong.",
-      "url": "https://www.cnnindonesia.com/nasional/20261124150019-20-1430862/paspampres-langsung-diterjunkan-kawal-wapres-baru-setelah-dilantik-mpr",
-      "source": "CNN Indonesia",
-      "published": "2026-11-24T08:15:16+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2024/08/16/pengamanan-jelang-sidang-tahunan-mpr-2_169.jpeg?w=360&q=90"
     },
     {
       "title": "MPR: Verifikasi faktual syarat cawapres digelar 25-26 November",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Russian drone violates Polish airspace days after cruise missiles fell on country – Europe live",
-      "summary": "Authorities investigating ‘intentional activity’ amid growing tensions between Moscow and countries on Nato’s eastern flank Meanwhile, the Financial Times is reporting this morning that the Pentagon is delaying the delivery of about 60 much-needed Patriot air defence interceptors to Ukraine. The interceptors, paid for by Ukraine’s western allies, are reportedly being held up by the US defence secretary, Pete Hegseth , who needs to sign off on their re-export, three people told the newspaper. Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
+      "title": "Timms to publish Pip review with call to ‘rehumanise’ benefit – UK politics live",
+      "summary": "Some recommendations expected to clash with those of Milburn’s recent report into Neets Good morning. Stephen Timms, the minister for social security and disability, will today publish the review he has been leading on the future of Pip (personal independence payment), Britain’s main disability benefit. He has been working on this for more than a year and he was appointed as Keir Starmer’s plans to cut welfare spending by £5bn (mostly by making it harder to claim Pip) were being wrecked by a Labour backbench revolt. The review was launched to allow the government to salvage some sort of reform from the wreckage, and to repair relations with the disability sector. This was never intended to be a cost-cutting exercise; the terms of reference said that the review would “operate within the Office for Budget Responsibility’s (OBR) projections for future Pip expenditure” – ie, it would assume planned spending on Pip remained the same – and it has been “co-produced” with disabled people. Claiming Pip can be fiendishly complicated, and the review was about making the benefit operate more effectively. When the review is published, the review will call for a fundamental overhaul to rehumanise Pip … There are a number of difficulties with the current system. Pip is a highly valued benefit but the current assessment is not fit for purpose, and tomorrow we will set out proposals to change it. We will set out the view that in addition to a cash benefit from Pip, which we are recommending should remain a cash-first benefit, there may well be services that would be helpful to people as part of their Pip award. The Motability scheme already enables many disabled people to enjoy the mobility that they would not otherwise be able to enjoy, and they choose to forgo part of their cash benefit in return for access to the scheme. We think that principle could be applied more widely with the Pip scheme. Continue reading...",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-24T08:42:52+00:00",
-      "image": "https://i.guim.co.uk/img/media/cf018dc3bc7e96d8df0fcb5cfa86d1e35725548b/341_0_2786_2229/master/2786.jpg?width=140&quality=85&auto=format&fit=max&s=4fcd80c439812aedc17d1f92f872526d"
+      "published": "2026-11-24T08:59:58+00:00",
+      "image": "https://i.guim.co.uk/img/media/c34b9b11284987598b8659d9195929937166bd23/456_0_4690_3751/master/4690.jpg?width=140&quality=85&auto=format&fit=max&s=c37ff96b3b2dc5433b3eec4f1cd161ce"
     },
     {
       "title": "DR Congo says aircraft missing as rebels claim to shoot down plane",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b017ad0c4d6-1795259088.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
