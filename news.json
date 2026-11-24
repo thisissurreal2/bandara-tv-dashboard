@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-24T12:45:29.929188+00:00",
+  "updated_at": "2026-11-24T13:00:38.451044+00:00",
   "national": [
     {
-      "title": "Polda Banten: Kebakaran Baduy Bukan Sabotase, Api Berasal dari Tungku",
-      "summary": "Kebakaran di Baduy Luar disebabkan tungku yang lupa dimatikan. Polda Banten memastikan tidak ada unsur kesengajaan. 44 keluarga terdampak, kerugian Rp3 miliar.",
-      "url": "https://www.cnnindonesia.com/nasional/20261124191719-12-1431000/polda-banten-kebakaran-baduy-bukan-sabotase-api-berasal-dari-tungku",
+      "title": "3 Bulan Tutup, Pendakian Semeru Dibuka Lagi 26 November 2026",
+      "summary": "Jalur pendakian Gunung Semeru dibuka kembali mulai 26 November 2026, dengan batas kunjungan hingga Ranu Kumbolo. Pendaftaran wajib dilakukan secara daring.",
+      "url": "https://www.cnnindonesia.com/nasional/20261124194453-20-1431020/3-bulan-tutup-pendakian-semeru-dibuka-lagi-26-november-2026",
       "source": "CNN Indonesia",
-      "published": "2026-11-24T12:40:45+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/20/kondisi-permukiman-adat-baduy-rata-dengan-tanah-imbas-kebakaran-1795178565064_169.jpeg?w=360&q=90"
+      "published": "2026-11-24T12:58:51+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/15/kawasan-tnbts-kembali-menghijau-pascakebakaran-1794728087397_169.jpeg?w=360&q=90"
     },
     {
       "title": "Satgas PRR-Kemenag Bangun Kembali MIN 5 Pidie Jaya Pascabanjir Sumatera",
@@ -32,16 +32,16 @@
       "summary": "Youngest title match in chess history starts Tuesday First move at 3pm local (2pm GMT, 9am EST, 7.30pm IST) Explainer: all your pre-match questions, answered Preview: Gukesh vows to win title ‘all over again’ Sindarov interview: ‘I can’t play games just for fun’ Play through 22 famous world championship games Bluesky Bryan at @BryanAGraham or email him Hello and welcome to Geneva for day one of the World Chess Championship. Over the next three weeks, India’s defending champion Gukesh Dommaraju and Javokhir Sindarov of Uzbekistan will compete in a scheduled best-of-14-games match for the sport’s most prestigious title and a share of a $2.5m prize fund. The setting is the Fondation Martin Bodmer in Cologny, an affluent suburb overlooking Lake Geneva, where the two 20-year-olds will make history as the youngest pairing ever to contest a world championship match in the competition’s 140-year history. Gukesh became the youngest undisputed world chess champion in history when he defeated China’s Ding Liren in Singapore in December 2024, aged just 18, shattering the record held by Garry Kasparov, who was 22 when he dethroned Anatoly Karpov in 1985. An aggressive player known for creating sharp, tactically complex positions aimed at unsettling opponents, the Chennai-born grandmaster has struggled badly for form since winning the crown, sliding from a career-high No 3 to No 26 in the world rankings and raising questions over his chances of retaining the title in his first defense. Continue reading...",
       "url": "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
       "source": "The Guardian",
-      "published": "2026-11-24T12:43:18+00:00",
+      "published": "2026-11-24T12:54:51+00:00",
       "image": "https://i.guim.co.uk/img/media/1402001ee84ede078095fac17b4c17fbf5f37aa6/415_0_3875_3100/master/3875.jpg?width=140&quality=85&auto=format&fit=max&s=9307260482c0b6e84cf272b0e62f873c"
     },
     {
-      "title": "Car bomb tears through Colombian city wounding more than 20",
-      "summary": "The explosion is the latest in a string of attacks on buildings housing the security forces and government offices.",
-      "url": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss",
+      "title": "Russian governor detained in rare criminal case against regional leader",
+      "summary": "Andrei Chibis, head of Russia's northern Murmansk region, is the first governor to be detained for five years.",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy868v3nneo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-24T11:45:52+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d18/live/326608e0-e7e9-11f1-8b26-c1adae33e7f2.jpg"
+      "published": "2026-11-24T12:45:43+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db31/live/1b41ee00-e7f7-11f1-ab60-79086b6495b8.jpg"
     },
     {
       "title": "The ‘eighth front’: Why Israel’s influence war in the US is failing",
@@ -53,7 +53,7 @@
     }
   ],
   "feed_warnings": [
-    "Detik: TimeoutError",
+    "Detik: URLError",
     "Detik: no fresh stories",
     "Detik: keeping previous story"
   ]
