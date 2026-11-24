@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-24T01:15:27.023641+00:00",
+  "updated_at": "2026-11-24T01:30:34.859236+00:00",
   "national": [
+    {
+      "title": "Alasan Erin Eks Istri Andre Taulany Tak Ditahan Kasus Penganiayaan ART",
+      "summary": "Polres Metro Jakarta Selatan tidak menahan Erin, mantan istri Andre Taulany, meski jadi tersangka penganiayaan. Erin dinilai kooperatif.",
+      "url": "https://www.cnnindonesia.com/nasional/20261124073405-12-1430643/alasan-erin-eks-istri-andre-taulany-tak-ditahan-kasus-penganiayaan-art",
+      "source": "CNN Indonesia",
+      "published": "2026-11-24T01:22:07+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2025/10/18/erin-taulany-1760776421590_169.png?w=360&q=90"
+    },
     {
       "title": "Mendagri Dorong Pemda Susun Produk Hukum yang Antisipatif-Ramah Investasi",
       "summary": "Mendagri Tito Karnavian dorong Pemda buat regulasi ramah investasi. Fokus pada kemudahan berusaha dan penguatan mal pelayanan publik untuk pertumbuhan ekonomi.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-24T01:10:42+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/24/kemendagri-1795482603128_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Jenderal Listyo Sigit di Pusaran Kasus Makar Demi Jabatan Kapolri",
-      "summary": "Mantan Kapolri Listyo Sigit Prabowo terlibat kasus dugaan makar. Enam tersangka ditetapkan, termasuk penyadapan ilegal terhadap Presiden Prabowo.",
-      "url": "https://www.cnnindonesia.com/nasional/20261124064854-12-1430632/jenderal-listyo-sigit-di-pusaran-kasus-makar-demi-jabatan-kapolri",
-      "source": "CNN Indonesia",
-      "published": "2026-11-24T01:10:03+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/10/21/ksp-listyo-1792539057941_169.jpeg?w=360&q=90"
     },
     {
       "title": "PBB: Lebih dari 360.000 orang mengungsi imbas konflik di Yaman",
@@ -32,16 +32,16 @@
       "summary": "Get our breaking news email , free app or daily news podcast The government will save more than it spends, says Jim Chalmers , but it won’t be a “slash and burn” budget update. Unlike the federal budget, where we get plenty of notice of when it will be handed down, the government only gives us a few days notice for the mid-financial year economic and fiscal outlook (or Myefo). There’s still a fair bit of work to do to finalise it all, but we’ve made enough progress to be confident that at this stage there will be a modest net save in the budget. We’re not going to slash and burn in the budget where that would impact the payments that people receive or where it would impact some of the more sensitive parts of the economy. But we haven’t focused the savings on just one portfolio. There will be a number of savings in the mid-year update. They will be substantial, as I said. These are serious times. You can see in the quite extraordinary reaction on the stock market just how volatile global markets are right now. I think it’s a bit of a symbol of the quite extraordinary volatility, unpredictability that we’re seeing play out in markets in the AI sector, but more broadly as well. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-24T00:57:11+00:00",
+      "published": "2026-11-24T01:13:49+00:00",
       "image": "https://i.guim.co.uk/img/media/dad87a81b46de52e23849eaa005c89599a6f7d6c/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=cd30f2d9bf885f797b33db3729922449"
     },
     {
-      "title": "US adds Megaspeed, firm at centre of Nvidia scandal, to export control list",
-      "summary": "Bureau of Security and Industry adds Singapore-based firm and six other entities to export control list.",
-      "url": "https://www.aljazeera.com/economy/2026/11/24/us-adds-megaspeed-firm-at-centre-of-nvidia-scandal-to-export-control-list?traffic_source=rss",
+      "title": "Israeli minister approves return of Flydubai flights",
+      "summary": "Final resumption of carrier's route between Dubai and Tel Aviv depends on Israeli security authorities' approval.",
+      "url": "https://www.aljazeera.com/news/2026/11/24/israeli-minister-approves-return-of-flydubai-flights?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-24T00:52:47+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261110__D6ZC99E__v2__MidRes__SingaporeUsNvidiaProbeEspionage-1795478283.jpg?resize=1200%2C630"
+      "published": "2026-11-24T01:09:51+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b04c2fd51-1795474173.jpg?resize=1920%2C1440"
     },
     {
       "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a66/live/7c413f70-e78a-11f1-a5c2-c57ab9df3111.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
