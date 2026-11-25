@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T17:45:29.104327+00:00",
+  "updated_at": "2026-11-25T18:00:40.152358+00:00",
   "national": [
     {
       "title": "Baleg DPR Tetapkan 62 RUU Prioritas 2027, Ini Daftarnya",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
-      "title": "Images of asteroid targeted to test Earth's defences reveal stadium-sized crater",
-      "summary": "The asteroid's surface was transformed after a spacecraft was deliberately crashed into it four years ago",
-      "url": "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo?at_medium=RSS&at_campaign=rss",
+      "title": "US stocks fall further as fears over AI intensify",
+      "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
+      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-25T17:30:16+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8562/live/1f8d5d00-e8ec-11f1-a094-5fdc692f3e33.jpg"
+      "published": "2026-11-25T17:48:09+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg"
     },
     {
-      "title": "Trump open to pardoning Jensen Huang if needed: ‘It’s always an option’",
-      "summary": "The president’s comments came after pressuring Nvidia’s board to reinstall Huang as CEO despite lawmakers’ concerns over national security Donald Trump said on Tuesday he would be open to pardoning Jensen Huang , the recently reinstalled Nvidia CEO , for potential crimes but didn’t think it would be necessary. “It’s always an option, I guess,” the US president told the New York Post in an interview. “But I don’t think it’ll be necessary.” Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-open-to-pardoning-jensen-huang-nvidia",
+      "title": "Burnham dismisses Badenoch’s criticism over influencer and declines to apologise for ‘vile video’ – UK politics live",
+      "summary": "Pair clashed at PMQs over a video shot outside No 10 by TikToker Max Balegde Diane Taylor is a Guardian reporter who covers migration. Britons get many of the facts about migration wrong and Reform UK voters are the group who get these facts most wrong, according to new research published today by King’s College University and YouGov. Among Reform UK supporters, 57% think net migration rose significantly in the year to June 2025, compared with 11% of Labour supporters and 8% of Greens. Eight in 10 Reform supporters think that asylum seekers are prioritised for social housing, compared with 21% of Green supporters. It is wrong to believe that if we could only correct misperceptions, we would automatically reduce concerns about immigration or policy preferences – because that misdiagnoses a large part of the cause, that these divides are partly driven by deep differences in values and identity. Continue reading...",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-25T17:21:10+00:00",
-      "image": "https://i.guim.co.uk/img/media/64ba8040e817c66db39566be7cfba8bd01500879/151_0_2828_2262/master/2828.jpg?width=140&quality=85&auto=format&fit=max&s=8c124bdcfcc2389342571364c56169b1"
+      "published": "2026-11-25T17:42:31+00:00",
+      "image": "https://i.guim.co.uk/img/media/e4bc143c5a0521d085a742a9218aba3012f9fd1b/0_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=596241e2b70961d6d0328a99b4f2b736"
     },
     {
-      "title": "Maduro turns 64 behind bars, son leads celebrations in Caracas",
-      "summary": "Nicolas Maduro’s son led birthday celebrations in Caracas as the detained former Venezuelan president turned 64",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/maduro-turns-64-behind-bars-son-leads-celebrations-in-caracas?traffic_source=rss",
+      "title": "Iraq’s top court rules government can take over Kurdish borders, oil fields",
+      "summary": "The ruling comes a day after Kurdish authorities accused Baghdad of an 'assault' on the region's constitutional rights.",
+      "url": "https://www.aljazeera.com/news/2026/11/25/iraqs-top-court-rules-government-can-take-over-kurdish-borders-oil-fields?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-25T17:05:35+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795626328.jpg?resize=1920%2C1080&quality=80"
+      "published": "2026-11-25T17:29:51+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b0090b5-1795199157.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
