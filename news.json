@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T19:30:35.209214+00:00",
+  "updated_at": "2026-11-25T19:45:26.593491+00:00",
   "national": [
     {
       "title": "Jajal Sydney Metro, Pramono Pelajari Integrasi Stasiun di Australia",
@@ -10,12 +10,12 @@
       "image": "https://akcdn.detik.net.id/visual/2026/11/25/pramono-anung-naik-sydney-metro-1795606855163_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Legislator Dukung Polri Bongkar Online Scam Filipina: Usut Tuntas Jaringannya",
-      "summary": "Dia mendesak aparat penegak hukum untuk mengusut tuntas kasus tersebut hingga ke akar-akarnya, termasuk membongkar seluruh jaringan serta aktor intelektual",
-      "url": "https://news.detik.com/berita/d-8770243/legislator-dukung-polri-bongkar-online-scam-filipina-usut-tuntas-jaringannya",
+      "title": "Iran Bantah Kembangkan Senjata Kimia, Tuding Israel Tipu AS untuk Perang Lagi",
+      "summary": "Araghchi mengatakan klaim itu sebagai upaya Israel untuk menyeret Amerika Serikat (AS) kembali terlibat perang dengan Iran.",
+      "url": "https://news.detik.com/internasional/d-8770245/iran-bantah-kembangkan-senjata-kimia-tuding-israel-tipu-as-untuk-perang-lagi",
       "source": "Detik",
-      "published": "2026-11-25T18:44:34+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2025/04/10/anggota-komisi-iii-dpr-ri-fraksi-partai-gerindra-martin-daniel-tumbelaka-dokistimewa-1744292346942_169.jpeg?w=360&q=90"
+      "published": "2026-11-25T19:14:38+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/09/22/menlu-iran-abbas-araghchi-1790051275168_169.jpeg?w=360&q=90"
     },
     {
       "title": "Kemkomdigi tegaskan perlindungan hak cipta karya jurnalistik di era AI",
@@ -36,25 +36,21 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23e1/live/16967230-e906-11f1-b9b5-17bef7133655.jpg"
     },
     {
-      "title": "UK military ‘moving aircraft to hangars in case of drone attacks’",
-      "summary": "Experts say the move is a 'logical response' if there is intelligence suggesting a likely drone threat.",
-      "url": "https://www.aljazeera.com/news/2026/11/25/uk-military-moving-aircraft-to-hangars-in-case-of-drone-attacks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-25T19:15:01+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b07277337-1795630963.jpg?resize=1920%2C1440"
+      "title": "UK food inflation could hit 5% next year, Bank of England says",
+      "summary": "Sharp rise expected as cost pressures mount, with experts factoring in energy price cap hike and potential impact of El Niño Food price inflation in the UK could hit 5% next year, the Bank of England has said, despite rising less sharply than feared since the onset of the Iran war. The deputy governor Clare Lombardelli told MPs on the cross-party Treasury select committee: “Food price inflation is coming in under what we expected [it] to be, and in fact under what the industry expected it to be.” Continue reading...",
+      "url": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
+      "source": "The Guardian",
+      "published": "2026-11-25T19:25:57+00:00",
+      "image": "https://i.guim.co.uk/img/media/6dc206e833865c9dd5429c7d1b0d08abb0b3bfde/79_0_3491_2793/master/3491.jpg?width=140&quality=85&auto=format&fit=max&s=d5c47df5247e5d854261cf1b7851501b"
     },
     {
-      "title": "Treasury raises spending concerns in proposed support for youth unemployment",
-      "summary": "Chancellor wants system laid out in Alan Milburn’s review to break even at an earlier date, sources say The Treasury has raised concerns about the level of spending on support proposed in Alan Milburn’s review into youth unemployment, amid pressure for the welfare bill to start reducing more quickly. Whitehall sources have told the Guardian that the chancellor, John Healey, is not happy with the level of spending required under the proposals and wants the system to break even at an earlier date. Continue reading...",
-      "url": "https://www.theguardian.com/society/2026/nov/25/treasury-spending-concerns-proposed-support-youth-unemployment-milburn-review",
-      "source": "The Guardian",
-      "published": "2026-11-25T19:15:00+00:00",
-      "image": "https://i.guim.co.uk/img/media/2aa106300d02c340cd05196f75f7587d5a4a4ef3/331_5_1555_1244/master/1555.jpg?width=140&quality=85&auto=format&fit=max&s=8dcf65eac9404de724de3643bf926103"
+      "title": "Ukrainian laser downs Russian jet-powered drone in world first",
+      "summary": "Ukraine says that its Blysk laser system has intercepted a Russian jet-powered drone in combat for the first time",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-25T19:16:15+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795634127.jpg?resize=1800%2C1080&quality=80"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
