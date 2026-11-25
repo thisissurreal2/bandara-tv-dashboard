@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T19:45:26.593491+00:00",
+  "updated_at": "2026-11-25T20:00:41.279942+00:00",
   "national": [
     {
       "title": "Jajal Sydney Metro, Pramono Pelajari Integrasi Stasiun di Australia",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
-      "title": "Two children among six dead after plane crash off Mississippi coast",
-      "summary": "Divers found the bodies of three adult, one teenager aged 16, and two boys, aged 12 and 10, in the wreckage.",
-      "url": "https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss",
+      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-25T19:26:44+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/23e1/live/16967230-e906-11f1-b9b5-17bef7133655.jpg"
+      "published": "2026-11-25T19:54:52+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9049/live/be474ac0-e8f9-11f1-b8b0-a95064d74c5f.jpg"
     },
     {
-      "title": "UK food inflation could hit 5% next year, Bank of England says",
-      "summary": "Sharp rise expected as cost pressures mount, with experts factoring in energy price cap hike and potential impact of El Niño Food price inflation in the UK could hit 5% next year, the Bank of England has said, despite rising less sharply than feared since the onset of the Iran war. The deputy governor Clare Lombardelli told MPs on the cross-party Treasury select committee: “Food price inflation is coming in under what we expected [it] to be, and in fact under what the industry expected it to be.” Continue reading...",
-      "url": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
+      "title": "Australian politics live: federal Liberal senator Leah Blyth reportedly defects to One Nation",
+      "summary": "Get our breaking news email , free app or daily news podcast The energy minister, Chris Bowen , has said the failed COP31 negotiations he presided over were more strained than previous years. Bowen, who served as president of negotiations at the talks in Turkiye, was interviewed on the ABC’s 7.30 program last night about the conference, which did not result in consensus among the countries over a proposed “cover decision”, or an overarching agreement, for the conference. The difference this year was countries were a lot harder to budge from their position and frankly I felt a lot of geopolitical tension in the room on other issues infecting the conversation and making it so much harder to negotiate. I’ve been to five Cops, seen plenty of argy-bargy but there was a lot more rigidness to the negotiations this year. We [Australia] have always supported transition away from fossil fuels. This year I had a slightly different job. Normally we go – I go – to Cops and argue for what should be in. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-25T19:25:57+00:00",
-      "image": "https://i.guim.co.uk/img/media/6dc206e833865c9dd5429c7d1b0d08abb0b3bfde/79_0_3491_2793/master/3491.jpg?width=140&quality=85&auto=format&fit=max&s=d5c47df5247e5d854261cf1b7851501b"
+      "published": "2026-11-25T19:44:20+00:00",
+      "image": "https://i.guim.co.uk/img/media/b8e0686e082ee97c403961ee3228cab6cd5bcf48/222_0_1721_1377/master/1721.jpg?width=140&quality=85&auto=format&fit=max&s=f1a653445273f678049e81be71a393df"
     },
     {
-      "title": "Ukrainian laser downs Russian jet-powered drone in world first",
-      "summary": "Ukraine says that its Blysk laser system has intercepted a Russian jet-powered drone in combat for the first time",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first?traffic_source=rss",
+      "title": "Bellingham’s wondergoal sparks Zidane comparisons",
+      "summary": "Jude Bellingham’s spectacular goal in Real Madrid’s 5-1 thrashing of PSV has prompted comparisons with club legend.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bellinghams-wondergoal-sparks-zidane-comparisons?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-25T19:16:15+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795634127.jpg?resize=1800%2C1080&quality=80"
+      "published": "2026-11-25T19:27:56+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795634807.jpg?resize=1620%2C1080&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
