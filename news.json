@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-25T04:15:27.058480+00:00",
+  "updated_at": "2026-11-25T04:30:34.752411+00:00",
   "national": [
     {
-      "title": "Tersangka MakarKombes Iman Punya 6 Akun Serang Pemerintah di Medsos",
-      "summary": "Bareskrim Polri ungkap Kombes Iman Imanuddin memiliki enam akun khusus di media sosial untuk menyerang pemerintah.",
-      "url": "https://www.cnnindonesia.com/nasional/20261125104811-12-1431238/tersangka-makarkombes-iman-punya-6-akun-serang-pemerintah-di-medsos",
-      "source": "CNN Indonesia",
-      "published": "2026-11-25T04:10:46+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2025/12/13/kasus-penipuan-wo-ayu-puspita-1765618075612_169.jpeg?w=360&q=90"
+      "title": "Ngeri, Kedalaman Tambang Ilegal TKP Puluhan Orang Terjebak Capai 100 Meter",
+      "summary": "Puluhan orang diduga masih terjebak dalam lubang galian emas ilegal di Nanggung, Bogor, Jawa Barat (Jabar). Tim SAR menyebut lubang itu sedalam 100 meter.",
+      "url": "https://news.detik.com/berita/d-8768907/ngeri-kedalaman-tambang-ilegal-tkp-puluhan-orang-terjebak-capai-100-meter",
+      "source": "Detik",
+      "published": "2026-11-25T04:22:50+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/25/lubang-tambang-emas-ilegal-tempat-orang-orang-terjebak-dok-istimewa-1795580490467_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Viral 3 Pria Berseragam PNS di Pasuruan Pesta Miras, Kini Kena Tegur",
-      "summary": "Video tiga pria berpakaian PNS viral karena pesta miras di Kantor Desa Sekarputih. Mereka telah mendapat teguran dari pemerintah desa.",
-      "url": "https://news.detik.com/berita/d-8768884/viral-3-pria-berseragam-pns-di-pasuruan-pesta-miras-kini-kena-tegur",
-      "source": "Detik",
-      "published": "2026-11-25T04:04:25+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/25/viral-pesta-miras-pasuruan-1795572166133_169.jpeg?w=360&q=90"
+      "title": "Fadli Zon Klaim Jadi Saksi Tragedi KM 50, Dukung Kasus Dibuka Lagi",
+      "summary": "Menteri Kebudayaan Fadli Zon mendukung pembukaan kembali kasus KM 50 untuk keadilan korban. Menko Polkam Dudung Abdurachman juga mendorong hal yang sama.",
+      "url": "https://www.cnnindonesia.com/nasional/20261125110620-12-1431239/fadli-zon-klaim-jadi-saksi-tragedi-km-50-dukung-kasus-dibuka-lagi",
+      "source": "CNN Indonesia",
+      "published": "2026-11-25T04:20:01+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/07/31/peresmian-museum-sriwijaya-dharmakirti-di-jambi-1785502710001_169.jpeg?w=360&q=90"
     },
     {
       "title": "Transjakarta ajak 120 veteran berkeliling gedung ikonik di Jakarta",
@@ -28,11 +28,19 @@
   ],
   "international": [
     {
+      "title": "Israeli strike kills four people in Gaza",
+      "summary": "An Israeli airstrike on an apartment building in the Shati refugee camp has killed at least four people.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/israeli-strike-kills-four-people-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-25T04:13:58+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795579972.jpg?resize=1200%2C675"
+    },
+    {
       "title": "Australian politics live: Two Nationals kicked out of question time as Taylor slams ‘dirty deal’ with Greens; NSW responds to fire ant threat in Sydney",
       "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a ‘zero-sum’ game. I reject this sort of zero-sum game where building Australian sovereignty in AI must come at the expense of creatives or at diminishing the rights of creatives. At the moment, yes, we want deals, but we want creatives paid properly for their work. And the situation that we find ourselves in at the moment is that they’re not. They have no control and often no payment for their work. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-25T03:58:29+00:00",
+      "published": "2026-11-25T04:13:27+00:00",
       "image": "https://i.guim.co.uk/img/media/38296a4aa5e85e8d793db99da1659b2cb525aea4/260_143_2751_2201/master/2751.jpg?width=140&quality=85&auto=format&fit=max&s=5ff92fc2d4cdd987183bc51e9a2a3858"
     },
     {
@@ -42,14 +50,6 @@
       "source": "BBC",
       "published": "2026-11-25T03:54:43+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg"
-    },
-    {
-      "title": "Asia’s stock markets dive as doubts swirl over AI boom",
-      "summary": "Markets fall sharply in Japan, South Korea and Taiwan in latest tech-led sell-off.",
-      "url": "https://www.aljazeera.com/news/2026/11/25/asias-stock-markets-dive-as-doubts-to-swirl-over-ai-boom?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-25T03:31:59+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26328080652490-1795572292.jpg?resize=1920%2C1440"
     }
   ],
   "feed_warnings": []
