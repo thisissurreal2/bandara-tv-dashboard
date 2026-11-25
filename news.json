@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-25T12:00:38.821041+00:00",
+  "updated_at": "2026-11-25T12:15:30.492916+00:00",
   "national": [
     {
-      "title": "Kejagung Tetapkan Bos Nikel Arif Kurniawan Jadi Tersangka TPPU Tambang",
-      "summary": "Kejagung menetapkan bos nikel Arif Kurniawan sebagai tersangka korupsi dan Tindak Pidana Pencucian Uang (TPPU) terkait tata kelola nikel.",
-      "url": "https://www.cnnindonesia.com/nasional/20261125184232-12-1431501/kejagung-tetapkan-bos-nikel-arif-kurniawan-jadi-tersangka-tppu-tambang",
+      "title": "Eks Ketua MK Singgung Fufufafa Saat Rapat di MPR",
+      "summary": "Eks Ketua MK bahas potensi pemakzulan Gibran putra Jokowi dalam rapat MPR, menyinggung akun Fufufafa sebagai dasar hukum.",
+      "url": "https://www.cnnindonesia.com/nasional/20261125185843-32-1431515/eks-ketua-mk-singgung-fufufafa-saat-rapat-di-mpr",
       "source": "CNN Indonesia",
-      "published": "2026-11-25T11:46:37+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/10/kejagung-geledah-6-kantor-perusahaan-afiliasi-arif-kurniawan-terkait-kasus-korupsi-nikel-1794302203380_169.jpeg?w=360&q=90"
+      "published": "2026-11-25T12:13:33+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/03/10/jimly-mahfud-hingga-refly-rapat-di-dpr-bahas-ruu-pemilu-1773131698310_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "Tim Ad Hoc MPR Usul Sidang Paripurna Cawapres 2 Hari: 10 dan 11 Desember",
+      "summary": "Tim PAH MPR RI usulkan sidang paripurna untuk pengisian jabatan wakil presiden digelar 2 hari, yakni pada 10 dan 11 Desember 2026.",
+      "url": "https://news.detik.com/berita/d-8769846/tim-ad-hoc-mpr-usul-sidang-paripurna-cawapres-2-hari-10-dan-11-desember",
+      "source": "Detik",
+      "published": "2026-11-25T12:05:19+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/24/kolase-andi-amran-sugiono-1795493319640_169.png?w=360&q=90"
     },
     {
       "title": "Danantara \"streamline\" 380 BUMN dan targetkan 600 hingga akhir 2026",
@@ -16,17 +24,25 @@
       "source": "ANTARA",
       "published": "2026-11-25T11:39:01+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/25/WhatsApp-Image-2026-11-25-at-15.49.04-1.jpeg"
-    },
-    {
-      "title": "Tim Ad Hoc Sepakati 6 Rancangan Penetapan MPR, Termasuk soal Gibran Mundur",
-      "summary": "Tim Panita Ad Hoc MPR RI sepakat enam rancangan ketetapan dan keputusan. Rapat detail akan digelar 30 November 2026 untuk membahas lebih lanjut.",
-      "url": "https://news.detik.com/berita/d-8769784/tim-ad-hoc-sepakati-6-rancangan-penetapan-mpr-termasuk-soal-gibran-mundur",
-      "source": "Detik",
-      "published": "2026-11-25T11:27:06+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/25/tim-panita-ad-hoc-mpr-ri-adrial-akbardetikcom-1795605999824_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
+    {
+      "title": "UK embassy in Japan warns of rise in drink spiking and credit card fraud at Tokyo bars",
+      "summary": "Social media campaign fronted by British rapper Shao Dow advises tourists not to let their guard down The British embassy in Tokyo has launched a social media campaign warning visitors to exercise caution after a rise in cases of drink-spiking and credit card fraud against tourists in the Japanese capital. In a recent clip made in conjunction with the embassy, the British rapper and manga artist Shao Dow, a frequent visitor to Japan, notes that although the country “is incredibly safe, that doesn’t mean you can let your guard down”. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/25/british-embassy-tokyo-warning-tourists-drink-spiking-credit-card-fraud",
+      "source": "The Guardian",
+      "published": "2026-11-25T11:59:22+00:00",
+      "image": "https://i.guim.co.uk/img/media/9f4ad69a7c2842c8d7b083f6f6d5e6fb55a96e3a/0_0_7920_6336/master/7920.jpg?width=140&quality=85&auto=format&fit=max&s=be19aa86367c1f0c56cc82c12fbf3d6f"
+    },
+    {
+      "title": "Overnight RSF drone attacks kill 19 in Sudan",
+      "summary": "The attacks also injured at least 20 people – the latest casualties in a drone war that is quickly escalating.",
+      "url": "https://www.aljazeera.com/news/2026/11/25/overnight-rsf-drone-attacks-kill-19-in-sudan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-25T11:58:15+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b06b9bd3343-1795602877.jpg?resize=1920%2C1440"
+    },
     {
       "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
       "summary": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
@@ -34,27 +50,7 @@
       "source": "BBC",
       "published": "2026-11-25T11:45:16+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/997a/live/4f4b3940-e8c4-11f1-ac76-db9e97f93d67.jpg"
-    },
-    {
-      "title": "UK embassy in Japan warns of rise in drink spiking and credit card fraud at Tokyo bars",
-      "summary": "Social media campaign fronted by British rapper Shao Dow advises tourists not to let their guard down The British embassy in Tokyo has launched a social media campaign warning visitors to exercise caution after a rise in cases of drink-spiking and credit card fraud against tourists in the Japanese capital. In a recent clip made in conjunction with the embassy, the British rapper and manga artist Shao Dow, a frequent visitor to Japan, notes that although the country “is incredibly safe, that doesn’t mean you can let your guard down”. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/nov/25/british-embassy-tokyo-warning-tourists-drink-spiking-credit-card-fraud",
-      "source": "The Guardian",
-      "published": "2026-11-25T11:42:10+00:00",
-      "image": "https://i.guim.co.uk/img/media/9f4ad69a7c2842c8d7b083f6f6d5e6fb55a96e3a/0_0_7920_6336/master/7920.jpg?width=140&quality=85&auto=format&fit=max&s=be19aa86367c1f0c56cc82c12fbf3d6f"
-    },
-    {
-      "title": "Zidane was much better than me: Bellingham after Real Madrid wonder goal",
-      "summary": "Jude Bellingham admits he had 'no idea' what he'd done after scoring a goal that drew comparisons with Zinedine Zidane.",
-      "url": "https://www.aljazeera.com/sports/2026/11/25/zidane-was-much-better-than-me-bellingham-after-real-madrid-wonder-goal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-25T11:29:38+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26328775338411-1795605129.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
