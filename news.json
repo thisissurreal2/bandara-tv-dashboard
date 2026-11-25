@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-25T22:00:39.534232+00:00",
+  "updated_at": "2026-11-25T22:15:25.235349+00:00",
   "national": [
+    {
+      "title": "Sugiono Dinilai Punya Loyalitas dan Kapasitas Jadi Wapres Prabowo",
+      "summary": "Relawan Barisan Jaga mendukung Sugiono sebagai cawapres Prabowo pengganti Gibran putra Jokowi.",
+      "url": "https://www.cnnindonesia.com/nasional/20261125230906-32-1431573/sugiono-dinilai-punya-loyalitas-dan-kapasitas-jadi-wapres-prabowo",
+      "source": "CNN Indonesia",
+      "published": "2026-11-25T22:10:06+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/23/menko-pmk-sugiono-1795429901984_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Bejat! Lansia di Sulbar Perkosa Anak Tiri, Adik Korban Rekam Tindakan Pelaku",
       "summary": "Korban yang berusia 19 tahun bahkan mengaku mengalami kekerasan seksual hampir setiap hari.",
@@ -16,17 +24,17 @@
       "source": "ANTARA",
       "published": "2026-11-25T20:38:22+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/26/E4719E61-AF5F-488D-B42D-10665E748012.jpeg"
-    },
-    {
-      "title": "Jajal Sydney Metro, Pramono Pelajari Integrasi Stasiun di Australia",
-      "summary": "Gubernur DKI Jakarta Pramono Anung kunjungi Sydney Metro untuk belajar integrasi stasiun. Ia menjajaki kerja sama transportasi publik dengan Australia.",
-      "url": "https://www.cnnindonesia.com/nasional/20261125175114-20-1431477/jajal-sydney-metro-pramono-pelajari-integrasi-stasiun-di-australia",
-      "source": "CNN Indonesia",
-      "published": "2026-11-25T19:30:38+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/25/pramono-anung-naik-sydney-metro-1795606855163_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
+    {
+      "title": "Chris Van Hollen picks up more support for Senate majority leader role ahead of Democrats vote next week – live",
+      "summary": "Senator-elect Troy Jackson, of Maine, announced he would support the progressive over the current minority leader, Chuck Schumer Sign up for the Breaking News US email US trade representative Jamieson Greer claimed this morning that he did not expect the new proposed tariffs to rattle the global economy. “We’ve talked to our trading partners about this — they know what we’re proposing,” Greer told CNBC. “ I think a lot of this is baked in , and I don’t think any of these would actually take effect earlier than a couple months from now.” FINAL REMINDER. Controlled detonation at Iowa Army Ammunition Plant today at 9am (in 1 hour). EVACUATION IS NO LONGER SAFE OR ADVISED! All Residents within 20 miles including Middletown, Augusta, and Burlington must SHELTER IN PLACE immediately. STAY INDOORS with windows closed to block lead dust. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-25T21:59:05+00:00",
+      "image": "https://i.guim.co.uk/img/media/1ded0ee0250a7ae31faed7b6ee3dc216c3eee7d6/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=a3e67bf3a7035af45285bc7c8dfd8e91"
+    },
     {
       "title": "North Korea expels Swiss diplomat in sanctions row",
       "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
@@ -34,14 +42,6 @@
       "source": "BBC",
       "published": "2026-11-25T21:51:17+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ee/live/fcd47260-e8fc-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "title": "Australian politics live: Hanson ‘delighted’ as Liberal senator defects to One Nation; Bowen says global tensions ‘infected’ Cop31",
-      "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party . Blyth is the second high-profile federal defection from the Coalition to One Nation – after Barnaby Joyce . Senator Blyth will be One Nation’s first South Australian Senator and will build on One Nation’s expanding support within the state. My team and I are delighted to welcome Senator Blyth to sit in the Senate with One Nation. We are facing at the next election clearly a coalition of the Liberals, Nationals and One Nation, with all the baggage that each of these parties brings to the table. They’re all anti-worker, they’re all extreme … this demonstrates, I think, more disunity in the Liberal party under Angus Taylor . Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
-      "source": "The Guardian",
-      "published": "2026-11-25T21:43:41+00:00",
-      "image": "https://i.guim.co.uk/img/media/ce6cb56abf202649179c638f3a9b93b6efd40887/817_0_3829_3065/master/3829.jpg?width=140&quality=85&auto=format&fit=max&s=bb74df4639acdddc2a7c95b3f50d4b41"
     },
     {
       "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af49632-1794414130.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
