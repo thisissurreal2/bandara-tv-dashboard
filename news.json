@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-25T21:45:31.448218+00:00",
+  "updated_at": "2026-11-25T22:00:39.534232+00:00",
   "national": [
     {
-      "title": "Tambang Emas Ilegal di Bogor Terdiri dari 2 Lubang, 13 Gurandil Masih Dicari",
-      "summary": "Hengki menyebut kedalaman kedua lubang tambang emas ilegal mencapai 150 meter dengan celah lubang yang sempit. Proses pencarian lanjutan akan dilakukan pagi ini",
-      "url": "https://news.detik.com/berita/d-8770263/tambang-emas-ilegal-di-bogor-terdiri-dari-2-lubang-13-gurandil-masih-dicari",
+      "title": "Bejat! Lansia di Sulbar Perkosa Anak Tiri, Adik Korban Rekam Tindakan Pelaku",
+      "summary": "Korban yang berusia 19 tahun bahkan mengaku mengalami kekerasan seksual hampir setiap hari.",
+      "url": "https://news.detik.com/berita/d-8770267/bejat-lansia-di-sulbar-perkosa-anak-tiri-adik-korban-rekam-tindakan-pelaku",
       "source": "Detik",
-      "published": "2026-11-25T21:18:49+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/25/tragedi-tambang-emas-ilegal-bogor-9-penambang-tewas-dan-17-masih-dicari-1795615450253_43.jpeg?w=360&q=90"
+      "published": "2026-11-25T21:44:33+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2022/12/02/ilustrasi-pemerkosaan-1_169.jpeg?w=360&q=90"
     },
     {
       "title": "Kemenhub siapkan angkutan perairan dan 40 ribu tiket gratis Nataru",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "US stocks fall further as fears over AI intensify",
-      "summary": "All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.",
-      "url": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss",
+      "title": "North Korea expels Swiss diplomat in sanctions row",
+      "summary": "Swiss officials said relations would be kept through North Korea's embassy in Bern, and its own embassy in Beijing.",
+      "url": "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-25T21:43:18+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg"
+      "published": "2026-11-25T21:51:17+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4ee/live/fcd47260-e8fc-11f1-99b6-a35a62fa4264.jpg"
     },
     {
-      "title": "Flinders Island bushfire grows to 13,000 hectares with Tasmanian homes and properties at risk",
-      "summary": "Fire making a ‘significant run’ towards the southwest of the island on Thursday, Tasmania Fire Service says Get our breaking news email , free app or daily news podcast Homes and properties on a picturesque remote island remain under threat from an out-of-control bushfire that has sent smoke hundreds of kilometres south. The blaze on Flinders Island in Bass Strait spread significantly on Wednesday after being started by lightning strikes. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/25/large-bushfire-threatens-homes-and-properties-on-remote-island-off-tasmania",
+      "title": "Australian politics live: Hanson ‘delighted’ as Liberal senator defects to One Nation; Bowen says global tensions ‘infected’ Cop31",
+      "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party . Blyth is the second high-profile federal defection from the Coalition to One Nation – after Barnaby Joyce . Senator Blyth will be One Nation’s first South Australian Senator and will build on One Nation’s expanding support within the state. My team and I are delighted to welcome Senator Blyth to sit in the Senate with One Nation. We are facing at the next election clearly a coalition of the Liberals, Nationals and One Nation, with all the baggage that each of these parties brings to the table. They’re all anti-worker, they’re all extreme … this demonstrates, I think, more disunity in the Liberal party under Angus Taylor . Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-25T21:32:12+00:00",
-      "image": "https://i.guim.co.uk/img/media/233bcc415b139a4c7cb303ad0a176d9ff6433c48/66_0_880_704/master/880.jpg?width=140&quality=85&auto=format&fit=max&s=b202b3c29c5683ffa86cc26b07ff0f0b"
+      "published": "2026-11-25T21:43:41+00:00",
+      "image": "https://i.guim.co.uk/img/media/ce6cb56abf202649179c638f3a9b93b6efd40887/817_0_3829_3065/master/3829.jpg?width=140&quality=85&auto=format&fit=max&s=bb74df4639acdddc2a7c95b3f50d4b41"
     },
     {
       "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6af49632-1794414130.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
