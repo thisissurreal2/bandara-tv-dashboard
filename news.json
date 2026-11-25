@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-25T18:30:42.136945+00:00",
+  "updated_at": "2026-11-25T18:41:13.679094+00:00",
   "national": [
+    {
+      "title": "Kombes F Disorot Dapat Jabatan Baru di Tengah Kasus Penipuan Emas",
+      "summary": "Warga Malaysia SYF melaporkan Kombes Fahrurozi ke Polri setelah terlapor mendapat jabatan baru meski terlibat kasus penipuan investasi tambang emas.",
+      "url": "https://www.cnnindonesia.com/nasional/20261125223239-12-1431570/kombes-f-disorot-dapat-jabatan-baru-di-tengah-kasus-penipuan-emas",
+      "source": "CNN Indonesia",
+      "published": "2026-11-25T18:30:52+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/10/23/satgas-pkh-tertibkan-tambang-emas-ilegal-275-hektare-di-papua-tengah-1792716979928_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Pegawai SPPG di Garut Tewas Diduga Dianiaya Rekan Kerja, Polisi Selidiki",
       "summary": "Herman belum menyebut secara gamblang mengenai perkara ini. Polisi masih melakukan penyelidikan.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-25T18:25:07+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2025/08/12/ilustrasi-pembunuhan-1754995633530_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Tim Ad Hoc MPR Terima Usulan Paripurna Pemilihan Wapres Digelar 2 Kali",
-      "summary": "Panitia Ad Hoc MPR usulkan Sidang Paripurna pemilihan wakil presiden digelar dua kali pada 10-11 Desember 2026, terkait pengunduran diri Gibran.",
-      "url": "https://www.cnnindonesia.com/nasional/20261125204028-32-1431556/tim-ad-hoc-mpr-terima-usulan-paripurna-pemilihan-wapres-digelar-2-kali",
-      "source": "CNN Indonesia",
-      "published": "2026-11-25T17:30:09+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/08/16/pidato-prabowo-di-sidang-mpr-1786865300545_169.jpeg?w=360&q=90"
     },
     {
       "title": "Kemkomdigi tegaskan perlindungan hak cipta karya jurnalistik di era AI",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "UN sacked Palestinian staff on back of unproven Israeli allegations, tribunal rules",
-      "summary": "Judgment casts doubt on evidence linking aid workers to Hamas and says humanitarian efforts in Gaza were damaged A UN tribunal has cast doubt on the evidence used to justify the sacking of Palestinian UN aid workers in 2024, saying it was based “almost entirely” on unproven assertions from the Israeli government and had damaged humanitarian operations in Gaza. The judgment, seen by the Guardian, raises fresh questions about the decision by the UN Relief and Works Agency (Unrwa), the main humanitarian organisation working in Gaza, to sack members of staff. It was taken on the basis of Israeli allegations of involvement in the Hamas-led attacks of 7 October 2023. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/nov/25/un-sacked-palestinian-staff-on-back-of-unproven-israel-allegations",
+      "title": "Smoke seen from a mile away as army detonates US stockpile of bomb-making chemicals in Iowa",
+      "summary": "Controlled blast to dispose of lead azide risks releasing plumes of toxic chemicals in 100-mile radius The US army detonated the nation’s entire stockpile of the the bomb-making material lead azide in Iowa on Wednesday morning, despite an outpouring of public concern about potential health and environmental effects. The controlled blast, which took place at about 10.00am ET, was to dispose of 9,700lb (4,400kg) of the chemical that was stored at the Iowa army ammunition plant in Middletown, a small town in south-eastern Iowa that is home to about 400 people. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/25/iowa-controlled-blast-lead-azide",
       "source": "The Guardian",
-      "published": "2026-11-25T18:14:27+00:00",
-      "image": "https://i.guim.co.uk/img/media/65d32fbb43f0e7ee1a67c12068fb35f5cd6d3afb/780_0_6250_5000/master/6250.jpg?width=140&quality=85&auto=format&fit=max&s=b274c1d56c0497a8ae693e8ba87186da"
+      "published": "2026-11-25T18:24:48+00:00",
+      "image": "https://i.guim.co.uk/img/media/0fcf154781a9c5157d16068123164b527040fcc0/367_0_1833_1466/master/1833.jpg?width=140&quality=85&auto=format&fit=max&s=a8c0638a7b921696350db323a86b067e"
     },
     {
-      "title": "Ecuador and US review joint military operations, official says",
-      "summary": "Joint military efforts have been paused as the US investigates a lethal operation carried out by Ecuador.",
-      "url": "https://www.aljazeera.com/news/2026/11/25/ecuador-and-us-review-joint-military-operations-official-says?traffic_source=rss",
+      "title": "Nigeria’s Tinubu pledges to bring peace to rebellion-hit border region",
+      "summary": "Tinubu is under pressure to convince voters that military operations in the country's northeast will deliver security.",
+      "url": "https://www.aljazeera.com/news/2026/11/25/nigerias-tinubu-pledges-to-bring-peace-to-insurgency-hit-northeast-region?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-25T17:50:41+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b0702d2-1795621586.jpg?resize=1920%2C1440"
+      "published": "2026-11-25T18:14:44+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0719bca5cf-1795627452.jpg?resize=1920%2C1440"
     },
     {
       "title": "US stocks fall further as fears over AI intensify",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f2e/live/6940e8e0-e8f1-11f1-99a1-253766e7ad8b.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
