@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-25T05:30:35.208640+00:00",
+  "updated_at": "2026-11-25T05:45:28.911749+00:00",
   "national": [
     {
-      "title": "Muncul Tiap Malam, Getaran dan Suara Bawah Tanah Gegerkan Warga Toba",
-      "summary": "Warga Kabupaten Toba digegerkan dengan suara dan getaran misterius dari bawah tanah. BPBD dan BMKG sedang menyelidiki sumbernya. Masyarakat diminta tenang.",
-      "url": "https://www.cnnindonesia.com/nasional/20261125120415-20-1431266/muncul-tiap-malam-getaran-dan-suara-bawah-tanah-gegerkan-warga-toba",
+      "title": "Bandar Pemasok Ganja ke Kampung Ambon Ditangkap di Madina Sumut",
+      "summary": "Polisi menangkap pria berinisial RA di Mandailing Natal terkait dengan pengembangan kasus peredaran narkotika di Kampung Ambon, Jakarta Barat.",
+      "url": "https://www.cnnindonesia.com/nasional/20261125121150-12-1431276/bandar-pemasok-ganja-ke-kampung-ambon-ditangkap-di-madina-sumut",
       "source": "CNN Indonesia",
-      "published": "2026-11-25T05:28:37+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2019/11/16/1a6c82e7-a220-416f-89ca-d0bf27b2dd6b_169.jpeg?w=360&q=90"
+      "published": "2026-11-25T05:43:38+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2020/07/24/ilustrasi-narkoba_169.jpeg?w=360&q=90"
     },
     {
       "title": "Foto Wapres Gibran Jatuh dan Pecah Saat Diturunkan Mahasiswa di DPRD Surabaya",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "The Gambia election: Can the next president deliver on a decade of promise",
-      "summary": "Gambians head to the polls amid economic hardship and unfulfilled promises of reform and justice.",
-      "url": "https://www.aljazeera.com/news/2026/11/25/the-gambia-election-can-the-next-president-deliver-on-a-decade-of-promise?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-25T05:03:04+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Photocredit-Sia-Sia-pictures-1795525542.jpeg?resize=1920%2C1440"
-    },
-    {
       "title": "Australian politics live: ‘A tragedy in the life of our nation’: prime minister apologises to LGBTQ+ veterans",
       "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a ‘zero-sum’ game. I reject this sort of zero-sum game where building Australian sovereignty in AI must come at the expense of creatives or at diminishing the rights of creatives. At the moment, yes, we want deals, but we want creatives paid properly for their work. And the situation that we find ourselves in at the moment is that they’re not. They have no control and often no payment for their work. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-25T05:02:07+00:00",
+      "published": "2026-11-25T05:28:45+00:00",
       "image": "https://i.guim.co.uk/img/media/abe3e1517beb197540881ae188764c6b9ed1e8d5/268_271_6089_4871/master/6089.jpg?width=140&quality=85&auto=format&fit=max&s=ac63489291435c88ab4b315a41629975"
+    },
+    {
+      "title": "Phone spying to missiles: Why India-Israel strategic ties go beyond Modi",
+      "summary": "The opposition Congress party calls Israel’s war on Gaza a genocide, but its leader still wants strong ties with Israel.",
+      "url": "https://www.aljazeera.com/news/2026/11/25/phone-spying-to-missiles-why-india-israel-strategic-ties-go-beyond-modi?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-25T05:27:32+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-02-26T125806Z_667581333_RC2OTJAZOSZ2_RTRMADP_3_ISRAEL-INDIA-1795520918.jpg?resize=1920%2C1440"
     },
     {
       "title": "Kilmar Ábrego García leaving US for Spain, ending Trump deportation battle",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
