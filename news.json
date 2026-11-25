@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T20:15:25.919771+00:00",
+  "updated_at": "2026-11-25T20:30:33.727906+00:00",
   "national": [
     {
       "title": "Jajal Sydney Metro, Pramono Pelajari Integrasi Stasiun di Australia",
@@ -28,11 +28,19 @@
   ],
   "international": [
     {
+      "title": "Migrant wrongly deported by Trump leaves US for Spain",
+      "summary": "Kilmar Abrego Garcia has arrived in Spain with his wife after a 20-month legal battle with the Trump administration.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/migrant-wrongly-deported-by-trump-leaves-us-for-spain?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-25T20:14:28+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795637624.jpg?resize=1622%2C1080&quality=80"
+    },
+    {
       "title": "Australian politics live: federal Liberal senator Leah Blyth defects to One Nation",
-      "summary": "Get our breaking news email , free app or daily news podcast Nationals leader Matt Canavan has called Leah Blyth’s defection to One Nation “disappointing on a number of levels”. Speaking to Radio National, Canavan said he thought he was friends with Blyth but that he received no warning of her move. I always find it disappointing when someone leaves the party under which they were elected under, particularly in the Senate, because I know as a senator, you’re not really elected in your own name, you’re elected as a party … And so it’s right that people feel a bit let down when someone’s elected by them ticking a party box changes parties after the election. Good luck to her. Leah took went to the election last year supporting net zero. She didn’t oppose the hate speech laws earlier this year, like we did - The Nationals. To turn around now a few months later and say … ‘my principles and policies are more aligned with One Nation’. I mean, give me a break. I can no longer in good conscience tell Australians that the Liberal party can save this country. Australia is a country worth fighting for … I want our children to grow up proud of their country, with the freedom and opportunity to build a better life. Continue reading...",
+      "summary": "Get our breaking news email , free app or daily news podcast ‘Turncoat town’: Canavan takes a crack at Blyth and One Nation Nationals leader, Matt Canavan , is pretty salty this morning – taking another crack at Leah Blyth over her defection from the Liberal party to One Nation. I think people see that as a defection, as a turncoat, and One Nation is becoming turncoat town right now, where they seem to be much more focussed on taking people away from other political parties, than changing the government, and therefore changing the policy and changing the direction of this country. I don’t buy Leah’s explanation that this is some grand policy principle. It instead just smacks of self-interest. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-25T19:59:21+00:00",
+      "published": "2026-11-25T20:13:26+00:00",
       "image": "https://i.guim.co.uk/img/media/b8e0686e082ee97c403961ee3228cab6cd5bcf48/222_0_1721_1377/master/1721.jpg?width=140&quality=85&auto=format&fit=max&s=f1a653445273f678049e81be71a393df"
     },
     {
@@ -42,14 +50,6 @@
       "source": "BBC",
       "published": "2026-11-25T19:54:52+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9049/live/be474ac0-e8f9-11f1-b8b0-a95064d74c5f.jpg"
-    },
-    {
-      "title": "US Army declares Iowa lead azide detonation ‘tremendously successful’",
-      "summary": "Army hails Iowa's lead azide disposal operation as some experts warn of potentially hidden toxins.",
-      "url": "https://www.aljazeera.com/news/2026/11/25/us-army-declares-iowa-lead-azide-detonation-tremendously-successful?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-25T19:41:49+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b07220b8aa6-1795629579.jpg?resize=1920%2C1440"
     }
   ],
   "feed_warnings": [
