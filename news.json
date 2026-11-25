@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T00:00:49.064595+00:00",
+  "updated_at": "2026-11-25T00:15:33.773712+00:00",
   "national": [
     {
       "title": "Menko Polhukam Dudung Abdurachman Siap Mundur Jika Terlibat KM 50",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Fort Hood survivors denied bid to witness shooter’s firing-squad execution",
-      "summary": "Army says trio injured in 2009 attack were not direct victims of Nidal Hasan’s and thus cannot attend event Three survivors of the shooting at Fort Hood will not be allowed to witness the execution by military firing squad of Nidal Hasan who shot 13 people dead in the attack at the Texas army post in 2009, military officials said Tuesday. Hasan was found guilty of multiple counts of murder and attempted murder related to those killed and the more than 30 who were wounded by gunfire in the attack. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/24/fort-hood-shooting-survivors-execution",
+      "title": "Australian politics live: Labor exempts pensioners from bill cutting private health rebates for over-65s; Steggall changes party name",
+      "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a ‘zero-sum’ game. I reject this sort of zero-sum game where building Australian sovereignty in AI must come at the expense of creatives or at diminishing the rights of creatives. At the moment, yes, we want deals, but we want creatives paid properly for their work. And the situation that we find ourselves in at the moment is that they’re not. They have no control and often no payment for their work. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-24T23:45:05+00:00",
-      "image": "https://i.guim.co.uk/img/media/460deb91b5ac7fce62e4d1f4f42f38496eab4ca7/499_0_2501_2000/master/2501.jpg?width=140&quality=85&auto=format&fit=max&s=354cf3a855241c56470c51a2ad9f6bb5"
+      "published": "2026-11-24T23:57:15+00:00",
+      "image": "https://i.guim.co.uk/img/media/f528eb9c095a05e598366f341983bdb34bd9da15/0_0_5667_4534/master/5667.jpg?width=140&quality=85&auto=format&fit=max&s=5b0505b0306f4e8a6188f50353b9c197"
     },
     {
-      "title": "South Africa convicts Zimbabwean who tried to fight Ukraine for Russia",
-      "summary": "The Zimbabwean man was arrested on November 8 at a Johannesburg airport while attempting to board a flight to Russia.",
-      "url": "https://www.aljazeera.com/news/2026/11/24/south-africa-convicts-zimbabwean-who-tried-to-fight-ukraine-for-russia?traffic_source=rss",
+      "title": "Rebel group retreats in DR Congo after heavy clashes with government forces",
+      "summary": "CRP halts advance towards Bunia, citing commitments made during Ugandan-mediated talks with government.",
+      "url": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-24T23:29:40+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b05fc7f7b842-1795554431.jpg?resize=1920%2C1440"
+      "published": "2026-11-24T23:39:13+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260613__B6YT743__v2__HighRes__TopshotDrcongoHealthEbola-1795558000.jpg?resize=1920%2C1440"
     },
     {
       "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
