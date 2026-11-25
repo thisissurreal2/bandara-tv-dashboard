@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-25T08:30:41.533770+00:00",
+  "updated_at": "2026-11-25T08:45:26.904045+00:00",
   "national": [
+    {
+      "title": "3 Penambang Emas di Bogor Ditemukan Tewas, 23 Orang Masih Dicari",
+      "summary": "Kantor SAR Jakarta melaporkan penemuan tiga penambang meninggal setelah terjebak di dalam lubang tambang emas ilegal, Gunung Butak, Kabupaten Bogor.",
+      "url": "https://www.cnnindonesia.com/nasional/20261125152133-12-1431402/3-penambang-emas-di-bogor-ditemukan-tewas-23-orang-masih-dicari",
+      "source": "CNN Indonesia",
+      "published": "2026-11-25T08:44:25+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/25/evakuasi-penambang-terjebak-di-tambang-ilegal-bogor-1795590893001_169.jpeg?w=360&q=90"
+    },
     {
       "title": "DLH DKI Minta Limbah Laundry Diolah, Tak Langsung Dibuang ke Saluran Air",
       "summary": "Dinas Lingkungan Hidup (DLH) DKI Jakarta mengimbau para pelaku usaha laundry untuk mengolah air limbah hasil pencucian sebelum dibuang ke saluran air.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-25T08:26:41+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/25/dlh-dki-membersihkan-perairan-jakarta-dari-busa-laundry-1795594887688_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Ratusan Rumah dan Warga Terdampak Tanah Longsor di Tasikmalaya",
-      "summary": "Ratusan rumah dan warga di Kabupaten Tasikmalaya terdampak cuaca ekstrem dan tanah longsor.",
-      "url": "https://www.cnnindonesia.com/nasional/20261125145632-20-1431389/ratusan-rumah-dan-warga-terdampak-tanah-longsor-di-tasikmalaya",
-      "source": "CNN Indonesia",
-      "published": "2026-11-25T08:15:27+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/01/24/ilustrasi-tanah-longsor-1769227133657_169.jpeg?w=360&q=90"
     },
     {
       "title": "Pemerintah pacu ekonomi triwulan IV, jadi pijakan enam persen di 2027",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Is Russia really aiming for a new European security architecture?",
-      "summary": "Moscow is piling on new demands in talks with Ukraine, either as a negotiating strategy or as a diversion.",
-      "url": "https://www.aljazeera.com/opinions/2026/11/25/is-russia-really-aiming-for-a-new-european-security-architecture?traffic_source=rss",
+      "title": "Saudi-led coalition intercepts Houthi attacks after Hodeidah strike",
+      "summary": "The escalation comes after the Yemeni rebel group threatened to attack the kingdom's Red Sea ports in retaliation.",
+      "url": "https://www.aljazeera.com/news/2026/11/25/saudi-led-coalition-intercepts-houthi-attacks-after-hodeidah-strike?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-25T08:20:55+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6afffbfc-1795161084.jpg?resize=1920%2C1440"
+      "published": "2026-11-25T08:23:35+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b067e09-1795587593.jpg?resize=1920%2C1440"
     },
     {
       "title": "IVF, elective abortion, gender-affirming care and VAD to cease under Catholic ownership of private hospitals",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4e2/live/505d3ac0-e89e-11f1-88cb-d14f0511e6fd.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
