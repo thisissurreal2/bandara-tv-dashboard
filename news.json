@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-25T07:00:40.698971+00:00",
+  "updated_at": "2026-11-25T07:15:28.306637+00:00",
   "national": [
     {
-      "title": "Kabakom: Tugas Sugiono dan Amran di Kabinet Tak Terganggu Cawapres",
-      "summary": "Kepala Bakom Syahganda Nainggolan memastikan Menko PMK Sugiono dan Menteri Pertanian Amran tetap menjalankan tugas di kabinet selama proses pemilihan cawapres.",
-      "url": "https://www.cnnindonesia.com/nasional/20261125130624-32-1431303/kabakom-tugas-sugiono-dan-amran-di-kabinet-tak-terganggu-cawapres",
-      "source": "CNN Indonesia",
-      "published": "2026-11-25T06:52:55+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/09/kepala-badan-komunikasi-pemerintah-bakom-ri-syahganda-nainggolan-1794181606039_169.jpeg?w=360&q=90"
+      "title": "Tim Verifikasi MPR Temui Kapolri, Cek Rekam Jejak Cawapres Amran dan Sugiono",
+      "summary": "Tim Verifikasi Faktual Persyaratan Calon Wakil Presiden (Cawapres) RI Sisa Masa Jabatan 2024-2029 menemui Kapolri Jenderal Suyudi Ario Seto.",
+      "url": "https://news.detik.com/berita/d-8769252/tim-verifikasi-mpr-temui-kapolri-cek-rekam-jejak-cawapres-amran-dan-sugiono",
+      "source": "Detik",
+      "published": "2026-11-25T07:13:10+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/25/tim-verifikasi-mpr-temui-kapolri-jenderal-suyudi-ario-seto-dok-istimewa-1795590767503_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Cuaca Ekstrem, 81 Rumah Warga Bekasi Rusak Diterjang Angin Kencang",
-      "summary": "Hujan dan angin kencang di Kabupaten Bekasi merusak 81 rumah. 68 keluarga terdampak, tim BPBD melakukan pendataan dan penanganan lebih lanjut.",
-      "url": "https://news.detik.com/berita/d-8769193/cuaca-ekstrem-81-rumah-warga-bekasi-rusak-diterjang-angin-kencang",
-      "source": "Detik",
-      "published": "2026-11-25T06:44:38+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/01/23/ilustrasi-cuaca-ekstrem-1769143737352_169.jpeg?w=360&q=90"
+      "title": "Polri Terbitkan SKCK Amran dan Sugiono, Tak Ada Catatan Kriminal",
+      "summary": "Mabes Polri terbitkan SKCK untuk Cawapres Sugiono dan Amran Sulaiman, memastikan keduanya bebas dari catatan kriminal dan keterlibatan G30S PKI.",
+      "url": "https://www.cnnindonesia.com/nasional/20261125135829-12-1431340/polri-terbitkan-skck-amran-dan-sugiono-tak-ada-catatan-kriminal",
+      "source": "CNN Indonesia",
+      "published": "2026-11-25T07:12:56+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/25/polri-terbitkan-skck-cawapres-amran-dan-sugiono-tak-ada-catatan-kriminal-1795590203970_169.jpeg?w=360&q=90"
     },
     {
       "title": "Kepala Bakom: Kesejahteraan guru kini jadi prioritas Presiden Prabowo",
@@ -27,6 +27,14 @@
     }
   ],
   "international": [
+    {
+      "title": "Pakistan rejoices as country’s first astronaut enters orbit",
+      "summary": "Zeeshan Ali makes history as the first foreign national to board China's space station",
+      "url": "https://www.aljazeera.com/news/2026/11/25/pakistan-rejoices-as-countrys-first-astronaut-enters-orbit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-25T07:05:59+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b067e9c711c-1795587740.jpg?resize=1920%2C1440"
+    },
     {
       "title": "Australian politics live: Survivors welcome Tasmanian plan to outlaw conversion therapy; Chalmers denies Australia is in ‘stagflation’",
       "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a ‘zero-sum’ game. I reject this sort of zero-sum game where building Australian sovereignty in AI must come at the expense of creatives or at diminishing the rights of creatives. At the moment, yes, we want deals, but we want creatives paid properly for their work. And the situation that we find ourselves in at the moment is that they’re not. They have no control and often no payment for their work. Continue reading...",
@@ -42,14 +50,6 @@
       "source": "BBC",
       "published": "2026-11-25T06:36:00+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg"
-    },
-    {
-      "title": "Phone spying to missiles: Why India-Israel strategic ties go beyond Modi",
-      "summary": "The opposition Congress party calls Israel’s war on Gaza a genocide, but its leader still wants strong ties with Israel.",
-      "url": "https://www.aljazeera.com/news/2026/11/25/phone-spying-to-missiles-why-india-israel-strategic-ties-go-beyond-modi?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-25T05:27:32+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-02-26T125806Z_667581333_RC2OTJAZOSZ2_RTRMADP_3_ISRAEL-INDIA-1795520918.jpg?resize=1920%2C1440"
     }
   ],
   "feed_warnings": []
