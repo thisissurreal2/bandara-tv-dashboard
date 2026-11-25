@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T15:15:31.781324+00:00",
+  "updated_at": "2026-11-25T15:30:34.462780+00:00",
   "national": [
     {
       "title": "Horor Puluhan Gurandil Terjebak di Tambang 100 Meter di Bogor",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Trump proposing new tariffs on 14 partners including China and European Union",
-      "summary": "The administration is suggesting an added 20% tax on Chinese imports, which would bring the total to about 40% US politics live – latest updates Donald Trump is proposing new tariffs on 14 trading partners, including China and the European Union, that would go into effect early next year, the office of the US trade representative said onWednesday. The administration is proposing an additional 20% tax on Chinese imports, which would bring the total tax to around 40%. Other countries impacted by the new tariffs include Bangladesh, ‌Cambodia, the European Union, India, Indonesia, Japan, South Korea, Malaysia, Singapore, Switzerland, Taiwan, Thailand and Vietnam. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe",
+      "title": "Activist confronts ex-Mossad chief over 2024 Lebanon pager attacks",
+      "summary": "A Jewish activist has confronted former Mossad chief David Barnea in Germany's parliament, calling him a 'war criminal'.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/activist-confronts-ex-mossad-chief-over-2024-lebanon-pager-attacks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-25T15:15:53+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795619737.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
+      "title": "Botty? AI helps resurrect voice of John Motson for football video game",
+      "summary": "Late broadcaster’s family allows EA Sports to create digital version of ‘Motty’ to commentate on popular FC27 First it was Val Kilmer, then Greta Garbo, but finally AI has resurrected a star the terraces can cheer for: John Motson, the BBC football pundit who died in February 2023, is coming back to commentate on the next generation of footballers – at least on a video game. The legendary commentator’s family has approved the use of AI technology to create a digital version of “Motty” – as he was ubiquitously known by generations of football fans – by EA Sports, which makes the popular football simulator FC27. Continue reading...",
+      "url": "https://www.theguardian.com/media/2026/nov/25/ai-helps-resurrect-voice-john-motson-football-video-game-fc27",
       "source": "The Guardian",
-      "published": "2026-11-25T14:59:44+00:00",
-      "image": "https://i.guim.co.uk/img/media/ebe197c4ddf037bb7f5929b74ddafc3544202caa/333_0_3333_2667/master/3333.jpg?width=140&quality=85&auto=format&fit=max&s=55dbcf5c1f8ee7675d2ab699424796fb"
+      "published": "2026-11-25T15:13:10+00:00",
+      "image": "https://i.guim.co.uk/img/media/d52e8fa78cedadca70c70f6e59bfcd90f9e39367/57_0_2250_1800/master/2250.jpg?width=140&quality=85&auto=format&fit=max&s=3114b2b42e73428bec0fd49db5beb3e5"
     },
     {
       "title": "Five Russian military jets hit in airfield strike, says Ukraine",
@@ -42,15 +50,11 @@
       "source": "BBC",
       "published": "2026-11-25T14:46:41+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/263d/live/670b2250-e8df-11f1-a3b9-79c60ec9ab33.jpg"
-    },
-    {
-      "title": "Syrian teams clear landmines after deadly explosion",
-      "summary": "Syrian teams clear landmines after deadly explosion",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/syrian-teams-clear-landmines-after-deadly-explosion?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-25T13:51:15+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/syria-mines-horizontal-thumb-1795614627.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
