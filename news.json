@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-25T15:30:34.462780+00:00",
+  "updated_at": "2026-11-25T15:45:54.138774+00:00",
   "national": [
     {
-      "title": "Horor Puluhan Gurandil Terjebak di Tambang 100 Meter di Bogor",
-      "summary": "Puluhan penambang emas ilegal terjebak di lubang galian sedalam 100 meter di Bogor. Dua korban ditemukan meninggal, kini evakuasi masih berlangsung.",
-      "url": "https://news.detik.com/berita/d-8770140/horor-puluhan-gurandil-terjebak-di-tambang-100-meter-di-bogor",
+      "title": "Puting Beliung Terjang Permukiman di Desa Nagrak Cianjur, 23 Rumah Rusak",
+      "summary": "Puting beliung merusak 23 rumah dan menumbangkan dua pohon di Desa Nagrak, Kabupaten Cianjur, Jawa Barat.",
+      "url": "https://news.detik.com/berita/d-8770173/puting-beliung-terjang-permukiman-di-desa-nagrak-cianjur-23-rumah-rusak",
       "source": "Detik",
-      "published": "2026-11-25T15:06:19+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/25/lubang-tambang-emas-ilegal-tempat-orang-orang-terjebak-dok-istimewa-1795580490467_169.jpeg?w=360&q=90"
+      "published": "2026-11-25T15:39:18+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2023/06/06/puting-beliung-di-bandung-5-juni-2023-awal-mula-hingga-dampaknya-1_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "Advokat Sorot Keterbukaan Polri Usut Kasus Listyo Sigit Cs",
+      "summary": "Keterbukaan Polri dalam kasus dugaan makar mantan Kapolri Listyo Sigit Prabowo dinilai penting untuk kepercayaan publik.",
+      "url": "https://www.cnnindonesia.com/nasional/20261125221542-12-1431569/advokat-sorot-keterbukaan-polri-usut-kasus-listyo-sigit-cs",
+      "source": "CNN Indonesia",
+      "published": "2026-11-25T15:29:45+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/10/21/ksp-listyo-1792539057941_169.jpeg?w=360&q=90"
     },
     {
       "title": "Kemkomdigi tegaskan perlindungan hak cipta karya jurnalistik di era AI",
@@ -16,17 +24,25 @@
       "source": "ANTARA",
       "published": "2026-11-25T14:27:30+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/25/1000173729.jpg"
-    },
-    {
-      "title": "Karding Dorong Kampus Cetak Eksportir Muda Indonesia",
-      "summary": "Kepala Barantin Abdul Kadir Karding dorong mahasiswa jadi eksportir muda, Pentingnya inovasi dan jejaring bisnis untuk ekspor komoditas unggulan Indonesia.",
-      "url": "https://www.cnnindonesia.com/nasional/20261125203940-25-1431555/karding-dorong-kampus-cetak-eksportir-muda-indonesia",
-      "source": "CNN Indonesia",
-      "published": "2026-11-25T14:03:04+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/25/badan-karantina-indonesia-1795615115120_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
+    {
+      "title": "South Africa's Ramaphosa wins court battle over impeachment threat",
+      "summary": "The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.",
+      "url": "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-25T15:42:50+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4f9/live/01698130-e808-11f1-95bb-3f37d3e026b0.jpg"
+    },
+    {
+      "title": "Beatles attraction at 3 Savile Row approved – with ban on rooftop gigs",
+      "summary": "Westminster council signs off on ‘cultural experience and exhibition’ at site where band last performed in public Fans of the Beatles will be able to stand on the Savile Row rooftop in London where the band held their final public performance, but any visitors hoping to experience what made the site a famed rock destination will be disappointed – because live music will be banned. Westminster city council has voted on proposals to turn the Grade-II listed building at 3 Savile Row in central London into a seven-storey “cultural experience and exhibition” honouring the music history and legacy of the Fab Four. Continue reading...",
+      "url": "https://www.theguardian.com/music/2026/nov/25/beatles-attraction-savile-row-approved-ban-rooftop-gigs",
+      "source": "The Guardian",
+      "published": "2026-11-25T15:29:58+00:00",
+      "image": "https://i.guim.co.uk/img/media/bedd33d1fa780e4658a4365e02a5f53990849c3c/276_1639_2183_1746/master/2183.jpg?width=140&quality=85&auto=format&fit=max&s=c691d6a5280382076adb66872f5093e5"
+    },
     {
       "title": "Activist confronts ex-Mossad chief over 2024 Lebanon pager attacks",
       "summary": "A Jewish activist has confronted former Mossad chief David Barnea in Germany's parliament, calling him a 'war criminal'.",
@@ -34,27 +50,7 @@
       "source": "Al Jazeera",
       "published": "2026-11-25T15:15:53+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795619737.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "title": "Botty? AI helps resurrect voice of John Motson for football video game",
-      "summary": "Late broadcaster’s family allows EA Sports to create digital version of ‘Motty’ to commentate on popular FC27 First it was Val Kilmer, then Greta Garbo, but finally AI has resurrected a star the terraces can cheer for: John Motson, the BBC football pundit who died in February 2023, is coming back to commentate on the next generation of footballers – at least on a video game. The legendary commentator’s family has approved the use of AI technology to create a digital version of “Motty” – as he was ubiquitously known by generations of football fans – by EA Sports, which makes the popular football simulator FC27. Continue reading...",
-      "url": "https://www.theguardian.com/media/2026/nov/25/ai-helps-resurrect-voice-john-motson-football-video-game-fc27",
-      "source": "The Guardian",
-      "published": "2026-11-25T15:13:10+00:00",
-      "image": "https://i.guim.co.uk/img/media/d52e8fa78cedadca70c70f6e59bfcd90f9e39367/57_0_2250_1800/master/2250.jpg?width=140&quality=85&auto=format&fit=max&s=3114b2b42e73428bec0fd49db5beb3e5"
-    },
-    {
-      "title": "Five Russian military jets hit in airfield strike, says Ukraine",
-      "summary": "The Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
-      "url": "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-25T14:46:41+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/263d/live/670b2250-e8df-11f1-a3b9-79c60ec9ab33.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
