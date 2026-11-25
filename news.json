@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T14:15:28.786718+00:00",
+  "updated_at": "2026-11-25T14:30:32.902569+00:00",
   "national": [
     {
       "title": "Pemkab Humbahas Ajukan Pembangunan Sekolah Rakyat, Siapkan Lahan 6 Hektare",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Iowa lead detonation: US army to blow up bomb-making chemicals despite concerns - live updates",
-      "summary": "The army plans to detonate of 68 barrels containing nearly 9,500lbs of lead azide despite public concern about potential health and environmental effects Sign up for the Breaking News US email The US army has released new maps showing the projected path of a toxic lead dust plume from the planned detonation of 68 barrels – five tons – of lead axide at an Iowa ammunition dump. Projections show a plume moving south-west of the Iowa army ammunition plant in Middletown, stretching through a south-eastern portion of the state before extending into northern Missouri. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/25/iowa-lead-azide-detonation-army-explosion-bomb-live-updates",
+      "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
+      "summary": "The US president urged the tech leader to ‘tell the truth’ in upcoming testimony in a Senate hearing Sign up for the Breaking News US email to get newsletter alerts in your inbox The Trump administration is planning to hike tariffs on Chinese goods by an additional 20% and raise import taxes on products from the European Union , Japan , South Korea , Taiwan and nine other major trading partners , with Donald Trump seemingly undeterred by his resounding midterms defeat, in which his handling of the economy was a major factor, and a large cohort of his previous levies being struck down by the supreme court. The US Trade Representative’s office announced the tariffs after completing an eight-month Section 301 unfair trade practices probe into 16 trading partners, including Bangladesh , ‌ Cambodia , India , Indonesia , Malaysia , Singapore , Switzerland , Thailand and Vietnam . For now, Mexico and Norway have pending investigations and are excluded from new levies. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-25T14:09:10+00:00",
-      "image": "https://i.guim.co.uk/img/media/c49064139167d115c04bf871cf34391b10d10b62/490_0_5419_4335/master/5419.jpg?width=140&quality=85&auto=format&fit=max&s=284636ccfc25f10c0fca7a9ed5c7d1a5"
+      "published": "2026-11-25T14:13:36+00:00",
+      "image": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=34726bbffd4777a0dcfd19f1ba78c125"
     },
     {
       "title": "Syrian teams clear landmines after deadly explosion",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92f9/live/30ceb970-e8cd-11f1-a094-5fdc692f3e33.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
