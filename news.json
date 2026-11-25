@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-25T14:30:32.902569+00:00",
+  "updated_at": "2026-11-25T14:45:31.206423+00:00",
   "national": [
     {
-      "title": "Pemkab Humbahas Ajukan Pembangunan Sekolah Rakyat, Siapkan Lahan 6 Hektare",
-      "summary": "Pemkab Humbang Hasundutan ajukan pembangunan Sekolah Rakyat di lahan 6 hektare. Bupati Oloan Nababan bahas bantuan untuk masyarakat terdampak bencana.",
-      "url": "https://news.detik.com/berita/d-8770060/pemkab-humbahas-ajukan-pembangunan-sekolah-rakyat-siapkan-lahan-6-hektare",
+      "title": "Pangeran William Kunjungan Langka ke Downing Street, Bertemu PM Andy Burnham",
+      "summary": "Pangeran William melakukan kunjungan langka ke 10 Downing Street untuk bertemu PM Andy Burnham. Keduanya membahas beberapa hal termasuk isu tunawisma.",
+      "url": "https://news.detik.com/internasional/d-8770098/pangeran-william-kunjungan-langka-ke-downing-street-bertemu-pm-andy-burnham",
       "source": "Detik",
-      "published": "2026-11-25T14:10:09+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/25/pemkab-humbahas-ajukan-pembangunan-sekolah-rakyat-siapkan-lahan-6-hektare-1795615782944.jpeg?w=360&q=90"
+      "published": "2026-11-25T14:38:18+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/25/pangeran-william-berkunjung-ke-downing-street-bertemu-pm-andy-burnham-1795617442066_169.webp?w=360&q=90"
     },
     {
       "title": "Karding Dorong Kampus Cetak Eksportir Muda Indonesia",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Trump says pardon for Nvidia boss Huang ‘always an option’ after accusations of breaking export laws – US politics live",
-      "summary": "The US president urged the tech leader to ‘tell the truth’ in upcoming testimony in a Senate hearing Sign up for the Breaking News US email to get newsletter alerts in your inbox The Trump administration is planning to hike tariffs on Chinese goods by an additional 20% and raise import taxes on products from the European Union , Japan , South Korea , Taiwan and nine other major trading partners , with Donald Trump seemingly undeterred by his resounding midterms defeat, in which his handling of the economy was a major factor, and a large cohort of his previous levies being struck down by the supreme court. The US Trade Representative’s office announced the tariffs after completing an eight-month Section 301 unfair trade practices probe into 16 trading partners, including Bangladesh , ‌ Cambodia , India , Indonesia , Malaysia , Singapore , Switzerland , Thailand and Vietnam . For now, Mexico and Norway have pending investigations and are excluded from new levies. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+      "title": "Iowa lead detonation: US army to blow up bomb-making chemicals despite concerns - live updates",
+      "summary": "The army plans to detonate of 68 barrels containing nearly 9,500lbs of lead azide despite public concern about potential health and environmental effects Sign up for the Breaking News US email The Iowa National Guard is providing up to 100 federally activated soldiers to support local, state and federal agencies in their public safety efforts around the controlled detonation. According to a news release from Iowa Governor Kim Reynolds, the soldiers will “assist with community outreach to approximately 150 households identified by local and federal authorities, providing official guidance and assistance to residents with the recommended temporary evacuation.” Muscatine, a town approximately 60 miles north of Middletown along the Mississippi River, was initially placed in the path of the plume by prediction models. Rehana Pasha, an employee at farm supply chain Blain’s Farm & Fleet, said she had been fielding questions from concerned farmers since the plans were first announced last week. She said supplies like containers to safely store water, tarps to cover livestock feed, and leaf-blowers to blow lead dust and other contaminants off surfaces had been selling fast. “Initially we had only five days of warning, and as a farm supply store we were overwhelmed with customers asking how to prepare,” she said, adding that their customer base skews older and was struggling to order supplies on Amazon and other e-commerce sites on such short notice. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/25/iowa-lead-azide-detonation-army-explosion-bomb-live-updates",
       "source": "The Guardian",
-      "published": "2026-11-25T14:13:36+00:00",
-      "image": "https://i.guim.co.uk/img/media/b81ae5a9f6ca550652434eefe1adae4209abd469/181_0_3334_2668/master/3334.jpg?width=140&quality=85&auto=format&fit=max&s=34726bbffd4777a0dcfd19f1ba78c125"
+      "published": "2026-11-25T14:30:08+00:00",
+      "image": "https://i.guim.co.uk/img/media/c49064139167d115c04bf871cf34391b10d10b62/490_0_5419_4335/master/5419.jpg?width=140&quality=85&auto=format&fit=max&s=284636ccfc25f10c0fca7a9ed5c7d1a5"
     },
     {
       "title": "Syrian teams clear landmines after deadly explosion",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92f9/live/30ceb970-e8cd-11f1-a094-5fdc692f3e33.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
