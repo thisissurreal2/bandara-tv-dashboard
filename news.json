@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-11-25T05:45:28.911749+00:00",
+  "updated_at": "2026-11-25T06:00:44.479780+00:00",
   "national": [
     {
-      "title": "Bandar Pemasok Ganja ke Kampung Ambon Ditangkap di Madina Sumut",
-      "summary": "Polisi menangkap pria berinisial RA di Mandailing Natal terkait dengan pengembangan kasus peredaran narkotika di Kampung Ambon, Jakarta Barat.",
-      "url": "https://www.cnnindonesia.com/nasional/20261125121150-12-1431276/bandar-pemasok-ganja-ke-kampung-ambon-ditangkap-di-madina-sumut",
+      "title": "Sidang Etik Irjen Slamet Uliandi di Kasus Sadap dan Makar Ditunda",
+      "summary": "Mabes Polri menunda sidang etik Irjen Slamet Uliandi terkait penyadapan ilegal dan makar terhadap Prabowo Subianto, karena dirawat di rumah sakit.",
+      "url": "https://www.cnnindonesia.com/nasional/20261125124631-12-1431299/sidang-etik-irjen-slamet-uliandi-di-kasus-sadap-dan-makar-ditunda",
       "source": "CNN Indonesia",
-      "published": "2026-11-25T05:43:38+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2020/07/24/ilustrasi-narkoba_169.jpeg?w=360&q=90"
+      "published": "2026-11-25T05:56:33+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/05/irjen-pol-slamet-uliandi-1793886576824_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Foto Wapres Gibran Jatuh dan Pecah Saat Diturunkan Mahasiswa di DPRD Surabaya",
-      "summary": "Sejumlah mahasiswa menurunkan foto Wapres Gibran Rakabuming Raka di DPRD Surabaya. Pigura foto itu terjatuh hingga kacanya pecah saat diturunkan.",
-      "url": "https://news.detik.com/berita/d-8769028/foto-wapres-gibran-jatuh-dan-pecah-saat-diturunkan-mahasiswa-di-dprd-surabaya",
+      "title": "Kapolda Jatim Launching One Day Service SPKT, Ini Keunggulannya",
+      "summary": "Polda Jawa Timur meluncurkan layanan One Day Service di Sentra Pelayanan Kepolisian Terpadu (SPKT).",
+      "url": "https://news.detik.com/berita/d-8769067/kapolda-jatim-launching-one-day-service-spkt-ini-keunggulannya",
       "source": "Detik",
-      "published": "2026-11-25T05:24:32+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/25/penurunan-foto-gibran-di-dprd-surabaya-1795581379738_169.jpeg?w=360&q=90"
+      "published": "2026-11-25T05:44:48+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/25/kapolda-jatim-irjen-dekananto-1795581927635_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Transjakarta ajak 120 veteran berkeliling gedung ikonik di Jakarta",
-      "summary": "PT Transportasi Jakarta (Transjakarta) mengajak 120 anggota Legiun Veteran Republik Indonesia (LVRI) menyusuri kembali ...",
-      "url": "https://www.antaranews.com/berita/5876591/transjakarta-ajak-120-veteran-berkeliling-gedung-ikonik-di-jakarta",
+      "title": "Kemendikdasmen beri keleluasaan sekolah tentukan aspek kenaikan kelas",
+      "summary": "Kementerian Pendidikan Dasar dan Menengah (Kemendikdasmen) menyatakan satuan pendidikan memiliki keleluasaan dalam ...",
+      "url": "https://www.antaranews.com/berita/5876875/kemendikdasmen-beri-keleluasaan-sekolah-tentukan-aspek-kenaikan-kelas",
       "source": "ANTARA",
-      "published": "2026-11-25T03:07:44+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/25/1000366807_1.jpg"
+      "published": "2026-11-25T05:19:53+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/25/1000318076.jpg"
     }
   ],
   "international": [
@@ -32,7 +32,7 @@
       "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a ‘zero-sum’ game. I reject this sort of zero-sum game where building Australian sovereignty in AI must come at the expense of creatives or at diminishing the rights of creatives. At the moment, yes, we want deals, but we want creatives paid properly for their work. And the situation that we find ourselves in at the moment is that they’re not. They have no control and often no payment for their work. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-25T05:28:45+00:00",
+      "published": "2026-11-25T05:43:47+00:00",
       "image": "https://i.guim.co.uk/img/media/abe3e1517beb197540881ae188764c6b9ed1e8d5/268_271_6089_4871/master/6089.jpg?width=140&quality=85&auto=format&fit=max&s=ac63489291435c88ab4b315a41629975"
     },
     {
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c4a/live/dcbcfdf0-e85a-11f1-9b85-e50d1e9de678.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
