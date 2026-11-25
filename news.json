@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T13:15:27.659193+00:00",
+  "updated_at": "2026-11-25T13:30:42.655404+00:00",
   "national": [
     {
       "title": "FOTO: Bencana Tanah Longsor di Desa Kertarahayu Tasikmalaya",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Badenoch quizzes Burnham at PMQs over tuition fee bill in deal with EU – UK politics live",
+      "summary": "The prime minister says the government is bringing forward legislation for the three deals announced last week Diane Taylor is a Guardian reporter who covers migration. Britons get many of the facts about migration wrong and Reform UK voters are the group who get these facts most wrong, according to new research published today by King’s College University and YouGov. Among Reform UK supporters, 57% think net migration rose significantly in the year to June 2025, compared with 11% of Labour supporters and 8% of Greens. Eight in 10 Reform supporters think that asylum seekers are prioritised for social housing, compared with 21% of Green supporters. It is wrong to believe that if we could only correct misperceptions, we would automatically reduce concerns about immigration or policy preferences – because that misdiagnoses a large part of the cause, that these divides are partly driven by deep differences in values and identity. Continue reading...",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-25T13:12:17+00:00",
+      "image": "https://i.guim.co.uk/img/media/5e2fbc762464a19542483cce1a3c418a4b1b1994/310_0_4676_3743/master/4676.jpg?width=140&quality=85&auto=format&fit=max&s=d6446463cd080ea39a8a1b8c61f5664b"
+    },
+    {
       "title": "‘Second home’: Why Israel is celebrating Jensen Huang’s return to Nvidia",
       "summary": "Israel's tech sector and economy have strong ties to chip giant Nvidia, which invests billions of dollars.",
       "url": "https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-11-25T13:04:17+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6afb1ed172-1794842321_94fc07-1795607658.jpg?resize=1200%2C630&quality=80"
-    },
-    {
-      "title": "‘Russia wants more than Ukraine,’ Germany’s Merz warns – Europe live",
-      "summary": "German chancellor, in wide-ranging speech, says Moscow is ‘escalating on a massive scale’ If you want to hear more about the new death toll, listen to today’s Today in Focus podcast with our Russia expert, Pjotr Sauer. “Two groups of hackers accessed Russia’s main statistics database last month and discovered a cache of 11m death certificates that revealed nearly 500,000 Russian losses in Ukraine since 2022. Among these were 1,000 – the equivalent of a whole regiment – who took their own lives. The documents show how the majority of soldiers come from poorer areas and ethnic minorities, drawn in by high salaries. There are also recruits from abroad and even those lured to Russia by offers of jobs. But for how long can Vladimir Putin keep this shocking death toll from the Russian people?” Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-25T12:56:35+00:00",
-      "image": "https://i.guim.co.uk/img/media/621e93b6debd15c2bb0ba21a27a32b9d2d861391/400_106_1200_960/master/1200.jpg?width=140&quality=85&auto=format&fit=max&s=5c33a0c896355061a8862fcf26f2bd15"
     },
     {
       "title": "Kilmar Ábrego García arrives in Spain, ending Trump deportation battle",
@@ -53,7 +53,7 @@
     }
   ],
   "feed_warnings": [
-    "Detik: URLError",
+    "Detik: TimeoutError",
     "Detik: no fresh stories",
     "Detik: keeping previous story"
   ]
