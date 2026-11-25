@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T20:45:25.571226+00:00",
+  "updated_at": "2026-11-25T21:00:43.664455+00:00",
   "national": [
     {
       "title": "Kemenhub siapkan angkutan perairan dan 40 ribu tiket gratis Nataru",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Liberal senator Leah Blyth announces defection to One Nation",
-      "summary": "South Australian senator labels One Nation the ‘only party with the bold ideas needed to turn this country around’ Leah Blyth, federal Liberal senator for South Australia, has announced she is defecting to One Nation, becoming the party’s first upper-house member for the state. Blyth, a member of Angus Taylor’s shadow cabinet, said she did not believe the Coalition was capable of opposing the Albanese government, which was “running the country into the ground”. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb",
+      "title": "Australian politics live: Hanson ‘delighted’ as Blyth defects to One Nation; Bowen says forces ‘infected’ Cop31",
+      "summary": "Get our breaking news email , free app or daily news podcast Hanson ‘delighted’ to welcome Blyth Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party. Senator Blyth will be One Nation’s first South Australian Senator and will build on One Nation’s expanding support within the state. My team and I are delighted to welcome Senator Blyth to sit in the Senate with One Nation. We are facing at the next election clearly a coalition of the Liberals, Nationals and One Nation, with all the baggage that each of these parties brings to the table. They’re all anti-worker, they’re all extreme … this demonstrates, I think, more disunity in the Liberal party under Angus Taylor . Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-25T20:32:56+00:00",
-      "image": "https://i.guim.co.uk/img/media/b8e0686e082ee97c403961ee3228cab6cd5bcf48/0_0_1943_1555/master/1943.jpg?width=140&quality=85&auto=format&fit=max&s=757367d930714c816470fe6d0a80c401"
+      "published": "2026-11-25T20:49:49+00:00",
+      "image": "https://i.guim.co.uk/img/media/ce6cb56abf202649179c638f3a9b93b6efd40887/817_0_3829_3065/master/3829.jpg?width=140&quality=85&auto=format&fit=max&s=bb74df4639acdddc2a7c95b3f50d4b41"
     },
     {
-      "title": "Migrant wrongly deported by Trump leaves US for Spain",
-      "summary": "Kilmar Abrego Garcia has arrived in Spain with his wife after a 20-month legal battle with the Trump administration.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/migrant-wrongly-deported-by-trump-leaves-us-for-spain?traffic_source=rss",
+      "title": "Baby Aliyah steals the show during Australian Senate debate",
+      "summary": "Australian Senator Fatima Payman addressed the Senate with her six-month-old daughter, Aliyah, in her arms",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/baby-aliyah-steals-the-show-during-australian-senate-debate?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-25T20:14:28+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795637624.jpg?resize=1622%2C1080&quality=80"
+      "published": "2026-11-25T20:42:41+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795639351.jpg?resize=1920%2C1080&quality=80"
     },
     {
       "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9049/live/be474ac0-e8f9-11f1-b8b0-a95064d74c5f.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
