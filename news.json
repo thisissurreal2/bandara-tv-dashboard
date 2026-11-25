@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T10:15:27.501464+00:00",
+  "updated_at": "2026-11-25T10:30:34.676826+00:00",
   "national": [
     {
       "title": "Terbukti Buntuti Pejabat, Kombes Chairul Anam Saksi Kasus Makar Dipecat Polri",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Two Libyan soldiers die after Ukraine attack on Russian vessel",
-      "summary": "Khalifa Haftar’s Libyan National Army, which Russia backs, vowed retaliation for the death of its soldiers",
-      "url": "https://www.aljazeera.com/news/2026/11/25/two-libyan-soldiers-die-after-ukraine-attack-on-russian-vessel?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-25T09:58:02+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0696ca9bb9d-1795593930.jpg?resize=1920%2C1440"
+      "title": "Burnham’s devolution plans risk ‘significant disparities’ for people in England, MPs say – UK politics live",
+      "summary": "Public accounts committee warns of ‘disparities in opportunities and outcomes’ depending on the type of strategic authority where people live John Swinney, the Scottish first minister, is also urging Andy Burnham to step in to bring energy bills down after Ofgem announced the price cap will rise by 26% in January. (See 9.41am .) In a statement, Swinney said: High energy bills are already causing real hardship across Scotland and confirmation of a £443 increase in January, when the new price cap comes into effect, will be causing understandable anxiety for many people. Scotland’s energy is projected to send an additional £2.6bn in revenue to the Treasury next year – and yet people in Scotland are set to see bills increase even further. We are one of the most energy-rich nations in the world and yet we pay some of the highest bills in Europe – it does not add up. The move expands on a pilot scheme to fit eligible offenders with GPS, alcohol and curfew tags before they leave the prison gates, rather than sending them off with a tagging order in place. It comes as further waves of offenders are set to be released early over the next year to free up prison spaces in overcrowded jails in England and Wales. Criminals and defendants should be under no illusion that leaving prison or court means escaping the watchful eye of the authorities. Tagging is just one of the many tools we use to monitor offenders, but the evidence shows it works. Continue reading...",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-25T10:13:29+00:00",
+      "image": "https://i.guim.co.uk/img/media/030d04c96ea7bf8fc41e165f73f6dfbc8a93f9c1/1440_0_7200_5760/master/7200.jpg?width=140&quality=85&auto=format&fit=max&s=be9f05df51901c55220b125669838e7f"
     },
     {
-      "title": "‘Russia wants more than Ukraine,’ Germany’s Merz warns – Europe live",
-      "summary": "German chancellor, in wide-ranging speech, says Moscow is ‘escalating on a massive scale’ Meanwhile, Ukraine’s Volodymyr Zelenskyy and Hungary’s Péter Magyar have hailed “a fresh start” in relations between their countries, resetting them after more than a decade of growing acrimony under Viktor Orbán. During his visit to Zakarpattia region – the first by a sitting Hungarian PM in 15 years – Magyar stressed his commitment to protecting the rights of some 60,000 ethnic Hungarians resident in the region. Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-25T09:54:37+00:00",
-      "image": "https://i.guim.co.uk/img/media/621e93b6debd15c2bb0ba21a27a32b9d2d861391/400_106_1200_960/master/1200.jpg?width=140&quality=85&auto=format&fit=max&s=5c33a0c896355061a8862fcf26f2bd15"
+      "title": "Dozens of ports close as powerful waves damage Peru’s coastline",
+      "summary": "Dozens of ports close as powerful waves damage Peru’s coastline",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/dozens-of-ports-close-as-powerful-waves-damage-perus-coastline?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-25T10:05:58+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/peru-horizontal-thumb-1795601123.jpg?resize=1920%2C1080&quality=80"
     },
     {
       "title": "Zimbabwe issues arrest warrant for Robert Mugabe's son over missed court date",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4e2/live/505d3ac0-e89e-11f1-88cb-d14f0511e6fd.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
