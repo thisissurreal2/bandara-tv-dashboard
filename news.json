@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-25T18:45:26.504913+00:00",
+  "updated_at": "2026-11-25T19:00:43.167362+00:00",
   "national": [
     {
-      "title": "Kombes F Disorot Dapat Jabatan Baru di Tengah Kasus Penipuan Emas",
-      "summary": "Warga Malaysia SYF melaporkan Kombes Fahrurozi ke Polri setelah terlapor mendapat jabatan baru meski terlibat kasus penipuan investasi tambang emas.",
-      "url": "https://www.cnnindonesia.com/nasional/20261125223239-12-1431570/kombes-f-disorot-dapat-jabatan-baru-di-tengah-kasus-penipuan-emas",
+      "title": "TNI AU Kumpulkan Komandan Satuan, Bahas Modernisasi Alutsista",
+      "summary": "TNI AU menggelar Apel Komandan Satuan 2026 di Jakarta, membahas modernisasi alutsista dan kesiapan komandan dalam menghadapi tantangan pertahanan udara.",
+      "url": "https://www.cnnindonesia.com/nasional/20261125183702-20-1431497/tni-au-kumpulkan-komandan-satuan-bahas-modernisasi-alutsista",
       "source": "CNN Indonesia",
-      "published": "2026-11-25T18:30:52+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/10/23/satgas-pkh-tertibkan-tambang-emas-ilegal-275-hektare-di-papua-tengah-1792716979928_169.jpeg?w=360&q=90"
+      "published": "2026-11-25T18:45:25+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/25/tni-au-kumpulkan-komandan-satuan-bahas-modernisasi-alutsista-1795603221052_169.jpeg?w=360&q=90"
     },
     {
       "title": "Pegawai SPPG di Garut Tewas Diduga Dianiaya Rekan Kerja, Polisi Selidiki",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0719bca5cf-1795627452.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
