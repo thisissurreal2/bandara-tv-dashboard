@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T22:45:27.434007+00:00",
+  "updated_at": "2026-11-25T23:00:42.056406+00:00",
   "national": [
     {
       "title": "Sugiono Dinilai Punya Loyalitas dan Kapasitas Jadi Wapres Prabowo",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Australian politics live: Greens say Liberal-One Nation defector just ‘changing billionaire donor’",
-      "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party . Blyth is the second high-profile federal defection from the Coalition to One Nation – after Barnaby Joyce . Senator Blyth will be One Nation’s first South Australian Senator and will build on One Nation’s expanding support within the state. My team and I are delighted to welcome Senator Blyth to sit in the Senate with One Nation. We are facing at the next election clearly a coalition of the Liberals, Nationals and One Nation, with all the baggage that each of these parties brings to the table. They’re all anti-worker, they’re all extreme … this demonstrates, I think, more disunity in the Liberal party under Angus Taylor . Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
+      "title": "Brad Pitt and Angelina Jolie settle years-long legal battle over joint French winery",
+      "summary": "Pitt filed the lawsuit against Jolie in 2022 after she sold her stake in Château Miraval, saying she broke their agreement not to sell their interests Brad Pitt and Angelina Jolie have settled a years-long legal battle over their French winery, according to a joint statement from the former Hollywood couple. “We have settled out of court in the best interests of our family and will not be commenting further,” representatives for Jolie and Pitt said in a statement. “Any comments in media stories attributed to ‘sources’ are in fact not coming from either of us, or anyone close to us.” Continue reading...",
+      "url": "https://www.theguardian.com/film/2026/nov/25/brad-pitt-angelina-jolie-settle-french-winery-lawsuit",
       "source": "The Guardian",
-      "published": "2026-11-25T22:27:07+00:00",
-      "image": "https://i.guim.co.uk/img/media/268377c3499d542a8941cdae822ad8c48c840b31/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=6f526b3141b033a2b789503488bae418"
+      "published": "2026-11-25T22:44:39+00:00",
+      "image": "https://i.guim.co.uk/img/media/557ec712bb67d529e9eeb9449bd3462b337c8cd6/56_0_2887_2309/master/2887.jpg?width=140&quality=85&auto=format&fit=max&s=9d9a3616bea0c769a27ca40f2a6ad251"
     },
     {
       "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261125__D8MP88Y__v1__HighRes__FblEurC1SportingManUtd-1795644890.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
