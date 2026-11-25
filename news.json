@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-25T01:00:41.361199+00:00",
+  "updated_at": "2026-11-25T01:15:25.904245+00:00",
   "national": [
     {
-      "title": "Wacana TAP MPR Pemberhentian Gibran Mencuat dalam Rapat Tim Ad Hoc",
-      "summary": "Rapat perdana Tim Ad Hoc membahas pengisian jabatan wakil presiden diwarnai perdebatan tentang TAP MPR pemberhentian Gibran.",
-      "url": "https://www.cnnindonesia.com/nasional/20261125062200-32-1431076/wacana-tap-mpr-pemberhentian-gibran-mencuat-dalam-rapat-tim-ad-hoc",
+      "title": "AKBP Guntur Yayus Dipecat Terkait Kasus Makar, Ini Perannya",
+      "summary": "AKBP Guntur Yayus Putra dipecat dari Polri karena melanggar kode etik dalam kasus dugaan makar terhadap Presiden Prabowo. Ia turut mengintai pejabat.",
+      "url": "https://www.cnnindonesia.com/nasional/20261125070556-12-1431091/akbp-guntur-yayus-dipecat-terkait-kasus-makar-ini-perannya",
       "source": "CNN Indonesia",
-      "published": "2026-11-25T00:57:03+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/12/gibran-tinggalkan-istana-wapres-usai-mundur-dari-jabatan-1794469705377_169.jpeg?w=360&q=90"
+      "published": "2026-11-25T01:06:03+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/24/akbp-guntur-yayus-putra-usai-sidang-kkep-di-mabes-polri-1795527912388_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Tega! 2 Remaja di Semarang Nekat Gondol Motor Korban Kecelakaan",
-      "summary": "Dua remaja di Semarang mencuri sepeda motor korban kecelakaan saat korban bernegosiasi. Polisi berhasil menangkap pelaku setelah laporan kehilangan.",
-      "url": "https://news.detik.com/berita/d-8768599/tega-2-remaja-di-semarang-nekat-gondol-motor-korban-kecelakaan",
+      "title": "Viral 2 Perempuan Disekap di Apartemen Malang, 1 Pelaku TPPO Ditangkap",
+      "summary": "Dua perempuan disekap di apartemen Malang berhasil diselamatkan setelah melapor ke polisi. Seorang pelaku ditangkap terkait dugaan TPPO.",
+      "url": "https://news.detik.com/berita/d-8768617/viral-2-perempuan-disekap-di-apartemen-malang-1-pelaku-tppo-ditangkap",
       "source": "Detik",
-      "published": "2026-11-25T00:34:36+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2015/11/27/43b9b986-299d-4864-86b9-b24bdabe6c84_169.jpg?w=360&q=90"
+      "published": "2026-11-25T01:02:24+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/24/lokasi-penyekapan-dua-perempuan-di-apartemen-malang-1795507314710_169.jpeg?w=360&q=90"
     },
     {
       "title": "BMKG: Sebagian besar wilayah RI diguyur hujan ringan hari ini",
@@ -28,33 +28,29 @@
   ],
   "international": [
     {
-      "title": "Politics live: Marles apologises to LGBTQ+ veterans; Australia and Solomon Islands sign ‘historic’ treaty",
-      "summary": "Get our daily political email , free app or daily news podcast Wells says AI investment and creative protections not a ‘zero-sum game’ Weighing into the gigantic debate that is AI companies wanting to scrape Australian data to train models versus creatives who want to protect their work, Anika Wells says it’s not a ‘zero-sum’ game. I reject this sort of zero-sum game where building Australian sovereignty in AI must come at the expense of creatives or at diminishing the rights of creatives. At the moment, yes, we want deals, but we want creatives paid properly for their work. And the situation that we find ourselves in at the moment is that they’re not. They have no control and often no payment for their work. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
-      "source": "The Guardian",
-      "published": "2026-11-25T00:43:42+00:00",
-      "image": "https://i.guim.co.uk/img/media/0116cf57061a0f5436411466e594c6a5b4ed41bd/543_0_2953_2362/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=4e754286078c365ace09028c33e0ebf5"
-    },
-    {
-      "title": "Alaska ends deal to give voter records to US Justice Department",
-      "summary": "The decision follows the conclusion of the 2026 midterm elections and an effort under Trump to gather state voter rolls.",
-      "url": "https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-25T00:28:28+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b060d7deaecf-1795558781.jpg?resize=1920%2C1440"
-    },
-    {
       "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
       "summary": "The verdict follows a months-long trial in New York.",
       "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-24T22:24:23+00:00",
+      "published": "2026-11-25T01:11:57+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0cb/live/da83bf80-e849-11f1-aa88-031e8213533d.jpg"
+    },
+    {
+      "title": "Middle-aged women in England least likely to successfully quit smoking, study finds",
+      "summary": "Of nearly 8,000 women who tried to stop, only 18% of those aged 45 to 60 managed to give up Middle-aged women in England are the least likely to successfully give up smoking, according to research . Smoking is the leading cause of preventable death and illness in the UK. While overall smoking rates in England have declined in recent decades, rates in some regions have increased. About 6.75 million people smoke in England, of whom around 14% are women aged 45-60. Continue reading...",
+      "url": "https://www.theguardian.com/society/2026/nov/25/middle-aged-women-quit-smoking-england-study",
+      "source": "The Guardian",
+      "published": "2026-11-25T01:00:01+00:00",
+      "image": "https://i.guim.co.uk/img/media/ba552a1b57408ce45632af7702e5886772f0e0fb/354_0_2504_2004/master/2504.jpg?width=140&quality=85&auto=format&fit=max&s=610676c92f7ab90919ef3d20aab6b8c2"
+    },
+    {
+      "title": "Gunmen hold dozens hostage in Colombia supermarket",
+      "summary": "A group of armed men is holding around 20 people hostage in Cartagena, Colombia.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/gunmen-hold-dozens-hostage-in-colombia-supermarket?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-25T00:49:35+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795567656.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
