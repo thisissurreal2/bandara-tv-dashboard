@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T19:00:43.167362+00:00",
+  "updated_at": "2026-11-25T19:15:29.722377+00:00",
   "national": [
     {
       "title": "TNI AU Kumpulkan Komandan Satuan, Bahas Modernisasi Alutsista",
@@ -10,12 +10,12 @@
       "image": "https://akcdn.detik.net.id/visual/2026/11/25/tni-au-kumpulkan-komandan-satuan-bahas-modernisasi-alutsista-1795603221052_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Pegawai SPPG di Garut Tewas Diduga Dianiaya Rekan Kerja, Polisi Selidiki",
-      "summary": "Herman belum menyebut secara gamblang mengenai perkara ini. Polisi masih melakukan penyelidikan.",
-      "url": "https://news.detik.com/berita/d-8770241/pegawai-sppg-di-garut-tewas-diduga-dianiaya-rekan-kerja-polisi-selidiki",
+      "title": "Legislator Dukung Polri Bongkar Online Scam Filipina: Usut Tuntas Jaringannya",
+      "summary": "Dia mendesak aparat penegak hukum untuk mengusut tuntas kasus tersebut hingga ke akar-akarnya, termasuk membongkar seluruh jaringan serta aktor intelektual",
+      "url": "https://news.detik.com/berita/d-8770243/legislator-dukung-polri-bongkar-online-scam-filipina-usut-tuntas-jaringannya",
       "source": "Detik",
-      "published": "2026-11-25T18:25:07+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2025/08/12/ilustrasi-pembunuhan-1754995633530_169.jpeg?w=360&q=90"
+      "published": "2026-11-25T18:44:34+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2025/04/10/anggota-komisi-iii-dpr-ri-fraksi-partai-gerindra-martin-daniel-tumbelaka-dokistimewa-1744292346942_169.jpeg?w=360&q=90"
     },
     {
       "title": "Kemkomdigi tegaskan perlindungan hak cipta karya jurnalistik di era AI",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "‘I am leaving with my freedom’: Kilmar Ábrego García lands in Spain after choosing to leave US - live",
+      "summary": "Before his departure, Immigration and Customs Enforcement agents met him at the airport and removed his ankle monitor, an advocacy group reported Sign up for the Breaking News US email to get newsletter alerts in your inbox US trade representative Jamieson Greer claimed this morning that he did not expect the new proposed tariffs to rattle the global economy. “We’ve talked to our trading partners about this — they know what we’re proposing,” Greer told CNBC. “ I think a lot of this is baked in , and I don’t think any of these would actually take effect earlier than a couple months from now.” FINAL REMINDER. Controlled detonation at Iowa Army Ammunition Plant today at 9am (in 1 hour). EVACUATION IS NO LONGER SAFE OR ADVISED! All Residents within 20 miles including Middletown, Augusta, and Burlington must SHELTER IN PLACE immediately. STAY INDOORS with windows closed to block lead dust. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-25T18:57:00+00:00",
+      "image": "https://i.guim.co.uk/img/media/fedd12377351e3e84402029d8354b6185d25dc6e/129_0_5040_4032/master/5040.jpg?width=140&quality=85&auto=format&fit=max&s=348024617bf12d96d12177bbf3846bc5"
+    },
+    {
       "title": "Colombian police storm supermarket to free 76 held hostage for 17 hours",
       "summary": "One gunman was killed after what the country's president described as a robbery of a cash-laden armoured car gone wrong.",
       "url": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-25T18:41:33+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/997a/live/4f4b3940-e8c4-11f1-ac76-db9e97f93d67.jpg"
-    },
-    {
-      "title": "Smoke seen from a mile away as army detonates US stockpile of bomb-making chemicals in Iowa",
-      "summary": "Controlled blast to dispose of lead azide risks releasing plumes of toxic chemicals in 100-mile radius The US army detonated the nation’s entire stockpile of the the bomb-making material lead azide in Iowa on Wednesday morning, despite an outpouring of public concern about potential health and environmental effects. The controlled blast, which took place at about 10.00am ET, was to dispose of 9,700lb (4,400kg) of the chemical that was stored at the Iowa army ammunition plant in Middletown, a small town in south-eastern Iowa that is home to about 400 people. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/25/iowa-controlled-blast-lead-azide",
-      "source": "The Guardian",
-      "published": "2026-11-25T18:24:48+00:00",
-      "image": "https://i.guim.co.uk/img/media/0fcf154781a9c5157d16068123164b527040fcc0/367_0_1833_1466/master/1833.jpg?width=140&quality=85&auto=format&fit=max&s=a8c0638a7b921696350db323a86b067e"
     },
     {
       "title": "Nigeria’s Tinubu pledges to bring peace to rebellion-hit border region",
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0719bca5cf-1795627452.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
