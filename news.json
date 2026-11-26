@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T01:57:45.863672+00:00",
+  "updated_at": "2026-11-26T02:00:38.238281+00:00",
   "national": [
     {
       "title": "Jimly Asshiddiqie Ungkit Akun Fufufafa soal Pemakzulan Gibran",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6396/live/c71ce590-e919-11f1-8383-53f283141713.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
