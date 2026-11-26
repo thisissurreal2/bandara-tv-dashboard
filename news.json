@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-26T10:00:40.779592+00:00",
+  "updated_at": "2026-11-26T10:15:28.529718+00:00",
   "national": [
     {
-      "title": "Kemensos Luncurkan Lapor Minsos, Inovasi Layanan Digital Berbasis AI",
-      "summary": "Kemensos RI luncurkan Lapor Minsos, layanan digital berbasis AI untuk akses informasi bansos. Mudah, cepat, dan akurat melalui website dan WhatsApp.",
-      "url": "https://news.detik.com/berita/d-8771396/kemensos-luncurkan-lapor-minsos-inovasi-layanan-digital-berbasis-ai",
+      "title": "Niat Jual Emas 2 Kg, Wanita di Jakbar Disekap hingga Nyaris Dibunuh",
+      "summary": "Seorang wanita di Cengkareng, Jakarta, menjadi korban penganiayaan saat menjual emas 2 kg senilai Rp 5 miliar. Pelaku ditangkap.",
+      "url": "https://news.detik.com/berita/d-8771425/niat-jual-emas-2-kg-wanita-di-jakbar-disekap-hingga-nyaris-dibunuh",
       "source": "Detik",
-      "published": "2026-11-26T09:52:55+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/26/kemensos-1795686742676_169.jpeg?w=360&q=90"
+      "published": "2026-11-26T10:08:37+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/09/02/ilustrasi-emas-batangan-1788316943806_169.jpeg?w=360&q=90"
     },
     {
-      "title": "PDIP Respons Usul Musyawarah Mufakat Pemilihan Wapres di MPR",
-      "summary": "Fraksi PDIP di MPR merespons usul musyawarah mufakat dalam proses pemilihan wakil presiden pengganti Gibran Rakabuming Raka di Paripurna MPR.",
-      "url": "https://www.cnnindonesia.com/nasional/20261126162743-32-1431949/pdip-respons-usul-musyawarah-mufakat-pemilihan-wapres-di-mpr",
+      "title": "Prabowo Menitikkan Air Mata di Puncak Hari Guru",
+      "summary": "Presiden RI Prabowo Subianto meneteskan air mata saat memberikan apresiasi terhadap pengabdian guru di Sentul, Bogor, Jawa Barat.",
+      "url": "https://www.cnnindonesia.com/nasional/20261126165612-20-1431960/prabowo-menitikkan-air-mata-di-puncak-hari-guru",
       "source": "CNN Indonesia",
-      "published": "2026-11-26T09:49:57+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/04/18/ketua-dpp-pdip-ahmad-basarah-1776486708058_169.jpeg?w=360&q=90"
+      "published": "2026-11-26T10:06:11+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/26/presiden-prabowo-subianto-hadiri-puncak-peringatan-hari-guru-nasional-2026-1795687167267_169.png?w=360&q=90"
     },
     {
       "title": "ESDM jaga stok BBM di kisaran 20 hari untuk penuhi kebutuhan Nataru",
@@ -23,10 +23,26 @@
       "url": "https://www.antaranews.com/berita/5880231/esdm-jaga-stok-bbm-di-kisaran-20-hari-untuk-penuhi-kebutuhan-nataru",
       "source": "ANTARA",
       "published": "2026-11-26T09:18:09+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/26/IMG_3347.jpg"
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/26/IMG_3347_1.jpg"
     }
   ],
   "international": [
+    {
+      "title": "EU leaders brace for tough talks on budget and Ukraine – Europe live",
+      "summary": "António Costa says the next long-term budget is ‘the most important’ item on the agenda The Danish prime minister, Mette Frederiksen, has acknowledged that leaders remain “very far apart,” agreeing with Germany’s Merz that the current proposal is not going to work. “The budget is too large and not sufficiently future-oriented,” she said, calling for more work on competitiveness, defence and security. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-26T10:03:17+00:00",
+      "image": "https://i.guim.co.uk/img/media/e4a3c5ba3209c8466a0d4365584dbb1e5a803933/697_0_4946_3959/master/4946.jpg?width=140&quality=85&auto=format&fit=max&s=0fb36c87d73d13275aa6481896a5f3ab"
+    },
+    {
+      "title": "Ukraine drone attack kills five in Russian-occupied Zaporizhia",
+      "summary": "Russian forces launch ballistic missile attack on Ukrainian capital Kyiv, hitting a shopping centre and other buildings.",
+      "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-drone-attack-kills-five-in-russian-occupied-zaporizhia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-26T10:02:09+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b07dde5-1795677669.jpg?resize=1200%2C675"
+    },
     {
       "title": "New UK-EU treaty has 10-year termination clause",
       "summary": "Text of the treaties will be published this afternoon, alongside legislation designed to enact the bulk of the deal.",
@@ -34,22 +50,6 @@
       "source": "BBC",
       "published": "2026-11-26T09:59:14+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "title": "Ex-Cricket Australia boss James Sutherland defends ‘Sandpapergate’ probe",
-      "summary": "Meanwhile, David Warner denies a broadcaster's claim that he used superglue and grit to tamper with the ball.",
-      "url": "https://www.aljazeera.com/sports/2026/11/26/sandpapergate-cricket-australia-ceo-sutherland-david-warner-ball-tampering-2018?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-26T09:52:36+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-968035018-1795676491.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "UK net migration falls to 77,000, lowest since 1997 excluding Covid pandemic – UK politics live",
-      "summary": "Net migration fell in the year ending June 2026, according to the Office for National Statistics And this chart from the ONS report shows how immigration, emigration and net migration figures have changed since 2012. This chart from the ONS report explains how the net migration figure ends up at 77,000. Continue reading...",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-26T09:47:58+00:00",
-      "image": "https://i.guim.co.uk/img/media/f9438b12e25d0510100c2baa53822bd454f6de67/41_0_2972_2377/master/2972.jpg?width=140&quality=85&auto=format&fit=max&s=fc1dfbe8607b778cad4b98a492b1a80f"
     }
   ],
   "feed_warnings": []
