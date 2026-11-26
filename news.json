@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-26T23:15:28.190997+00:00",
+  "updated_at": "2026-11-26T23:30:36.427354+00:00",
   "national": [
     {
-      "title": "Pantun Prabowo di Hari Guru: Saatnya Nanti Kita Naikkan Gaji Guru",
-      "summary": "Saat pidato di peringatan Hari Guru, Prabowo tak mengumumkan kenaikan gaji guru. Namun, dia berjanji akan menaikkan gaji guru pada saatnya nanti.",
-      "url": "https://www.cnnindonesia.com/nasional/20261126182500-20-1432015/pantun-prabowo-di-hari-guru-saatnya-nanti-kita-naikkan-gaji-guru",
+      "title": "GKR Hemas: Perempuan Parlemen Harus Pengaruhi Kebijakan",
+      "summary": "Wakil Ketua DPD RI GKR Hemas menekankan pentingnya perubahan yang dihadirkan perempuan dalam politik, bukan hanya jumlah kursi.",
+      "url": "https://www.cnnindonesia.com/nasional/20261127062256-633-1432094/gkr-hemas-perempuan-parlemen-harus-pengaruhi-kebijakan",
       "source": "CNN Indonesia",
-      "published": "2026-11-26T22:55:15+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/26/presiden-prabowo-subianto-hadiri-puncak-peringatan-hari-guru-nasional-2026-1795686654228_169.png?w=360&q=90"
+      "published": "2026-11-26T23:25:13+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/27/wakil-ketua-dpd-ri-gkr-hemas-1795735203580_169.jpeg?w=360&q=90"
     },
     {
       "title": "Yang Terjadi Selanjutnya Usai Listyo Sigit Tolak ke Sidang Etik",
@@ -28,28 +28,28 @@
   ],
   "international": [
     {
+      "title": "Israeli settlers damage Palestinian family’s homes in West Bank attack",
+      "summary": "The Tubasi family was forced out months ago and has been denied a return by settlers despite an Israeli court order.",
+      "url": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-26T23:07:36+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b08ac77-1795730551.jpg?resize=1920%2C1440"
+    },
+    {
+      "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
+      "summary": "The city marks a year since a huge blaze tore through seven apartment blocks, killing 168 people.",
+      "url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-26T23:03:16+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c9/live/268edc00-e978-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
       "title": "Chance of snow forecast for northern England and Scotland in next few days",
       "summary": "Met Office warns of icy roads and risk of freezing rain on higher ground as weather turns cold and unsettled Parts of England could see snow in the coming days as cold and unsettled weather continues into the weekend, forecasters have said. Heavy rain sweeping eastwards on Friday could turn to snow over higher ground in northern England and Scotland. Continue reading...",
       "url": "https://www.theguardian.com/uk-news/2026/nov/26/chance-of-snow-forecast-northern-england-scotland",
       "source": "The Guardian",
       "published": "2026-11-26T23:01:40+00:00",
       "image": "https://i.guim.co.uk/img/media/1a3f32c3b0c72a8bf4455187aaa420ab87f2c293/1095_86_4599_3679/master/4599.jpg?width=140&quality=85&auto=format&fit=max&s=79fab39d02d228fc3263a4e77a4740fd"
-    },
-    {
-      "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
-      "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
-      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-26T22:49:27+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg"
-    },
-    {
-      "title": "Report: CIA tortured more people with waterboarding than US agency admitted",
-      "summary": "A New York Times report lends credence to long-held belief that torture method was more widely used than acknowledged.",
-      "url": "https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-26T22:06:54+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0897add7d31-1795725229.jpg?resize=1920%2C1440"
     }
   ],
   "feed_warnings": [
