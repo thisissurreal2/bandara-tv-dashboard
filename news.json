@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-26T02:30:35.875099+00:00",
+  "updated_at": "2026-11-26T02:45:28.897708+00:00",
   "national": [
     {
-      "title": "Hasil Tes Kesehatan Cawapres Langsung Dibawa ke Rapat Pleno MPR",
-      "summary": "Ketua Tim Verifikasi MPR, Habiburokhman, akan membawa hasil pemeriksaan kesehatan cawapres di RSPAD, ke rapat pleno.",
-      "url": "https://www.cnnindonesia.com/nasional/20261126085424-32-1431635/hasil-tes-kesehatan-cawapres-langsung-dibawa-ke-rapat-pleno-mpr",
+      "title": "Debat Roy Suryo dan Kuasa Hukum Jokowi soal Transkrip Nilai UGM",
+      "summary": "Kuasa hukum Jokowi menyatakan transkrip nilai presiden di UGM hilang. Namun Roy bersikukuh, Jokowi seharusnya menyimpan transkrip nilai kuliahnya.",
+      "url": "https://www.cnnindonesia.com/nasional/20261126081930-20-1431631/debat-roy-suryo-dan-kuasa-hukum-jokowi-soal-transkrip-nilai-ugm",
       "source": "CNN Indonesia",
-      "published": "2026-11-26T02:16:08+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/26/calon-wakil-presiden-andi-amran-dan-sugiono-berjabat-tangan-jelang-pemeriksaan-kesehatan-di-rumah-sakit-angkatan-darat-rspad-g-1795654878491_169.jpeg?w=360&q=90"
+      "published": "2026-11-26T02:43:02+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/06/29/sidang-perdana-praperadilan-roy-suryo-1782735885629_169.jpeg?w=360&q=90"
     },
     {
       "title": "Dalih Sakit Hati di Balik Rumah Warga Bekasi Dilalap Api",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Chris Van Hollen picks up more support for Senate majority leader role ahead of Democrats vote next week – live",
-      "summary": "Senator-elect Troy Jackson, of Maine, announced he would support the progressive over the current minority leader, Chuck Schumer Sign up for the Breaking News US email US trade representative Jamieson Greer claimed this morning that he did not expect the new proposed tariffs to rattle the global economy. “We’ve talked to our trading partners about this — they know what we’re proposing,” Greer told CNBC. “ I think a lot of this is baked in , and I don’t think any of these would actually take effect earlier than a couple months from now.” FINAL REMINDER. Controlled detonation at Iowa Army Ammunition Plant today at 9am (in 1 hour). EVACUATION IS NO LONGER SAFE OR ADVISED! All Residents within 20 miles including Middletown, Augusta, and Burlington must SHELTER IN PLACE immediately. STAY INDOORS with windows closed to block lead dust. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/live/2026/nov/25/donald-trump-jensen-huang-nvidia-pardon-senate-hearing-iowa-abdul-el-sayed-latest-news-updates",
+      "title": "Australian politics live: Blyth did not ‘feel safe’ in the Liberal party before One Nation defection; ‘coal must be replaced’, Bowen says",
+      "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party . Blyth is the second high-profile federal defection from the Coalition to One Nation – after Barnaby Joyce . Senator Blyth will be One Nation’s first South Australian Senator and will build on One Nation’s expanding support within the state. My team and I are delighted to welcome Senator Blyth to sit in the Senate with One Nation. We are facing at the next election clearly a coalition of the Liberals, Nationals and One Nation, with all the baggage that each of these parties brings to the table. They’re all anti-worker, they’re all extreme … this demonstrates, I think, more disunity in the Liberal party under Angus Taylor . Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-26T02:12:08+00:00",
-      "image": "https://i.guim.co.uk/img/media/1ded0ee0250a7ae31faed7b6ee3dc216c3eee7d6/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=a3e67bf3a7035af45285bc7c8dfd8e91"
+      "published": "2026-11-26T02:28:06+00:00",
+      "image": "https://i.guim.co.uk/img/media/f6b4122a7b255425d7edaf7051f990faebedc605/489_0_6591_5273/master/6591.jpg?width=140&quality=85&auto=format&fit=max&s=a3fb4d9b90e850985c9b942f5d497f98"
     },
     {
       "title": "Kim Jong Un says North Korea should widen deployment of tactical nukes",
@@ -53,7 +53,7 @@
     }
   ],
   "feed_warnings": [
-    "Detik: TimeoutError",
+    "Detik: URLError",
     "Detik: no fresh stories",
     "Detik: keeping previous story"
   ]
