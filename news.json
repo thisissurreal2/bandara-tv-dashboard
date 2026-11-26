@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-26T23:30:36.427354+00:00",
+  "updated_at": "2026-11-26T23:45:25.715594+00:00",
   "national": [
     {
-      "title": "GKR Hemas: Perempuan Parlemen Harus Pengaruhi Kebijakan",
-      "summary": "Wakil Ketua DPD RI GKR Hemas menekankan pentingnya perubahan yang dihadirkan perempuan dalam politik, bukan hanya jumlah kursi.",
-      "url": "https://www.cnnindonesia.com/nasional/20261127062256-633-1432094/gkr-hemas-perempuan-parlemen-harus-pengaruhi-kebijakan",
+      "title": "Luka Bakar 80 Persen, Marbot Surabaya Meninggal Usai 5 Hari di ICU",
+      "summary": "Suparman, marbot Masjid Al Istiqomah, meninggal setelah dibakar rekannya, Supardi. Keluarga minta keadilan dan hukuman berat bagi pelaku.",
+      "url": "https://www.cnnindonesia.com/nasional/20261127062641-12-1432097/luka-bakar-80-persen-marbot-surabaya-meninggal-usai-5-hari-di-icu",
       "source": "CNN Indonesia",
-      "published": "2026-11-26T23:25:13+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/27/wakil-ketua-dpd-ri-gkr-hemas-1795735203580_169.jpeg?w=360&q=90"
+      "published": "2026-11-26T23:40:35+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2018/08/24/8a7149c5-8060-403e-9fba-e91b1608a9fb_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Yang Terjadi Selanjutnya Usai Listyo Sigit Tolak ke Sidang Etik",
-      "summary": "Listyo Sigit menolak hadir dalam sidang etik terkait dugaan makar. Polri akan melakukan pemanggilan kedua, sidang tetap berlangsung jika pelanggar tak hadir.",
-      "url": "https://news.detik.com/berita/d-8771981/yang-terjadi-selanjutnya-usai-listyo-sigit-tolak-ke-sidang-etik",
+      "title": "Kabar Terkini Rafael Alun yang Belum Terima Divonis 14 Tahun Penjara",
+      "summary": "Rafael Alun Trisambodo mengajukan peninjauan kembali setelah Mahkamah Agung menolak kasasinya. KPK menghormati hak hukum Rafael dalam proses ini",
+      "url": "https://news.detik.com/berita/d-8771999/kabar-terkini-rafael-alun-yang-belum-terima-divonis-14-tahun-penjara",
       "source": "Detik",
-      "published": "2026-11-26T22:55:04+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/26/mantan-kapolri-listyo-sigit-1795665936222_169.jpeg?w=360&q=90"
+      "published": "2026-11-26T23:27:56+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2023/09/18/eksepsi-ditolak-begini-ekspresi-rafael-alun-1_169.jpeg?w=360&q=90"
     },
     {
       "title": "Juventus menang meyakinkan 4-1 atas Omonia Nicosia",
@@ -52,9 +52,5 @@
       "image": "https://i.guim.co.uk/img/media/1a3f32c3b0c72a8bf4455187aaa420ab87f2c293/1095_86_4599_3679/master/4599.jpg?width=140&quality=85&auto=format&fit=max&s=79fab39d02d228fc3263a4e77a4740fd"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
