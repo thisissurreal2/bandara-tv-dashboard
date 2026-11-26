@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T21:00:40.302330+00:00",
+  "updated_at": "2026-11-26T21:15:28.986023+00:00",
   "national": [
     {
       "title": "Israel Terus Serang Gaza, 19 Warga Palestina Tewas dalam 48 Jam",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Coalition team up with Labor to pass 20% gas reservation scheme for Australia’s largest exporters",
+      "summary": "Coalition voted in Senate to pass government’s final major piece of legislation for 2026, denying Greens’ bid for 25% tax on exports Get our daily political email , free app or daily news podcast A federal gas reservation scheme requiring Australia’s largest exporters to keep up to 20% of their product for domestic use will go ahead with the Coalition’s support. The opposition voted with the government in the Senate on Thursday night in a late sitting, giving Labor the numbers it needed. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/26/coalition-to-team-up-with-labor-to-pass-20-gas-reservation-scheme-for-australias-largest-exporters",
+      "source": "The Guardian",
+      "published": "2026-11-26T20:58:12+00:00",
+      "image": "https://i.guim.co.uk/img/media/5e85107add688802688910ec8b127178d48de914/435_0_4350_3480/master/4350.jpg?width=140&quality=85&auto=format&fit=max&s=6f4a4d12b8c33efe85ecbed1e2eea322"
+    },
+    {
       "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
       "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
       "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
@@ -42,15 +50,11 @@
       "source": "Al Jazeera",
       "published": "2026-11-26T20:34:34+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b089a77b51e8-1795725943.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "‘Disaster’ unfolding as Sydney fire ant outbreak partly blamed on ignored biosecurity recommendations",
-      "summary": "Farmers’ Federation president says Australia ‘can’t even keep [illicit] cigarettes out of the country … let alone some of these difficult-to-detect pests’ Get our breaking news email , free app or daily news podcast Years-old recommendations by Australia’s biosecurity watchdog have been ignored or not acted on by successive federal governments, increasing the risk of an invasive pest outbreak such as the fire ants discovered in Sydney this week, according to experts. Environmentalists and biosecurity experts warn the large colony of red imported fire ants are a warning sign that the country’s quarantine system is too slow-moving, underfunded and overly concerned with agriculture. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/27/sydney-fire-ants-outbreak-biosecurity-experts-ignored",
-      "source": "The Guardian",
-      "published": "2026-11-26T20:33:26+00:00",
-      "image": "https://i.guim.co.uk/img/media/99d2feb195ab09ebe90cf8d6c5c285f643644dc3/159_0_4000_3201/master/4000.jpg?width=140&quality=85&auto=format&fit=max&s=d734029df2496b532c19ce85ad7ce0b3"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
