@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-26T00:15:31.519478+00:00",
+  "updated_at": "2026-11-26T00:30:34.607486+00:00",
   "national": [
     {
-      "title": "Eks Kapolri Listyo Sigit Jalani Sidang Etik Kasus Penyadapan Hari Ini",
-      "summary": "Mantan Kapolri Listyo Sigit Prabowo akan menjalani sidang etik kasus penyadapan ilegal hari ini. Lima jenderal bintang tiga akan memimpin sidang.",
-      "url": "https://www.cnnindonesia.com/nasional/20261126065407-12-1431595/eks-kapolri-listyo-sigit-jalani-sidang-etik-kasus-penyadapan-hari-ini",
+      "title": "Fakta-fakta Tragedi Tambang Emas Ilegal di Bogor",
+      "summary": "Sebanyak 26 penambang terjebak di lubang tambang emas ilegal di Gunung Butak, Bogor. Tim SAR masih mencari 17 korban, sembilan ditemukan meninggal.",
+      "url": "https://www.cnnindonesia.com/nasional/20261126060558-20-1431583/fakta-fakta-tragedi-tambang-emas-ilegal-di-bogor",
       "source": "CNN Indonesia",
-      "published": "2026-11-26T00:02:28+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/10/01/kapolri-jenderal-listyo-sigit-prabowo-didampingi-istri-tiba-di-istana-negara-1790837005403_169.jpeg?w=360&q=90"
+      "published": "2026-11-26T00:27:01+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/25/pencarian-penambang-emas-terjebak-di-dalam-lubang-galian-1795612305211_169.jpeg?w=360&q=90"
     },
     {
       "title": "Hari ini, Polri gelar sidang etik terhadap Jenderal LSP",
@@ -28,11 +28,19 @@
   ],
   "international": [
     {
+      "title": "US Army says controlled blast of explosives in Iowa was 'huge success'",
+      "summary": "Despite widespread concern from residents ahead of the blast, officials say that lead readings in the area so far have been promising.",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-26T00:23:05+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9049/live/be474ac0-e8f9-11f1-b8b0-a95064d74c5f.jpg"
+    },
+    {
       "title": "Australian politics live: Hanson says she ‘never approached’ Liberal defector; spoof parliamentary tool spreads cheer",
       "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party . Blyth is the second high-profile federal defection from the Coalition to One Nation – after Barnaby Joyce . Senator Blyth will be One Nation’s first South Australian Senator and will build on One Nation’s expanding support within the state. My team and I are delighted to welcome Senator Blyth to sit in the Senate with One Nation. We are facing at the next election clearly a coalition of the Liberals, Nationals and One Nation, with all the baggage that each of these parties brings to the table. They’re all anti-worker, they’re all extreme … this demonstrates, I think, more disunity in the Liberal party under Angus Taylor . Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-26T00:03:52+00:00",
+      "published": "2026-11-26T00:19:05+00:00",
       "image": "https://i.guim.co.uk/img/media/87531633bff6f1ff18a63af6d9b206b446c1aad4/475_0_4750_3800/master/4750.jpg?width=140&quality=85&auto=format&fit=max&s=150c3166c9ca62a66ffef650169ce2e8"
     },
     {
@@ -42,14 +50,6 @@
       "source": "Al Jazeera",
       "published": "2026-11-26T00:00:00+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-25T142119Z_494453788_RC22VOAYEVVA_RTRMADP_3_IRAN-CRISIS-SAUDI-HOUTHI-1795644562.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Thirty-one killed in massive fire as fuel tanker crashes on Cairo highway",
-      "summary": "Another 21 are injured after the tanker reportedly overturns on a busy ring road in the Egyptian capital.",
-      "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-25T22:18:06+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d4b/live/5e57daf0-e91f-11f1-9108-c5b270b0703d.jpg"
     }
   ],
   "feed_warnings": [
