@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T19:30:34.788511+00:00",
+  "updated_at": "2026-11-26T19:45:28.467403+00:00",
   "national": [
     {
       "title": "6 Orang Sekeluarga Tewas dalam Kecelakaan Pesawat Kecil di Mississippi",
@@ -36,25 +36,21 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png"
     },
     {
+      "title": "Why are winter rains forcing Palestinians in Gaza to flee again?",
+      "summary": "Israeli restrictions on humanitarian aid, damaged buildings and flooded tents leave displaced Palestinians vulnerable.",
+      "url": "https://www.aljazeera.com/news/2026/11/26/why-are-winter-rains-forcing-palestinians-in-gaza-to-flee-again?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-26T19:19:12+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af08bf56851-1794149365.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "US Senate ‘permitting bill’ threatens clean water protections to speed up energy projects",
       "summary": "The Bipartisan American Affordability and Jobs Act passed the Senate and is now being debated in the House An industry-backed “permitting bill” approved by the US Senate would gut key clean water protections with changes that would do little to speed up the development of major energy projects, advocates warn. The Bipartisan American Affordability and Jobs Act of 2026 (Baaja) passed the Senate 62-33 and is now being debated in the House. The Baaja is a “permitting reform” bill that aims to reduce the time it takes federal agencies to approve major energy and infrastructure projects, like power lines, fossil fuel pipelines, natural gas plants and datacenters . Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/nov/26/senate-permitting-bill-clean-water",
       "source": "The Guardian",
       "published": "2026-11-26T19:16:35+00:00",
       "image": "https://i.guim.co.uk/img/media/938a4b41d113e71a1854de50ecd489ff51eab129/380_0_3787_3031/master/3787.jpg?width=140&quality=85&auto=format&fit=max&s=d6f67b81bdb88dbc9b60a6408240ab3c"
-    },
-    {
-      "title": "Judge strikes down Trump’s latest restrictions on US birthright citizenship",
-      "summary": "After a Supreme Court ruling against it, the Trump administration had tried a narrower set of restrictions.",
-      "url": "https://www.aljazeera.com/news/2026/11/26/judge-strikes-down-trumps-latest-restrictions-on-us-birthright-citizenship?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-26T19:09:39+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b084410-1795703824.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
