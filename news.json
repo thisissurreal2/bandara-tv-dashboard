@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-26T01:15:27.507849+00:00",
+  "updated_at": "2026-11-26T01:30:34.984053+00:00",
   "national": [
     {
-      "title": "Pramono Jajal Sydney Metro di Australia, Jajaki Kerja Sama ke Depan",
-      "summary": "Gubernur DKI Jakarta, Pramono Anung, bersama Direktur Utama PT MRT Jakarta menjajal langsung layanan Sydney Metro, Selasa (24/11).",
-      "url": "https://www.cnnindonesia.com/nasional/20261126080837-20-1431617/pramono-jajal-sydney-metro-di-australia-jajaki-kerja-sama-ke-depan",
+      "title": "Daftar Nama 6 Korban Galian Tambang Ilegal Bogor yang Teridentifikasi",
+      "summary": "Tim DVI Polda Jabar terima 13 kantung jenazah penambang ilegal di Bogor. Enam korban berhasil diidentifikasi, tujuh lainnya masih dalam proses.",
+      "url": "https://www.cnnindonesia.com/nasional/20261126075839-20-1431614/daftar-nama-6-korban-galian-tambang-ilegal-bogor-yang-teridentifikasi",
       "source": "CNN Indonesia",
-      "published": "2026-11-26T01:11:51+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/25/pramono-anung-naik-sydney-metro-1795606855163_169.jpeg?w=360&q=90"
+      "published": "2026-11-26T01:13:57+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/25/evakuasi-penambang-terjebak-di-tambang-ilegal-bogor-1795590893001_169.jpeg?w=360&q=90"
     },
     {
       "title": "Hari Ini, Listyo Sigit Hadapi Persidangan Etik",
@@ -28,11 +28,11 @@
   ],
   "international": [
     {
-      "title": "California braces for potential Thanksgiving flooding as storms threaten US coasts",
+      "title": "California warned of potential Thanksgiving flooding as storms threaten US coasts",
       "summary": "Parts of the Canadian province of British Columbia may also be affected by the storms, which come as millions of people travel for the holiday.",
       "url": "https://www.bbc.co.uk/news/articles/ckn806qq760po?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-26T01:05:47+00:00",
+      "published": "2026-11-26T01:22:55+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6396/live/c71ce590-e919-11f1-8383-53f283141713.jpg"
     },
     {
@@ -40,17 +40,21 @@
       "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party . Blyth is the second high-profile federal defection from the Coalition to One Nation – after Barnaby Joyce . Senator Blyth will be One Nation’s first South Australian Senator and will build on One Nation’s expanding support within the state. My team and I are delighted to welcome Senator Blyth to sit in the Senate with One Nation. We are facing at the next election clearly a coalition of the Liberals, Nationals and One Nation, with all the baggage that each of these parties brings to the table. They’re all anti-worker, they’re all extreme … this demonstrates, I think, more disunity in the Liberal party under Angus Taylor . Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-26T01:03:23+00:00",
+      "published": "2026-11-26T01:19:06+00:00",
       "image": "https://i.guim.co.uk/img/media/f6b4122a7b255425d7edaf7051f990faebedc605/489_0_6591_5273/master/6591.jpg?width=140&quality=85&auto=format&fit=max&s=a3fb4d9b90e850985c9b942f5d497f98"
     },
     {
       "title": "Storms push Macy’s Thanksgiving Day Parade in New York City to Saturday",
-      "summary": "The parade, which marks its 100th addition, got a last-minute rain check ahead of heavy gusts on Thursday.",
+      "summary": "The parade, which marks its 100th edition, got a last-minute rain check ahead of heavy gusts on Thursday.",
       "url": "https://www.aljazeera.com/news/2026/11/26/storms-push-macys-thanksgiving-day-parade-in-new-york-city-to-saturday?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-11-26T00:52:56+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b07734041ed-1795650368.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
