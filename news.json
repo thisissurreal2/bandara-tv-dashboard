@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-26T19:51:21.788605+00:00",
+  "updated_at": "2026-11-26T20:00:45.795603+00:00",
   "national": [
     {
-      "title": "6 Orang Sekeluarga Tewas dalam Kecelakaan Pesawat Kecil di Mississippi",
-      "summary": "Tim tanggap darurat menemukan enam jenazah korban kecelakaan pesawat kecil di lepas pantai Mississippi. Penyebab kecelakaan masih diselidiki.",
-      "url": "https://news.detik.com/internasional/d-8771948/6-orang-sekeluarga-tewas-dalam-kecelakaan-pesawat-kecil-di-mississippi",
+      "title": "4 Murid di Langkat Keracunan MBG, Ada Cacing Ditemukan di Susu Kemasan",
+      "summary": "Empat murid di Kecamatan Hinai, Langkat, diduga keracunan setelah mengonsumsi makanan MBG. Cacing pita ditemukan di susu kemasan.",
+      "url": "https://news.detik.com/berita/d-8771956/4-murid-di-langkat-keracunan-mbg-ada-cacing-ditemukan-di-susu-kemasan",
       "source": "Detik",
-      "published": "2026-11-26T18:12:54+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2017/07/07/45a2d6a6-cb4b-4a04-8cd9-e7dad36142e1_169.jpg?w=360&q=90"
+      "published": "2026-11-26T19:49:37+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2025/09/30/ilustrasi-makan-siang-gratis-1759218011364_169.jpeg?w=360&q=90"
     },
     {
       "title": "BNPT Soroti Banyak Akun Medsos Berpotensi Sebarkan Paham Kekerasan",
@@ -28,14 +28,6 @@
   ],
   "international": [
     {
-      "title": "Peru burns more than 10 tonnes of seized drugs",
-      "summary": "Peru began burning 10.7 tonnes of seized narcotics in its seventh and final drug disposal operation of 2026",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/peru-burns-more-than-10-tonnes-of-seized-drugs?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-26T19:44:05+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795722233.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
       "title": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence",
       "summary": "In a Thanksgiving post, the US president seeks investigation after blue wave of Democrats unseat Republicans Donald Trump has alleged without evidence that economic figures published by the US federal government before this month’s midterm elections were “fake” and demanded an investigation after voters roundly rejected his Republican party. In a holiday message on social media tinged with bitterness, the US president wished a happy thanksgiving “to even those who issued fake Economic Numbers, just prior to the Election, and corrected them yesterday, three weeks late, showing that the GDP was actually 4.3%, versus 3.4%”. Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms",
@@ -50,6 +42,14 @@
       "source": "BBC",
       "published": "2026-11-26T19:27:45+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png"
+    },
+    {
+      "title": "Why are winter rains forcing Palestinians in Gaza to flee again?",
+      "summary": "Israeli restrictions on humanitarian aid, damaged buildings and flooded tents leave displaced Palestinians vulnerable.",
+      "url": "https://www.aljazeera.com/news/2026/11/26/why-are-winter-rains-forcing-palestinians-in-gaza-to-flee-again?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-26T19:19:12+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af08bf56851-1794149365.jpg?resize=1920%2C1440"
     }
   ],
   "feed_warnings": []
