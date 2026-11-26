@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-26T03:00:40.193832+00:00",
+  "updated_at": "2026-11-26T03:15:26.403618+00:00",
   "national": [
+    {
+      "title": "Pencarian Korban Kebakaran Pabrik Permen Terkendala Bangunan Rapuh",
+      "summary": "Pencarian korban kebakaran pabrik permen di Cikande terhambat oleh material bangunan yang rapuh.",
+      "url": "https://www.cnnindonesia.com/nasional/20261126093957-20-1431663/pencarian-korban-kebakaran-pabrik-permen-terkendala-bangunan-rapuh",
+      "source": "CNN Indonesia",
+      "published": "2026-11-26T03:05:09+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/23/ancaman-penjara-6-tahun-intai-pabrik-permen-cikande-1795440161927_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Polisi identifikasi enam dari 13 jenazah korban tambang Pongkor",
       "summary": "Kepolisian Daerah Jawa Barat berhasil mengidentifikasi enam dari 13 jenazah korban insiden tambang emas ilegal di ...",
@@ -8,14 +16,6 @@
       "source": "ANTARA",
       "published": "2026-11-26T02:47:31+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/26/1003573227.jpg"
-    },
-    {
-      "title": "Debat Roy Suryo dan Kuasa Hukum Jokowi soal Transkrip Nilai UGM",
-      "summary": "Kuasa hukum Jokowi menyatakan transkrip nilai presiden di UGM hilang. Namun Roy bersikukuh, Jokowi seharusnya menyimpan transkrip nilai kuliahnya.",
-      "url": "https://www.cnnindonesia.com/nasional/20261126081930-20-1431631/debat-roy-suryo-dan-kuasa-hukum-jokowi-soal-transkrip-nilai-ugm",
-      "source": "CNN Indonesia",
-      "published": "2026-11-26T02:43:02+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/06/29/sidang-perdana-praperadilan-roy-suryo-1782735885629_169.jpeg?w=360&q=90"
     },
     {
       "title": "Dalih Sakit Hati di Balik Rumah Warga Bekasi Dilalap Api",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Australian politics live: Blyth did not ‘feel safe’ in the Liberal party before One Nation defection; ‘coal must be replaced’, Bowen says",
+      "title": "Australian politics live: Coalition warns energy prices to cause ‘real pain’ at Christmas; Lidia Thorpe plays peekaboo with Payman’s baby in the Senate",
       "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party . Blyth is the second high-profile federal defection from the Coalition to One Nation – after Barnaby Joyce . Senator Blyth will be One Nation’s first South Australian Senator and will build on One Nation’s expanding support within the state. My team and I are delighted to welcome Senator Blyth to sit in the Senate with One Nation. We are facing at the next election clearly a coalition of the Liberals, Nationals and One Nation, with all the baggage that each of these parties brings to the table. They’re all anti-worker, they’re all extreme … this demonstrates, I think, more disunity in the Liberal party under Angus Taylor . Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-26T02:49:33+00:00",
-      "image": "https://i.guim.co.uk/img/media/f6b4122a7b255425d7edaf7051f990faebedc605/489_0_6591_5273/master/6591.jpg?width=140&quality=85&auto=format&fit=max&s=a3fb4d9b90e850985c9b942f5d497f98"
+      "published": "2026-11-26T03:04:54+00:00",
+      "image": "https://i.guim.co.uk/img/media/744ea0e7cacd8e479519364cae1acb6f3ad57cff/0_0_2953_2362/master/2953.jpg?width=140&quality=85&auto=format&fit=max&s=e069bfb8c69825f44cfe9625b70ca3b5"
     },
     {
-      "title": "As foreign troops withdraw from Somalia, could al-Shabab take over?",
-      "summary": "Somalia relies heavily on foreign funding and military support for its very survival.",
-      "url": "https://www.bbc.co.uk/news/articles/ck62y23z58yeo?at_medium=RSS&at_campaign=rss",
+      "title": "US announces new tariffs on host of countries including China",
+      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-26T02:06:10+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96e8/live/f14b1490-dc2b-11f1-a5b1-adf9c8e8d692.jpg"
+      "published": "2026-11-26T03:01:40+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdd4/live/6fdb6db0-e946-11f1-8b2f-671485cea0be.jpg"
     },
     {
       "title": "Kim Jong Un says North Korea should widen deployment of tactical nukes",
