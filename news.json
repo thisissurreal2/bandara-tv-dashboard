@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T20:00:45.795603+00:00",
+  "updated_at": "2026-11-26T20:15:25.405979+00:00",
   "national": [
     {
       "title": "4 Murid di Langkat Keracunan MBG, Ada Cacing Ditemukan di Susu Kemasan",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Trump alleges ‘fake’ economic figures released before US midterms but doesn’t provide evidence",
-      "summary": "In a Thanksgiving post, the US president seeks investigation after blue wave of Democrats unseat Republicans Donald Trump has alleged without evidence that economic figures published by the US federal government before this month’s midterm elections were “fake” and demanded an investigation after voters roundly rejected his Republican party. In a holiday message on social media tinged with bitterness, the US president wished a happy thanksgiving “to even those who issued fake Economic Numbers, just prior to the Election, and corrected them yesterday, three weeks late, showing that the GDP was actually 4.3%, versus 3.4%”. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms",
+      "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
+      "summary": "Latest figures show difference between number of people arriving and leaving UK was ⁠77,000 in ​year ‌to ‌June Analysis: How much of the fall in UK immigration is due to Labour’s policies? Net migration across the UK has fallen to its lowest level since 1997 with the exclusion of the years of the Covid pandemic. Figures released by the Office for National Statistics and the Home Office show that the difference between people arriving and leaving the UK was ⁠77,000 in ⁠the ​year ‌to ‌June ‌2026. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
       "source": "The Guardian",
-      "published": "2026-11-26T19:41:37+00:00",
-      "image": "https://i.guim.co.uk/img/media/986e893adee7d4a82d2b268d1a05cd0fa6d2fe28/87_218_2920_2337/master/2920.jpg?width=140&quality=85&auto=format&fit=max&s=258e262e8de5f65cfec8ee392a62440a"
+      "published": "2026-11-26T20:01:47+00:00",
+      "image": "https://i.guim.co.uk/img/media/2acbd7cd57ac01e54489d7c1bc69d56ed62a57a8/607_609_3999_3201/master/3999.jpg?width=140&quality=85&auto=format&fit=max&s=00fb07bfeee9a001fcfb3a1d8dfbc0a7"
+    },
+    {
+      "title": "Peru burns more than 10 tonnes of seized drugs",
+      "summary": "Peru began burning 10.7 tonnes of seized narcotics in its seventh and final drug disposal operation of 2026",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/peru-burns-more-than-10-tonnes-of-seized-drugs?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-26T19:44:05+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795722233.jpg?resize=1920%2C1080&quality=80"
     },
     {
       "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
@@ -42,15 +50,11 @@
       "source": "BBC",
       "published": "2026-11-26T19:27:45+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png"
-    },
-    {
-      "title": "Why are winter rains forcing Palestinians in Gaza to flee again?",
-      "summary": "Israeli restrictions on humanitarian aid, damaged buildings and flooded tents leave displaced Palestinians vulnerable.",
-      "url": "https://www.aljazeera.com/news/2026/11/26/why-are-winter-rains-forcing-palestinians-in-gaza-to-flee-again?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-26T19:19:12+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af08bf56851-1794149365.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
