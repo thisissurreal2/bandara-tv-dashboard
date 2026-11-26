@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T21:45:26.311763+00:00",
+  "updated_at": "2026-11-26T22:00:36.500289+00:00",
   "national": [
     {
       "title": "Jambret HP Pelajar di Tamansari Jakbar, 2 Pria Ditangkap",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b088df9572d-1795722745.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
