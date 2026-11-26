@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-26T21:15:28.986023+00:00",
+  "updated_at": "2026-11-26T21:30:43.408664+00:00",
   "national": [
     {
-      "title": "Israel Terus Serang Gaza, 19 Warga Palestina Tewas dalam 48 Jam",
-      "summary": "Serangan Israel di Gaza menewaskan 19 warga Palestina dalam 48 jam. Total korban tewas mencapai 74.772 sejak perang dimulai.",
-      "url": "https://news.detik.com/internasional/d-8771960/israel-terus-serang-gaza-19-warga-palestina-tewas-dalam-48-jam",
+      "title": "Jambret HP Pelajar di Tamansari Jakbar, 2 Pria Ditangkap",
+      "summary": "Polisi menangkap dua pria pelaku penjambretan di Jakarta. Keduanya kerap melancarkan aksi di sejumlah wilayah Jakarta.",
+      "url": "https://news.detik.com/berita/d-8771962/jambret-hp-pelajar-di-tamansari-jakbar-2-pria-ditangkap",
       "source": "Detik",
-      "published": "2026-11-26T20:47:07+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2025/02/03/israel-kembali-serang-palestina-ledakkan-kamp-pengungsi-di-jenin_169.jpeg?w=360&q=90"
+      "published": "2026-11-26T21:03:40+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/27/dua-pelaku-penjambretan-di-kawasan-tamansari-jakarta-barat-selasa-24112026-antaraho-polres-jakbar-1795727000938_169.jpeg?w=360&q=90"
     },
     {
       "title": "Gerindra Kukuh Pemilihan Wapres Lewat Musyawarah Mufakat, Bukan Voting",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+      "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
+      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-26T21:17:53+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png"
+    },
+    {
       "title": "Coalition team up with Labor to pass 20% gas reservation scheme for Australia’s largest exporters",
       "summary": "Coalition voted in Senate to pass government’s final major piece of legislation for 2026, denying Greens’ bid for 25% tax on exports Get our daily political email , free app or daily news podcast A federal gas reservation scheme requiring Australia’s largest exporters to keep up to 20% of their product for domestic use will go ahead with the Coalition’s support. The opposition voted with the government in the Senate on Thursday night in a late sitting, giving Labor the numbers it needed. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
       "url": "https://www.theguardian.com/australia-news/2026/nov/26/coalition-to-team-up-with-labor-to-pass-20-gas-reservation-scheme-for-australias-largest-exporters",
       "source": "The Guardian",
       "published": "2026-11-26T20:58:12+00:00",
       "image": "https://i.guim.co.uk/img/media/5e85107add688802688910ec8b127178d48de914/435_0_4350_3480/master/4350.jpg?width=140&quality=85&auto=format&fit=max&s=6f4a4d12b8c33efe85ecbed1e2eea322"
-    },
-    {
-      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-      "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
-      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-26T20:35:39+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png"
     },
     {
       "title": "Attack on Saudi’s Jazan refinery kills one person, disrupts operations",
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b089a77b51e8-1795725943.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
