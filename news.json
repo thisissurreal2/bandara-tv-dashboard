@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T23:00:48.886084+00:00",
+  "updated_at": "2026-11-26T23:15:28.190997+00:00",
   "national": [
     {
       "title": "Pantun Prabowo di Hari Guru: Saatnya Nanti Kita Naikkan Gaji Guru",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Chance of snow forecast for northern England and Scotland in next few days",
+      "summary": "Met Office warns of icy roads and risk of freezing rain on higher ground as weather turns cold and unsettled Parts of England could see snow in the coming days as cold and unsettled weather continues into the weekend, forecasters have said. Heavy rain sweeping eastwards on Friday could turn to snow over higher ground in northern England and Scotland. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/26/chance-of-snow-forecast-northern-england-scotland",
+      "source": "The Guardian",
+      "published": "2026-11-26T23:01:40+00:00",
+      "image": "https://i.guim.co.uk/img/media/1a3f32c3b0c72a8bf4455187aaa420ab87f2c293/1095_86_4599_3679/master/4599.jpg?width=140&quality=85&auto=format&fit=max&s=79fab39d02d228fc3263a4e77a4740fd"
+    },
+    {
       "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
       "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
       "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-26T22:49:27+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg"
-    },
-    {
-      "title": "Strobe Talbott, Time magazine reporter and deputy US secretary of state, dies aged 80",
-      "summary": "After 21 years at Time, Talbott joined the Clinton administration and later headed the Brookings Institution Strobe Talbott, a former Time magazine reporter who later served as deputy secretary of state under Bill Clinton and then headed the Brookings Institution, died Thursday. He was 80. His son, Devin Talbott, confirmed he died peacefully after a long illness in his East Hampton, New York, home. Continue reading...",
-      "url": "https://www.theguardian.com/us-news/2026/nov/26/strobe-talbott-time-secretary-of-state-dead",
-      "source": "The Guardian",
-      "published": "2026-11-26T22:36:55+00:00",
-      "image": "https://i.guim.co.uk/img/media/57a24bd402f8245002e6b0db6ce2771261189de8/212_0_2738_2190/master/2738.jpg?width=140&quality=85&auto=format&fit=max&s=49a869b2e5a5bb97b157ba6300310731"
     },
     {
       "title": "Report: CIA tortured more people with waterboarding than US agency admitted",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0897add7d31-1795725229.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
