@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T10:44:12.183301+00:00",
+  "updated_at": "2026-11-26T10:45:33.782753+00:00",
   "national": [
     {
       "title": "Prabowo: Ada Kapolri Baru, Buzzer Hilang, Keracunan MBG Berkurang",
@@ -53,7 +53,7 @@
     }
   ],
   "feed_warnings": [
-    "Detik: URLError",
+    "Detik: TimeoutError",
     "Detik: no fresh stories",
     "Detik: keeping previous story"
   ]
