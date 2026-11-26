@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-26T09:30:40.891218+00:00",
+  "updated_at": "2026-11-26T09:45:29.285952+00:00",
   "national": [
     {
-      "title": "Senator Aceh Dukung Sugiono Jadi Wapres, Titip Tuntaskan Masalah Banjir",
-      "summary": "Anggota DPD RI asal Aceh, Azhari Cage, mendukung Sugiono untuk mendampingi Presiden Prabowo Subianto sebagai wakil presiden.",
-      "url": "https://news.detik.com/berita/d-8771321/senator-aceh-dukung-sugiono-jadi-wapres-titip-tuntaskan-masalah-banjir",
+      "title": "Waka DPD GKR Hemas Dorong Penguatan Kepemimpinan Perempuan di Parlemen",
+      "summary": "Wakil Ketua DPD GKR Hemas menekankan pentingnya perubahan yang dihasilkan perempuan dalam politik. Konsolidasi KPP-RI 2026 dorong kebijakan berperspektif gender",
+      "url": "https://news.detik.com/berita/d-8771360/waka-dpd-gkr-hemas-dorong-penguatan-kepemimpinan-perempuan-di-parlemen",
       "source": "Detik",
-      "published": "2026-11-26T09:23:57+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/13/menko-pmk-sugiono-foto-muchlis-jr-biro-pers-media-dan-informasi-sekretariat-presiden-1794584662973_169.jpeg?w=360&q=90"
+      "published": "2026-11-26T09:41:01+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/26/dpd-ri-1795685800666_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Golkar Dukung Sugiono Jadi Wapres, Demokrat Belum Putuskan Sikap",
-      "summary": "Partai Golkar dukung Sugiono sebagai cawapres 2024-2029, mengikuti langkah Partai Gerindra. Demokrat belum tentukan sikap.",
-      "url": "https://www.cnnindonesia.com/nasional/20261126154050-32-1431926/golkar-dukung-sugiono-jadi-wapres-demokrat-belum-putuskan-sikap",
+      "title": "Ketua Yayasan Daycare Little Aresha Divonis 9 Tahun Penjara",
+      "summary": "PN Yogyakarta menjatuhkan hukuman 9 tahun penjara kepada Diyah Kusumastuti, Ketua Yayasan Daycare Little Aresha, atas kekerasan dan penelantaran anak.",
+      "url": "https://www.cnnindonesia.com/nasional/20261126142755-12-1431866/ketua-yayasan-daycare-little-aresha-divonis-9-tahun-penjara",
       "source": "CNN Indonesia",
-      "published": "2026-11-26T09:21:19+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/26/kata-kata-sugiono-dan-amran-usai-tes-kesehatan-cawapres-1795673479260_169.png?w=360&q=90"
+      "published": "2026-11-26T09:32:04+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/26/ketua-yayasan-daycare-little-aresha-divonis-9-tahun-bui-1795678674039_169.jpeg?w=360&q=90"
     },
     {
       "title": "ESDM jaga stok BBM di kisaran 20 hari untuk penuhi kebutuhan Nataru",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "UK-EU deal to confirm ‘Farage penalty’ clause if Britain walks away – UK politics live",
+      "summary": "The Conservatives say the new deal barely contains savings for UK citizens We should get the latest Mandelson documents (see 9.17am ) around lunchtime. The Commons authorities have announced there will be two ministerial statements today. At around 11.30pm Polly Billington, an energy minister, will make a statement about the latest price cap announced by Ofgem yesterday. And, about an hour later, Dan Jarvis, the security minister, will make a statement described as an “update on the government response to the Peter Mandelson humble address motion”. Sam Coates from Sky News has posted this on social media about what the new documents might reveal. In today’s Mandelson files, I’m expecting a revealing look into the desperate attempts by the civil service to manage the political curveball they’d been thrown by Keir Starmer and Morgan McSweeny. Mandelson was a political appointment, pretty much forced through by No 10 with nobody listening to the warnings. Keir Starmer’s team were not interested in the problems with this appointment. Analysis by the Conservatives of the government’s own estimates shows that the savings from the sanitary and phytosanitary (SPS) deal will amount to just pennies on everyday essentials, despite Andy Burnham promising the deal would bring down food prices. Beef prices have risen by 27.8 per cent since Labour took office, adding £1.22 to a pack of beef mince. Yet the government’s SPS deal would save shoppers just over 1p on a £5.60 pack. Continue reading...",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-26T09:32:16+00:00",
+      "image": "https://i.guim.co.uk/img/media/a3e7a737040e81c60eb69b1d359fec56d4ef6b70/683_0_6827_5464/master/6827.jpg?width=140&quality=85&auto=format&fit=max&s=ecbaf9401dd6ce253e9f447c1ab32446"
+    },
+    {
       "title": "Musk's plan to send a million SpaceX data satellites into space approved",
       "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
       "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-26T09:27:44+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5383/live/4c315c90-e968-11f1-a094-5fdc692f3e33.jpg"
-    },
-    {
-      "title": "UK regulator admits error in calculating car finance compensation payments",
-      "summary": "FCA also tells Barclays to stop making settlement offers while it works through data problems Business live – latest updates The financial regulator has admitted that it has miscalculated part of the compensation scheme for victims of the car finance scandal, and told Barclays to stop making settlement offers while it works through the data problems. The Financial Conduct Authority (FCA) revealed it had identified “some errors in how we categorised a small group of loan agreements’, which will affect the average compensation payout to drivers. Continue reading...",
-      "url": "https://www.theguardian.com/business/2026/nov/26/uk-regulator-admits-error-in-calculating-car-finance-compensation-payments",
-      "source": "The Guardian",
-      "published": "2026-11-26T09:18:11+00:00",
-      "image": "https://i.guim.co.uk/img/media/0af9537818ffbfde489eb0e466d6f149798ccbee/7_602_3203_2564/master/3203.jpg?width=140&quality=85&auto=format&fit=max&s=18a01b9851f493e1ab665af4369b4cf2"
     },
     {
       "title": "Israeli attacks on Gaza kill senior education official, seven other people",
