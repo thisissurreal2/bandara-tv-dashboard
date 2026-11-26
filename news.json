@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-26T17:00:41.261571+00:00",
+  "updated_at": "2026-11-26T17:15:27.786814+00:00",
   "national": [
+    {
+      "title": "Banjir Pesisir Selatan Sumbar Rendam 1.190 Rumah, Akses Terputus",
+      "summary": "BNPB melaporkan 1.190 rumah terdampak banjir di Pesisir Selatan, Sumbar.",
+      "url": "https://www.cnnindonesia.com/nasional/20261126190101-20-1432025/banjir-pesisir-selatan-sumbar-rendam-1190-rumah-akses-terputus",
+      "source": "CNN Indonesia",
+      "published": "2026-11-26T17:00:24+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/10/11/banjir-bandang-di-padang-1791681914796_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Sudah Sepekan, Banjir di Aceh Singkil-Subulussalam Belum Surut",
       "summary": "Banjir masih merendam 26 desa di Aceh Singkil dan Subulussalam. Banjir sudah merendam wilayah itu selama sepakan.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-26T16:52:35+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2024/04/26/ilustrasi-banjir_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Jelang Nataru, Forum MTI Buka Kanal Aduan bagi Pengguna Jalan Tol",
-      "summary": "Forum MTI buka kanal pengaduan untuk pengguna jalan tol menjelang libur Natal 2026 dan Tahun Baru 2027.",
-      "url": "https://www.cnnindonesia.com/nasional/20261126225001-20-1432080/jelang-nataru-forum-mti-buka-kanal-aduan-bagi-pengguna-jalan-tol",
-      "source": "CNN Indonesia",
-      "published": "2026-11-26T16:50:01+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2020/11/01/tol-layang-jakarta-cikampek-3_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo: Studio Guru bantu daerah yang kekurangan guru",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Mandelson tried to influence Starmer’s cabinet reshuffle, new documents reveal – UK politics live",
-      "summary": "In a WhatsApp exchange Mandelson told Starmer’s chief of staff at the time, Morgan McSweeney, to ‘solve your Darren issue’ – referring to Darren Jones The Liberal Democrats are saying the UK needs a proper plan for immigration. This is from the party’s asylum and immigration spokesperson, Paul Kohler . Britain needs to regain control of its immigration system after the chaos of Brexit. Yet sixteen years after David Cameron’s ‘tens of thousands’ pledge, six prime ministers and ten home secretaries have overseen wild swings in immigration numbers with net migration now set to fall below zero. Britain faces serious demographic and economic challenges, and urgently needs a proper immigration plan to support our economy and public services. The fall in net migration is mainly a result of changes made by the previous Conservative government. We now need to go even further with a legally binding annual cap, set by parliament, at a far lower level. British and European people are leaving in their droves because of Labour’s high taxes whilst non-EU immigration remains far too high. British families are left to pay for it with lower wages, longer waits for a GP appointment and homes they cannot afford. Mass low-skilled immigration must end completely as it is bad for our economy and corrosive to our society. Continue reading...",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
+      "title": "US army calls detonation of bomb chemicals in Iowa a success after fears of toxic plume",
+      "summary": "The army blows up US stockpile of lead azide, a chemical used for explosives, to avoid uncontrollable explosion The US army blew up the nation’s entire stockpile of lead azide, a chemical used to make explosives, saying the first checks show Wednesday’s controlled detonation in Iowa didn’t spread toxic dust to nearby homes and farms. Earthen barriers were put up and foam and water were poured onto a pair of bunkers holding the 5 tons (4,500kg) of lead azide, and officials said those measures appear to have absorbed much of the blast. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/26/iowa-chemical-lead-bomb-detonation-toxic-dust-fears",
       "source": "The Guardian",
-      "published": "2026-11-26T16:45:25+00:00",
-      "image": "https://i.guim.co.uk/img/media/e3b6ac9ef90ac1b1de2bc7f9894728762310b412/433_94_2992_2394/master/2992.jpg?width=140&quality=85&auto=format&fit=max&s=37aae666cd23b18016a8cbf4baa6297d"
+      "published": "2026-11-26T17:05:02+00:00",
+      "image": "https://i.guim.co.uk/img/media/a041ad2917e5fdbcd5dea606ebf97c914f03f13e/363_0_2858_2287/master/2858.jpg?width=140&quality=85&auto=format&fit=max&s=d309b1d3b10e20c06f5ad79090ec1ad1"
+    },
+    {
+      "title": "How a teen’s death raises questions about Colombia’s security crackdown",
+      "summary": "President Abelardo de la Espriella's campaign against armed groups has resulted in accusations of extrajudicial killing.",
+      "url": "https://www.aljazeera.com/news/longform/2026/11/26/how-a-teens-death-raises-questions-about-colombias-security-crackdown?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-26T16:49:59+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20260925__C9BM766__v1__HighRes__ColombiaConflictDrugs-1795137721.jpg?resize=1920%2C1440"
     },
     {
       "title": "Italy says two citizens killed in Iranian strike in Kuwait",
@@ -42,14 +50,6 @@
       "source": "BBC",
       "published": "2026-11-26T16:39:30+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png"
-    },
-    {
-      "title": "Two Italians killed by ‘drone strike debris’ in Kuwait",
-      "summary": "The Italians were technicians working at an air-defence surveillance station.",
-      "url": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-26T16:32:31+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0855ffcdbc7-1795708415.jpg?resize=1920%2C1440"
     }
   ],
   "feed_warnings": []
