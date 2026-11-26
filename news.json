@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-26T05:30:34.768637+00:00",
+  "updated_at": "2026-11-26T05:45:29.162653+00:00",
   "national": [
     {
-      "title": "Penampakan LRT Mogok di Lintas Stasiun Pancoran dan Kuningan",
-      "summary": "LRT Jabodebek mengalami masalah di lintas Stasiun Pancoran dan Stasiun Kuningan pada Kamis (26/11).",
-      "url": "https://www.cnnindonesia.com/nasional/20261126120908-24-1431755/penampakan-lrt-mogok-di-lintas-stasiun-pancoran-dan-kuningan",
+      "title": "Mendagri: Dokumen Kependudukan Dua Cawapres Sesuai Hasil Verifikasi",
+      "summary": "Hasil verifikasi faktual Kemendagri menyatakan dokumen kependudukan dua cawapres, yakni Andi Amran Sulaiman dan Sugiono, adalah sesuai.",
+      "url": "https://www.cnnindonesia.com/nasional/20261126121745-25-1431758/mendagri-dokumen-kependudukan-dua-cawapres-sesuai-hasil-verifikasi",
       "source": "CNN Indonesia",
-      "published": "2026-11-26T05:29:59+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/26/thumbnail-video-1795669994562_169.jpeg?w=360&q=90"
+      "published": "2026-11-26T05:38:55+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/26/kemendagri-1795670331020_169.jpeg?w=360&q=90"
     },
     {
       "title": "Drone Israel Gempur Kamp Pengungsi Gaza, 6 Orang Tewas",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Australian politics live: Senior Liberal slams Blyth in email to members, saying ‘you gave her your trust, she threw it away’",
-      "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party . Blyth is the second high-profile federal defection from the Coalition to One Nation – after Barnaby Joyce . Senator Blyth will be One Nation’s first South Australian Senator and will build on One Nation’s expanding support within the state. My team and I are delighted to welcome Senator Blyth to sit in the Senate with One Nation. We are facing at the next election clearly a coalition of the Liberals, Nationals and One Nation, with all the baggage that each of these parties brings to the table. They’re all anti-worker, they’re all extreme … this demonstrates, I think, more disunity in the Liberal party under Angus Taylor . Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
+      "title": "Coalition would privatise Melbourne’s sewage treatment while selling state land and renewables to fund Victorian election promises and cut debt",
+      "summary": "Liberal and Nationals’ pre-election policy costings also reveal that ‘air rights’ between Richmond train station and the MCG would be sold Follow our Australia politics live blog for latest updates Victorian election 2026 guide: what you need to know Confused about who to vote for? Check the parties’ key promises and policies Get our daily political email , free app or daily news podcast A Victorian Coalition government would privatise two sewage plants and sell off state-owned land, renewable energy assets and the “air rights” between Richmond train station and the Melbourne Cricket Ground if elected. The opposition leader, Jess Wilson, released the Liberal and Nationals’ pre-election policy costings on Thursday, just two days before the state election and after more than 1.5 million Victorians have already cast their vote. Sign up for Guardian Australia’s Politics, really newsletter here . Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
       "source": "The Guardian",
-      "published": "2026-11-26T05:18:33+00:00",
-      "image": "https://i.guim.co.uk/img/media/c3ec155e9d4a650a27cbceedb519cb4854d5ff62/688_0_6880_5504/master/6880.jpg?width=140&quality=85&auto=format&fit=max&s=2865d03e58df7373f41d2246e7e8c1d9"
+      "published": "2026-11-26T05:30:32+00:00",
+      "image": "https://i.guim.co.uk/img/media/ada4bb365561f12ee0ef729583d5ef8a1082d741/4_0_5040_4032/master/5040.jpg?width=140&quality=85&auto=format&fit=max&s=7fe8d3290955a71627069d699b669954"
     },
     {
-      "title": "Six killed, including children, in plane crash off Mississippi coast",
-      "summary": "US authorities are investigating the reason behind the crash that killed members of the Stokes and Knox families.",
-      "url": "https://www.aljazeera.com/news/2026/11/26/six-killed-including-children-in-plane-crash-off-mississippi-coast?traffic_source=rss",
+      "title": "Puerto Rico’s Supreme Court cancels major power contract",
+      "summary": "The court's five-to-four ruling ends Luma Energy's operations after a contentious legal battle.",
+      "url": "https://www.aljazeera.com/news/2026/11/26/puerto-ricos-supreme-court-cancels-major-power-contract?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-26T04:48:42+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b078c9edba4c-1795656862.jpg?resize=1920%2C1440"
+      "published": "2026-11-26T05:09:55+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2025-04-17T033321Z_1916242618_RC2BZDAI9Z0U_RTRMADP_3_PUERTO-RICO-POWER-1795665479.jpg?resize=1920%2C1440"
     },
     {
       "title": "US announces new tariffs on host of countries including China",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdd4/live/6fdb6db0-e946-11f1-8b2f-671485cea0be.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
