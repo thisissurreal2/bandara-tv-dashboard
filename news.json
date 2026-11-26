@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-26T14:30:34.870511+00:00",
+  "updated_at": "2026-11-26T14:45:29.695671+00:00",
   "national": [
+    {
+      "title": "Maruli Tinjau Pembangunan Jembatan 350 Meter di Pulau Milok Sulteng",
+      "summary": "Kepala BNPPDT Jenderal TNI Maruli Simanjuntak meninjau pembangunan Jembatan Garuda Merah Putih di Pulau Milok untuk meningkatkan akses dan infrastruktur dasar.",
+      "url": "https://news.detik.com/berita/d-8771869/maruli-tinjau-pembangunan-jembatan-350-meter-di-pulau-milok-sulteng",
+      "source": "Detik",
+      "published": "2026-11-26T14:37:54+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/26/bnppdt-1795703635896_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Anggota DPD Aceh Dukung Sugiono Jadi Wapres Prabowo Pengganti Gibran",
       "summary": "Anggota DPD RI Aceh mendukung Sugiono sebagai calon wakil presiden. Ia berharap Sugiono fokus pada pemulihan Aceh dan penanganan TPPO.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-26T14:30:09+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/26/sugiono-tiba-jelang-pemeriksaan-kesehatan-di-rumah-sakit-angkatan-darat-rspad-gatot-subroto-jakarta-1795662558083_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Bank Sulselbar Parepare Perkuat Integritas Staf Lewat Pengajian Rutin",
-      "summary": "Bank Sulselbar Cabang Parepare menggelar pengajian rutin untuk meningkatkan integritas dan kualitas pelayanan. Ustaz Abdul Latief hadir sebagai penceramah.",
-      "url": "https://news.detik.com/berita/d-8771848/bank-sulselbar-parepare-perkuat-integritas-staf-lewat-pengajian-rutin",
-      "source": "Detik",
-      "published": "2026-11-26T14:27:36+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/26/sulselbar-1795703234424_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo: Studio Guru bantu daerah yang kekurangan guru",
@@ -28,28 +28,28 @@
   ],
   "international": [
     {
-      "title": "How an oil feud is deepening rift between Baghdad and Iraq’s Kurdish region",
-      "summary": "Prime Minister al-Zaidi's move to take control of border crossings and oilfields has drawn a sharp response from Erbil.",
-      "url": "https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-26T14:10:00+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b08184c-1795692620.jpg?resize=1920%2C1440"
+      "title": "Pregnant US inmate escapes in prison vehicle after medical appointment",
+      "summary": "Rebecca Taylor had been imprisoned in New Mexico for multiple theft and burglary charges.",
+      "url": "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-26T14:35:22+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b19/live/49e2b830-e995-11f1-9d1c-4dcc8fcde666.jpg"
     },
     {
       "title": "EU leaders ‘light-years away’ on agreeing budget at summit, warns Giorgia Meloni – Europe live",
       "summary": "A number of leaders hope to agree to a budget before consequential elections around the continent The Danish prime minister, Mette Frederiksen, has acknowledged that leaders remain “very far apart,” agreeing with Germany’s Merz that the current proposal is not going to work. “The budget is too large and not sufficiently future-oriented,” she said, calling for more work on competitiveness, defence and security. Continue reading...",
       "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-26T14:06:58+00:00",
+      "published": "2026-11-26T14:34:05+00:00",
       "image": "https://i.guim.co.uk/img/media/97af9c3749d929490d31c0c42c1effc6430fc97c/1139_0_4298_3440/master/4298.jpg?width=140&quality=85&auto=format&fit=max&s=29e3575672907c6db95917746beb52fa"
     },
     {
-      "title": "Diesel tanker carrying up to 7,000 tonnes sinks near Ibiza, killing one",
-      "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
-      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-26T14:00:42+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e73/live/33d0e9f0-e99e-11f1-b880-15b494ba858d.jpg"
+      "title": "Can Trump continue with Iran war despite funding restrictions?",
+      "summary": "A Congress budget bill could serve as a pressure tactic on Trump to end the war but could also trigger a shutdown.",
+      "url": "https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-26T14:17:21+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b04df4d-1795481421.jpg?resize=1920%2C1440"
     }
   ],
   "feed_warnings": []
