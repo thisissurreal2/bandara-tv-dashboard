@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-26T15:30:34.533146+00:00",
+  "updated_at": "2026-11-26T15:45:35.621706+00:00",
   "national": [
     {
-      "title": "Data ini Tunjukkan Parahnya Israel Langgar Gencatan Senjata Gaza",
-      "summary": "Israel telah melakukan 6.405 pelanggaran gencatan senjata di Gaza dalam 410 hari, merusak infrastruktur dan memperburuk krisis kemanusiaan.",
-      "url": "https://news.detik.com/internasional/d-8771887/data-ini-tunjukkan-parahnya-israel-langgar-gencatan-senjata-gaza",
+      "title": "Tok! DPRD Setujui APBD Banten 2027 Sebesar Rp 9,79 Triliun",
+      "summary": "DPRD Banten setujui APBD 2027 sebesar Rp 9,79 triliun untuk percepat pembangunan. Surplus Rp 13,39 miliar akan digunakan untuk pembiayaan daerah.",
+      "url": "https://news.detik.com/berita/d-8771904/tok-dprd-setujui-apbd-banten-2027-sebesar-rp-9-79-triliun",
       "source": "Detik",
-      "published": "2026-11-26T15:06:48+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/10/30/rumah-warga-gaza-kembali-jadi-sasaran-serangan-udara-israel-1793348490119_169.jpeg?w=360&q=90"
+      "published": "2026-11-26T15:32:29+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2025/04/30/rapat-paripurna-dprd-banten-1746005904561_169.jpeg?w=360&q=90"
     },
     {
       "title": "Anggota DPD Aceh Dukung Sugiono Jadi Wapres Prabowo Pengganti Gibran",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Jerusalem Daily: Israeli settlers set fire to a Palestinian vehicle",
-      "summary": "Al Jazeera’s Ava Warriner has the latest in Jerusalem Daily.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/jerusalem-daily-israeli-settlers-set-fire-to-a-palestinian-vehicle?traffic_source=rss",
+      "title": "Storms across US disrupt travel and force Thanksgiving parade cancellations",
+      "summary": "The New York governor declares a state of emergency in several parts of the state due to severe weather Heavy rain, winds, flooding and high tides are hitting the eastern and western US, snarling travel and leading to the cancellations of at least two commercial Thanksgiving parades. On the East Coast, authorities in Philadelphia ordered the city’s Thanksgiving Day parade in Philadelphia off the streets and will be featured as an “alternative TV event”. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/26/storm-thanksgiving-parade-cancellations-severe-weather",
+      "source": "The Guardian",
+      "published": "2026-11-26T15:33:21+00:00",
+      "image": "https://i.guim.co.uk/img/media/36fefa1514102c013205e28718d74a91c886f469/143_0_6881_5505/master/6881.jpg?width=140&quality=85&auto=format&fit=max&s=dd608672e8e8d13c3e6a051b464eb559"
+    },
+    {
+      "title": "US judge blocks Trump’s FCC attempt to target Disney’s ABC stations",
+      "summary": "The judge said the FCC chair has taken US President Donald Trump's rhetoric ‌‌as his 'marching orders'.",
+      "url": "https://www.aljazeera.com/news/2026/11/26/us-judge-blocks-trumps-fcc-attempt-to-target-disneys-abc-stations?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-26T15:23:25+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795706590.jpg?resize=1920%2C1080&quality=80"
+      "published": "2026-11-26T15:29:03+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/reuters_6aa2d39f-1789055903.jpg?resize=1920%2C1440"
     },
     {
       "title": "New UK-EU treaty has 10-year termination clause",
@@ -42,19 +50,7 @@
       "source": "BBC",
       "published": "2026-11-26T15:23:17+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65b5/live/0c44e020-e972-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "title": "Do you want to waste 15 minutes of your life reading the Reformer by Nigel Farage?",
-      "summary": "Or maybe just throw it in the recycling – every future issue could be written in German anyway if Burnham gets his way It’s the “choice of a lifetime”. The stakes have never been higher. Do you waste 15 minutes of your life reading the second issue of the Reformer, the official monthly newspaper of Reform, every word of which has been written by me, Nigel Farage? Or do you just throw it straight into the recycling bin? Continue reading...",
-      "url": "https://www.theguardian.com/politics/2026/nov/26/reformer-nigel-farage-burnham-eu",
-      "source": "The Guardian",
-      "published": "2026-11-26T15:14:17+00:00",
-      "image": "https://i.guim.co.uk/img/media/549568867c27e3b0ef38ba8cbabe892dae27d292/750_0_5993_4794/master/5993.jpg?width=140&quality=85&auto=format&fit=max&s=c708c1eafe455580632aed85576f9311"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
