@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-26T07:45:25.661941+00:00",
+  "updated_at": "2026-11-26T08:00:41.112273+00:00",
   "national": [
     {
-      "title": "PDIP Tunggu Arahan Megawati soal Dukungan Cawapres",
-      "summary": "Ketua Fraksi PDIP Ahmad Basarah menunggu arahan Megawati terkait dukungan cawapres baru. PDIP fokus pada proses pencalonan sesuai konstitusi.",
-      "url": "https://www.cnnindonesia.com/nasional/20261126141554-32-1431856/pdip-tunggu-arahan-megawati-soal-dukungan-cawapres",
+      "title": "Listyo Tolak Hadir Sidang Etik, Bagaimana Jika Absen Lagi?",
+      "summary": "Mantan Kapolri Listyo Sigit Prabowo menolak hadir dalam sidang kode etik terkait kasus penyadapan dan makar. Sidang ditunda hingga 30 November 2026.",
+      "url": "https://www.cnnindonesia.com/nasional/20261126105031-12-1431706/listyo-tolak-hadir-sidang-etik-bagaimana-jika-absen-lagi",
       "source": "CNN Indonesia",
-      "published": "2026-11-26T07:37:36+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/04/18/ketua-dpp-pdip-ahmad-basarah-1776486708058_169.jpeg?w=360&q=90"
+      "published": "2026-11-26T07:54:10+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2021/01/27/listyo-sigit-prabowo_169.png?w=360&q=90"
+    },
+    {
+      "title": "Prabowo terima Sekjen OECD bahas kelanjutan aksesi Indonesia",
+      "summary": "Presiden Prabowo Subianto menerima Sekretaris Jenderal Organisation for Economic Co-operation and Development (OECD) ...",
+      "url": "https://www.antaranews.com/berita/5879835/prabowo-terima-sekjen-oecd-bahas-kelanjutan-aksesi-indonesia",
+      "source": "ANTARA",
+      "published": "2026-11-26T07:39:14+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/26/1000483974.jpg"
     },
     {
       "title": "Ada Konfirmasi Ubah Nama, Tim Verifikasi MPR Nyatakan Ijazah SMA Amran Sah",
@@ -16,17 +24,17 @@
       "source": "Detik",
       "published": "2026-11-26T07:36:11+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/26/ahmad-basarah-1795678546672_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Prabowo ikut musnahkan barang bukti narkoba, total sitaan 601,7 ton",
-      "summary": "Presiden Prabowo Subianto ikut memusnahkan barang bukti narkotika dan obat-obatan terlarang yang disita oleh Polri dan ...",
-      "url": "https://www.antaranews.com/berita/5879771/prabowo-ikut-musnahkan-barang-bukti-narkoba-total-sitaan-6017-ton",
-      "source": "ANTARA",
-      "published": "2026-11-26T07:05:23+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/26/IMG_9237.jpg"
     }
   ],
   "international": [
+    {
+      "title": "At least 13 dead in Indonesia gold mine flood as rescue efforts intensify",
+      "summary": "Rescue workers facing tough conditions, with narrow, deep and slippery excavation pits and minimal lighting.",
+      "url": "https://www.aljazeera.com/news/2026/11/26/at-least-13-dead-in-indonesia-gold-mine-flood-as-rescue-efforts-intensify?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-26T07:38:00+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261125__D8KX2JG__v1__HighRes__IndonesiaMiningAccident-1795670340.jpg?resize=1920%2C1440"
+    },
     {
       "title": "FedEx plane overshoots Miami runway, causing brief suspension of flights at airport",
       "summary": "The brief ground stop came on the eve of the US Thanksgiving holiday, one of the busiest travel days of the year.",
@@ -34,14 +42,6 @@
       "source": "BBC",
       "published": "2026-11-26T07:34:47+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a780/live/1db9c0f0-e959-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "title": "French navy intercepts suspected drug-smuggling semi-submersible",
-      "summary": "French forces intercepted a semi-submersible suspected of drug trafficking in the Atlantic.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/french-navy-intercepts-suspected-drug-smuggling-semi-submersible?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-26T07:15:39+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Screenshot-2026-11-26-at-07.11.22-1795677182.png?resize=1200%2C675"
     },
     {
       "title": "London commuters braced for disruption as tube strike begins",
@@ -52,5 +52,9 @@
       "image": "https://i.guim.co.uk/img/media/ba73bdcee1d7b639a846a64ed5bea4c66af2671c/251_0_1837_1469/master/1837.jpg?width=140&quality=85&auto=format&fit=max&s=06055adc93682378ce96da3399f197c0"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
