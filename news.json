@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T18:45:26.975406+00:00",
+  "updated_at": "2026-11-26T19:00:40.145087+00:00",
   "national": [
     {
       "title": "6 Orang Sekeluarga Tewas dalam Kecelakaan Pesawat Kecil di Mississippi",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Hospitals in England brace for flu spike with admissions highest since pre-Covid",
-      "summary": "NHS boss says hospital bosses should consider asking staff and visitors to wear a masks as winter pressures set to build Hospitals are bracing for a “horrible spike” in flu in the coming days as winter starts to bite, the head of the NHS in England has said. Flu and other winter viruses including Covid pose such a threat that hospital bosses should consider telling staff and visitors to wear masks, Jim Mackey said, as figures showed rates of admissions to hospital with flu were at the highest for the time of year since before Covid. Continue reading...",
-      "url": "https://www.theguardian.com/society/2026/nov/26/nhs-hospitals-england-flu-spike-masks",
+      "title": "Fifa confirms cyber-attack exposed ‘personal and business information’",
+      "summary": "Football’s governing body says hackers accessed a limited set of personal and business data Fifa confirmed that hackers gained access to a “limited set of personal and business information” in a cyber-attack, amid heightened concern over digital vulnerabilities of leading organizations and institutions. The global soccer governing body said it “condemns in the strongest possible terms the unlawful acquisition and publication of information, particularly personal data”, in a statement to the Associated Press on Thursday. “Such actions constitute a serious and unacceptable violation of privacy and can have significant consequences for the individuals concerned.” Continue reading...",
+      "url": "https://www.theguardian.com/football/2026/nov/26/fifa-cyberattack-hack-personal-information",
       "source": "The Guardian",
-      "published": "2026-11-26T18:27:49+00:00",
-      "image": "https://i.guim.co.uk/img/media/bb66565ac09bbed03f59b50957c8fef95435609d/625_0_6250_5000/master/6250.jpg?width=140&quality=85&auto=format&fit=max&s=2a35785eae8bedc64fc2368eecfd807d"
+      "published": "2026-11-26T18:45:44+00:00",
+      "image": "https://i.guim.co.uk/img/media/bab41d81f787d91a1ca38252c7fa18495020e16d/130_0_4766_3815/master/4766.jpg?width=140&quality=85&auto=format&fit=max&s=7a5174da62e44f7aba85322a929a6ca4"
     },
     {
-      "title": "Guinea-Bissau presidential election delayed by two years",
-      "summary": "Military leaders say presidential and legislative poll scheduled for December 6 will now take place in November 2028.",
-      "url": "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years?traffic_source=rss",
+      "title": "Kushner explains the ‘good thing’ about Gaza’s destruction",
+      "summary": "Jared Kushner says the “good thing” about Israel’s genocidal war on Gaza is that it can be built into “something new”.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/kushner-explains-the-good-thing-about-gazas-destruction?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-26T18:07:18+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b086d135f5d-1795714323.jpg?resize=1920%2C1440"
+      "published": "2026-11-26T18:30:36+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795717775.jpg?resize=1920%2C1079&quality=80"
     },
     {
       "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
