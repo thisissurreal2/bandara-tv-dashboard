@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-26T03:30:35.951845+00:00",
+  "updated_at": "2026-11-26T03:45:28.017433+00:00",
   "national": [
     {
-      "title": "Listyo Sigit Mangkir, Sidang Etik Kasus Penyadapan dan Makar Ditunda",
-      "summary": "Sidang KKEP Polri terhadap mantan Kapolri Listyo Sigit ditunda karena ketidakhadirannya. Ia terlibat dalam kasus penyadapan ilegal dan makar.",
-      "url": "https://www.cnnindonesia.com/nasional/20261126090928-12-1431650/listyo-sigit-mangkir-sidang-etik-kasus-penyadapan-dan-makar-ditunda",
+      "title": "LRT Jabodebek Mogok di Antara Stasiun Pancoran-Kuningan",
+      "summary": "LRT Jabodebek mengalami gangguan antara Stasiun Pancoran dan Kuningan. Petugas terjun menangani masalah tersebut.",
+      "url": "https://www.cnnindonesia.com/nasional/20261126103700-20-1431700/lrt-jabodebek-mogok-di-antara-stasiun-pancoran-kuningan",
       "source": "CNN Indonesia",
-      "published": "2026-11-26T03:19:47+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/09/02/kapolri-jenderal-listyo-sigit-prabowo-resmi-melantik-sejumlah-pejabat-utama-mabes-polri-1788343333256_169.jpeg?w=360&q=90"
+      "published": "2026-11-26T03:42:18+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2024/12/01/kai-evakuasi-penumpang-lrt-jabodebek-arah-harjamukti-yang-mogok_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "Polri: Jika Listyo Sigit Tolak Hadir Lagi, Sidang Etik Tetap Lanjut",
+      "summary": "Mantan Kapolri Listyo Sigit Prabowo menolak hadir dalam sidang etik terkait penyadapan ilegal. Jika terus menolak, sidang tetap dilanjutkan tanpa kehadirannya.",
+      "url": "https://news.detik.com/berita/d-8770568/polri-jika-listyo-sigit-tolak-hadir-lagi-sidang-etik-tetap-lanjut",
+      "source": "Detik",
+      "published": "2026-11-26T03:39:34+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/26/humas-polri-1795663073260_169.jpeg?w=360&q=90"
     },
     {
       "title": "Polisi identifikasi enam dari 13 jenazah korban tambang Pongkor",
@@ -16,14 +24,6 @@
       "source": "ANTARA",
       "published": "2026-11-26T02:47:31+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/26/1003573227.jpg"
-    },
-    {
-      "title": "Dalih Sakit Hati di Balik Rumah Warga Bekasi Dilalap Api",
-      "summary": "Kebakaran rumah di Bekasi terjadi akibat tindakan sengaja pelaku yang sakit hati. Pelaku ditangkap setelah penyelidikan polisi. Tidak ada korban jiwa.",
-      "url": "https://news.detik.com/berita/d-8770435/dalih-sakit-hati-di-balik-rumah-warga-bekasi-dilalap-api",
-      "source": "Detik",
-      "published": "2026-11-26T02:02:10+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/25/tangkapan-layar-detik-detik-pria-di-bekasi-bakar-rumah-kakak-ipar-1795597809001_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
@@ -32,8 +32,16 @@
       "summary": "Get our breaking news email , free app or daily news podcast Pauline Hanson has released a statement this morning welcoming South Australian senator Leah Blyth to her party . Blyth is the second high-profile federal defection from the Coalition to One Nation – after Barnaby Joyce . Senator Blyth will be One Nation’s first South Australian Senator and will build on One Nation’s expanding support within the state. My team and I are delighted to welcome Senator Blyth to sit in the Senate with One Nation. We are facing at the next election clearly a coalition of the Liberals, Nationals and One Nation, with all the baggage that each of these parties brings to the table. They’re all anti-worker, they’re all extreme … this demonstrates, I think, more disunity in the Liberal party under Angus Taylor . Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-26T03:19:57+00:00",
+      "published": "2026-11-26T03:33:25+00:00",
       "image": "https://i.guim.co.uk/img/media/52b5b66c0f27e10da77f0807cf7933ab39d66fec/1067_534_5492_4394/master/5492.jpg?width=140&quality=85&auto=format&fit=max&s=4871ce862525bba05ae7ee81a3fb3552"
+    },
+    {
+      "title": "Colombian president taunts arrested supermarket hostage-takers",
+      "summary": "Colombia’s president has confronted the men who held 76 people hostage at a Cartagena supermarket.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/colombian-president-taunts-arrested-supermarket-hostage-takers?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-26T03:23:24+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795663381.jpg?resize=1920%2C1080&quality=80"
     },
     {
       "title": "US announces new tariffs on host of countries including China",
@@ -42,19 +50,7 @@
       "source": "BBC",
       "published": "2026-11-26T03:01:40+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdd4/live/6fdb6db0-e946-11f1-8b2f-671485cea0be.jpg"
-    },
-    {
-      "title": "FIFA turns to influencers to promote U17 World Cup",
-      "summary": "FIFA has enlisted social media influencers to promote the Under-17 World Cup in Qatar.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/fifa-turns-to-influencers-to-promote-u17-world-cup?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-26T03:00:51+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795662042.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
