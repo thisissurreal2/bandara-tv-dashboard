@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-26T07:30:34.050023+00:00",
+  "updated_at": "2026-11-26T07:45:25.661941+00:00",
   "national": [
     {
-      "title": "Prabowo: Negara Hancur Kalau Tentara, Polisi, dan Birokrat Brengsek",
-      "summary": "Presiden Prabowo Subianto memimpin pemusnahan 601,7 ton narkoba di Mabes Polri. Kapolri Suyudi menegaskan komitmen pemberantasan narkoba di Indonesia.",
-      "url": "https://www.cnnindonesia.com/nasional/20261126135648-12-1431849/prabowo-negara-hancur-kalau-tentara-polisi-dan-birokrat-brengsek",
+      "title": "PDIP Tunggu Arahan Megawati soal Dukungan Cawapres",
+      "summary": "Ketua Fraksi PDIP Ahmad Basarah menunggu arahan Megawati terkait dukungan cawapres baru. PDIP fokus pada proses pencalonan sesuai konstitusi.",
+      "url": "https://www.cnnindonesia.com/nasional/20261126141554-32-1431856/pdip-tunggu-arahan-megawati-soal-dukungan-cawapres",
       "source": "CNN Indonesia",
-      "published": "2026-11-26T07:29:05+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/26/presiden-ri-hadiri-pemusnahan-narkoba-di-mabes-polri-1795676784288_169.png?w=360&q=90"
+      "published": "2026-11-26T07:37:36+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/04/18/ketua-dpp-pdip-ahmad-basarah-1776486708058_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Di Depan Prabowo, Kapolri Beberkan Data Pengungkapan Kasus Narkoba Setahun",
-      "summary": "Kapolri Jenderal Suyudi Ario Seto mengungkap data pengungkapan kasus narkoba selama setahun di hadapan Presiden Prabowo Subianto.",
-      "url": "https://news.detik.com/berita/d-8771012/di-depan-prabowo-kapolri-beberkan-data-pengungkapan-kasus-narkoba-setahun",
+      "title": "Ada Konfirmasi Ubah Nama, Tim Verifikasi MPR Nyatakan Ijazah SMA Amran Sah",
+      "summary": "Tim Verifikasi MPR mengonfirmasi perubahan nama cawapres Andi Amran Sulaiman dari 'Amran' di ijazah SMA, berdasarkan putusan pengadilan 2022.",
+      "url": "https://news.detik.com/berita/d-8771050/ada-konfirmasi-ubah-nama-tim-verifikasi-mpr-nyatakan-ijazah-sma-amran-sah",
       "source": "Detik",
-      "published": "2026-11-26T07:09:33+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/26/didampingi-kapolri-jenderal-suyudi-ario-presiden-prabowo-subianto-menghadiri-pemusnahan-barang-bukti-narkoba-6017-ton-rumondan-1795675796778_169.jpeg?w=360&q=90"
+      "published": "2026-11-26T07:36:11+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/26/ahmad-basarah-1795678546672_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo ikut musnahkan barang bukti narkoba, total sitaan 601,7 ton",
@@ -27,6 +27,14 @@
     }
   ],
   "international": [
+    {
+      "title": "FedEx plane overshoots Miami runway, causing brief suspension of flights at airport",
+      "summary": "The brief ground stop came on the eve of the US Thanksgiving holiday, one of the busiest travel days of the year.",
+      "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-26T07:34:47+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a780/live/1db9c0f0-e959-11f1-99b6-a35a62fa4264.jpg"
+    },
     {
       "title": "French navy intercepts suspected drug-smuggling semi-submersible",
       "summary": "French forces intercepted a semi-submersible suspected of drug trafficking in the Atlantic.",
@@ -42,19 +50,7 @@
       "source": "The Guardian",
       "published": "2026-11-26T06:56:24+00:00",
       "image": "https://i.guim.co.uk/img/media/ba73bdcee1d7b639a846a64ed5bea4c66af2671c/251_0_1837_1469/master/1837.jpg?width=140&quality=85&auto=format&fit=max&s=06055adc93682378ce96da3399f197c0"
-    },
-    {
-      "title": "US announces new tariffs on host of countries including China",
-      "summary": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
-      "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-26T04:10:58+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdd4/live/6fdb6db0-e946-11f1-8b2f-671485cea0be.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
