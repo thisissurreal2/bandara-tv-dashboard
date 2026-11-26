@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T20:15:25.405979+00:00",
+  "updated_at": "2026-11-26T20:30:34.545577+00:00",
   "national": [
     {
       "title": "4 Murid di Langkat Keracunan MBG, Ada Cacing Ditemukan di Susu Kemasan",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
