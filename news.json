@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T22:00:36.500289+00:00",
+  "updated_at": "2026-11-26T22:15:27.308572+00:00",
   "national": [
     {
       "title": "Jambret HP Pelajar di Tamansari Jakbar, 2 Pria Ditangkap",
@@ -28,28 +28,28 @@
   ],
   "international": [
     {
+      "title": "Report: CIA tortured more people with waterboarding than US agency admitted",
+      "summary": "A New York Times report lends credence to long-held belief that torture method was more widely used than acknowledged.",
+      "url": "https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-26T22:06:54+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0897add7d31-1795725229.jpg?resize=1920%2C1440"
+    },
+    {
+      "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+      "summary": "The possible environmental damage is still being assessed by Spain's sea rescue service.",
+      "url": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-26T22:01:22+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e73/live/33d0e9f0-e99e-11f1-b880-15b494ba858d.jpg"
+    },
+    {
       "title": "Southern and central Australia face summer of heightened bushfire risk and heatwaves",
       "summary": "Fire chiefs say large swathes of the country are at risk from fires driven by high fuel loads, dry soil and hot weather Get our breaking news email , free app or daily news podcast Large parts of southern and central Australia face elevated fire risk this summer, authorities say, while heatwaves and extreme temperatures are likely nationwide. Most of Victoria, eastern Tasmania and large parts of South Australia, Western Australia, New South Wales and the Northern Territory face heightened bushfire risk – driven by high fuel loads, low soil moisture and forecast hot and dry conditions – according to the seasonal outlook from the Australian and New Zealand Council for Fire and Emergency Services (AFAC), released on Friday. Continue reading...",
       "url": "https://www.theguardian.com/environment/2026/nov/27/southern-and-central-australia-face-summer-of-heightened-bushfire-risk-and-heatwaves",
       "source": "The Guardian",
       "published": "2026-11-26T21:33:36+00:00",
       "image": "https://i.guim.co.uk/img/media/fc97543f0720ead81d92285d612a9053401135ee/0_0_805_644/master/805.jpg?width=140&quality=85&auto=format&fit=max&s=278ed744cfe9442b1643227501f22648"
-    },
-    {
-      "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
-      "summary": "The pair were technicians for German company Rheinmetall, according to Italy's foreign ministry.",
-      "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-26T21:17:53+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png"
-    },
-    {
-      "title": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
-      "summary": "Prosecutors order drug tests for the 21-year-old suspect, who says he was overtaking when the crash happened.",
-      "url": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-26T21:08:44+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b088df9572d-1795722745.jpg?resize=1920%2C1440"
     }
   ],
   "feed_warnings": [
