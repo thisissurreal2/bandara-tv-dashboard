@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-26T22:15:27.308572+00:00",
+  "updated_at": "2026-11-26T22:30:32.411496+00:00",
   "national": [
     {
-      "title": "Jambret HP Pelajar di Tamansari Jakbar, 2 Pria Ditangkap",
-      "summary": "Polisi menangkap dua pria pelaku penjambretan di Jakarta. Keduanya kerap melancarkan aksi di sejumlah wilayah Jakarta.",
-      "url": "https://news.detik.com/berita/d-8771962/jambret-hp-pelajar-di-tamansari-jakbar-2-pria-ditangkap",
+      "title": "Legislator PDIP Minta 2 Perempuan Korban Penyekapan di Malang Dapat Pendampingan",
+      "summary": "Legislator PDIP Selly Gantina mendesak pendampingan untuk dua perempuan korban penyekapan di Malang. Dia minta pengusutan mendalam terkait dugaan eksploitasi.",
+      "url": "https://news.detik.com/berita/d-8771963/legislator-pdip-minta-2-perempuan-korban-penyekapan-di-malang-dapat-pendampingan",
       "source": "Detik",
-      "published": "2026-11-26T21:03:40+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/27/dua-pelaku-penjambretan-di-kawasan-tamansari-jakarta-barat-selasa-24112026-antaraho-polres-jakbar-1795727000938_169.jpeg?w=360&q=90"
+      "published": "2026-11-26T21:51:06+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/07/08/anggota-komisi-viii-dpr-ri-selly-andriany-gantina-1783481659622_169.png?w=360&q=90"
     },
     {
       "title": "Gerindra Kukuh Pemilihan Wapres Lewat Musyawarah Mufakat, Bukan Voting",
@@ -52,9 +52,5 @@
       "image": "https://i.guim.co.uk/img/media/fc97543f0720ead81d92285d612a9053401135ee/0_0_805_644/master/805.jpg?width=140&quality=85&auto=format&fit=max&s=278ed744cfe9442b1643227501f22648"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
