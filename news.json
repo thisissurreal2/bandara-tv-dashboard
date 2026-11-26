@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T18:30:31.997296+00:00",
+  "updated_at": "2026-11-26T18:45:26.975406+00:00",
   "national": [
     {
       "title": "6 Orang Sekeluarga Tewas dalam Kecelakaan Pesawat Kecil di Mississippi",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Hospitals in England brace for flu spike with admissions highest since pre-Covid",
+      "summary": "NHS boss says hospital bosses should consider asking staff and visitors to wear a masks as winter pressures set to build Hospitals are bracing for a “horrible spike” in flu in the coming days as winter starts to bite, the head of the NHS in England has said. Flu and other winter viruses including Covid pose such a threat that hospital bosses should consider telling staff and visitors to wear masks, Jim Mackey said, as figures showed rates of admissions to hospital with flu were at the highest for the time of year since before Covid. Continue reading...",
+      "url": "https://www.theguardian.com/society/2026/nov/26/nhs-hospitals-england-flu-spike-masks",
+      "source": "The Guardian",
+      "published": "2026-11-26T18:27:49+00:00",
+      "image": "https://i.guim.co.uk/img/media/bb66565ac09bbed03f59b50957c8fef95435609d/625_0_6250_5000/master/6250.jpg?width=140&quality=85&auto=format&fit=max&s=2a35785eae8bedc64fc2368eecfd807d"
+    },
+    {
       "title": "Guinea-Bissau presidential election delayed by two years",
       "summary": "Military leaders say presidential and legislative poll scheduled for December 6 will now take place in November 2028.",
       "url": "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-11-26T18:07:18+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b086d135f5d-1795714323.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
-      "summary": "Statement follows death of sisters, aged 15 and 13, in airstrike on residential apartment in Gaza City Israeli strikes have killed at least 16 schoolchildren in Gaza since the start of November, as young people across the territory face intensifying bombardment and struggle to find food, clean water and shelter. On Wednesday, Gaza’s ministry of education said: “Palestinian students had been targeted for the third time in less than 24 hours, in an escalation reflecting the continued Israeli violations against children in the Gaza Strip.” Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes",
-      "source": "The Guardian",
-      "published": "2026-11-26T17:59:44+00:00",
-      "image": "https://i.guim.co.uk/img/media/fb6f93363b44e1d9e8b27377c45da23d0f007ce4/215_0_5200_4160/master/5200.jpg?width=140&quality=85&auto=format&fit=max&s=c5008fad4f7aa165fff5115f0adb772f"
     },
     {
       "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
@@ -52,9 +52,5 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cbd/live/babaff60-e9ac-11f1-a094-5fdc692f3e33.png"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
