@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-26T13:30:32.312613+00:00",
+  "updated_at": "2026-11-26T13:45:27.911630+00:00",
   "national": [
+    {
+      "title": "Pelaku Pembakar Marbot Masjid Surabaya Terancam 12 Tahun Penjara",
+      "summary": "Tersangka pembakar marbot Masjid Al Istiqomah Surabaya, Supardi (65), terancam kena hukuman 12 tahun penjara atas kasus pidana yang dilakukannya.",
+      "url": "https://www.cnnindonesia.com/nasional/20261126195830-12-1432042/pelaku-pembakar-marbot-masjid-surabaya-terancam-12-tahun-penjara",
+      "source": "CNN Indonesia",
+      "published": "2026-11-26T13:33:58+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/26/pelaku-pembakar-marbut-masjid-surabaya-terancam-12-tahun-penjara-1795696515065_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Taufik Basari Puji Capaian Ekonomi dan Kesejahteraan Petani di Lampung",
       "summary": "Ketua K3 MPR Taufik Basari apresiasi pembangunan Lampung di bawah Gubernur Rahmat Djausal, dorong kesejahteraan petani dan perekonomian daerah.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-26T13:20:30+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/26/ketua-komisi-kajian-ketatanegaraan-k3-mpr-ri-taufik-basari-mengapresiasi-berbagai-capaian-pembangunan-provinsi-lampung-di-bawa-1795699202764.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Hasil Tes Kesehatan Sugiono dan Amran Diumumkan 1 Desember",
-      "summary": "MPR akan umumkan hasil tes kesehatan cawapres Sugiono dan Andi Amran Sulaiman pada 1 Desember. Proses pemeriksaan melibatkan 25 dokter spesialis.",
-      "url": "https://www.cnnindonesia.com/nasional/20261126194234-32-1432040/hasil-tes-kesehatan-sugiono-dan-amran-diumumkan-1-desember",
-      "source": "CNN Indonesia",
-      "published": "2026-11-26T13:05:42+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/26/penyerahan-berkas-tes-kesehatan-calon-wakil-presiden-1795697248610_169.jpeg?w=360&q=90"
     },
     {
       "title": "Kemlu: Polugri RI bebas aktif, tak akan ikut Pakta Pertahanan Makkah",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Mandelson tried to set up meeting between Trump adviser and lobbying firm he held shares in",
-      "summary": "Then ambassador to US wanted to discuss alternatives to World Trade Organisation in ‘under the radar’ meeting, documents reveal UK politics live – latest updates Peter Mandelson sought to organise an “under the radar” meeting between an economic adviser to Donald Trump and a member of his former lobbying firm, Global Counsel, while he still held shares in the company, newly released documents reveal. In April 2025, while ambassador to Washington, Mandelson wanted to hold a lunch to discuss “alternative options” to the World Trade Organisation and on how “likeminded partners come to terms with China and its practices”. He told the economic adviser he wanted to bring “a former trade colleague of mine” with “interesting views” who could “lead off”. He added: “It would be best to keep this under the radar”. Continue reading...",
-      "url": "https://www.theguardian.com/politics/2026/nov/26/peter-mandelson-trump-adviser-meeting-lobbying-firm",
+      "title": "Haftar meets Erdogan: Can Turkiye reunify Libya as it courts rival sides?",
+      "summary": "Maritime agreement pivotal for Turkiye's Eastern Mediterranean gas claims as Libya's unification process faces hurdles.",
+      "url": "https://www.aljazeera.com/news/2026/11/26/haftar-meets-erdogan-can-turkiye-reunify-libya-as-it-courts-rival-sides?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-26T13:34:21+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-25T142336Z_1959713112_RC22VOA78PF6_RTRMADP_3_LIBYA-TURKEY-HAFTAR-1795694069.jpg?resize=1920%2C1440"
+    },
+    {
+      "title": "EU leaders ‘light-years away’ on agreeing budget at summit, warns Giorgia Meloni – Europe live",
+      "summary": "A number of leaders hope to agree to a budget before consequential elections around the continent The Danish prime minister, Mette Frederiksen, has acknowledged that leaders remain “very far apart,” agreeing with Germany’s Merz that the current proposal is not going to work. “The budget is too large and not sufficiently future-oriented,” she said, calling for more work on competitiveness, defence and security. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-26T13:11:39+00:00",
-      "image": "https://i.guim.co.uk/img/media/ff1207557f3c58e205c4bec08ca53254507ea7c0/0_0_4120_3296/master/4120.jpg?width=140&quality=85&auto=format&fit=max&s=13c74c1e1bac637c43e99efaf6837fa7"
+      "published": "2026-11-26T13:31:39+00:00",
+      "image": "https://i.guim.co.uk/img/media/97af9c3749d929490d31c0c42c1effc6430fc97c/1139_0_4298_3440/master/4298.jpg?width=140&quality=85&auto=format&fit=max&s=29e3575672907c6db95917746beb52fa"
     },
     {
       "title": "Miami runway incident disrupts flights on Thanksgiving eve",
@@ -42,15 +50,11 @@
       "source": "BBC",
       "published": "2026-11-26T13:09:15+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a780/live/1db9c0f0-e959-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "title": "Is UBI the solution to mass unemployment in an AI economy?",
-      "summary": "AI's rapid advance has led to calls for universal payments to prevent poverty and wealth inequality.",
-      "url": "https://www.aljazeera.com/economy/2026/11/26/is-ubi-the-solution-to-mass-unemployment-in-an-ai-economy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-26T13:04:51+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP25197325626713-1753474492-1795496246.jpg?resize=1200%2C630&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
