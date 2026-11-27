@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-27T17:45:27.196537+00:00",
+  "updated_at": "2026-11-27T18:00:38.224909+00:00",
   "national": [
+    {
+      "title": "Wamenimipas Cek Perkembangan Nusakambangan, Dari Bengkel FABA hingga Tambak Sidat",
+      "summary": "Kemenimipas cek program kemandirian dan ketahanan pangan di Nusakambangan. Wamenimipas Maulana Bungaran dorong pemberdayaan warga binaan.",
+      "url": "https://news.detik.com/berita/d-8773604/wamenimipas-cek-perkembangan-nusakambangan-dari-bengkel-faba-hingga-tambak-sidat",
+      "source": "Detik",
+      "published": "2026-11-27T17:46:42+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/28/kemenimipas-1795801499781_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Polisi Ungkap Modus Tambang Emas Ilegal Timbun Puluhan Gurandil Bogor",
       "summary": "Polisi ungkap penambangan emas ilegal di Gunung Butak, Bogor berujung tragedi terkuburnya puluhan gurandil. Proses evakuasi masih berlangsung.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-27T17:30:50+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/25/pencarian-penambang-emas-terjebak-di-dalam-lubang-galian-1795612305211_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Komnas HAM Kaji Pelanggaran HAM di Ruang Digital, Soroti Penipuan Online",
-      "summary": "Komnas HAM kaji pelanggaran HAM di ruang digital, fokus pada penipuan online. Mereka dorong perlindungan hak warga dan penanganan serius terhadap korban.",
-      "url": "https://news.detik.com/berita/d-8773588/komnas-ham-kaji-pelanggaran-ham-di-ruang-digital-soroti-penipuan-online",
-      "source": "Detik",
-      "published": "2026-11-27T17:23:25+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2025/03/19/komnas-ham-minta-pembahasan-ruu-tni-diperpanjang-1742386524198_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo minta lembaga keuangan berpihak pada kepentingan nasional",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Man jailed in Newcastle for blackmailing vulnerable girls online",
-      "summary": "Beau-jack Mensforth, 20, coerced girls across world into self-harm, making indecent images of themselves and physically harming their pets A 20-year-old man from north-east England has been jailed for blackmailing vulnerable young girls across the world prompting a senior police officer to urge parents to regularly check their children’s devices. Beau-jack Mensforth admitted to 17 offences of making and distributing indecent photographs of children, blackmail, and participating in the activities of an organised crime group. Continue reading...",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/27/man-jailed-in-newcastle-for-blackmailing-vulnerable-girls-online",
+      "title": "Spanish rescuers treat migrants as hundreds arrive in Canary Islands",
+      "summary": "Spain's Military Emergencies Unit has been sent to treat migrants brought ashore on the island of El Hierro",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-27T17:44:50+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795801461.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
+      "title": "Rosebank-supporting MPs warn PM blocking oilfield would mean ‘lights out for Labour in Scotland’",
+      "summary": "After nearly 100 colleagues called on Andy Burnham to block the oilfield, as many as 80 Labour MPs are planning to urge the opposite Dozens of Labour MPs in favour of Rosebank are putting pressure on the prime minister not to block the North Sea oilfield, warning that doing so could spell “lights out for Labour in Scotland”. As many as 80 pro-drilling MPs are considering writing their own letter to Andy Burnham after nearly 100 of their colleagues called on the prime minister not to allow the project to proceed . Scottish Labour leader Michael Marra has also reiterated his support for Rosebank, cautioning that “working-class people in vocational jobs” were threatened by the decline of the North Sea basin. Continue reading...",
+      "url": "https://www.theguardian.com/politics/2026/nov/27/rosebank-supporting-mps-warn-pm-blocking-the-oilfield-would-mean-lights-out-for-labour-in-scotland",
       "source": "The Guardian",
-      "published": "2026-11-27T17:27:03+00:00",
-      "image": "https://i.guim.co.uk/img/media/0e92477adc3d73aa42ee94bf77b47b24b90e21c6/0_141_516_413/master/516.jpg?width=140&quality=85&auto=format&fit=max&s=62283ea09f450f70095c54055beaebd5"
+      "published": "2026-11-27T17:39:10+00:00",
+      "image": "https://i.guim.co.uk/img/media/35db77257309af6c9035f12af0460e436288ed8b/327_0_4281_3425/master/4281.jpg?width=140&quality=85&auto=format&fit=max&s=4800f06f15bf6b02dc4b77ad30bbdf1b"
     },
     {
       "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
@@ -42,19 +50,7 @@
       "source": "BBC",
       "published": "2026-11-27T17:19:31+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd53/live/e165d810-ea74-11f1-a828-d384c0290f6b.jpg"
-    },
-    {
-      "title": "Spain’s Pedro Sanchez bets on left-wing voting surge to defy election polls",
-      "summary": "Prime Minister Pedro Sanchez makes last bid to beat right-wing parties before Spanish vote on Sunday.",
-      "url": "https://www.aljazeera.com/news/2026/11/27/spains-pedro-sanchez-bets-on-left-wing-voting-surge-to-defy-election-polls?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-27T17:15:35+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b09b547f029a-1795798343.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
