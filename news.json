@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-27T00:00:41.431710+00:00",
+  "updated_at": "2026-11-27T00:15:30.077319+00:00",
   "national": [
     {
-      "title": "Eks Kapolri Listyo Sigit Tak Bisa Mundur Secara Hormat, Ini Alasannya",
-      "summary": "Mabes Polri menyatakan mantan Kapolri Listyo Sigit Prabowo tidak bisa mengajukan pengunduran diri secara hormat karena ancaman pidana di kasusnya.",
-      "url": "https://www.cnnindonesia.com/nasional/20261127063541-12-1432100/eks-kapolri-listyo-sigit-tak-bisa-mundur-secara-hormat-ini-alasannya",
+      "title": "Fakta-fakta Terbaru Sidang Etik Jenderal Listyo Sigit",
+      "summary": "Sidang Kode Etik Profesi Polri terhadap mantan Kapolri Listyo Sigit ditunda karena ketidakhadirannya. Sidang dijadwalkan ulang pada 30 November.",
+      "url": "https://www.cnnindonesia.com/nasional/20261127061234-12-1432095/listyo-tolak-hadir-sidang-etik-hak-banding-hilang-jika-mangkir-lagi",
       "source": "CNN Indonesia",
-      "published": "2026-11-26T23:45:20+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/10/01/listyo-sigit-prabowo-dan-dedi-prasetyo-1790840786978_169.png?w=360&q=90"
+      "published": "2026-11-27T00:04:04+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2022/01/01/rilis-akhir-tahun-polri_169.jpeg?w=360&q=90"
     },
     {
       "title": "Kabar Terkini Rafael Alun yang Belum Terima Divonis 14 Tahun Penjara",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Israeli settlers damage Palestinian family’s homes in West Bank attack",
-      "summary": "The Tubasi family was forced out months ago and has been denied a return by settlers despite an Israeli court order.",
-      "url": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss",
+      "title": "Coalition teams up with Labor to pass 20% gas reservation scheme for Australia’s largest exporters",
+      "summary": "Labor passes final major piece of legislation for 2026, denying Greens’ bid for 25% tax on exports Get our daily political email , free app or daily news podcast A federal gas reservation scheme requiring Australia’s largest exporters to keep up to 20% of their product for domestic use will go ahead with the Coalition’s support. The opposition waved through the government’s plans in the in a late night Senate sitting on Thursday night, giving Labor the numbers it needed. A short sitting of the lower house rubber stamped changes, seeing the legislation pass parliament. Sign up for Guardian Australia’s Politics, really newsletter here Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/26/coalition-to-team-up-with-labor-to-pass-20-gas-reservation-scheme-for-australias-largest-exporters",
+      "source": "The Guardian",
+      "published": "2026-11-27T00:02:10+00:00",
+      "image": "https://i.guim.co.uk/img/media/5e85107add688802688910ec8b127178d48de914/435_0_4350_3480/master/4350.jpg?width=140&quality=85&auto=format&fit=max&s=6f4a4d12b8c33efe85ecbed1e2eea322"
+    },
+    {
+      "title": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
+      "summary": "Iran's FM Abbas Araghchi says the deadly Kuwait incident is \"suspicious\" and looks like a \"pre-cooked recipe\" for war.",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-26T23:07:36+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b08ac77-1795730551.jpg?resize=1920%2C1440"
+      "published": "2026-11-27T00:00:00+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-24T114809Z_325563367_RC2L3LAZPF22_RTRMADP_3_IRAN-CRISIS-TANKERS-CMBTECH-1795731128.jpg?resize=1920%2C1440"
     },
     {
       "title": "My dad's watch stopped the moment he died - I found it in the ashes of Hong Kong tower fire",
@@ -42,15 +50,11 @@
       "source": "BBC",
       "published": "2026-11-26T23:03:16+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/56c9/live/268edc00-e978-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "title": "Chance of snow forecast for northern England and Scotland in next few days",
-      "summary": "Met Office warns of icy roads and risk of freezing rain on higher ground as weather turns cold and unsettled Parts of England could see snow in the coming days as cold and unsettled weather continues into the weekend, forecasters have said. Heavy rain sweeping eastwards on Friday could turn to snow over higher ground in northern England and Scotland. Continue reading...",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/26/chance-of-snow-forecast-northern-england-scotland",
-      "source": "The Guardian",
-      "published": "2026-11-26T23:01:40+00:00",
-      "image": "https://i.guim.co.uk/img/media/1a3f32c3b0c72a8bf4455187aaa420ab87f2c293/1095_86_4599_3679/master/4599.jpg?width=140&quality=85&auto=format&fit=max&s=79fab39d02d228fc3263a4e77a4740fd"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
