@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-27T18:15:27.484998+00:00",
+  "updated_at": "2026-11-27T18:30:35.205539+00:00",
   "national": [
     {
-      "title": "Gerindra Kupang Tunggu DPP soal Status Yosef Lede Tersangka Perkosaan",
-      "summary": "DPC Gerindra Kupang akan melaporkan kasus pemerkosaan Bupati Yosef Lede ke DPD hingga DPP Gerindra.",
-      "url": "https://www.cnnindonesia.com/nasional/20261127134536-32-1432312/gerindra-kupang-tunggu-dpp-soal-status-yosef-lede-tersangka-perkosaan",
+      "title": "Pujakesuma Dukung Cawapres Sugiono, Singgung Jejak Sang Ayah",
+      "summary": "DPP Pujakesuma dukung Sugiono sebagai cawapres pengganti Gibran. Dukungan ini berdasarkan kedekatan historis dan pengalaman Sugiono.",
+      "url": "https://www.cnnindonesia.com/nasional/20261127224902-32-1432562/pujakesuma-dukung-cawapres-sugiono-singgung-jejak-sang-ayah",
       "source": "CNN Indonesia",
-      "published": "2026-11-27T18:00:50+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/26/bupati-kupang-langsung-ditahan-penyidik-polda-ntt-kasus-pemerkosaan-1795648665952_169.jpeg?w=360&q=90"
+      "published": "2026-11-27T18:30:03+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/26/sugiono-tiba-jelang-pemeriksaan-kesehatan-di-rumah-sakit-angkatan-darat-rspad-gatot-subroto-jakarta-1795662558003_169.jpeg?w=360&q=90"
     },
     {
       "title": "Wamenimipas Cek Perkembangan Nusakambangan, Dari Bengkel FABA hingga Tambak Sidat",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Police believe criminals carried out robberies during Manchester gig disrupted by ‘unknown substance’",
+      "summary": "Greater Manchester police say they’re working with other agencies across Europe after similar incidents at two other Don Toliver concerts A group of organised criminals are believed to have carried out robberies during Don Toliver’s Manchester concert, where an “unknown substance” was released , police have said, with similar incidents having occurred at another two of the US rapper’s gigs in Europe. Greater Manchester police said the force was working to identify the suspects and the substance involved during the incident at the Co-op Live Arena on Sunday evening. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/27/police-believe-criminals-carried-out-robberies-during-don-toliver-manchester-gig-unknown-substance",
+      "source": "The Guardian",
+      "published": "2026-11-27T18:10:21+00:00",
+      "image": "https://i.guim.co.uk/img/media/239301b7758332abf6acf18eeafb853fd3473da6/490_0_4875_3902/master/4875.jpg?width=140&quality=85&auto=format&fit=max&s=2908b82543ac6d1b0357a87450249f14"
+    },
+    {
       "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
       "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
       "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
@@ -36,20 +44,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdee/live/21e805d0-ea60-11f1-99b6-a35a62fa4264.jpg"
     },
     {
-      "title": "The Com: the global cybercrime network posing a ‘chilling threat’ to children",
-      "summary": "FBI estimates thousands of people identify as members, or recent members, of group linked to indecent images of girls and blackmail It sounds benign: the Com, short for the Community. But crime agencies around the world warn that it is far from that and the young cybercriminals involved are causing havoc and putting children at chilling, sickening risk. Beau-Jack Mensforth was jailed by a UK judge on Friday for his activities as part of the Com. He was one individual operating from his bedroom in north-east England, but there are probably thousands more like him and parents are being urged by police to be aware and to check their children’s devices. Continue reading...",
-      "url": "https://www.theguardian.com/technology/2026/nov/27/the-com-global-cybercrime-network-posing-chilling-threat-to-children",
-      "source": "The Guardian",
-      "published": "2026-11-27T17:53:30+00:00",
-      "image": "https://i.guim.co.uk/img/media/27342db124531d5754148be774d6fe5cd69cbdb3/162_0_3163_2530/master/3163.jpg?width=140&quality=85&auto=format&fit=max&s=0d11e1ea1482886a6387f4c85a84bf16"
-    },
-    {
-      "title": "Spanish rescuers treat migrants as hundreds arrive in Canary Islands",
-      "summary": "Spain's Military Emergencies Unit has been sent to treat migrants brought ashore on the island of El Hierro",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss",
+      "title": "Mexico files complaint with US over tip line on alleged drug traffickers",
+      "summary": "Tensions rise over DEA tip line, with Mexico emphasizing respect for its sovereignty amidst growing bilateral discord.",
+      "url": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-27T17:44:50+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795801461.jpg?resize=1920%2C1080&quality=80"
+      "published": "2026-11-27T17:58:36+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b09bc8a-1795800202.jpg?resize=1920%2C1440"
     }
   ],
   "feed_warnings": [
