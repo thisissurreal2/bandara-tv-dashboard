@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-27T14:30:33.685568+00:00",
+  "updated_at": "2026-11-27T14:45:35.012666+00:00",
   "national": [
     {
-      "title": "ART Bunuh Majikan di Jaksel, Korban Dibekap Pakai Handuk Isi Hand Sanitizer",
-      "summary": "Seorang ART membunuh majikannya di Cipete Utara, Jakarta Selatan. Polisi beberkan kronologisnya.",
-      "url": "https://news.detik.com/berita/d-8773443/art-bunuh-majikan-di-jaksel-korban-dibekap-pakai-handuk-isi-hand-sanitizer",
-      "source": "Detik",
-      "published": "2026-11-27T14:23:40+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/27/art-jaksel-1795789349359_169.jpeg?w=360&q=90"
+      "title": "Pernyataan Lengkap Budi Arie Usai Diperiksa Kasus Makar Listyo Sigit",
+      "summary": "Bareskrim Polri memeriksa Ketua Umum Projo, Budi Arie, terkait kasus makar terhadap Presiden Prabowo oleh Listyo Sigit Cs.",
+      "url": "https://www.cnnindonesia.com/nasional/20261127213441-12-1432553/pernyataan-lengkap-budi-arie-usai-diperiksa-kasus-makar-listyo-sigit",
+      "source": "CNN Indonesia",
+      "published": "2026-11-27T14:41:40+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/27/bareskrim-polri-periksa-budi-arie-1795787937904_169.jpeg?w=360&q=90"
     },
     {
-      "title": "4 Remaja Jadi Tersangka Pengeroyokan Maut Siswi SMA di Malang",
-      "summary": "Polresta Malang menetapkan empat remaja sebagai tersangka dalam kasus penganiayaan maut yang menewaskan siswi SMAN 7.",
-      "url": "https://www.cnnindonesia.com/nasional/20261127204428-12-1432540/4-remaja-jadi-tersangka-pengeroyokan-maut-siswi-sma-di-malang",
-      "source": "CNN Indonesia",
-      "published": "2026-11-27T14:16:00+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/27/polisi-tetapkan-4-tersangka-pelaku-pengeroyokan-maut-siswi-sma-di-malang-1795787141051_169.jpeg?w=360&q=90"
+      "title": "Pencarian Korban Kebakaran Pabrik Permen di Serang Diperpanjang 3 Hari",
+      "summary": "Pencarian korban kebakaran pabrik permen di Serang diperpanjang tiga hari. 27 dari 30 korban ditemukan, sementara penyidikan kasus terus berlanjut.",
+      "url": "https://news.detik.com/berita/d-8773456/pencarian-korban-kebakaran-pabrik-permen-di-serang-diperpanjang-3-hari",
+      "source": "Detik",
+      "published": "2026-11-27T14:37:07+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/24/sisa-kebakaran-pabrik-permen-di-cikande-penerapan-standar-k3-diselidiki-1795496421261_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo minta lembaga keuangan berpihak pada kepentingan nasional",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – Europe live",
-      "summary": "‘I can’t conceive of us losing,’ the leader said Freelance journalist based in Madrid and host of the Sobremesa podcast Vox has often been portrayed in international coverage as a party of Franco nostalgists whose ultraconservative Catholicism and civil-war rhetoric towards the separatist Catalan “enemy within” threatened a return to the worst of Spain’s recent past. Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
+      "title": "DWP ‘cyber incident’ knocks almost all pensions and benefits systems offline",
+      "summary": "Department for Work and Pensions officials say welfare payments will continue to be made despite huge outage Tell us: have you been affected by the DWP ‘cyber incident’ Almost all pensions and benefits systems in the UK are unavailable after a “cyber incident”. Anyone trying to check their state pension, make an application for disability benefits or claim universal credit was not able to do so on Friday morning. Continue reading...",
+      "url": "https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline",
       "source": "The Guardian",
-      "published": "2026-11-27T14:02:29+00:00",
-      "image": "https://i.guim.co.uk/img/media/3b8d31f150e01e5b763ede39082829dcd3e49221/674_52_2022_1618/master/2022.jpg?width=140&quality=85&auto=format&fit=max&s=e0451af87ed7ddbb9844096f8792224d"
+      "published": "2026-11-27T14:28:22+00:00",
+      "image": "https://i.guim.co.uk/img/media/0d82e1461d1d579ccc389c5c6840749137a2819f/342_0_3000_2400/master/3000.jpg?width=140&quality=85&auto=format&fit=max&s=b99780f3f8c851e11de0b6d5d913b35c"
+    },
+    {
+      "title": "Why is Israel celebrating Costa Rica’s ban on Francesca Albanese?",
+      "summary": "Costa Rica is under pressure over its decision to bar the UN expert who has documented Israel's genocidal war on Gaza.",
+      "url": "https://www.aljazeera.com/news/2026/11/27/why-is-israel-celebrating-costa-ricas-ban-on-francesca-albanese?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-27T14:17:25+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/09/2026-03-24T091407Z_414780193_RC2WAKAPHKHD_RTRMADP_3_ISRAEL-PALESTINIANS-UN-EXPERT-1788881286.jpg?resize=1920%2C1440"
     },
     {
       "title": "Rare turtles found inside baggage at Amsterdam airport",
@@ -42,14 +50,6 @@
       "source": "BBC",
       "published": "2026-11-27T13:38:07+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab4e/live/3ac58820-ea60-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "title": "Why did Georgian police clash with Turkish football fans over Palestine?",
-      "summary": "Georgia's Interior Ministry says 16 people were detained and three employees injured during clashes.",
-      "url": "https://www.aljazeera.com/sports/2026/11/27/why-did-georgian-police-clash-with-turkish-football-fans-over-palestine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-27T13:32:55+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b096c4023577-1795779648.jpg?resize=1920%2C1440"
     }
   ],
   "feed_warnings": []
