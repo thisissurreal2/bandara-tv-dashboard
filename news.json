@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-27T11:45:28.070904+00:00",
+  "updated_at": "2026-11-27T12:00:41.133760+00:00",
   "national": [
     {
-      "title": "Hasto PDIP: Saat Kekuasaan Digerakkan oleh Nafsu, Hasilnya Kehancuran",
-      "summary": "Sekretaris Jenderal (Sekjen) PDI Perjuangan (PDIP) Hasto Kristiyanto menyinggung soal ambisi dan terjadinya ketidakpuasan dalam kekuasaan.",
-      "url": "https://www.cnnindonesia.com/nasional/20261127182952-32-1432493/hasto-pdip-saat-kekuasaan-digerakkan-oleh-nafsu-hasilnya-kehancuran",
+      "title": "Autopsi Jenazah Siswi Malang, Polisi Temukan Luka-Luka Benda Tumpul",
+      "summary": "Polresta Malang Kota menyelidiki kematian siswi SMA SN (17) yang diduga dianiaya. Autopsi menemukan luka akibat benda tumpul. Penyidikan terus berlanjut.",
+      "url": "https://www.cnnindonesia.com/nasional/20261127182038-20-1432490/autopsi-jenazah-siswi-malang-polisi-temukan-luka-luka-benda-tumpul",
       "source": "CNN Indonesia",
-      "published": "2026-11-27T11:35:20+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/27/sekjen-pdip-hasto-puji-keberanian-kapolri-suyudi-1795773944740_169.jpeg?w=360&q=90"
+      "published": "2026-11-27T11:53:08+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/27/ibunda-siswi-malang-yang-tewas-minta-keadilan-1795766710360_169.jpeg?w=360&q=90"
     },
     {
       "title": "Ojol yang Tanduk Petugas Dishub di Jaktim Dilaporkan ke Polisi",
@@ -23,10 +23,18 @@
       "url": "https://www.antaranews.com/berita/5882931/marc-marquez-pensiun-setelah-delapan-kali-juara-motogp",
       "source": "ANTARA",
       "published": "2026-11-27T10:33:25+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/27/RD21_Portimao_2026-04406-1.jpg"
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/27/AFP_20261127_D8TH76E_v1_MidRes_MotoPrixPorMotogpPractice.jpg"
     }
   ],
   "international": [
+    {
+      "title": "Italians killed in Kuwait: Why is Iran denying responsibility?",
+      "summary": "Iran has openly claimed its strikes on Gulf states throughout the war. So why is it denying an attack on Kuwait?",
+      "url": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-27T11:51:26+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26314321265071-1795775512_bde16a-1795775563.jpg?resize=1200%2C630&quality=80"
+    },
     {
       "title": "Ex-media executive admits saying Australian child sex abuse survivor 'looking to be raped again'",
       "summary": "The former Murdoch media executive was overheard at an event referring to the way Grace Tame was dressed.",
@@ -40,17 +48,13 @@
       "summary": "The department is working with cyber security experts to restore services and limit disruption According to Downdetector , which tracks online service outages, reports of problems with the government website appeared to begin last night and peaked at about 8am this morning. Tory MP Neil Shastri-Hurst has also commented on the disruption at the DWP, saying the incident highlights the importance of protecting essential public services and ensuring they can recover quickly when systems fail. Today’s cyber incident at DWP is a stark reminder that national resilience is not a tomorrow issue. It means protecting the essential services people rely on every day, with secure systems and the ability to recover quickly when things go wrong.” Continue reading...",
       "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-27T11:25:20+00:00",
+      "published": "2026-11-27T11:44:39+00:00",
       "image": "https://i.guim.co.uk/img/media/ecca9af59662e10c267bb8178c969d23ff13ef74/994_0_5006_4004/master/5006.jpg?width=140&quality=85&auto=format&fit=max&s=17d074cb194c2b8bb842d6179de17c6f"
-    },
-    {
-      "title": "Israeli attacks on women and girls meant ‘to destroy life’ in Gaza: Amnesty",
-      "summary": "Israel seeking 'to prevent births' and destroy Palestinians in Gaza by targeting women and girls, rights group says.",
-      "url": "https://www.aljazeera.com/news/2026/11/27/israeli-attacks-on-women-and-girls-meant-to-destroy-life-in-gaza-amnesty?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-27T11:15:03+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afa09049479-1794771204.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
