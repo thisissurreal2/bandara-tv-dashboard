@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-27T03:45:27.440487+00:00",
+  "updated_at": "2026-11-27T04:00:39.021241+00:00",
   "national": [
     {
-      "title": "2 Eks Ajudan Jokowi Terseret Kasus: Listyo Sigit dan Widi Prasetijono",
-      "summary": "Dua mantan ajudan Jokowi, Jenderal Listyo Sigit dan Letjen Widi, terjerat kasus hukum. Listyo menghadapi sidang etik, sementara Widi dijatuhi hukuman penjara.",
-      "url": "https://www.cnnindonesia.com/nasional/20261127102120-12-1432190/2-eks-ajudan-jokowi-terseret-kasus-listyo-sigit-dan-widi-prasetijono",
+      "title": "Wanita di Jakbar Disekap Nyaris Dibunuh Saat Jual Emas 2 Kg di Hotel",
+      "summary": "Seorang perempuan berinisial AG disekap saat menjual 2 kg emas di hotel Cengkareng. Polisi menangkap dua pelaku, sementara dua lainnya masih buron.",
+      "url": "https://www.cnnindonesia.com/nasional/20261127102037-12-1432192/wanita-di-jakbar-disekap-nyaris-dibunuh-saat-jual-emas-2-kg-di-hotel",
       "source": "CNN Indonesia",
-      "published": "2026-11-27T03:39:32+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/27/widi-prasetijono-dan-listyo-sigit-prabowo-1795750506167_169.jpeg?w=360&q=90"
+      "published": "2026-11-27T03:53:33+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2024/11/26/ilustrasi-bank-emas-1_169.jpeg?w=360&q=90"
     },
     {
       "title": "Tampang Pria Pembunuh Remaja 17 Tahun di Penginapan Kalibata",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Trump downplays Russia, China support for Iran during talks with US troops",
+      "summary": "Trump praises US troops for their role in the war on Iran and says he has spoken to Netanyahu in recent days.",
+      "url": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-27T03:49:08+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b08ef9340ba-1795747731.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
       "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
       "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
@@ -36,20 +44,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg"
     },
     {
-      "title": "Spain and Morocco under-17 stars target World Cup 2030",
-      "summary": "Spain and Morocco are two of the co-hosts of the next 2030 World Cup, and they faced off at the under-17 World Cup.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spain-and-morocco-under-17-stars-target-world-cup-2030?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-27T02:58:48+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795748321.jpg?resize=1920%2C1080&quality=80"
-    },
-    {
-      "title": "New Zealand election: final results show ruling coalition needs minor party to govern",
-      "summary": "Incumbent prime minister Christopher Luxon loses majority and needs support of Opportunity party to remain in power, or country faces another election The final results of New Zealand’s general election show the incumbent rightwing coalition will need the support of a centrist newcomer party to form a government, and to avoid sending the country back to the polls. Preliminary results on 7 November handed the National party and its two coalition partners, the populist New Zealand First and libertarian Act parties, a slim two-seat majority, making the election too close to call until final votes were tallied. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results",
+      "title": "Heatwaves, floods, fires and rain: weekend of weather extremes expected across Australia",
+      "summary": "As bushfires ravage Flinders Island, Victorians can expect a wet and windy election day as storms forecast on east coast Get our breaking news email , free app or daily news podcast Major fires are among a multitude of weather extremes forecast across Australia on Friday and into the weekend, which also includes severe storms, heavy rain, floods and heatwaves. Firefighters contending with an out-of-control bushfire on Flinders Island expected conditions to deteriorate further on Friday, as authorities confirmed at least eight buildings had been destroyed or significantly damaged. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/27/heatwaves-floods-fires-and-rain-weekend-of-extreme-weather-expected-across-australia",
       "source": "The Guardian",
-      "published": "2026-11-27T02:38:15+00:00",
-      "image": "https://i.guim.co.uk/img/media/15bb64d1f1fa3f1840538248518d963a2c8d39e8/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=43d6b064ba99972f2f4003cf962441bc"
+      "published": "2026-11-27T03:14:10+00:00",
+      "image": "https://i.guim.co.uk/img/media/fc97543f0720ead81d92285d612a9053401135ee/28_0_805_644/master/805.jpg?width=140&quality=85&auto=format&fit=max&s=f40d056aa224aeae82ec6832a11e9baa"
     }
   ],
   "feed_warnings": [
