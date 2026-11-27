@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-27T00:45:34.625035+00:00",
+  "updated_at": "2026-11-27T01:00:43.540463+00:00",
   "national": [
     {
-      "title": "Baleg DPR Tetapkan 62 RUU Prolegnas Prioritas 2027, Ini Daftarnya",
-      "summary": "Baleg DPR RI menyepakati 62 RUU untuk Prolegnas Prioritas 2027, mengakomodasi masukan DPD dan pemerintah, serta fokus pada evaluasi legislasi sebelumnya.",
-      "url": "https://www.cnnindonesia.com/nasional/20261127072310-32-1432110/baleg-dpr-tetapkan-62-ruu-prolegnas-prioritas-2027-ini-daftarnya",
+      "title": "Penampakan Banjir Dayeuhkolot Bandung Imbas Luapan Sungai Citarum",
+      "summary": "Luapan Sungai Citarum menyebabkan sejumlah wilayah di Kabupaten Bandung, Jawa Barat, terendam banjir pada Kamis (26/11).",
+      "url": "https://www.cnnindonesia.com/nasional/20261127071948-24-1432107/penampakan-banjir-dayeuhkolot-bandung-imbas-luapan-sungai-citarum",
       "source": "CNN Indonesia",
-      "published": "2026-11-27T00:38:21+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2025/12/09/ilustrasi-badan-legislasi-dpr-1765285030497_169.jpeg?w=360&q=90"
+      "published": "2026-11-27T00:47:34+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/27/thumbnail-video-1795738913842_169.jpeg?w=360&q=90"
     },
     {
       "title": "Temuan Mayat Wanita Dibungkus Sarung di Bogor Diduga Korban Pembunuhan",
@@ -18,30 +18,30 @@
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/25/penemuan-mayat-wanita-di-gunung-putri-bogor-dokistimewa-1795617397444_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Juventus menang meyakinkan 4-1 atas Omonia Nicosia",
-      "summary": "Juventus meraih kemenangan meyakinkan 4-1 atas tim Siprus, Omonia Nicosia, dalam lanjutan matchday kelima fase liga ...",
-      "url": "https://www.antaranews.com/berita/5881631/juventus-menang-meyakinkan-4-1-atas-omonia-nicosia",
+      "title": "Gunung Dukono semburkan abu vulkanik setinggi 1.000 meter",
+      "summary": "Gunung Dukono di Kabupaten Halmahera Utara, Maluku Utara menyemburkan abu vulkanik setinggi sekitar 1.000 meter di atas ...",
+      "url": "https://www.antaranews.com/berita/5881659/gunung-dukono-semburkan-abu-vulkanik-setinggi-1000-meter",
       "source": "ANTARA",
-      "published": "2026-11-26T22:44:41+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/27/1000092437.jpg"
+      "published": "2026-11-26T23:33:04+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/27/81462c54-be7f-40b1-83d2-8a905bf19d23.jpeg"
     }
   ],
   "international": [
     {
       "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-      "summary": "Massive storms are descending on both US coasts, with wind gusts, heavy rain, downed trees, and power outages for hundreds of thousands of customers.",
+      "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding.",
       "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-27T00:29:48+00:00",
+      "published": "2026-11-27T00:52:11+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg"
     },
     {
-      "title": "Argentina bars Central Bank from printing money to fund government spending",
-      "summary": "The South American country's Senate also advances proposal to suspend primary elections ahead of 2027 presidential race.",
-      "url": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss",
+      "title": "Inside Ukraine’s power crisis amid its war with Russia",
+      "summary": "Electricity and water shortages have become part of daily life in Ukraine’s capital.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-27T00:11:16+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b08cb01-1795738369.jpg?resize=1920%2C1440"
+      "published": "2026-11-27T00:46:19+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795740363.jpg?resize=1920%2C1080&quality=80"
     },
     {
       "title": "Qantas and Air New Zealand planes too close at Sydney airport as ‘mental models’ of flight crews to be investigated",
@@ -52,5 +52,9 @@
       "image": "https://i.guim.co.uk/img/media/3a39c5f52fb7b585065ce4fc05a813feb4323c1a/146_0_5182_4146/master/5182.jpg?width=140&quality=85&auto=format&fit=max&s=4bc076c51986d8538b6449b136128a82"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: TimeoutError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
