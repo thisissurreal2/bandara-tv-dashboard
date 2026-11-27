@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T02:28:11.293746+00:00",
+  "updated_at": "2026-11-27T02:30:33.120926+00:00",
   "national": [
     {
       "title": "Barantin Ajak Masyarakat Bantu Awasi Titik Keluar-Masuk RI",
@@ -52,5 +52,9 @@
       "image": "https://i.guim.co.uk/img/media/15bb64d1f1fa3f1840538248518d963a2c8d39e8/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=43d6b064ba99972f2f4003cf962441bc"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
