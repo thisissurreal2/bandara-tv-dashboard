@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-27T17:15:30.407319+00:00",
+  "updated_at": "2026-11-27T17:30:38.208676+00:00",
   "national": [
     {
-      "title": "Flare Menyala, Bundaran HI Memerah saat Jakmania Rayakan HUT Persija",
-      "summary": "Ribuan Jakmania merayakan HUT ke-98 Persija di Bundaran HI. Flare dan kembang api memeriahkan suasana, menciptakan pemandangan spektakuler di Jakarta.",
-      "url": "https://news.detik.com/berita/d-8773584/flare-menyala-bundaran-hi-memerah-saat-jakmania-rayakan-hut-persija",
+      "title": "Komnas HAM Kaji Pelanggaran HAM di Ruang Digital, Soroti Penipuan Online",
+      "summary": "Komnas HAM kaji pelanggaran HAM di ruang digital, fokus pada penipuan online. Mereka dorong perlindungan hak warga dan penanganan serius terhadap korban.",
+      "url": "https://news.detik.com/berita/d-8773588/komnas-ham-kaji-pelanggaran-ham-di-ruang-digital-soroti-penipuan-online",
       "source": "Detik",
-      "published": "2026-11-27T17:13:56+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/28/ribuan-suporter-merayakan-ulang-tahun-ke-98-persija-jakarta-di-bundaran-hi-jakarta-pusat-1795799480261_169.jpeg?w=360&q=90"
+      "published": "2026-11-27T17:23:25+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2025/03/19/komnas-ham-minta-pembahasan-ruu-tni-diperpanjang-1742386524198_169.jpeg?w=360&q=90"
     },
     {
       "title": "Komnas HAM Kaji Ancaman Pelanggaran HAM di Ruang Digital",
@@ -28,11 +28,19 @@
   ],
   "international": [
     {
-      "title": "Belgian authorities order Google to halt datacentre construction over lack of permits",
-      "summary": "Greenpeace had published report showing tech firm was carrying on building despite ruling on its planning appeal still unresolved Belgian authorities have ordered Google to halt construction work on a large datacentre in the south of the country because the US tech firm’s requests to modify the original terms of the planning permission did not have approval. “Inspectors visited the site and observed that the building was almost finished, with the structural work completed, even though the permit had been refused,” Raphaël Stokis, a Wallonia regional official, told the public broadcaster RTBF . Continue reading...",
+      "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
+      "summary": "Paul Mackenzie is found guilty of killing his followers, weeks after being jailed for the mass murder of children.",
+      "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-27T17:19:31+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd53/live/e165d810-ea74-11f1-a828-d384c0290f6b.jpg"
+    },
+    {
+      "title": "Google told to halt Belgium datacentre construction over lack of planning permit",
+      "summary": "Greenpeace publishes report showing tech firm is continuing to build despite planning appeal still unresolved Belgian authorities have ordered Google to halt construction work on a large datacentre in the south of the country because the US tech firm’s requests to modify the original terms of the planning permission did not have approval. “Inspectors visited the site and observed that the building was almost finished, with the structural work completed, even though the permit had been refused,” Raphaël Stokis, a Wallonia regional official, told the public broadcaster RTBF . Continue reading...",
       "url": "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
       "source": "The Guardian",
-      "published": "2026-11-27T17:03:09+00:00",
+      "published": "2026-11-27T17:18:19+00:00",
       "image": "https://i.guim.co.uk/img/media/53fa79a19abbefe201798e60613aa1864cc000e7/0_0_3360_2688/master/3360.jpg?width=140&quality=85&auto=format&fit=max&s=a7db4ce91794fea20a5cd3b0263dedc4"
     },
     {
@@ -42,14 +50,6 @@
       "source": "Al Jazeera",
       "published": "2026-11-27T16:54:05+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Thumbnail_-H-clean-1795798312.png?resize=1920%2C1080&quality=80"
-    },
-    {
-      "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
-      "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their funadamental rights.",
-      "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-27T16:53:46+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5e9/live/7ddd01c0-ea82-11f1-a739-457c2295eaba.jpg"
     }
   ],
   "feed_warnings": []
