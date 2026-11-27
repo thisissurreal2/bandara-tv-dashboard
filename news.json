@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T21:45:27.128027+00:00",
+  "updated_at": "2026-11-27T22:00:39.348327+00:00",
   "national": [
     {
       "title": "Tim SAR Hentikan Operasi Pencarian di Pongkor, 14 Penambang Masih Hilang",
@@ -32,7 +32,7 @@
       "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
       "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-27T21:40:01+00:00",
+      "published": "2026-11-27T21:55:53+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg"
     },
     {
@@ -41,7 +41,7 @@
       "url": "https://www.theguardian.com/uk-news/2026/nov/27/elderly-scrooge-severs-neighbours-christmas-lights-in-mobility-scooter-raid",
       "source": "The Guardian",
       "published": "2026-11-27T21:31:40+00:00",
-      "image": "https://assets.guim.co.uk/images/eada8aa27c12fe2d5afa3a89d3fbae0d/fallback-logo.png"
+      "image": "https://i.guim.co.uk/img/media/31002f7557ad88f90058fb5bc878bbf4f6900edd/4_0_844_675/master/844.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=53603a249525f4b4bbc59a2f16bde601"
     },
     {
       "title": "Why are families going hungry in northern Yemen even where food is on sale?",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b09d3ac-1795806124.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
