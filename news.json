@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T21:00:41.905922+00:00",
+  "updated_at": "2026-11-27T21:15:28.523206+00:00",
   "national": [
     {
       "title": "Tim SAR Hentikan Operasi Pencarian di Pongkor, 14 Penambang Masih Hilang",
@@ -36,25 +36,21 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg"
     },
     {
+      "title": "Venezuela to repeal law that bans opposition figures from office",
+      "summary": "It comes a month after opposition leader Maria Corina Machado returned to Venezuela.",
+      "url": "https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-27T20:44:03+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b09e7e49444-1795811300.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "‘Abusive and insulting to Canadians’: campaign to oust US ambassador presented to parliament",
       "summary": "Hundreds of thousands of Canadians call for Pete Hoekstra to be declared ‘persona non grata’ A petition signed by nearly 290,000 Canadians calling on Mark Carney’s government to oust Pete Hoekstra as US ambassador to Canada was formally presented to the House of Commons on Thursday, a sign of the strained relations between the neighboring countries. Elizabeth May, a Canadian Green party member, originally opened the petition for signatures in July 2026 after a woman from Calgary sponsored it. The petition requests that the Canadian government declare Hoekstra “persona non grata” due to his “US” diplomatic interference in Canadian domestic affairs”. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition",
       "source": "The Guardian",
       "published": "2026-11-27T20:19:04+00:00",
       "image": "https://i.guim.co.uk/img/media/fdc570eb861d6cc0d756cc291a726de34670d964/418_0_4164_3332/master/4164.jpg?width=140&quality=85&auto=format&fit=max&s=f9e753676a68320c2d147c2a5561d6a1"
-    },
-    {
-      "title": "Hamas chief’s last surviving son escapes Israeli strike in Gaza",
-      "summary": "Hamas leader Khalil al-Hayya's last surviving son Izzeldeen survived an Israeli assassination attempt on Friday.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/aje-onl-nf_-hamas-chiefs-son-escapes-israeli-strike-gaza-271126?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-27T20:18:45+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795810674.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
