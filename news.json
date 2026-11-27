@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-27T03:30:34.539991+00:00",
+  "updated_at": "2026-11-27T03:45:27.440487+00:00",
   "national": [
     {
-      "title": "Kombes Iman Imanuddin Disidang Etik Terkait Perintah Penghentian Kasus",
-      "summary": "Propam Polri menggelar sidang KKEP terhadap Kombes Iman Imanuddin terkait perintah penghentian penyidikan. Iman terjerat dugaan tindak pidana makar.",
-      "url": "https://www.cnnindonesia.com/nasional/20261127100917-12-1432187/kombes-iman-imanuddin-disidang-etik-terkait-perintah-penghentian-kasus",
+      "title": "2 Eks Ajudan Jokowi Terseret Kasus: Listyo Sigit dan Widi Prasetijono",
+      "summary": "Dua mantan ajudan Jokowi, Jenderal Listyo Sigit dan Letjen Widi, terjerat kasus hukum. Listyo menghadapi sidang etik, sementara Widi dijatuhi hukuman penjara.",
+      "url": "https://www.cnnindonesia.com/nasional/20261127102120-12-1432190/2-eks-ajudan-jokowi-terseret-kasus-listyo-sigit-dan-widi-prasetijono",
       "source": "CNN Indonesia",
-      "published": "2026-11-27T03:29:14+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2025/12/13/kasus-penipuan-wo-ayu-puspita-1765618075612_169.jpeg?w=360&q=90"
+      "published": "2026-11-27T03:39:32+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/27/widi-prasetijono-dan-listyo-sigit-prabowo-1795750506167_169.jpeg?w=360&q=90"
     },
     {
       "title": "Tampang Pria Pembunuh Remaja 17 Tahun di Penginapan Kalibata",
@@ -52,5 +52,9 @@
       "image": "https://i.guim.co.uk/img/media/15bb64d1f1fa3f1840538248518d963a2c8d39e8/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=43d6b064ba99972f2f4003cf962441bc"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
