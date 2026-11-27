@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T22:15:27.420956+00:00",
+  "updated_at": "2026-11-27T22:30:34.400948+00:00",
   "national": [
     {
       "title": "Hamas Sebut Putra Khalil al-Hayya Jadi Target Serangan Terbaru Israel",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Thousands still without power after storms that snarled Thanksgiving travel",
+      "summary": "Heavy rains and high winds downed trees and power lines and led to water rescues from New York to Virginia Skies cleared along the US eastern seaboard on Friday, and power was being restored to hundreds of thousands of customers whose Thanksgiving plans were disrupted by heavy rains and high winds that swept over the region a day earlier. The storms snarled travel, downed trees and power lines and led to water rescues from New York to Virginia. At its peak, nearly a million customers were without power . Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/27/heavy-rain-wind-flooding-us-thanksgiving",
+      "source": "The Guardian",
+      "published": "2026-11-27T22:14:56+00:00",
+      "image": "https://i.guim.co.uk/img/media/13899cb7af4121d5aac3418608943d1e81f34df4/95_0_2500_2001/master/2500.jpg?width=140&quality=85&auto=format&fit=max&s=c632060565bcd372c1823ea711eb5290"
+    },
+    {
       "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
       "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, will be sentenced at a later date.",
       "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
@@ -36,21 +44,17 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6398/live/0d6eb230-5b6c-11f1-a914-b7de1b16af02.jpg"
     },
     {
-      "title": "Princess of Wales documentary Heal charts ‘pilgrimage’ after cancer treatment",
-      "summary": "BBC film follows Catherine as she undertakes Three Peaks challenge to search for what life can be post-chemotherapy On the day the Princess of Wales undertook the Three Peaks challenge, there was rain, hill fog and, finally, watery June sunshine. It is hard to not see it as a meteorological metaphor for Catherine’s journey – from cancer diagnosis through treatment and to remission – as she treks first Ben Nevis, then Scafell Pike and Yr Wyddfa (Snowdon) within 24 hours, the camera capturing her physical challenge for a new documentary. Continue reading...",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/27/catherine-princess-of-wales-heal-documentary-cancer",
-      "source": "The Guardian",
-      "published": "2026-11-27T22:00:21+00:00",
-      "image": "https://i.guim.co.uk/img/media/a11a20908b66f136ae3b496074b25217cbc0b583/180_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=24a9dd38ea8ef219f57eb0637bd1fe66"
-    },
-    {
-      "title": "Why are families going hungry in northern Yemen even where food is on sale?",
-      "summary": "Flour and oil still reach markets in Hodeidah and Sanaa. But high costs and lack of work and aid put it out of reach.",
-      "url": "https://www.aljazeera.com/economy/2026/11/27/why-are-families-going-hungry-in-northern-yemen-even-where-food-is-on-sale?traffic_source=rss",
+      "title": "‘Activists of rhythm’: Fighting Spain’s far-right through art",
+      "summary": "Madrid’s La Parceria and Espacio Afro cultural centres are using the arts to fight racism and boost migrant voices.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-27T21:11:27+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b09d3ac-1795806124.jpg?resize=1920%2C1440"
+      "published": "2026-11-27T21:59:11+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795816686.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
