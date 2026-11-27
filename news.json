@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T15:00:46.421895+00:00",
+  "updated_at": "2026-11-27T15:15:29.965244+00:00",
   "national": [
     {
       "title": "Suporter Ramai Datangi Bundaran HI Rayakan HUT Persija, Lalin Macet",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
-      "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
-      "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
-      "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-27T14:49:59+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/318d/live/6be8b890-ea6b-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "title": "Haaland ‘happy’ at Man City despite outburst that led to transfer talk",
-      "summary": "Erling Haaland blasted beleaguered City's form, but ahead of Arsenal test, manager Enzo Maresca says striker is happy.",
-      "url": "https://www.aljazeera.com/sports/2026/11/27/haaland-happy-at-manchester-city-despite-outburst-that-led-to-transfer-talk?traffic_source=rss",
+      "title": "Manchester United trigger Bruno Fernandes contract extension to 2028",
+      "summary": "The captain had said that a long-term contract renewal was on hold, but Premier League club exercised one-year option.",
+      "url": "https://www.aljazeera.com/sports/2026/11/27/manchester-united-trigger-bruno-fernandes-contract-extension-to-2028?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-27T14:47:40+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-21T143650Z_1917729519_UP1EMBL14FDED_RTRMADP_3_SOCCER-ENGLAND-MCI-FUL-1795790000.jpg?resize=1920%2C1440"
+      "published": "2026-11-27T15:04:48+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-03T213146Z_518157365_UP1EMB31NSWHK_RTRMADP_3_SOCCER-CHAMPIONS-MUN-ROM-1795789180.jpg?resize=1920%2C1440"
     },
     {
-      "title": "‘Mass-casualty event’ in Europe possible amid rise in Russian sabotage, says thinktank",
-      "summary": "Report warns attacks on critical infrastructure could lead to demand for retaliation and expose EU divisions Russian sabotage attacks on Europe are increasing and a “mass-casualty event” is now possible as increasingly skilled operatives target critical infrastructure with ever more complex methods, a leading strategic thinktank has said. The International Institute for Strategic Studies (IISS) said in a report that Russian intelligence services and their proxies were targeting European railways, energy networks and defence industries in an attempt to weaken support for Ukraine. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/nov/27/mass-casualty-event-europe-possible-russian-sabotage-says-thinktank",
+      "title": "UK pensions department hit by ‘serious cyber incident’, minister says – UK politics live",
+      "summary": "Pat McFadden says the government doesn’t believe any personal data has been compromised Tell us: have you been affected by the DWP ‘cyber incident’ According to Downdetector , which tracks online service outages, reports of problems with the government website appeared to begin last night and peaked at about 8am this morning. Tory MP Neil Shastri-Hurst has also commented on the disruption at the DWP, saying the incident highlights the importance of protecting essential public services and ensuring they can recover quickly when systems fail. Today’s cyber incident at DWP is a stark reminder that national resilience is not a tomorrow issue. It means protecting the essential services people rely on every day, with secure systems and the ability to recover quickly when things go wrong.” Continue reading...",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-27T14:46:27+00:00",
-      "image": "https://i.guim.co.uk/img/media/ac30ecf5a3689253ee969b5e6a005cbe0512c77b/302_0_1473_1179/master/1473.jpg?width=140&quality=85&auto=format&fit=max&s=7c0a189365a04cbe9650cd1db53da869"
+      "published": "2026-11-27T15:03:20+00:00",
+      "image": "https://i.guim.co.uk/img/media/ecca9af59662e10c267bb8178c969d23ff13ef74/994_0_5006_4004/master/5006.jpg?width=140&quality=85&auto=format&fit=max&s=17d074cb194c2b8bb842d6179de17c6f"
+    },
+    {
+      "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+      "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their funadamental rights.",
+      "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-27T14:55:15+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdb7/live/4aa3b900-ea6b-11f1-a828-d384c0290f6b.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
