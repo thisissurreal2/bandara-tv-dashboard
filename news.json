@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-27T10:45:28.411436+00:00",
+  "updated_at": "2026-11-27T11:00:48.647880+00:00",
   "national": [
     {
-      "title": "Polisi Tetapkan 2 Tersangka Kasus Gurandil Tewas di Tambang Ilegal Bogor",
-      "summary": "Polisi menetapkan dua tersangka dalam tragedi penambangan emas ilegal di Pongkor, Bogor. 13 jenazah telah dievakuasi, 14 orang masih hilang.",
-      "url": "https://news.detik.com/berita/d-8773062/polisi-tetapkan-2-tersangka-kasus-gurandil-tewas-di-tambang-ilegal-bogor",
+      "title": "Polisi Tetapkan 4 Siswi SMA di Malang Jadi ABH Kasus Kematian Silva",
+      "summary": "Polresta Malang Kota akhirnya menaikkan status empat remaja putri dari saksi menjadi Anak Berhadapan dengan Hukum dalam kasus pengeroyokan menewaskan SN (17).",
+      "url": "https://news.detik.com/berita/d-8773090/polisi-tetapkan-4-siswi-sma-di-malang-jadi-abh-kasus-kematian-silva",
       "source": "Detik",
-      "published": "2026-11-27T10:38:15+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/27/polisi-menetapkan-dua-tersangka-kasus-gurandil-tewas-di-tambang-ilegal-pongkor-1795775825186_169.jpeg?w=360&q=90"
+      "published": "2026-11-27T10:55:10+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/27/polisi-menetapkan-empat-remaja-sebagai-tersangka-pengeroyokan-siswi-sma-kota-malang-hingga-meninggal-dunia-1795774609969_169.jpeg?w=360&q=90"
     },
     {
       "title": "4 Mahasiswa FH UGM Ditahan Usai Jadi Tersangka Ricuh Demo Yogyakarta",
@@ -28,28 +28,28 @@
   ],
   "international": [
     {
+      "title": "Israeli justice system at tipping point as judges call for end to Netanyahu trial",
+      "summary": "Dropping of corruption charges against PM after highly unusual intervention could set damaging precedent The Israeli judges presiding over Benjamin Netanyahu’s corruption trial have called on prosecutors to end proceedings, a highly unusual intervention that leaves the attorney general facing a momentous political decision. The prime minister has been charged with bribery, fraud and breach of trust in three complex and overlapping criminal cases that hinge on his relationship with telecoms magnates and other wealthy businessmen. Ending the trial without a ruling could set damaging precedents for media independence and how politicians are held to account. Continue reading...",
+      "url": "https://www.theguardian.com/world/2026/nov/27/israeli-justice-system-judges-call-drop-netanyahu-charges",
+      "source": "The Guardian",
+      "published": "2026-11-27T10:48:29+00:00",
+      "image": "https://i.guim.co.uk/img/media/4b6175712949d01a8b832dc4670e3721e65a6c17/221_138_2799_2239/master/2799.jpg?width=140&quality=85&auto=format&fit=max&s=419b706a76db966be7eccb86809c70d6"
+    },
+    {
+      "title": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
+      "summary": "The Ugandan army is helping the Congolese military fight an Islamist militant group in the east of the country.",
+      "url": "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-27T10:39:31+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed57/live/574552c0-ea45-11f1-9fc4-ef897a334b75.jpg"
+    },
+    {
       "title": "Australia sanctions suspects in Iran-linked anti-Semitic attacks",
       "summary": "Sanctions aim to restrict funds for two men alleged to have planned attacks for IRGC.",
       "url": "https://www.aljazeera.com/news/2026/11/27/australia-sanctions-suspects-in-iran-linked-anti-semitic-attacks?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-11-27T10:31:20+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2025/08/getty_68ae4c0709-1756253191.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Trump calling Putin ‘friend’ like declaring friendship with Hitler during WW2, Zelenskyy says – Europe live",
-      "summary": "Ukraine’s president labels US counterpart’s comments ‘strange’ and urges Washington to increase pressure on Moscow And since Spain’s Pedro Sánchez skipped the summit altogether as he’s dramatically fighting for his future ahead of this Sunday’s parliamentary election… … let’s cross to Madrid for an update on last night’s TV debate… Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
-      "source": "The Guardian",
-      "published": "2026-11-27T10:28:23+00:00",
-      "image": "https://i.guim.co.uk/img/media/354c5812d4a80c57aef34315306550f125254a44/222_0_3863_3089/master/3863.jpg?width=140&quality=85&auto=format&fit=max&s=a276fc4e051a91037a091bc654e57435"
-    },
-    {
-      "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
-      "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
-      "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-27T10:26:28+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/627c/live/2d067240-ea4b-11f1-b220-b9f21129b546.jpg"
     }
   ],
   "feed_warnings": []
