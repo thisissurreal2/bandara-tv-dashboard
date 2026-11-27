@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-27T18:45:26.988711+00:00",
+  "updated_at": "2026-11-27T19:00:39.043575+00:00",
   "national": [
+    {
+      "title": "Legislator Minta Kasus Siswi SMA Dikeroyok hingga Tewas di Malang Diusut Tuntas",
+      "summary": "Anggota DPR Hasanuddin Wahid meminta keadilan dan perlindungan anak diperkuat usai siswi SMA di Malang tewas dikeroyok pelajar lain.",
+      "url": "https://news.detik.com/berita/d-8773615/legislator-minta-kasus-siswi-sma-dikeroyok-hingga-tewas-di-malang-diusut-tuntas",
+      "source": "Detik",
+      "published": "2026-11-27T18:30:27+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2021/07/23/hasanuddin-wahid-3_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Pujakesuma Dukung Cawapres Sugiono, Singgung Jejak Sang Ayah",
       "summary": "DPP Pujakesuma dukung Sugiono sebagai cawapres pengganti Gibran. Dukungan ini berdasarkan kedekatan historis dan pengalaman Sugiono.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-27T18:30:03+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/26/sugiono-tiba-jelang-pemeriksaan-kesehatan-di-rumah-sakit-angkatan-darat-rspad-gatot-subroto-jakarta-1795662558003_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Wamenimipas Cek Perkembangan Nusakambangan, Dari Bengkel FABA hingga Tambak Sidat",
-      "summary": "Kemenimipas cek program kemandirian dan ketahanan pangan di Nusakambangan. Wamenimipas Maulana Bungaran dorong pemberdayaan warga binaan.",
-      "url": "https://news.detik.com/berita/d-8773604/wamenimipas-cek-perkembangan-nusakambangan-dari-bengkel-faba-hingga-tambak-sidat",
-      "source": "Detik",
-      "published": "2026-11-27T17:46:42+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/28/kemenimipas-1795801499781_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo minta lembaga keuangan berpihak pada kepentingan nasional",
@@ -28,33 +28,29 @@
   ],
   "international": [
     {
-      "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
-      "summary": "Ukraine settles in for another devastating winter as the questions persists: how will it all end?",
-      "url": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss",
+      "title": "'We couldn't give up that easily': Marching bands scramble to cover costs after Thanksgiving parade rearranged",
+      "summary": "Stormy weather in New York City prompted organisers to push back the Macy's parade by two days - leaving some musicians stuck.",
+      "url": "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-27T18:42:50+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9fca/live/2dd32240-e9b5-11f1-99b6-a35a62fa4264.jpg"
+      "published": "2026-11-27T18:52:33+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4438/live/a0415f90-ea78-11f1-a094-5fdc692f3e33.jpg"
     },
     {
       "title": "Police suspect criminals robbed fans at Manchester gig disrupted by ‘unknown substance’",
       "summary": "Police are working with agencies across Europe after similar incidents occurred at two other Don Toliver concerts A group of organised criminals are believed to have carried out robberies during Don Toliver’s Manchester concert, where an “unknown substance” was released , police have said, with similar incidents having occurred at another two of the US rapper’s gigs in Europe. Greater Manchester police said they were working to identify the suspects and the substance involved during the incident at the Co-op Live Arena on Sunday evening. Continue reading...",
       "url": "https://www.theguardian.com/uk-news/2026/nov/27/police-believe-criminals-carried-out-robberies-during-don-toliver-manchester-gig-unknown-substance",
       "source": "The Guardian",
-      "published": "2026-11-27T18:34:16+00:00",
+      "published": "2026-11-27T18:35:45+00:00",
       "image": "https://i.guim.co.uk/img/media/239301b7758332abf6acf18eeafb853fd3473da6/490_0_4875_3902/master/4875.jpg?width=140&quality=85&auto=format&fit=max&s=2908b82543ac6d1b0357a87450249f14"
     },
     {
-      "title": "Mexico files complaint with US over tip line on alleged drug traffickers",
-      "summary": "Tensions rise over DEA tip line, with Mexico emphasizing respect for its sovereignty amidst growing bilateral discord.",
+      "title": "Mexico files complaint with US over DEA tip line on alleged drug dealers",
+      "summary": "Tensions rise over DEA tip line, with Mexico emphasising respect for its sovereignty amidst growing bilateral discord.",
       "url": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss",
       "source": "Al Jazeera",
       "published": "2026-11-27T17:58:36+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b09bc8a-1795800202.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
