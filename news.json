@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-11-27T10:15:29.162918+00:00",
+  "updated_at": "2026-11-27T10:30:35.541985+00:00",
   "national": [
+    {
+      "title": "4 Mahasiswa FH UGM Ditahan Usai Jadi Tersangka Ricuh Demo Yogyakarta",
+      "summary": "Empat mahasiswa FH UGM ditahan terkait kericuhan pasca-demo di Yogyakarta. Polda DIY menetapkan delapan tersangka, termasuk satu buron.",
+      "url": "https://www.cnnindonesia.com/nasional/20261127170326-12-1432466/4-mahasiswa-fh-ugm-ditahan-usai-jadi-tersangka-ricuh-demo-yogyakarta",
+      "source": "CNN Indonesia",
+      "published": "2026-11-27T10:22:45+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2025/05/15/universitas-gadjah-mada-1747298809962_169.png?w=360&q=90"
+    },
+    {
+      "title": "Kemlu: RI-Polandia berpeluang jadi jembatan Asia Tenggara-Eropa",
+      "summary": "Kementerian Luar Negeri (Kemlu) RI menyampaikan bahwa dengan posisi penting yang dimiliki Indonesia dan Polandia di ...",
+      "url": "https://www.antaranews.com/berita/5882855/kemlu-ri-polandia-berpeluang-jadi-jembatan-asia-tenggara-eropa",
+      "source": "ANTARA",
+      "published": "2026-11-27T10:11:36+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/27/IMG_3003.jpg"
+    },
     {
       "title": "Hasto Minta Sidang MPR Ikut Konstitusi, PDIP Sudah Tentukan Amran atau Sugiono?",
       "summary": "Sekjen PDIP Hasto Kristiyanto meminta MPR menggelar sidang pengisian jabatan wakil presiden sesuai konstitusi. Lalu, siapa calon wapres yang didukung PDIP?",
@@ -8,32 +24,16 @@
       "source": "Detik",
       "published": "2026-11-27T10:04:56+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/27/sekjen-pdip-hasto-beliadetikcom-1795773881803_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Terduga Pelaku Penganiayaan Siswi Malang Diduga Sempat Kabur",
-      "summary": "Terduga pelaku penganiayaan maut siswi SMA SN (17) di Malang, Jatim, telah ditangkap setelah sempat melarikan diri ke Salatiga, Jateng.",
-      "url": "https://www.cnnindonesia.com/nasional/20261127164453-12-1432452/terduga-pelaku-penganiayaan-siswi-malang-diduga-sempat-kabur",
-      "source": "CNN Indonesia",
-      "published": "2026-11-27T10:03:41+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2015/07/24/0676200f-0af8-4c87-a754-bff6467e55d7_169.jpg?w=360&q=90"
-    },
-    {
-      "title": "PGN dukung ketahanan energi nasional sebagai BUMN terbuka",
-      "summary": "PT Perusahaan Gas Negara (Persero) Tbk (PGN) dengan status perusahaan terbuka terus memperkuat komitmen dalam ...",
-      "url": "https://www.antaranews.com/berita/5882639/pgn-dukung-ketahanan-energi-nasional-sebagai-bumn-terbuka",
-      "source": "ANTARA",
-      "published": "2026-11-27T09:17:34+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/27/WhatsApp-Image-2026-11-27-at-17.03.22.jpg"
     }
   ],
   "international": [
     {
-      "title": "Department for Work and Pensions takes services offline after ‘cyber incident’ – UK politics live",
-      "summary": "The department is working with cyber security experts to restore services and limit disruption Almost all pensions and benefits systems have been knocked offline following a “cyber incident” which hit the department of work and pensions. Anyone trying to check their state pension, make an application for disability benefits or claim universal credit was not able to do so on Friday morning as a result of the incident. DWP officials insist benefit and pensions payments will continue to be made as normal. Turning to the growing divisions within Labour over the Rosebank oilfield, the environment minister Emma Hardy has been asked about the issue during this morning’s media round. Continue reading...",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
+      "title": "Labour backs bill to stop lawsuits used to silence journalists and whistleblowers",
+      "summary": "Anti-Slapps campaigners criticise draft bill, saying process of dismissing claims will be challenging and costly The government is to back legislation aimed at preventing wealthy and powerful individuals using the courts to silence critics and curb free speech. Justice minister Sarah Sackman told parliament on Friday that Labour would support a private member’s bill sponsored by a Conservative MP, Sir John Whittingdale, who is spearheading the latest attempt to bring in anti-Slapp measures. Continue reading...",
+      "url": "https://www.theguardian.com/media/2026/nov/27/labour-backs-bill-lawsuits-journalists-whistleblowers-slapps",
       "source": "The Guardian",
-      "published": "2026-11-27T10:02:21+00:00",
-      "image": "https://i.guim.co.uk/img/media/ecca9af59662e10c267bb8178c969d23ff13ef74/994_0_5006_4004/master/5006.jpg?width=140&quality=85&auto=format&fit=max&s=17d074cb194c2b8bb842d6179de17c6f"
+      "published": "2026-11-27T10:14:03+00:00",
+      "image": "https://i.guim.co.uk/img/media/18a0e7b9f66bc93973a6114fb4fac2215545e754/831_0_4169_3335/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=0dda5c831a113598682c0408c629b29f"
     },
     {
       "title": "Democrats want to end Trump’s Iran war. But how different are they?",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
