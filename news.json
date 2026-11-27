@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-27T04:15:28.677118+00:00",
+  "updated_at": "2026-11-27T04:30:34.391975+00:00",
   "national": [
     {
-      "title": "Wanita di Jakbar Disekap Nyaris Dibunuh Saat Jual Emas 2 Kg di Hotel",
-      "summary": "Seorang perempuan berinisial AG disekap saat menjual 2 kg emas di hotel Cengkareng. Polisi menangkap dua pelaku, sementara dua lainnya masih buron.",
-      "url": "https://www.cnnindonesia.com/nasional/20261127102037-12-1432192/wanita-di-jakbar-disekap-nyaris-dibunuh-saat-jual-emas-2-kg-di-hotel",
-      "source": "CNN Indonesia",
-      "published": "2026-11-27T03:53:33+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2024/11/26/ilustrasi-bank-emas-1_169.jpeg?w=360&q=90"
+      "title": "Beroperasi Sejak 2023, Tersangka Raup Rp 1,4 M dari Olah Emas Ilegal TNGHS",
+      "summary": "Bareskrim Polri menggerebek pengolahan emas ilegal di TNGHS, Bogor. Tersangka Mitun menghasilkan 2 kg emas senilai Rp 1,4 miliar sejak 2023.",
+      "url": "https://news.detik.com/berita/d-8772386/beroperasi-sejak-2023-tersangka-raup-rp-1-4-m-dari-olah-emas-ilegal-tnghs",
+      "source": "Detik",
+      "published": "2026-11-27T04:25:06+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/26/bareskrim-polri-menggerebek-pengolahan-emas-illegal-yang-diduga-hasil-peti-di-kawasan-taman-nasional-gunung-halimun-salak-tngh-1795683423276_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Tampang Pria Pembunuh Remaja 17 Tahun di Penginapan Kalibata",
-      "summary": "Penemuan jasad remaja putri NDK (17) di penginapan Jakarta Selatan terungkap. Polisi amankan pelaku dan selidiki lebih lanjut kasus ini.",
-      "url": "https://news.detik.com/berita/d-8772263/tampang-pria-pembunuh-remaja-17-tahun-di-penginapan-kalibata",
-      "source": "Detik",
-      "published": "2026-11-27T03:25:41+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/27/polisi-menangkap-pria-pembunuh-remaja-putri-di-penginapan-kalibata-jakarta-selatan-1795749518323_169.png?w=360&q=90"
+      "title": "Bupati Kupang Yosef Lede Bantah Pemerkosaan, Klaim Suka Sama Suka",
+      "summary": "Bupati Kupang, Yosef Lede, mengakui persetubuhan dengan korban RWM, namun mengklaim itu atas dasar suka sama suka. Ia ditetapkan sebagai tersangka pemerkosaan.",
+      "url": "https://www.cnnindonesia.com/nasional/20261127104826-12-1432214/bupati-kupang-yosef-lede-bantah-pemerkosaan-klaim-suka-sama-suka",
+      "source": "CNN Indonesia",
+      "published": "2026-11-27T04:17:53+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/26/bupati-kupang-langsung-ditahan-penyidik-polda-ntt-kasus-pemerkosaan-1795648666300_169.jpeg?w=360&q=90"
     },
     {
       "title": "Kemenekraf ajak pelaku ekraf manfaatkan AI untuk dukung bisnis digital",
@@ -52,9 +52,5 @@
       "image": "https://i.guim.co.uk/img/media/fc97543f0720ead81d92285d612a9053401135ee/28_0_805_644/master/805.jpg?width=140&quality=85&auto=format&fit=max&s=f40d056aa224aeae82ec6832a11e9baa"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
