@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-27T12:45:34.977486+00:00",
+  "updated_at": "2026-11-27T13:00:39.617556+00:00",
   "national": [
     {
-      "title": "Pencarian Korban Kebakaran Pabrik Permen di Cikande Diperpanjang",
-      "summary": "Operasi pencarian korban kebakaran pabrik permen di Cikande diperpanjang 3 hari. Tim SAR fokus pada area yang belum disisir.",
-      "url": "https://www.cnnindonesia.com/nasional/20261127185849-20-1432512/pencarian-korban-kebakaran-pabrik-permen-di-cikande-diperpanjang",
+      "title": "FOTO: Gajah Liar di Tebo Bukan Tersesat, Jalan Pulangnya yang Hilang",
+      "summary": "Sekitar enam ribu hektare areal penyangga TN Bukit Tigapuluh di Sumay, Tebo, Jambi kini jadi kebun-permukiman. Padahal itu merupakan jalur jelajah gajah liar.",
+      "url": "https://www.cnnindonesia.com/nasional/20261127183039-22-1432494/foto-gajah-liar-di-tebo-bukan-tersesat-jalan-pulangnya-yang-hilang",
       "source": "CNN Indonesia",
-      "published": "2026-11-27T12:40:38+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/26/pencarian-korban-kebakaran-pabrik-permen-libatkan-anjing-pelacak-1795659121521_169.jpeg?w=360&q=90"
+      "published": "2026-11-27T12:50:15+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/27/gajah-liar-di-tebo-bukan-tersesat-jalan-pulangnya-yang-hilang-1795778570505_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo Hadiri Pertemuan Tahunan Bank Indonesia 2026",
@@ -32,7 +32,7 @@
       "summary": "The department is working with cyber security experts to restore services and limit disruption According to Downdetector , which tracks online service outages, reports of problems with the government website appeared to begin last night and peaked at about 8am this morning. Tory MP Neil Shastri-Hurst has also commented on the disruption at the DWP, saying the incident highlights the importance of protecting essential public services and ensuring they can recover quickly when systems fail. Today’s cyber incident at DWP is a stark reminder that national resilience is not a tomorrow issue. It means protecting the essential services people rely on every day, with secure systems and the ability to recover quickly when things go wrong.” Continue reading...",
       "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-27T12:35:03+00:00",
+      "published": "2026-11-27T12:46:43+00:00",
       "image": "https://i.guim.co.uk/img/media/ecca9af59662e10c267bb8178c969d23ff13ef74/994_0_5006_4004/master/5006.jpg?width=140&quality=85&auto=format&fit=max&s=17d074cb194c2b8bb842d6179de17c6f"
     },
     {
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88cd/live/81fb0990-ea42-11f1-9fc4-ef897a334b75.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
