@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-27T19:00:39.043575+00:00",
+  "updated_at": "2026-11-27T19:15:27.234069+00:00",
   "national": [
+    {
+      "title": "FOTO: Ketika Rp14,8 M Disulap Jadi Jalan Bak Sirkuit di Tasikmalaya",
+      "summary": "Pemerintah Provinsi Jawa Barat merekonstruksi jalan Karangnunggal-Cipatujah, Kabupaten Tasikmalaya, Jawa Barat.",
+      "url": "https://www.cnnindonesia.com/nasional/20261127143035-22-1432349/foto-ketika-rp148-m-disulap-jadi-jalan-bak-sirkuit-di-tasikmalaya",
+      "source": "CNN Indonesia",
+      "published": "2026-11-27T19:00:13+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/27/rp148-miliar-disulap-jadi-jalan-semulus-sirkuit-di-cipatujah-1795764608563_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Legislator Minta Kasus Siswi SMA Dikeroyok hingga Tewas di Malang Diusut Tuntas",
       "summary": "Anggota DPR Hasanuddin Wahid meminta keadilan dan perlindungan anak diperkuat usai siswi SMA di Malang tewas dikeroyok pelajar lain.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-27T18:30:27+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2021/07/23/hasanuddin-wahid-3_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Pujakesuma Dukung Cawapres Sugiono, Singgung Jejak Sang Ayah",
-      "summary": "DPP Pujakesuma dukung Sugiono sebagai cawapres pengganti Gibran. Dukungan ini berdasarkan kedekatan historis dan pengalaman Sugiono.",
-      "url": "https://www.cnnindonesia.com/nasional/20261127224902-32-1432562/pujakesuma-dukung-cawapres-sugiono-singgung-jejak-sang-ayah",
-      "source": "CNN Indonesia",
-      "published": "2026-11-27T18:30:03+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/26/sugiono-tiba-jelang-pemeriksaan-kesehatan-di-rumah-sakit-angkatan-darat-rspad-gatot-subroto-jakarta-1795662558003_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo minta lembaga keuangan berpihak pada kepentingan nasional",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b09bc8a-1795800202.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
