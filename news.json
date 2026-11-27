@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-27T16:45:27.368708+00:00",
+  "updated_at": "2026-11-27T17:00:42.982973+00:00",
   "national": [
+    {
+      "title": "Hasto Kembali Pimpin Senapati Nusantara, Perjuangkan Hari Keris Nasional",
+      "summary": "Hasto Kristiyanto terpilih sebagai Sekjen Senapati Nusantara. Ia berkomitmen memperjuangkan 25 November sebagai Hari Keris Nasional dan pelestarian budaya.",
+      "url": "https://news.detik.com/berita/d-8773575/hasto-kembali-pimpin-senapati-nusantara-perjuangkan-hari-keris-nasional",
+      "source": "Detik",
+      "published": "2026-11-27T16:46:18+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/27/hasto-kristiyanto-1795797854594_169.jpeg?w=360&q=90"
+    },
     {
       "title": "KPK: Harga Sop Ayam Rekor MURI Klaten Dimarkup Rp35 Ribu per Mangkok",
       "summary": "KPK ungkap markup harga sop ayam dalam pengadaan untuk rekor MURI di Klaten. Tiga tersangka ditetapkan, termasuk Bupati nonaktif.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-27T16:30:08+00:00",
       "image": "https://akcdn.detik.net.id/visual/2024/03/05/ilustrasi-gedung-kpk-8_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Polisi Ungkap Motif 4 Pengeroyok Siswi SMA di Malang hingga Tewas",
-      "summary": "Polresta Malang ubgkap motif empat siswi keroyok Silva hingga tewas di SMA Malang. Dalami setiap kemungkinan.",
-      "url": "https://news.detik.com/berita/d-8773556/polisi-ungkap-motif-4-pengeroyok-siswi-sma-di-malang-hingga-tewas",
-      "source": "Detik",
-      "published": "2026-11-27T16:21:16+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/27/polisi-menetapkan-empat-remaja-sebagai-tersangka-pengeroyokan-siswi-sma-kota-malang-hingga-meninggal-dunia-1795774609969_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo minta lembaga keuangan berpihak pada kepentingan nasional",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "UK pensions department hit by ‘serious cyber incident’, minister says – as it happened",
-      "summary": "This blog is now closed, you can read more on this story here According to Downdetector , which tracks online service outages, reports of problems with the government website appeared to begin last night and peaked at about 8am this morning. Tory MP Neil Shastri-Hurst has also commented on the disruption at the DWP, saying the incident highlights the importance of protecting essential public services and ensuring they can recover quickly when systems fail. Today’s cyber incident at DWP is a stark reminder that national resilience is not a tomorrow issue. It means protecting the essential services people rely on every day, with secure systems and the ability to recover quickly when things go wrong.” Continue reading...",
-      "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
+      "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+      "summary": "The law faced legal challenges from a range of groups, including female Muslim, Sikh and Catholic teachers, who argued it violated their funadamental rights.",
+      "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-27T16:53:46+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5e9/live/7ddd01c0-ea82-11f1-a739-457c2295eaba.jpg"
+    },
+    {
+      "title": "Jared Kushner’s 70-minute interview shows the peril of treating Putin like a corporate rival",
+      "summary": "Trump’s son-in-law and top negotiator paints Russian invasion of Ukraine as a misunderstanding to be resolved In the space of a 70-minute interview, Jared Kushner – Donald Trump’s son-in-law and a prominent US negotiator in Russia, Gaza and Iran – probably did more to reveal why the world is mired in entrenched conflicts than a thousand geopolitical tomes or seminars. During the conversation this week with Mathias Döpfner, the chief executive of Axel Springer, Kushner gave a rare insight into his diplomatic technique, offering a string of homilies that veered close to banalities: “You have nothing until you have something”, “diplomacy is like untying knots on a fishing line for his son”, and “you play the ball from where it lands”. Continue reading...",
+      "url": "https://www.theguardian.com/us-news/2026/nov/27/jared-kushner-interview-peril-putin-corporate-rival",
       "source": "The Guardian",
-      "published": "2026-11-27T16:33:28+00:00",
-      "image": "https://i.guim.co.uk/img/media/ecca9af59662e10c267bb8178c969d23ff13ef74/994_0_5006_4004/master/5006.jpg?width=140&quality=85&auto=format&fit=max&s=17d074cb194c2b8bb842d6179de17c6f"
+      "published": "2026-11-27T16:49:59+00:00",
+      "image": "https://i.guim.co.uk/img/media/2982dd4242ca828d413c2bc16a208c6b356eb841/401_0_5492_4392/master/5492.jpg?width=140&quality=85&auto=format&fit=max&s=e799b6911fb30f055aad60dbd69170c9"
     },
     {
       "title": "Israel’s Eisenkot accuses Netanyahu’s party of stalling coalition talks",
@@ -42,14 +50,6 @@
       "source": "Al Jazeera",
       "published": "2026-11-27T16:33:21+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261125__D8KZ93E__v1__HighRes__IsraelPoliticsParliament-1795794655.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
-      "summary": "Paul Mackenzie is found guilty of killing followers, weeks after being jailed for the mass murder of children.",
-      "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-27T16:06:37+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd53/live/e165d810-ea74-11f1-a828-d384c0290f6b.jpg"
     }
   ],
   "feed_warnings": []
