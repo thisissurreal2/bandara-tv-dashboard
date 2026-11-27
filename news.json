@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-27T09:45:29.369915+00:00",
+  "updated_at": "2026-11-27T10:00:47.347752+00:00",
   "national": [
     {
-      "title": "Bupati Klaten Diduga Pakai Dana Kecamatan untuk Rekor MURI Sop Ayam",
-      "summary": "KPK menduga Bupati Klaten Hamenang Wajar Ismoyo menyalahgunakan DAK untuk pemecahan rekor MURI sop ayam. Tiga tersangka ditetapkan dalam kasus ini.",
-      "url": "https://www.cnnindonesia.com/nasional/20261127142406-12-1432346/bupati-klaten-diduga-pakai-dana-kecamatan-untuk-rekor-muri-sop-ayam",
-      "source": "CNN Indonesia",
-      "published": "2026-11-27T09:31:29+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/10/17/ott-kasus-dugaan-korupsi-di-pemkab-klaten-1792202897443_169.jpeg?w=360&q=90"
+      "title": "Minibus Lawan Arah Tabrak Mobil dan Motor di Bogor, 2 Orang Luka",
+      "summary": "Kecelakaan melibatkan 5 kendaraan terjadi di Jalan Jendral Sudirman, Bogor Tengah. Minibus menabrak dua mobil dan dua motor hingga mengakibatkan dua orang luka",
+      "url": "https://news.detik.com/berita/d-8772996/minibus-lawan-arah-tabrak-mobil-dan-motor-di-bogor-2-orang-luka",
+      "source": "Detik",
+      "published": "2026-11-27T09:54:38+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2023/04/11/ilustrasi-kecelakaan_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Eks Kadensus Komjen Marthinus Hukom Diperiksa Bareskrim Terkait Kasus Makar",
-      "summary": "Bareskrim memeriksa mantan Kepala Densus Komjen Marthinus Hukom terkait kasus dugaan makar. Hukom diperiksa sebagai saksi Listyo Sigit dkk.",
-      "url": "https://news.detik.com/berita/d-8772946/eks-kadensus-komjen-marthinus-hukom-diperiksa-bareskrim-terkait-kasus-makar",
-      "source": "Detik",
-      "published": "2026-11-27T09:24:10+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2025/07/15/kepala-bnn-komjen-marthinus-hukom-seusai-menghadiri-kuliah-umum-di-gedung-rektorat-universitas-udayana-selasa-1572025-1752566498020_169.jpeg?w=360&q=90"
+      "title": "Polisi Tetapkan 8 Tersangka Demo Ricuh di Jogja, 6 Berstatus Mahasiswa",
+      "summary": "Polda DIY menetapkan delapan tersangka kericuhan pasca unjuk rasa di Yogyakarta. Tujuh tersangka ditahan, satu masih buron. Penyidikan terus berlanjut.",
+      "url": "https://www.cnnindonesia.com/nasional/20261127160145-12-1432434/polisi-tetapkan-8-tersangka-demo-ricuh-di-jogja-6-berstatus-mahasiswa",
+      "source": "CNN Indonesia",
+      "published": "2026-11-27T09:47:39+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/10/30/ricuh-demo-di-dprd-jogja-kawasan-malioboro-1793333704365_169.jpeg?w=360&q=90"
     },
     {
       "title": "PGN dukung ketahanan energi nasional sebagai BUMN terbuka",
@@ -29,10 +29,10 @@
   "international": [
     {
       "title": "Department for Work and Pensions takes services offline after ‘cyber incident’ – UK politics live",
-      "summary": "The department is working with cyber security experts to restore services and limit disruption Here is the statement from the DWP on the “cyber incident”: We have taken some DWP online services offline as a precaution after we identified a cyber incident affecting our systems. We are working closely with the National Cyber Security Centre and Government Cyber Coordination Centre to investigate and to bring services back online as quickly as possible and to minimise any disruption. Nearly 100 Labour MPs have urged prime minister Andy Burnham to reject plans to approve drilling at the Rosebank oilfield, exposing deep divisions within the party over climate policy and energy security. Our policy editor, Kiran Stacey , has more in this report: Continue reading...",
+      "summary": "The department is working with cyber security experts to restore services and limit disruption The Press Association has reported that services which appear to be unavailable include: applying for Universal Credit; signing in to an existing Universal Credit account; and searching for jobs. Continue reading...",
       "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-27T09:24:09+00:00",
+      "published": "2026-11-27T09:45:27+00:00",
       "image": "https://i.guim.co.uk/img/media/ecca9af59662e10c267bb8178c969d23ff13ef74/994_0_5006_4004/master/5006.jpg?width=140&quality=85&auto=format&fit=max&s=17d074cb194c2b8bb842d6179de17c6f"
     },
     {
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261127__D8RN29E__v1__MidRes__SkoreaNkoreaDiplomacyPolitics-1795765447.jpg?resize=1200%2C630"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
