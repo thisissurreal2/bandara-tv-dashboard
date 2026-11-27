@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-27T23:30:38.287018+00:00",
+  "updated_at": "2026-11-27T23:45:24.621410+00:00",
   "national": [
     {
-      "title": "Hasil Autopsi dan Motif Kasus Siswi SMA Malang Tewas Imbas Pengeroyokan",
-      "summary": "Hasil autopsi mengungkap penyebab kematian pelajar SMAN 7 Malang, SN, akibat asfiksia dan luka memar setelah dikeroyok empat remaja.",
-      "url": "https://www.cnnindonesia.com/nasional/20261127214521-12-1432557/hasil-autopsi-motif-kasus-siswi-sma-malang-tewas-imbas-pengeroyokan",
+      "title": "Operasi SAR Tambang Emas Ilegal di Bogor Ditutup, 14 Masih Hilang",
+      "summary": "Operasi SAR untuk 14 penambang terjebak di tambang emas ilegal di Bogor resmi ditutup setelah evaluasi risiko tinggi. 13 korban meninggal.",
+      "url": "https://www.cnnindonesia.com/nasional/20261127223821-12-1432560/operasi-sar-tambang-emas-ilegal-di-bogor-ditutup-14-masih-hilang",
       "source": "CNN Indonesia",
-      "published": "2026-11-27T23:20:21+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/27/polisi-tetapkan-4-tersangka-pelaku-pengeroyokan-maut-siswi-sma-di-malang-1795787141051_169.jpeg?w=360&q=90"
+      "published": "2026-11-27T23:30:22+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/27/update-sar-korban-tambang-emas-ilegal-bogor-jadi-27-orang-1795776766329_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "BMKG prakirakan mayoritas wilayah RI diguyur hujan pada Sabtu",
+      "summary": "Badan Meteorologi, Klimatologi, dan Geofisika (BMKG) memprakirakan mayoritas wilayah Indonesia, Sabtu, didominasi hujan ...",
+      "url": "https://www.antaranews.com/berita/5884227/bmkg-prakirakan-mayoritas-wilayah-ri-diguyur-hujan-pada-sabtu",
+      "source": "ANTARA",
+      "published": "2026-11-27T23:21:19+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/23/1000647180.jpg"
     },
     {
       "title": "Kata KCI soal Kebiasaan Penumpang KRL Pakai Tas Punggung tapi di Depan",
@@ -16,17 +24,25 @@
       "source": "Detik",
       "published": "2026-11-27T23:00:49+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2025/03/01/ilustrasi-penumpang-di-dalam-krl-1740808397143_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Bologna gagal tembus pertahanan Venezia dan tertahan tanpa gol",
-      "summary": "Bologna bermain imbang tanpa gol ketika bertandang ke markas Venezia pada pertandingan pekan ke-13 Liga Italia di ...",
-      "url": "https://www.antaranews.com/berita/5884155/bologna-gagal-tembus-pertahanan-venezia-dan-tertahan-tanpa-gol",
-      "source": "ANTARA",
-      "published": "2026-11-27T22:26:36+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/28/image-2026-11-28T050156.025.jpg"
     }
   ],
   "international": [
+    {
+      "title": "Schools in England must set aside time for pupils to read for pleasure",
+      "summary": "Education secretary expected to announce measures as part of proposed reforms to national curriculum Schools in England will have to allocate time for children to read for pleasure as part of Labour’s proposed major reforms of the national curriculum. The education secretary, Lucy Powell, is expected to announce to parliament on Monday that primary schools must earmark time each day for children to read. Continue reading...",
+      "url": "https://www.theguardian.com/education/2026/nov/27/schools-in-england-must-set-aside-time-for-pupils-to-read-for-pleasure",
+      "source": "The Guardian",
+      "published": "2026-11-27T23:34:55+00:00",
+      "image": "https://i.guim.co.uk/img/media/6e4183abedc6c8a85e09398416b87c9824ecbfc8/238_298_4221_3378/master/4221.jpg?width=140&quality=85&auto=format&fit=max&s=4659c40391e4a2d7ff307e837a3c3944"
+    },
+    {
+      "title": "Will Taiwan vote to revive nuclear power – and why does that matter for AI?",
+      "summary": "Voters will decide on Saturday whether to scrap the country's 'nuclear-free homeland' policy.",
+      "url": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-27T23:09:04+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b09705fad-1795780703.jpg?resize=1920%2C1440"
+    },
     {
       "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
       "summary": "China's immense clout now also has the flex of soft power. Critics and dissidents say their voices are being drowned out.",
@@ -34,23 +50,11 @@
       "source": "BBC",
       "published": "2026-11-27T23:02:35+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c091/live/9ead0190-ea44-11f1-9fc4-ef897a334b75.jpg"
-    },
-    {
-      "title": "Charity set up by Captain Tom Moore’s family applies to be struck off",
-      "summary": "Watchdog had found ‘repeated’ misconduct by veteran’s daughter and her husband in running the foundation A charity set up by the family of the pandemic fundraiser Captain Sir Tom Moore has applied to be struck off. The charity is now known as the 1189808 Foundation, having dropped Moore’s name at the request of his family last year. Continue reading...",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/27/charity-set-up-by-captain-tom-moores-family-applies-to-be-struck-off",
-      "source": "The Guardian",
-      "published": "2026-11-27T23:02:04+00:00",
-      "image": "https://i.guim.co.uk/img/media/3c6aab368545820aa749338a8b5e89de937a4299/234_538_1785_1428/master/1785.jpg?width=140&quality=85&auto=format&fit=max&s=99a7e2e1cc28581ebd9634c20019cd7d"
-    },
-    {
-      "title": "Kenyan cult leader guilty of manslaughter more than 123 starvation deaths",
-      "summary": "Paul Mackenzie, already serving 200 years, is the founder and pastor of the Good News International Church.",
-      "url": "https://www.aljazeera.com/news/2026/11/27/kenyan-cult-leader-guilty-of-manslaughter-more-than-123-starvation-deaths?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-27T22:33:17+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b09fbef6bcd-1795816431.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
