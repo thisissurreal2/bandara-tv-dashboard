@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-27T16:15:34.606992+00:00",
+  "updated_at": "2026-11-27T16:30:36.801147+00:00",
   "national": [
+    {
+      "title": "Polisi Ungkap Motif 4 Pengeroyok Siswi SMA di Malang hingga Tewas",
+      "summary": "Polresta Malang ubgkap motif empat siswi keroyok Silva hingga tewas di SMA Malang. Dalami setiap kemungkinan.",
+      "url": "https://news.detik.com/berita/d-8773556/polisi-ungkap-motif-4-pengeroyok-siswi-sma-di-malang-hingga-tewas",
+      "source": "Detik",
+      "published": "2026-11-27T16:21:16+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/27/polisi-menetapkan-empat-remaja-sebagai-tersangka-pengeroyokan-siswi-sma-kota-malang-hingga-meninggal-dunia-1795774609969_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Ulta Levenia Resmi Dipecat dari Bakom RI",
       "summary": "Ulta Levenia Nababan resmi diberhentikan dari Bakom RI mulai 1 November 2026.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-27T15:33:09+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/09/11/ulta-levenia-1789121300049_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Prabowo: Karhutla Buatan Manusia, Saya Tak Akan Beri Toleransi!",
-      "summary": "Prabowo menegaskan karhutla disebabkan oleh ulah manusia. Prabowo akan menindak tegas pihak-pihak yang terbukti terlibat.",
-      "url": "https://news.detik.com/berita/d-8773512/prabowo-karhutla-buatan-manusia-saya-tak-akan-beri-toleransi",
-      "source": "Detik",
-      "published": "2026-11-27T15:16:32+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/27/prabowo-sentil-koruptor-di-pertemuan-tahunan-bank-indonesia-2026-1795789891337_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo minta lembaga keuangan berpihak pada kepentingan nasional",
@@ -28,33 +28,29 @@
   ],
   "international": [
     {
+      "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – Europe live",
+      "summary": "‘I can’t conceive of us losing,’ the leader said Freelance journalist based in Madrid and host of the Sobremesa podcast Vox has often been portrayed in international coverage as a party of Franco nostalgists whose ultraconservative Catholicism and civil-war rhetoric towards the separatist Catalan “enemy within” threatened a return to the worst of Spain’s recent past. Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-27T16:19:50+00:00",
+      "image": "https://i.guim.co.uk/img/media/3b8d31f150e01e5b763ede39082829dcd3e49221/674_52_2022_1618/master/2022.jpg?width=140&quality=85&auto=format&fit=max&s=e0451af87ed7ddbb9844096f8792224d"
+    },
+    {
+      "title": "Trump backs Iraqi PM’s oil smuggling crackdown",
+      "summary": "Baghdad closes border crossings as Kurdish authorities warn of constitutional violations and call for meeting.",
+      "url": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-27T16:13:07+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b09a50c-1795794188.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
       "summary": "Paul Mackenzie is found guilty of killing followers, weeks after being jailed for the mass murder of children.",
       "url": "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
       "published": "2026-11-27T16:06:37+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd53/live/e165d810-ea74-11f1-a828-d384c0290f6b.jpg"
-    },
-    {
-      "title": "British Gas owner seeks urgent government talks over future of storage facility",
-      "summary": "Centrica boss memo to 400 workers at gas plant off Yorkshire coast says utility doing all it can ‘to save your jobs’ The boss of the British Gas owner Centrica has told hundreds of staff at its largest gas storage facility that he was seeking urgent talks with Andy Burnham and would do everything he could to save jobs. Chris O’Shea, the chief executive of Centrica, reportedly told staff at the Rough gas storage facility off the east Yorkshire that the government had rebuffed the company’s plea for short-term support to run the store over the winter. Continue reading...",
-      "url": "https://www.theguardian.com/business/2026/nov/27/british-gas-owner-seeks-urgent-government-talks-gas-storage-faciity-future",
-      "source": "The Guardian",
-      "published": "2026-11-27T15:56:32+00:00",
-      "image": "https://i.guim.co.uk/img/media/e9dcd936a4954560c089b24f4760a37f4730b2c4/561_0_5240_4196/master/5240.jpg?width=140&quality=85&auto=format&fit=max&s=4633ee8664d3f0a93f08e33ff7479766"
-    },
-    {
-      "title": "Serbia’s student-led movement nominates chemistry professor for presidency",
-      "summary": "Radomir Saicic, who teaches at Belgrade University, was among the first university professors to join the movement.",
-      "url": "https://www.aljazeera.com/news/2026/11/27/serbias-student-led-movement-nominates-chemistry-professor-for-presidency?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-27T15:26:50+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261127__D8TN37B__v1__HighRes__SerbiaPoliticsElection-1795790157.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: TimeoutError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
