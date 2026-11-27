@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-27T22:00:39.348327+00:00",
+  "updated_at": "2026-11-27T22:15:27.420956+00:00",
   "national": [
     {
-      "title": "Tim SAR Hentikan Operasi Pencarian di Pongkor, 14 Penambang Masih Hilang",
-      "summary": "Basarnas menghentikan operasi pencarian penambang terjebak di tambang emas Pongkor. 14 penambang masih belum ditemukan.",
-      "url": "https://news.detik.com/berita/d-8773629/tim-sar-hentikan-operasi-pencarian-di-pongkor-14-penambang-masih-hilang",
+      "title": "Hamas Sebut Putra Khalil al-Hayya Jadi Target Serangan Terbaru Israel",
+      "summary": "Hamas mengklaim Israel mencoba membunuh putra dari pemimpin Khalil al-Hayya dalam snerangan terbaru di Gaza.",
+      "url": "https://news.detik.com/internasional/d-8773639/hamas-sebut-putra-khalil-al-hayya-jadi-target-serangan-terbaru-israel",
       "source": "Detik",
-      "published": "2026-11-27T20:33:03+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/25/tragedi-tambang-emas-ilegal-bogor-9-penambang-tewas-dan-17-masih-dicari-1795615450580_169.jpeg?w=360&q=90"
+      "published": "2026-11-27T21:57:10+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/28/israel-palestiniansgazahamas-1795816365038_169.jpeg?w=360&q=90"
     },
     {
       "title": "Demokrat Somasi 3 Akun YouTube Tuding SBY Temui Jokowi Bahas 2029",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
-      "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
+      "title": "Prosecutors seek 25-year prison term for 'poison seller' Kenneth Law",
+      "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, will be sentenced at a later date.",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-27T21:55:53+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg"
+      "published": "2026-11-27T22:03:46+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6398/live/0d6eb230-5b6c-11f1-a914-b7de1b16af02.jpg"
     },
     {
-      "title": "Elderly ‘Scrooge’ severs neighbour’s Christmas lights in mobility-scooter raid",
-      "summary": "CCTV shows unidentified woman taking scissors to Middlesbrough home’s festive display An elderly woman has been accused of defying the season of goodwill after appearing to cut down her neighbour’s Christmas lights. CCTV footage showed her approaching a property on a mobility scooter brandishing scissors. Continue reading...",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/27/elderly-scrooge-severs-neighbours-christmas-lights-in-mobility-scooter-raid",
+      "title": "Princess of Wales documentary Heal charts ‘pilgrimage’ after cancer treatment",
+      "summary": "BBC film follows Catherine as she undertakes Three Peaks challenge to search for what life can be post-chemotherapy On the day the Princess of Wales undertook the Three Peaks challenge, there was rain, hill fog and, finally, watery June sunshine. It is hard to not see it as a meteorological metaphor for Catherine’s journey – from cancer diagnosis through treatment and to remission – as she treks first Ben Nevis, then Scafell Pike and Yr Wyddfa (Snowdon) within 24 hours, the camera capturing her physical challenge for a new documentary. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/27/catherine-princess-of-wales-heal-documentary-cancer",
       "source": "The Guardian",
-      "published": "2026-11-27T21:31:40+00:00",
-      "image": "https://i.guim.co.uk/img/media/31002f7557ad88f90058fb5bc878bbf4f6900edd/4_0_844_675/master/844.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=53603a249525f4b4bbc59a2f16bde601"
+      "published": "2026-11-27T22:00:21+00:00",
+      "image": "https://i.guim.co.uk/img/media/a11a20908b66f136ae3b496074b25217cbc0b583/180_0_2700_2160/master/2700.jpg?width=140&quality=85&auto=format&fit=max&s=24a9dd38ea8ef219f57eb0637bd1fe66"
     },
     {
       "title": "Why are families going hungry in northern Yemen even where food is on sale?",
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b09d3ac-1795806124.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
