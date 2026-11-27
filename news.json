@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-27T02:30:33.120926+00:00",
+  "updated_at": "2026-11-27T02:45:24.700137+00:00",
   "national": [
     {
-      "title": "Barantin Ajak Masyarakat Bantu Awasi Titik Keluar-Masuk RI",
-      "summary": "Kepala Barantin, Abdul Kadir Karding, ungkap kebutuhan pegawai mencapai 17.000. Program Sahabat Karantina diperluas untuk edukasi dan pengawasan biosekuriti.",
-      "url": "https://news.detik.com/berita/d-8772157/barantin-ajak-masyarakat-bantu-awasi-titik-keluar-masuk-ri",
+      "title": "Basarnas Observasi 2 Lubang Tambang di Pongkor Sebelum Evakuasi Gurandil",
+      "summary": "Evakuasi korban terjebak di tambang emas ilegal di Bogor masih berlangsung. Basarnas akan observasi kondisi lubang dan imbauan untuk tidak mencari sendiri.",
+      "url": "https://news.detik.com/berita/d-8772174/basarnas-observasi-2-lubang-tambang-di-pongkor-sebelum-evakuasi-gurandil",
       "source": "Detik",
-      "published": "2026-11-27T02:22:48+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/27/barantin-1795746154736_169.jpeg?w=360&q=90"
+      "published": "2026-11-27T02:33:40+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/25/tragedi-tambang-emas-ilegal-bogor-9-penambang-tewas-dan-17-masih-dicari-1795615450580_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Peran Pegawai BUMD Bogor di Kasus Makar Listyo Cs: Bikin Kaus ACAB",
-      "summary": "Pegawai BUMD Bogor, NE, terlibat dugaan makar. Dia diperintah eks Kapolres untuk mencetak kaus kontroversial.",
-      "url": "https://www.cnnindonesia.com/nasional/20261127085618-12-1432128/pegawai-bumd-bogor-terseret-kasus-makar-listyo-cs-ini-perannya",
+      "title": "Beasiswa Hinterland dan Mimpi Naik Kelas Anak Nelayan di Batam",
+      "summary": "Anak-anak nelayan di hinterland Batam berjuang untuk pendidikan. Program beasiswa membantu mereka mewujudkan mimpi meski menghadapi banyak keterbatasan.",
+      "url": "https://www.cnnindonesia.com/nasional/20261126080508-20-1431616/beasiswa-hinterland-dan-mimpi-naik-kelas-anak-nelayan-di-batam",
       "source": "CNN Indonesia",
-      "published": "2026-11-27T02:12:00+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/24/konferensi-pers-bareksrim-polri-terkait-dugaan-tindak-pidana-makar-1795489195328_169.jpeg?w=360&q=90"
+      "published": "2026-11-27T02:33:34+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/27/cerita-anak-hinterland-di-pulau-galang-batam-bisa-kuliah-diperguruan-tinggi-1795746518420_169.jpeg?w=360&q=90"
     },
     {
       "title": "Kemenekraf ajak pelaku ekraf manfaatkan AI untuk dukung bisnis digital",
@@ -36,12 +36,12 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg"
     },
     {
-      "title": "Trump says the US has ‘close to 50%’ of world’s oil",
-      "summary": "On a call to soldiers deployed to the Gulf, Donald Trump claimed that the US does not ‘need Middle East oil'.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/trump-says-the-us-has-close-to-50-of-worlds-oil?traffic_source=rss",
+      "title": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
+      "summary": "Trump says he urged Putin to 'pull back' military aggression in Europe amid escalating Russian and Ukrainian attacks.",
+      "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-27T01:44:02+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/trump-oil-thumbnail-1795743787.png?resize=1200%2C675"
+      "published": "2026-11-27T02:14:25+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b08bc55aa9c5-1795734613.jpg?resize=1920%2C1440"
     },
     {
       "title": "New Zealand election: final results show ruling coalition needs minor party to govern",
@@ -52,9 +52,5 @@
       "image": "https://i.guim.co.uk/img/media/15bb64d1f1fa3f1840538248518d963a2c8d39e8/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=43d6b064ba99972f2f4003cf962441bc"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
