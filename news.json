@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-27T16:30:36.801147+00:00",
+  "updated_at": "2026-11-27T16:45:27.368708+00:00",
   "national": [
+    {
+      "title": "KPK: Harga Sop Ayam Rekor MURI Klaten Dimarkup Rp35 Ribu per Mangkok",
+      "summary": "KPK ungkap markup harga sop ayam dalam pengadaan untuk rekor MURI di Klaten. Tiga tersangka ditetapkan, termasuk Bupati nonaktif.",
+      "url": "https://www.cnnindonesia.com/nasional/20261127201830-12-1432527/kpk-harga-sop-ayam-rekor-muri-klaten-dimarkup-rp35-ribu-per-mangkok",
+      "source": "CNN Indonesia",
+      "published": "2026-11-27T16:30:08+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2024/03/05/ilustrasi-gedung-kpk-8_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Polisi Ungkap Motif 4 Pengeroyok Siswi SMA di Malang hingga Tewas",
       "summary": "Polresta Malang ubgkap motif empat siswi keroyok Silva hingga tewas di SMA Malang. Dalami setiap kemungkinan.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-27T16:21:16+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/27/polisi-menetapkan-empat-remaja-sebagai-tersangka-pengeroyokan-siswi-sma-kota-malang-hingga-meninggal-dunia-1795774609969_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Ulta Levenia Resmi Dipecat dari Bakom RI",
-      "summary": "Ulta Levenia Nababan resmi diberhentikan dari Bakom RI mulai 1 November 2026.",
-      "url": "https://www.cnnindonesia.com/nasional/20261127221639-32-1432559/ulta-levenia-resmi-dipecat-dari-bakom-ri",
-      "source": "CNN Indonesia",
-      "published": "2026-11-27T15:33:09+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/09/11/ulta-levenia-1789121300049_169.jpeg?w=360&q=90"
     },
     {
       "title": "Prabowo minta lembaga keuangan berpihak pada kepentingan nasional",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – Europe live",
-      "summary": "‘I can’t conceive of us losing,’ the leader said Freelance journalist based in Madrid and host of the Sobremesa podcast Vox has often been portrayed in international coverage as a party of Franco nostalgists whose ultraconservative Catholicism and civil-war rhetoric towards the separatist Catalan “enemy within” threatened a return to the worst of Spain’s recent past. Continue reading...",
-      "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
+      "title": "UK pensions department hit by ‘serious cyber incident’, minister says – as it happened",
+      "summary": "This blog is now closed, you can read more on this story here According to Downdetector , which tracks online service outages, reports of problems with the government website appeared to begin last night and peaked at about 8am this morning. Tory MP Neil Shastri-Hurst has also commented on the disruption at the DWP, saying the incident highlights the importance of protecting essential public services and ensuring they can recover quickly when systems fail. Today’s cyber incident at DWP is a stark reminder that national resilience is not a tomorrow issue. It means protecting the essential services people rely on every day, with secure systems and the ability to recover quickly when things go wrong.” Continue reading...",
+      "url": "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
       "source": "The Guardian",
-      "published": "2026-11-27T16:19:50+00:00",
-      "image": "https://i.guim.co.uk/img/media/3b8d31f150e01e5b763ede39082829dcd3e49221/674_52_2022_1618/master/2022.jpg?width=140&quality=85&auto=format&fit=max&s=e0451af87ed7ddbb9844096f8792224d"
+      "published": "2026-11-27T16:33:28+00:00",
+      "image": "https://i.guim.co.uk/img/media/ecca9af59662e10c267bb8178c969d23ff13ef74/994_0_5006_4004/master/5006.jpg?width=140&quality=85&auto=format&fit=max&s=17d074cb194c2b8bb842d6179de17c6f"
     },
     {
-      "title": "Trump backs Iraqi PM’s oil smuggling crackdown",
-      "summary": "Baghdad closes border crossings as Kurdish authorities warn of constitutional violations and call for meeting.",
-      "url": "https://www.aljazeera.com/news/2026/11/27/trump-backs-iraqi-pms-oil-smuggling-crackdown?traffic_source=rss",
+      "title": "Israel’s Eisenkot accuses Netanyahu’s party of stalling coalition talks",
+      "summary": "Yashar party chief says Likud wants to drag Israel into another election under the outgoing government.",
+      "url": "https://www.aljazeera.com/news/2026/11/27/israels-eisenkot-accuses-netanyahus-party-of-stalling-coalition-talks?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-27T16:13:07+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b09a50c-1795794188.jpg?resize=1920%2C1440"
+      "published": "2026-11-27T16:33:21+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261125__D8KZ93E__v1__HighRes__IsraelPoliticsParliament-1795794655.jpg?resize=1920%2C1440"
     },
     {
       "title": "Kenyan doomsday cult leader convicted over further 123 deaths",
