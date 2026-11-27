@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T20:45:33.253604+00:00",
+  "updated_at": "2026-11-27T21:00:41.905922+00:00",
   "national": [
     {
       "title": "Tim SAR Hentikan Operasi Pencarian di Pongkor, 14 Penambang Masih Hilang",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Capsized tanker carrying 7,000 tonnes of diesel to be towed away from Ibiza",
-      "summary": "There are fears of a major oil spillage off Ibiza but the ship's fuel tanks are so far intact.",
-      "url": "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo?at_medium=RSS&at_campaign=rss",
+      "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+      "summary": "Prime Minister Pedro Sánchez wants to defy the polls, and his main rivals accuse him of not telling the truth and of \"betrayal\".",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-27T20:34:45+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a324/live/235d3bb0-ea97-11f1-99a1-253766e7ad8b.jpg"
+      "published": "2026-11-27T20:57:04+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb1/live/dd63ff10-ea99-11f1-a094-5fdc692f3e33.jpg"
     },
     {
       "title": "‘Abusive and insulting to Canadians’: campaign to oust US ambassador presented to parliament",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795810674.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
