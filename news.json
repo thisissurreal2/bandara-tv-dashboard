@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-27T11:15:27.933379+00:00",
+  "updated_at": "2026-11-27T11:20:16.858502+00:00",
   "national": [
+    {
+      "title": "Polisi Tetapkan 2 Tersangka Tragedi Tambang Emas Ilegal Bogor",
+      "summary": "Tim SAR melaporkan 27 penambang terjebak di tambang emas ilegal Pongkor, Bogor. Dua tersangka ditangkap, 13 jenazah telah dievakuasi, 14 masih hilang.",
+      "url": "https://www.cnnindonesia.com/nasional/20261127175353-20-1432487/polisi-tetapkan-2-tersangka-tragedi-tambang-emas-ilegal-bogor",
+      "source": "CNN Indonesia",
+      "published": "2026-11-27T11:19:36+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/26/pencarian-penambang-emas-terjebak-di-dalam-lubang-galian-1795690532384_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Polisi Ungkap Cara Gurandil Beraksi di Tambang Emas Ilegal Bogor",
       "summary": "Polisi ungkap cara gurandil menambang emas ilegal di Bogor. Dua tersangka ditetapkan setelah tragedi penambang terjebak. 13 jenazah dievakuasi.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-27T11:12:02+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/25/tragedi-tambang-emas-ilegal-bogor-9-penambang-tewas-dan-17-masih-dicari-1795615450318_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Update SAR: Korban Tambang Emas Ilegal Bogor Jadi 27 Orang",
-      "summary": "Tim SAR mengonfirmasi jumlah total penambang emas ilegal yang terjebak di kawasan Pongkor, Bogor bertambah menjadi 27 orang pada Jumat (27/11).",
-      "url": "https://www.cnnindonesia.com/nasional/20261127174919-24-1432482/update-sar-korban-tambang-emas-ilegal-bogor-jadi-27-orang",
-      "source": "CNN Indonesia",
-      "published": "2026-11-27T11:10:09+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/27/update-sar-korban-tambang-emas-ilegal-bogor-jadi-27-orang-1795776766329_169.jpeg?w=360&q=90"
     },
     {
       "title": "Marc Marquez pensiun setelah delapan kali juara MotoGP",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "US shoppers get ready for Black Friday and Cyber Monday",
+      "summary": "Cyber Monday and Black Friday compete for shoppers, but discounts on electronics may peak after the weekend frenzy.",
+      "url": "https://www.aljazeera.com/economy/2026/11/27/us-shoppers-get-ready-for-black-friday-and-cyber-monday?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-27T10:59:27+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b0874fb-1795716347.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "Trump calling Putin ‘friend’ like declaring friendship with Hitler during WW2, Zelenskyy says – Europe live",
       "summary": "Ukraine’s president labels US counterpart’s comments ‘strange’ and urges Washington to increase pressure on Moscow in Madrid Last night’s debate between the leaders of Spain’s four biggest political parties was a rambling, ratty and revealing spectacle in which Ada Colau, the leader of the leftwing Broad Front, is generally agreed to have come out on top. Continue reading...",
       "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
       "source": "The Guardian",
       "published": "2026-11-27T10:52:28+00:00",
       "image": "https://i.guim.co.uk/img/media/354c5812d4a80c57aef34315306550f125254a44/222_0_3863_3089/master/3863.jpg?width=140&quality=85&auto=format&fit=max&s=a276fc4e051a91037a091bc654e57435"
-    },
-    {
-      "title": "Man United vs Brentford: Premier League – Pochettino, predictions, lineups",
-      "summary": "Relegation-threatened Manchester United host Brentford in new manager Mauricio Pochettino's first home game in charge.",
-      "url": "https://www.aljazeera.com/sports/2026/11/27/manchester-united-brentford-pochettino-first-home-game-premier-league-football?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-27T10:48:54+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2306468981-1795694623.jpg?resize=1920%2C1440"
     },
     {
       "title": "Uganda to withdraw troops from DR Congo town amid diplomatic row",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed57/live/574552c0-ea45-11f1-9fc4-ef897a334b75.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: TimeoutError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
