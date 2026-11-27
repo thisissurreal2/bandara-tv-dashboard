@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T22:45:26.967916+00:00",
+  "updated_at": "2026-11-27T23:00:36.417628+00:00",
   "national": [
     {
       "title": "Bologna gagal tembus pertahanan Venezia dan tertahan tanpa gol",
@@ -28,6 +28,14 @@
   ],
   "international": [
     {
+      "title": "Kenyan cult leader guilty of manslaughter more than 123 starvation deaths",
+      "summary": "Paul Mackenzie, already serving 200 years, is the founder and pastor of the Good News International Church.",
+      "url": "https://www.aljazeera.com/news/2026/11/27/kenyan-cult-leader-guilty-of-manslaughter-more-than-123-starvation-deaths?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-27T22:33:17+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/epa_6b09fbef6bcd-1795816431.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "Thousands still without power after storms that snarled Thanksgiving travel",
       "summary": "Heavy rains and high winds downed trees and power lines and led to water rescues from New York to Virginia Skies cleared along the US eastern seaboard on Friday, and power was being restored to hundreds of thousands of customers whose Thanksgiving plans were disrupted by heavy rains and high winds that swept over the region a day earlier. The storms snarled travel, downed trees and power lines and led to water rescues from New York to Virginia. At its peak, nearly a million customers were without power . Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/nov/27/heavy-rain-wind-flooding-us-thanksgiving",
@@ -42,15 +50,11 @@
       "source": "BBC",
       "published": "2026-11-27T22:03:46+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6398/live/0d6eb230-5b6c-11f1-a914-b7de1b16af02.jpg"
-    },
-    {
-      "title": "‘Activists of rhythm’: Fighting Spain’s far-right through art",
-      "summary": "Madrid’s La Parceria and Espacio Afro cultural centres are using the arts to fight racism and boost migrant voices.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-27T21:59:11+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795816686.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
