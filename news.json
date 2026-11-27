@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-27T02:15:33.299947+00:00",
+  "updated_at": "2026-11-27T02:28:11.293746+00:00",
   "national": [
+    {
+      "title": "Barantin Ajak Masyarakat Bantu Awasi Titik Keluar-Masuk RI",
+      "summary": "Kepala Barantin, Abdul Kadir Karding, ungkap kebutuhan pegawai mencapai 17.000. Program Sahabat Karantina diperluas untuk edukasi dan pengawasan biosekuriti.",
+      "url": "https://news.detik.com/berita/d-8772157/barantin-ajak-masyarakat-bantu-awasi-titik-keluar-masuk-ri",
+      "source": "Detik",
+      "published": "2026-11-27T02:22:48+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/27/barantin-1795746154736_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Peran Pegawai BUMD Bogor di Kasus Makar Listyo Cs: Bikin Kaus ACAB",
       "summary": "Pegawai BUMD Bogor, NE, terlibat dugaan makar. Dia diperintah eks Kapolres untuk mencetak kaus kontroversial.",
@@ -8,14 +16,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-27T02:12:00+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/11/24/konferensi-pers-bareksrim-polri-terkait-dugaan-tindak-pidana-makar-1795489195328_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Akhir Pekan di Semarang? Ada JATENG FEST 2026, Gratis untuk Masyarakat",
-      "summary": "JATENG FEST 2026 hadir sebagai festival interaktif di Jawa Tengah, menawarkan diskusi, pertunjukan musik, dan pameran UMKM. Saksikan secara gratis!",
-      "url": "https://news.detik.com/berita/d-8772118/akhir-pekan-di-semarang-ada-jateng-fest-2026-gratis-untuk-masyarakat",
-      "source": "Detik",
-      "published": "2026-11-27T01:54:05+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/27/jateng-fest-2026-1795744432580_169.jpeg?w=360&q=90"
     },
     {
       "title": "Kemenekraf ajak pelaku ekraf manfaatkan AI untuk dukung bisnis digital",
@@ -32,7 +32,7 @@
       "summary": "The right-leaning ruling bloc led by the National Party has fallen short of the majority needed to govern.",
       "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-27T01:45:30+00:00",
+      "published": "2026-11-27T02:22:37+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f08/live/c2e7e400-ea01-11f1-976c-6d185a1abdb9.jpg"
     },
     {
@@ -52,9 +52,5 @@
       "image": "https://i.guim.co.uk/img/media/15bb64d1f1fa3f1840538248518d963a2c8d39e8/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=43d6b064ba99972f2f4003cf962441bc"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
