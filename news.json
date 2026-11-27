@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-27T22:30:34.400948+00:00",
+  "updated_at": "2026-11-27T22:45:26.967916+00:00",
   "national": [
+    {
+      "title": "Bologna gagal tembus pertahanan Venezia dan tertahan tanpa gol",
+      "summary": "Bologna bermain imbang tanpa gol ketika bertandang ke markas Venezia pada pertandingan pekan ke-13 Liga Italia di ...",
+      "url": "https://www.antaranews.com/berita/5884155/bologna-gagal-tembus-pertahanan-venezia-dan-tertahan-tanpa-gol",
+      "source": "ANTARA",
+      "published": "2026-11-27T22:26:36+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/28/image-2026-11-28T050156.025.jpg"
+    },
     {
       "title": "Hamas Sebut Putra Khalil al-Hayya Jadi Target Serangan Terbaru Israel",
       "summary": "Hamas mengklaim Israel mencoba membunuh putra dari pemimpin Khalil al-Hayya dalam snerangan terbaru di Gaza.",
@@ -16,14 +24,6 @@
       "source": "CNN Indonesia",
       "published": "2026-11-27T19:30:55+00:00",
       "image": "https://akcdn.detik.net.id/visual/2025/08/15/sby-dan-joko-widodo-hadiri-sidang-tahunan-mpr-1755225482227_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "BI prakirakan kredit perbankan pada 2027 tumbuh di kisaran 9-13 persen",
-      "summary": "Bank Indonesia (BI) memprakirakan kredit perbankan pada 2027 tumbuh pada kisaran 9–13 persen, meningkat dari ...",
-      "url": "https://www.antaranews.com/berita/5884091/bi-prakirakan-kredit-perbankan-pada-2027-tumbuh-di-kisaran-9-13-persen",
-      "source": "ANTARA",
-      "published": "2026-11-27T18:54:07+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/28/WhatsApp-Image-2026-11-27-at-19.42.46-2.jpeg"
     }
   ],
   "international": [
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795816686.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
