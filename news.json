@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-27T10:30:35.541985+00:00",
+  "updated_at": "2026-11-27T10:45:28.411436+00:00",
   "national": [
+    {
+      "title": "Polisi Tetapkan 2 Tersangka Kasus Gurandil Tewas di Tambang Ilegal Bogor",
+      "summary": "Polisi menetapkan dua tersangka dalam tragedi penambangan emas ilegal di Pongkor, Bogor. 13 jenazah telah dievakuasi, 14 orang masih hilang.",
+      "url": "https://news.detik.com/berita/d-8773062/polisi-tetapkan-2-tersangka-kasus-gurandil-tewas-di-tambang-ilegal-bogor",
+      "source": "Detik",
+      "published": "2026-11-27T10:38:15+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/27/polisi-menetapkan-dua-tersangka-kasus-gurandil-tewas-di-tambang-ilegal-pongkor-1795775825186_169.jpeg?w=360&q=90"
+    },
     {
       "title": "4 Mahasiswa FH UGM Ditahan Usai Jadi Tersangka Ricuh Demo Yogyakarta",
       "summary": "Empat mahasiswa FH UGM ditahan terkait kericuhan pasca-demo di Yogyakarta. Polda DIY menetapkan delapan tersangka, termasuk satu buron.",
@@ -16,45 +24,33 @@
       "source": "ANTARA",
       "published": "2026-11-27T10:11:36+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/27/IMG_3003.jpg"
-    },
-    {
-      "title": "Hasto Minta Sidang MPR Ikut Konstitusi, PDIP Sudah Tentukan Amran atau Sugiono?",
-      "summary": "Sekjen PDIP Hasto Kristiyanto meminta MPR menggelar sidang pengisian jabatan wakil presiden sesuai konstitusi. Lalu, siapa calon wapres yang didukung PDIP?",
-      "url": "https://news.detik.com/berita/d-8773015/hasto-minta-sidang-mpr-ikut-konstitusi-pdip-sudah-tentukan-amran-atau-sugiono",
-      "source": "Detik",
-      "published": "2026-11-27T10:04:56+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/27/sekjen-pdip-hasto-beliadetikcom-1795773881803_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
     {
-      "title": "Labour backs bill to stop lawsuits used to silence journalists and whistleblowers",
-      "summary": "Anti-Slapps campaigners criticise draft bill, saying process of dismissing claims will be challenging and costly The government is to back legislation aimed at preventing wealthy and powerful individuals using the courts to silence critics and curb free speech. Justice minister Sarah Sackman told parliament on Friday that Labour would support a private member’s bill sponsored by a Conservative MP, Sir John Whittingdale, who is spearheading the latest attempt to bring in anti-Slapp measures. Continue reading...",
-      "url": "https://www.theguardian.com/media/2026/nov/27/labour-backs-bill-lawsuits-journalists-whistleblowers-slapps",
-      "source": "The Guardian",
-      "published": "2026-11-27T10:14:03+00:00",
-      "image": "https://i.guim.co.uk/img/media/18a0e7b9f66bc93973a6114fb4fac2215545e754/831_0_4169_3335/master/4169.jpg?width=140&quality=85&auto=format&fit=max&s=0dda5c831a113598682c0408c629b29f"
-    },
-    {
-      "title": "Democrats want to end Trump’s Iran war. But how different are they?",
-      "summary": "Decades of bipartisan pressure on Tehran raises questions about how far Democrats are willing to change US policy.",
-      "url": "https://www.aljazeera.com/news/2026/11/27/democrats-want-to-end-trumps-iran-war-but-how-different-are-they?traffic_source=rss",
+      "title": "Australia sanctions suspects in Iran-linked anti-Semitic attacks",
+      "summary": "Sanctions aim to restrict funds for two men alleged to have planned attacks for IRGC.",
+      "url": "https://www.aljazeera.com/news/2026/11/27/australia-sanctions-suspects-in-iran-linked-anti-semitic-attacks?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-27T09:43:01+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2024/07/2023-05-16T204100Z_1454706077_RC2WZ0ATGSU9_RTRMADP_3_USA-DEBT-1721708842.jpg?resize=1920%2C1440"
+      "published": "2026-11-27T10:31:20+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2025/08/getty_68ae4c0709-1756253191.jpg?resize=1920%2C1440"
     },
     {
-      "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
-      "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
-      "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump calling Putin ‘friend’ like declaring friendship with Hitler during WW2, Zelenskyy says – Europe live",
+      "summary": "Ukraine’s president labels US counterpart’s comments ‘strange’ and urges Washington to increase pressure on Moscow And since Spain’s Pedro Sánchez skipped the summit altogether as he’s dramatically fighting for his future ahead of this Sunday’s parliamentary election… … let’s cross to Madrid for an update on last night’s TV debate… Continue reading...",
+      "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
+      "source": "The Guardian",
+      "published": "2026-11-27T10:28:23+00:00",
+      "image": "https://i.guim.co.uk/img/media/354c5812d4a80c57aef34315306550f125254a44/222_0_3863_3089/master/3863.jpg?width=140&quality=85&auto=format&fit=max&s=a276fc4e051a91037a091bc654e57435"
+    },
+    {
+      "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+      "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain.",
+      "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-27T09:07:48+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20f7/live/d0e75f10-e9e6-11f1-ab41-f1f84c0c758a.jpg"
+      "published": "2026-11-27T10:26:28+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/627c/live/2d067240-ea4b-11f1-b220-b9f21129b546.jpg"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
