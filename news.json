@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-27T01:30:33.830970+00:00",
+  "updated_at": "2026-11-27T01:45:24.247708+00:00",
   "national": [
+    {
+      "title": "Mendagri Tito Dampingi Presiden Prabowo Musnahkan 601,7 Ton Narkoba",
+      "summary": "Mendagri Tito Karnavian dan Presiden Prabowo Subianto memusnahkan 601,7 ton narkoba. Prabowo apresiasi kinerja Polri dalam pengungkapan kasus penipuan daring.",
+      "url": "https://news.detik.com/berita/d-8772095/mendagri-tito-dampingi-presiden-prabowo-musnahkan-601-7-ton-narkoba",
+      "source": "Detik",
+      "published": "2026-11-27T01:38:29+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/27/kemendagri-1795743487830_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Banjir di Aceh Meluas: Puluhan Desa Masih Terendam, Ribuan Terdampak",
       "summary": "Banjir masih menggenangi Subulussalam dan Aceh Singkil, dampak hujan deras. 10.999 jiwa terdampak di Subulussalam, 14.004 jiwa di Aceh Singkil.",
@@ -16,17 +24,17 @@
       "source": "ANTARA",
       "published": "2026-11-27T01:12:05+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/27/unjuk-rasa-buruh-di-surabaya-1qgwf-dom.jpg"
-    },
-    {
-      "title": "Temuan Mayat Wanita Dibungkus Sarung di Bogor Diduga Korban Pembunuhan",
-      "summary": "Penemuan mayat wanita terbungkus sarung di Desa Ciangsana, Bogor, diduga korban pembunuhan. Polisi masih menyelidiki identitas dan penyebab kematian.",
-      "url": "https://news.detik.com/berita/d-8772030/temuan-mayat-wanita-dibungkus-sarung-di-bogor-diduga-korban-pembunuhan",
-      "source": "Detik",
-      "published": "2026-11-27T00:36:31+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/25/penemuan-mayat-wanita-di-gunung-putri-bogor-dokistimewa-1795617397444_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
+    {
+      "title": "Global news agency AFP reports cyberattack, shuts down content platform",
+      "summary": "France's cybersecurity chief urges collective action to combat unprecedented threat levels in the nation.",
+      "url": "https://www.aljazeera.com/news/2026/11/27/global-news-agency-afp-reports-cyberattack-shuts-down-content-platform?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-27T01:07:44+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6b08c392-1795736466.jpg?resize=1920%2C1440"
+    },
     {
       "title": "Threat from China looms large over Taiwan’s local elections",
       "summary": "Taiwanese officials raise alarm over interference by China in elections that will shape fortunes of ruling party Taiwanese voters go to the polls on Saturday in closely watched local elections that will shape the fortunes of the ruling Democratic Progressive party (DPP) as it navigates an increasingly precarious set of relationships on the global stage. Saturday’s vote will choose mayors, council members and other local leaders across 22 districts. Unlike the presidential elections, in which foreign policy is often a key issue, the local elections, held every four years , are largely focused on bread-and-butter issues such as housing affordability and wealth distribution. Continue reading...",
@@ -42,19 +50,7 @@
       "source": "BBC",
       "published": "2026-11-27T00:52:11+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af5b/live/7a140030-e9f0-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "title": "Inside Ukraine’s power crisis amid its war with Russia",
-      "summary": "Electricity and water shortages have become part of daily life in Ukraine’s capital.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/inside-ukraines-power-crisis-amid-its-war-with-russia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-27T00:46:19+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795740363.jpg?resize=1920%2C1080&quality=80"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
