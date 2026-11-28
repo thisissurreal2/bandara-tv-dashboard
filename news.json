@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T13:30:33.456509+00:00",
+  "updated_at": "2026-11-28T13:45:26.837451+00:00",
   "national": [
     {
       "title": "Polisi Kantongi 2 Video Baru Pengeroyokan Siswi di Malang: Ada Pelaku Lain",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
-      "title": "Victorian election 2026: Coalition wins majority government as Labor suffers historic defeat",
-      "summary": "Jess Wilson to become state’s first popularly elected female premier as Ben Carroll loses seat in 2026 state election, and Greens and One Nation surge Victoria election live results: votes tracker, map and seat counts ‘Worse than anyone feared’: how Victorian Labor unravelled after 12 years in government See all of our Victorian state election coverage Get our daily political email , free app or daily news podcast Victorian Labor has suffered a historic defeat, ending 12 years of government, with the Coalition winning a majority and the Greens securing a record number of seats. One Nation was on course to win more than 20% of the primary vote, but struggled to pick up lower house seats on a night when huge swings and three- or even four-party contests in many electorates made preference flows difficult to calculate. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/2026/nov/28/victoria-election-2026-winner-announced-who-won-poll-win-coalition-labor-victorian-state-results",
-      "source": "The Guardian",
-      "published": "2026-11-28T13:06:42+00:00",
-      "image": "https://i.guim.co.uk/img/media/70dd71dda5062cecb8d206d21febef2cfb8c172f/275_0_3756_3005/master/3756.jpg?width=140&quality=85&auto=format&fit=max&s=e4e17eee86c9a1c29970481f3d4f53ef"
-    },
-    {
       "title": "Argentina's bid to stop Falklands oil drilling rejected",
       "summary": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
       "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-28T13:02:39+00:00",
+      "published": "2026-11-28T13:36:36+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1615/live/b6e6bd30-eb1d-11f1-8743-3f686b14075c.jpg"
     },
     {
-      "title": "Norse Atlantic ends flights: How Iran war continues to batter aviation",
-      "summary": "The Norwegian budget carrier is the latest airline to fold under fuel costs driven by the Strait of Hormuz crisis.",
-      "url": "https://www.aljazeera.com/news/2026/11/28/norse-atlantic-ends-flights-how-iran-war-continues-to-batter-aviation?traffic_source=rss",
+      "title": "Jess Wilson’s rapid rise is hard to believe - but Victorian Labor’s collapse has been years in the making",
+      "summary": "Labor faces possibility of relegation to crossbench as Coalition claims majority government and Greens celebrate ‘wild’ success Full report: Victorian Coalition wins majority government as Labor suffers historic defeat ‘Worse than anyone feared’: how Victorian Labor unravelled after 12 years in government Victoria election live results: votes tracker, map and seat counts It is difficult to overstate how far the Victorian Coalition has come. In the days after Christmas 2024, Brad Battin toppled John Pesutto as Liberal leader after a court found the Hawthorn MP defamed his colleague. A million-dollar loan by the party to Pesutto to help cover his legal costs also ended up in court. Battin lasted less than a year before his leadership also came undone and he was replaced by Jess Wilson in November 2025. Continue reading...",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/28/jess-wilson-coalition-rise-victorian-labor-collapse-election-2026-ntwnfb",
+      "source": "The Guardian",
+      "published": "2026-11-28T13:31:11+00:00",
+      "image": "https://i.guim.co.uk/img/media/410de3602ab2ab8903a9af5f132992edaef060f8/918_0_6498_5199/master/6498.jpg?width=140&quality=85&auto=format&fit=max&s=4ba3b5b51963d6026bab8c5d5e3eb66a"
+    },
+    {
+      "title": "Court rejects Argentina’s request to stop UK oil activity near Falklands",
+      "summary": "An international tribunal refuses Buenos Aires's application, giving the green light to the project off the disputed region.",
+      "url": "https://www.aljazeera.com/news/2026/11/28/court-rejects-argentinas-request-to-stop-uk-oil-activity-near-falklands?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-28T12:56:53+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-27T084023Z_1981778991_RC2KVS9E178Z_RTRMADP_3_NORSE-ATLANTIC-LIQUIDITY-1795868147_9dd6c1-1795868228.jpg?resize=1200%2C630&quality=80"
+      "published": "2026-11-28T13:24:24+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6af429fa4f-1794386426.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
