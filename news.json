@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T10:45:25.400340+00:00",
+  "updated_at": "2026-11-28T10:51:11.840481+00:00",
   "national": [
     {
       "title": "Puncak HUT PGRI, Walkot Tangerang Beberkan Program Dukungan untuk Guru",
@@ -52,5 +52,9 @@
       "image": "https://i.guim.co.uk/img/media/bb2db059012c85c6edac6613a79e6cc7f16055f1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=033aba6c79bd77cdb16e282fc8422b86"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
