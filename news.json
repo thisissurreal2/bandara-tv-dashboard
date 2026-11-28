@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T00:00:37.991733+00:00",
+  "updated_at": "2026-11-28T00:15:29.914980+00:00",
   "national": [
     {
       "title": "Cerita Rektor Unhas Soal Amran yang Ber-IPK 4 dan Cum Laude Kala S2-S3",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "US disables ship attempting to breach Iran blockade",
+      "summary": "The US military says it disabled a commercial ship after it left an Iranian port and ignored warnings to stop.",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-27T23:55:16+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795823699.jpg?resize=1920%2C1080&quality=80"
+    },
+    {
       "title": "Purse found of woman, 24, swept from California beach three weeks ago",
       "summary": "Se Nah Park was overwhelmed by a wave at the notorious Panther Beach The purse of a 24-year-old who was swept into the ocean at a notorious California beach three weeks ago was found on Wednesday, as the west coast saw record high king tides. The Santa Cruz county sheriff’s office confirmed that Se Nah Park’s purse was found by a beachgoer at 4 Mile Beach, south of Panther Beach, where she was swept away into the ocean on 8 November. Continue reading...",
       "url": "https://www.theguardian.com/us-news/2026/nov/27/purse-found-woman-california-beach-wave",
       "source": "The Guardian",
       "published": "2026-11-27T23:43:00+00:00",
       "image": "https://i.guim.co.uk/img/media/87e0cce41f886cd60d1d8b165378056b92b1eacc/0_0_1730_1384/master/1730.jpg?width=140&quality=85&auto=format&fit=max&s=193df2b4178c46b858edcdba73de27cc"
-    },
-    {
-      "title": "Will Taiwan vote to revive nuclear power – and why does that matter for AI?",
-      "summary": "Voters will decide on Saturday whether to scrap the country's 'nuclear-free homeland' policy.",
-      "url": "https://www.aljazeera.com/news/2026/11/27/will-taiwan-vote-to-revive-nuclear-power-and-why-does-that-matter-for-ai?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-27T23:09:04+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/getty_6b09705fad-1795780703.jpg?resize=1920%2C1440"
     },
     {
       "title": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c091/live/9ead0190-ea44-11f1-9fc4-ef897a334b75.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
