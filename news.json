@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-28T06:15:26.590670+00:00",
+  "updated_at": "2026-11-28T06:30:35.131335+00:00",
   "national": [
+    {
+      "title": "Janji Gubernur Jatim ke Ibunda Siswi Korban Perundungan di Malang",
+      "summary": "Gubernur Khofifah berjanji memberangkatkan ibunda SN, siswi yang tewas akibat penganiayaan, untuk umrah. Ia juga mendukung keadilan bagi korban dan keluarga.",
+      "url": "https://www.cnnindonesia.com/nasional/20261021134351-20-1417960/janji-gubernur-jatim-ke-ibunda-siswi-korban-perundungan-di-malang",
+      "source": "CNN Indonesia",
+      "published": "2026-11-28T06:25:24+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/27/ibunda-siswi-malang-yang-tewas-minta-keadilan-1795766710283_169.jpeg?w=360&q=90"
+    },
     {
       "title": "Dudung: Pemerintah dampingi keluarga korban perundungan di Malang",
       "summary": "Pemerintah memastikan bertanggung jawab dalam memberikan perlindungan dan pendampingan kepada keluarga korban ...",
@@ -16,14 +24,6 @@
       "source": "Detik",
       "published": "2026-11-28T06:02:48+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/28/sumur-bor-bangkalan-semburkan-api-1795842487887_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Kasus Korupsi yang Menjerat Eks Ajudan Jokowi, Letjen Widi Prasetijono",
-      "summary": "Letjen Widi Prasetijono dijatuhi hukuman 5 tahun penjara dan denda Rp200 juta dalam kasus korupsi penjualan lahan Kebun Caruy, Cilacap.",
-      "url": "https://www.cnnindonesia.com/nasional/20261127183602-12-1432501/kasus-korupsi-yang-menjerat-eks-ajudan-jokowi-letjen-widi-prasetijono",
-      "source": "CNN Indonesia",
-      "published": "2026-11-28T05:10:18+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/27/sidang-putusan-tppu-pengadaan-lahan-bumd-cilacap-1795759589473_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
@@ -32,7 +32,7 @@
       "summary": "Follow live updates today and results tonight as Labor’s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria’s state election Victorian election 2026 guide: what you need to know Confused about who to vote for? Check the parties’ key promises and policies See all of our Victorian state election coverage Get our daily political email , free app or daily news podcast Federal politicians largely absent from state election Just following on from the last post, it is notable that the prime minister, Anthony Albanese , did not do a press conference with the state premier, Ben Carroll , during the campaign, and the federal Liberal leader, Angus Taylor , did just one press conference with his state counterpart, Jess Wilson , during the campaign. I give a shoutout to all those Labor party workers who are handing out how-to-votes, the candidates who are working their guts out, but they know that it’s going to be very, very tough. And we know that this election campaign has been dominated by really the sorts of issues that you get when a government’s been in for more than 10 years. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-28T06:03:16+00:00",
+      "published": "2026-11-28T06:16:07+00:00",
       "image": "https://i.guim.co.uk/img/media/bb2db059012c85c6edac6613a79e6cc7f16055f1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=033aba6c79bd77cdb16e282fc8422b86"
     },
     {
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faea/live/b54be270-eadc-11f1-81da-2ff518b71d00.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
