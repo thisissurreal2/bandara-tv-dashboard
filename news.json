@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-11-28T15:45:25.714381+00:00",
+  "updated_at": "2026-11-28T16:00:38.430388+00:00",
   "national": [
     {
-      "title": "Wagub Jatim: 4 Tersangka Pengeroyokan Siswi MalangDikeluarkan Sekolah",
+      "title": "Wagub Jatim: 4 Tersangka Pengeroyokan Siswi Malang Dikeluarkan Sekolah",
       "summary": "Wagub Jatim Emil Dardak menyebut sekolah keempat tersangka pengeroyokan siswi SMAN 7 Malang menetapkan mereka tak lagi berstatus siswa.",
-      "url": "https://www.cnnindonesia.com/nasional/20261128223510-20-1432788/wagub-jatim-4-tersangka-pengeroyokan-siswi-malangdikeluarkan-sekolah",
+      "url": "https://www.cnnindonesia.com/nasional/20261128223510-20-1432788/wagub-jatim-4-tersangka-pengeroyokan-siswi-malang-dikeluarkan-sekolah",
       "source": "CNN Indonesia",
       "published": "2026-11-28T15:40:06+00:00",
       "image": "https://akcdn.detik.net.id/visual/2026/08/15/khofifah-emil-the-trans-luxury-hotel-surabaya-opsi-wisata-istimewa-dan-dorong-ekonomi-jatim-1786755156868_169.jpeg?w=360&q=90"
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
+      "title": "Arsenal vs Manchester City: Premier League – teams, prediction, lineups",
+      "summary": "Al Jazeera takes a closer look at the early season title showdown as EPL holders and leaders Arsenal host Man City.",
+      "url": "https://www.aljazeera.com/sports/2026/11/28/arsenal-vs-manchester-city-premier-league-teams-prediction-lineups?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-28T15:37:38+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/GettyImages-2306533123-1795878515.jpg?resize=1200%2C675"
+    },
+    {
       "title": "‘Victory for democracy’: Taiwan’s ruling party secures best result in a decade",
       "summary": "DPP nearly doubles number of constituencies it controls, with outcome expected to anger Beijing Taiwan’s ruling party secured its best result in a decade in Saturday’s local elections , nearly doubling the number of constituencies it controls, in an outcome expected to anger Beijing. The Democratic Progressive party (DPP) won at least nine of Taiwan’s 22 mayoral and county magistrate races, up from five in its disastrous showing in the last local elections four years ago. Continue reading...",
       "url": "https://www.theguardian.com/world/2026/nov/28/taiwan-ruling-party-dpp-secures-best-result-in-decade-china",
       "source": "The Guardian",
       "published": "2026-11-28T15:29:52+00:00",
       "image": "https://i.guim.co.uk/img/media/1f0eb7fd86d1d5b48750744f4d17758191b19de3/500_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=4f78362ca34c955940579c9c2a2263c6"
-    },
-    {
-      "title": "US environmental agency says no rise in contamination after Iowa detonation",
-      "summary": "US Army blew up five tonnes of dangerous outdated lead azide used to make munitions.",
-      "url": "https://www.aljazeera.com/news/2026/11/28/us-environmental-agency-says-no-rise-in-contamination-after-iowa-detonation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-28T15:22:35+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0ae757c4b7-1795876695.jpg?resize=1920%2C1440"
     },
     {
       "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bd9/live/19b5f490-eb1d-11f1-8743-3f686b14075c.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
