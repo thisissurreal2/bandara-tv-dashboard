@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-28T15:00:40.175440+00:00",
+  "updated_at": "2026-11-28T15:15:26.926000+00:00",
   "national": [
     {
-      "title": "'Gerbang' di Margonda Pembatas Jabar dan Jakarta",
-      "summary": "Gapura perbatasan Jabar dan Jakarta di Jalan Margonda Raya telah selesai dibangun. Dilengkapi tempat duduk, dan lampu, proyek ini menelan biaya Rp 3 miliar.",
-      "url": "https://news.detik.com/berita/d-8774631/gerbang-di-margonda-pembatas-jabar-dan-jakarta",
+      "title": "Teka-teki Pria Pakai Badge Polisi Ancam Pengemudi di Bekasi",
+      "summary": "Seorang pria mengancam pengemudi mobil di parkiran mal Bekasi dengan badge polisi. Kasus ini sedang diselidiki polisi setelah laporan korban.",
+      "url": "https://news.detik.com/berita/d-8774644/teka-teki-pria-pakai-badge-polisi-ancam-pengemudi-di-bekasi",
       "source": "Detik",
-      "published": "2026-11-28T14:38:24+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/27/pemprov-jawa-barat-jabar-telah-menyelesaikan-pembangunan-gapura-perbatasan-antara-jabar-dan-dki-jakarta-devidetikcom-1795772472874_169.jpeg?w=360&q=90"
+      "published": "2026-11-28T15:00:54+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/28/viral-pria-memakai-badge-polisi-mengancam-pengemudi-mobil-di-kota-bekasi-1795846709249_169.png?w=360&q=90"
     },
     {
       "title": "Munarman Kaitkan Dalang Tragedi KM 50 dengan Kasus Penyadapan Prabowo",
@@ -28,12 +28,20 @@
   ],
   "international": [
     {
-      "title": "High-security prisoner used soap to escape despite being handcuffed and chained to officer",
-      "summary": "Exclusive: Inmate from HMP Manchester now back in custody after 13 hours on the run A prisoner from one of England and Wales’s most dysfunctional high-security jails is believed to have used soap to help escape from officers while visiting a hospital for treatment. The 36-year-old detained at HMP Manchester managed to slip away despite being cuffed and chained to an officer, sources told the Guardian. He is believed to have lathered his metal cuff with liquid soap and slipped his hand out while being given privacy to use a bathroom. Continue reading...",
-      "url": "https://www.theguardian.com/society/2026/nov/28/high-security-prisoner-used-soap-to-escape-despite-being-handcuffed-and-chained-to-officer",
+      "title": "Violence erupts at anti-government protests in Albania",
+      "summary": "Violence erupts at anti-government protests in Albania",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/violence-erupts-at-anti-government-protests-in-albania?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-28T14:57:51+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795877808.jpg?resize=1624%2C1080&quality=80"
+    },
+    {
+      "title": "Police make 33 arrests as part of child sexual abuse inquiry in Southampton",
+      "summary": "One man due to be sentenced in January after pleading guilty to sexually assaulting 17-year-old girl Police investigating claims of widespread sexual abuse of children in Southampton have arrested more than 30 people. One man is due to be sentenced in January after pleading guilty to sexually assaulting a 17-year-old girl, while another man will stand trial next month charged with raping a 15-year-old. Continue reading...",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/28/child-sexual-abuse-investigation-southampton",
       "source": "The Guardian",
-      "published": "2026-11-28T14:22:04+00:00",
-      "image": "https://i.guim.co.uk/img/media/2c85d9947f76a75500e3598151cd19ae87eda3c1/311_0_6707_5368/master/6707.jpg?width=140&quality=85&auto=format&fit=max&s=72bdd976406801d5661c1afbfdde8f7f"
+      "published": "2026-11-28T14:55:46+00:00",
+      "image": "https://i.guim.co.uk/img/media/3eb8b0c17aabec70b2d063e9b84e569f690eb003/183_0_3544_2835/master/3544.jpg?width=140&quality=85&auto=format&fit=max&s=7b784bc69b0f7b286e4dfa7c9c2fc512"
     },
     {
       "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
@@ -42,19 +50,7 @@
       "source": "BBC",
       "published": "2026-11-28T14:10:01+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bd9/live/19b5f490-eb1d-11f1-8743-3f686b14075c.jpg"
-    },
-    {
-      "title": "Iran points to Europe’s war role after Italians killed in Kuwait strike",
-      "summary": "Italy and Kuwait say an Iranian drone was involved, but Tehran says the US and Israel may be looking to escalate war.",
-      "url": "https://www.aljazeera.com/news/2026/11/28/iran-points-to-europes-war-role-after-italians-killed-in-kuwait-strike?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-28T13:42:53+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0855ffcdbc7-1795708415.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
