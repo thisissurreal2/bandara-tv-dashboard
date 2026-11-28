@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T15:15:26.926000+00:00",
+  "updated_at": "2026-11-28T15:30:35.157992+00:00",
   "national": [
     {
       "title": "Teka-teki Pria Pakai Badge Polisi Ancam Pengemudi di Bekasi",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bd9/live/19b5f490-eb1d-11f1-8743-3f686b14075c.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
