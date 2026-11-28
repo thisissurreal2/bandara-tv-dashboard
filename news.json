@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-11-28T01:45:27.646373+00:00",
+  "updated_at": "2026-11-28T02:00:38.428944+00:00",
   "national": [
     {
-      "title": "Massa Rusak Rumah Pelaku Penganiayaan Maut di Malang, 2 Mobil Dibakar",
-      "summary": "Ratusan orang menggeruduk dan merusak rumah salah satu terduga pelaku penganiayaan maut siswi SMA Kabupaten Malang, Jumat (27/11) malam.",
-      "url": "https://www.cnnindonesia.com/nasional/20261126144126-12-1431881/massa-rusak-rumah-pelaku-penganiayaan-maut-di-malang-2-mobil-dibakar",
+      "title": "KPAI Minta Kasus Pengeroyokan Siswi di Malang hingga Tewas Diusut Tuntas",
+      "summary": "KPAI mendesak penyelidikan mendalam atas kasus pengeroyokan maut siswi di Malang. Perlindungan anak dan penegakan hukum jadi fokus utama.",
+      "url": "https://news.detik.com/berita/d-8773719/kpai-minta-kasus-pengeroyokan-siswi-di-malang-hingga-tewas-diusut-tuntas",
+      "source": "Detik",
+      "published": "2026-11-28T01:54:31+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/05/26/polisi-bongkar-modus-live-streaming-challenge-bermuatan-pornografi-1779780389117_169.jpeg?w=360&q=90"
+    },
+    {
+      "title": "Ibu Korban Pengeroyokan Maut di Malang Minta Keadilan untuk Putrinya",
+      "summary": "Mistiani, ibu dari SN, pelajar SMA berusia 17 tahun di Malang yang tewas setelah dikeroyok empat remaja sebayanya, meminta keadilan atas kematian putrinya.",
+      "url": "https://www.cnnindonesia.com/nasional/20261128083913-12-1432587/ibu-korban-pengeroyokan-maut-di-malang-minta-keadilan-untuk-putrinya",
       "source": "CNN Indonesia",
-      "published": "2026-11-28T01:30:47+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2024/09/29/situasi-keamanan-pascapenetapan-cagub-dan-wagub-papua-barat-daya_169.jpeg?w=360&q=90"
+      "published": "2026-11-28T01:50:14+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/27/ibunda-siswi-malang-yang-tewas-minta-keadilan-1795766710360_169.jpeg?w=360&q=90"
     },
     {
       "title": "OJK: Tidak ada kekhawatiran terhadap kondisi likuiditas perbankan",
@@ -16,23 +24,15 @@
       "source": "ANTARA",
       "published": "2026-11-28T01:24:51+00:00",
       "image": "https://img.antaranews.com/cache/800x533/2026/11/28/IMG_0006.jpg"
-    },
-    {
-      "title": "Anggota DPR: Meninggalnya Siswi SMA di Malang Peristiwa Mengerikan",
-      "summary": "Anggota DPR Hetifah Sjaifudian berduka atas meninggalnya siswi SMA di Malang akibat pengeroyokan. Dia soroti lemahnya perlindungan anak di Indonesia",
-      "url": "https://news.detik.com/berita/d-8773699/anggota-dpr-meninggalnya-siswi-sma-di-malang-peristiwa-mengerikan",
-      "source": "Detik",
-      "published": "2026-11-28T01:21:10+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2025/04/22/ketua-komisi-x-dpr-ri-hetifah-sjaifudian-1745274573046_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
     {
       "title": "Victorian election 2026 live: voters head to the polls as Coalition seeks to topple Labor – latest news",
-      "summary": "Follow live updates today and results tonight as Labor’s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria’s state election Victorian election 2026 guide: what you need to know Confused about who to vote for? Check the parties’ key promises and policies See all of our Victorian state election coverage Get our daily political email , free app or daily news podcast ‘Greens surge is coming’, Victorian leader says The Victorian Greens leader, Ellen Sandell , told ABC’s Weekend Breakfast the Greens are competitive in seats Labor has held for 99 years, showing the “Greens surge is coming” amid disaffection with Labor. What people are telling me is that they are just so dismayed and disappointed at how Labor has moved away from their traditional values. They have really followed the Liberals and One Nation down a rightwing rabbit-hole, and people are sick of that. It’s not about me. If I’m given that honour, we’re absolutely ready and I’m ready. But this is about Victorians and fixing this state. Continue reading...",
+      "summary": "Follow live updates today and results tonight as Labor’s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria’s state election Victorian election 2026 guide: what you need to know Confused about who to vote for? Check the parties’ key promises and policies See all of our Victorian state election coverage Get our daily political email , free app or daily news podcast Keysborough Gardens primary school poll closed The Victorian Electoral Commussion has said the voting booth at Keysborough Gardens primary school has been closed for the day due to flooding. There’s a reason that they hid this plan until nearly half of Victorians had already voted, because they know it’s a terrible plan that people would not support. And if they were honest with the Victorian people earlier about their plans to sell off all our assets from under our feet, including our sewerage, I do not think that the Victorian community would support it. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-28T01:24:42+00:00",
+      "published": "2026-11-28T01:44:33+00:00",
       "image": "https://i.guim.co.uk/img/media/bb2db059012c85c6edac6613a79e6cc7f16055f1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=033aba6c79bd77cdb16e282fc8422b86"
     },
     {
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26331708903788-1795825299.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: URLError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
