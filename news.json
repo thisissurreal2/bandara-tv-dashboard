@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-28T01:30:34.454690+00:00",
+  "updated_at": "2026-11-28T01:45:27.646373+00:00",
   "national": [
+    {
+      "title": "Massa Rusak Rumah Pelaku Penganiayaan Maut di Malang, 2 Mobil Dibakar",
+      "summary": "Ratusan orang menggeruduk dan merusak rumah salah satu terduga pelaku penganiayaan maut siswi SMA Kabupaten Malang, Jumat (27/11) malam.",
+      "url": "https://www.cnnindonesia.com/nasional/20261126144126-12-1431881/massa-rusak-rumah-pelaku-penganiayaan-maut-di-malang-2-mobil-dibakar",
+      "source": "CNN Indonesia",
+      "published": "2026-11-28T01:30:47+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2024/09/29/situasi-keamanan-pascapenetapan-cagub-dan-wagub-papua-barat-daya_169.jpeg?w=360&q=90"
+    },
     {
       "title": "OJK: Tidak ada kekhawatiran terhadap kondisi likuiditas perbankan",
       "summary": "Otoritas Jasa Keuangan (OJK) memandang bahwa sejauh ini tidak ada kekhawatiran terhadap kondisi likuiditas industri ...",
@@ -16,14 +24,6 @@
       "source": "Detik",
       "published": "2026-11-28T01:21:10+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2025/04/22/ketua-komisi-x-dpr-ri-hetifah-sjaifudian-1745274573046_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Pernyataan Budi Arie usai Diperiksa soal Kasus Sadap Prabowo",
-      "summary": "Budi diperiksa selama kurang lebih 10 jam oleh Direktorat Tindak Pidana Umum Bareskrim Polri. Ia mengaku dicecar penyidik dengan total 42 pertanyaan.",
-      "url": "https://www.cnnindonesia.com/nasional/20261128074715-12-1432583/pernyataan-budi-arie-usai-diperiksa-soal-kasus-sadap-prabowo",
-      "source": "CNN Indonesia",
-      "published": "2026-11-28T01:01:17+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/27/bareskrim-polri-periksa-budi-arie-1795787937904_169.jpeg?w=360&q=90"
     }
   ],
   "international": [
@@ -32,8 +32,16 @@
       "summary": "Follow live updates today and results tonight as Labor’s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria’s state election Victorian election 2026 guide: what you need to know Confused about who to vote for? Check the parties’ key promises and policies See all of our Victorian state election coverage Get our daily political email , free app or daily news podcast ‘Greens surge is coming’, Victorian leader says The Victorian Greens leader, Ellen Sandell , told ABC’s Weekend Breakfast the Greens are competitive in seats Labor has held for 99 years, showing the “Greens surge is coming” amid disaffection with Labor. What people are telling me is that they are just so dismayed and disappointed at how Labor has moved away from their traditional values. They have really followed the Liberals and One Nation down a rightwing rabbit-hole, and people are sick of that. It’s not about me. If I’m given that honour, we’re absolutely ready and I’m ready. But this is about Victorians and fixing this state. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-28T01:16:55+00:00",
+      "published": "2026-11-28T01:24:42+00:00",
       "image": "https://i.guim.co.uk/img/media/bb2db059012c85c6edac6613a79e6cc7f16055f1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=033aba6c79bd77cdb16e282fc8422b86"
+    },
+    {
+      "title": "Nigeria's 'ultimate hard man' who become an online meme",
+      "summary": "Before becoming a household name in the Nigerian film industry, Edochie built a career in broadcasting.",
+      "url": "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-28T01:20:35+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c91e/live/0a998920-ea7a-11f1-a094-5fdc692f3e33.jpg"
     },
     {
       "title": "Thousands of Puerto Ricans join ‘Day of National Outrage’ protest",
@@ -42,15 +50,11 @@
       "source": "Al Jazeera",
       "published": "2026-11-28T01:00:00+00:00",
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AP26331708903788-1795825299.jpg?resize=1920%2C1440"
-    },
-    {
-      "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
-      "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions.",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-28T00:56:55+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6398/live/0d6eb230-5b6c-11f1-a914-b7de1b16af02.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
