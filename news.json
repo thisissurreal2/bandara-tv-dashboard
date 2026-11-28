@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T09:30:32.117860+00:00",
+  "updated_at": "2026-11-28T09:45:27.307703+00:00",
   "national": [
     {
       "title": "Komnas Perempuan Serukan Solidaritas Internasional Dukung Hak Perempuan Afghanistan",
@@ -28,20 +28,20 @@
   ],
   "international": [
     {
-      "title": "Victorian election 2026 live results: Coalition projected to defeat Labor as One Nation surges against Nationals",
+      "title": "Gaza’s chess players survive a genocide and rebuild a community",
+      "summary": "Gaza's chess players are returning to the sport after three years of genocide.",
+      "url": "https://www.aljazeera.com/features/2026/11/28/gazas-chess-players-survive-a-genocide-and-rebuild-a-community?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-28T09:41:45+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/%D8%B4%D8%B7%D8%B1%D9%86%D8%AC-%D8%B3%D8%AA%D9%84%D9%8A%D9%85%D8%AA-1795850701.jpg?resize=1200%2C630"
+    },
+    {
+      "title": "Victorian election 2026 live results: Ben Carroll projected to lose seat as Coalition wipes out Labor",
       "summary": "Follow live updates and results tonight after ABC says Labor has no path to victory, with Jess Wilson to become state’s 51st premier Full report: Coalition projected to win Victorian election, ending 12 years of Labor government Victoria election live results: votes tracker, map and seat counts Victorian election 2026 guide: what you need to know Check the parties’ key promises and policies See all of our Victorian state election coverage Get our daily political email , free app or daily news podcast Federal politicians largely absent from state election Just following on from the last post, it is notable that the prime minister, Anthony Albanese , did not do a press conference with the state premier, Ben Carroll , during the campaign, and the federal Liberal leader, Angus Taylor , did just one press conference with his state counterpart, Jess Wilson , during the campaign. I give a shoutout to all those Labor party workers who are handing out how-to-votes, the candidates who are working their guts out, but they know that it’s going to be very, very tough. And we know that this election campaign has been dominated by really the sorts of issues that you get when a government’s been in for more than 10 years. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-28T09:20:00+00:00",
+      "published": "2026-11-28T09:34:43+00:00",
       "image": "https://i.guim.co.uk/img/media/bb2db059012c85c6edac6613a79e6cc7f16055f1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=033aba6c79bd77cdb16e282fc8422b86"
-    },
-    {
-      "title": "Spain faces political shift as far right gains ground",
-      "summary": "Spain faces political shift as far right gains ground",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/spain-faces-political-shift-as-far-right-gains-ground?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-28T08:54:02+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795856034.jpg?resize=1539%2C1080&quality=80"
     },
     {
       "title": "Australian wrestler Bronson Reed dies aged 38, WWE says",
@@ -52,5 +52,9 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/297c/live/0c5c0a20-eafd-11f1-83de-2b6b9d423090.jpg"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
