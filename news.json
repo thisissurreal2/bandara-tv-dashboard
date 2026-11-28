@@ -1,6 +1,14 @@
 {
-  "updated_at": "2026-11-28T13:00:47.942982+00:00",
+  "updated_at": "2026-11-28T13:15:25.470888+00:00",
   "national": [
+    {
+      "title": "Polisi Tetapkan Ketua Kadin Gowa Jadi Tersangka Persetujuan Bangunan",
+      "summary": "Penyidik Polda Sulsel menetapkan Ketua Kadin Gowa sebagai tersangka baru dalam kasus izin bangunan. Tersangka belum ditahan dengan dalih kooperatif.",
+      "url": "https://www.cnnindonesia.com/nasional/20261128192514-12-1432765/polisi-tetapkan-ketua-kadin-gowa-jadi-tersangka-persetujuan-bangunan",
+      "source": "CNN Indonesia",
+      "published": "2026-11-28T13:10:30+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2015/07/24/0676200f-0af8-4c87-a754-bff6467e55d7_169.jpg?w=360&q=90"
+    },
     {
       "title": "Atap Sekolah di Serpong Porak-poranda Timpa 7 Rumah Saat Hujan Deras",
       "summary": "Hujan deras dan angin kencang di Serpong, Tangerang Selatan, merusak atap sekolah dan menimpa rumah. Tidak ada korban jiwa, kerugian materiil masih dihitung.",
@@ -8,14 +16,6 @@
       "source": "Detik",
       "published": "2026-11-28T12:54:02+00:00",
       "image": "https://akcdn.detik.net.id/community/media/visual/2025/11/04/ilustrasi-hujan-petir-1762239904688_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Polisi Temukan Unsur Perencanaan di Penganiayaan Maut Siswi Malang",
-      "summary": "Polisi mengungkap unsur perencanaan dalam kasus penganiayaan maut siswi di Malang. Penyelidikan terus dilakukan untuk mengungkap fakta lebih lanjut.",
-      "url": "https://www.cnnindonesia.com/nasional/20261128183347-12-1432746/polisi-temukan-unsur-perencanaan-di-penganiayaan-maut-siswi-malang",
-      "source": "CNN Indonesia",
-      "published": "2026-11-28T12:40:01+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/28/kapolda-jatim-larang-4-tersangka-penganiayaan-maut-malang-ikut-ujian-1795862559088_169.jpeg?w=360&q=90"
     },
     {
       "title": "Indonesia tegaskan Samudra Hindia bukan sekadar arena saing geopolitik",
@@ -28,29 +28,33 @@
   ],
   "international": [
     {
-      "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
-      "summary": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
-      "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
+      "title": "Argentina's bid to stop Falklands oil drilling rejected",
+      "summary": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
+      "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
       "source": "BBC",
-      "published": "2026-11-28T12:49:44+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2bd9/live/19b5f490-eb1d-11f1-8743-3f686b14075c.jpg"
+      "published": "2026-11-28T13:02:39+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1615/live/b6e6bd30-eb1d-11f1-8743-3f686b14075c.jpg"
     },
     {
-      "title": "Victorian election 2026 live results: Jess Wilson vows to ‘bring back hope’ to Victoria after historic victory over Labor",
-      "summary": "Follow live updates and results tonight as Jess Wilson becomes state’s 51st premier, with Labor leader Ben Carroll projected to lose seat Full report: Ben Carroll concedes Victorian election to Jess Wilson, ending 12 years of Labor government Victoria election live results: votes tracker, map and seat counts Victorian election 2026 guide: what you need to know Check the parties’ key promises and policies See all of our Victorian state election coverage Get our daily political email , free app or daily news podcast Federal politicians largely absent from state election Just following on from the last post, it is notable that the prime minister, Anthony Albanese , did not do a press conference with the state premier, Ben Carroll , during the campaign, and the federal Liberal leader, Angus Taylor , did just one press conference with his state counterpart, Jess Wilson , during the campaign. I give a shoutout to all those Labor party workers who are handing out how-to-votes, the candidates who are working their guts out, but they know that it’s going to be very, very tough. And we know that this election campaign has been dominated by really the sorts of issues that you get when a government’s been in for more than 10 years. Continue reading...",
-      "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
+      "title": "Black barrister tells of racist abuse after Rupert Lowe viral tweet",
+      "summary": "Exclusive: Hard-right MP claimed photo featuring Joseph Ashong was sign of discrimination against white Britons A newly qualified black barrister who took part in a group photo that went viral after Rupert Lowe cited the image as evidence of discrimination against white Britons has said he has never before experienced such racism in the UK. Joseph Ashong, who was in a cohort attending their “call to the bar” ceremony in London, said he was amazed and upset by the reaction to the picture as it was viewed by millions on the afternoon of the ceremony. Continue reading...",
+      "url": "https://www.theguardian.com/law/2026/nov/28/black-barrister-tells-of-racist-abuse-after-rupert-lowe-viral-tweet",
       "source": "The Guardian",
-      "published": "2026-11-28T12:38:46+00:00",
-      "image": "https://i.guim.co.uk/img/media/bb2db059012c85c6edac6613a79e6cc7f16055f1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=033aba6c79bd77cdb16e282fc8422b86"
+      "published": "2026-11-28T13:00:40+00:00",
+      "image": "https://i.guim.co.uk/img/media/af42e39c8f8a57455f945e49972147e7db725e9b/364_341_1213_970/master/1213.jpg?width=140&quality=85&auto=format&fit=max&s=7c6d98589eb50d16a1348a8f90680c31"
     },
     {
-      "title": "Tarantulas, scorpions and more found in luggage at Peru airport",
-      "summary": "Tarantulas, scorpions and more found in luggage at Peru airport",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/tarantulas-scorpions-and-more-found-in-luggage-at-peru-airport?traffic_source=rss",
+      "title": "Norse Atlantic ends flights: How Iran war continues to batter aviation",
+      "summary": "The Norwegian budget carrier is the latest airline to fold under fuel costs driven by the Strait of Hormuz crisis.",
+      "url": "https://www.aljazeera.com/news/2026/11/28/norse-atlantic-ends-flights-how-iran-war-continues-to-batter-aviation?traffic_source=rss",
       "source": "Al Jazeera",
-      "published": "2026-11-28T12:21:52+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795868503.jpg?resize=1920%2C1080&quality=80"
+      "published": "2026-11-28T12:56:53+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/2026-11-27T084023Z_1981778991_RC2KVS9E178Z_RTRMADP_3_NORSE-ATLANTIC-LIQUIDITY-1795868147_9dd6c1-1795868228.jpg?resize=1200%2C630&quality=80"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
