@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-28T04:45:27.965112+00:00",
+  "updated_at": "2026-11-28T05:00:38.517423+00:00",
   "national": [
     {
-      "title": "Kronologi Massa Geruduk Rumah ABH Kasus Pengeroyokan Maut di Malang",
-      "summary": "Massa menyerang rumah CAN (16), salah satu anak berhadapan dengan hukum (ABH) dalam kasus pengeroyokan yang menewaskan SN (17).",
-      "url": "https://www.cnnindonesia.com/nasional/20261128105315-12-1432622/kronologi-massa-geruduk-rumah-abh-kasus-pengeroyokan-maut-di-malang",
+      "title": "FOTO: Banjir Luapan Sungai Krueng Meureubo Rendam Aceh Barat",
+      "summary": "Banjir melanda wilayah Aceh Barat imbas tingginya intensitas hujan dan meluapnya daerah aliran sungai (DAS) Krueng Meureubo pada Jumat (27/11).",
+      "url": "https://www.cnnindonesia.com/nasional/20261128103301-22-1432611/foto-banjir-luapan-sungai-krueng-meureubo-rendam-aceh-barat",
       "source": "CNN Indonesia",
-      "published": "2026-11-28T04:30:15+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2026/11/28/olah-tkp-perusakan-buntut-kasus-perundungan-siswi-di-malang-1795837546419_169.jpeg?w=360&q=90"
+      "published": "2026-11-28T05:00:52+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/28/banjir-luapan-aliran-sungai-di-aceh-barat-1795836765986_169.jpeg?w=360&q=90"
     },
     {
       "title": "Hamas Ungkap Upaya Israel Bunuh Putra Khalil al-Hayya",
@@ -28,11 +28,19 @@
   ],
   "international": [
     {
+      "title": "El Nino-linked deluges flood cities in Peru, Ecuador",
+      "summary": "Heavy rains affect 2,000 families in Peru's Piura and 47,000 people in Ecuador, where 34 deaths have been reported.",
+      "url": "https://www.aljazeera.com/news/2026/11/28/el-nino-linked-deluges-flood-cities-in-peru-ecuador?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-28T04:57:32+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/AFP__20261127__D8VC4PZ__v1__HighRes__PeruClimateWeatherFloodElNino-1795838301.jpg?resize=1920%2C1440"
+    },
+    {
       "title": "Victorian election 2026 live: voters head to the polls as Coalition seeks to topple Labor – latest news",
       "summary": "Follow live updates today and results tonight as Labor’s Ben Carroll and Liberal leader Jess Wilson seek victory in Victoria’s state election Victorian election 2026 guide: what you need to know Confused about who to vote for? Check the parties’ key promises and policies See all of our Victorian state election coverage Get our daily political email , free app or daily news podcast Federal politicians largely absent from state election Just following on from the last post, it is notable that the prime minister, Anthony Albanese , did not do a press conference with the state premier, Ben Carroll , during the campaign, and the federal Liberal leader, Angus Taylor , did just one press conference with his state counterpart, Jess Wilson , during the campaign. I give a shoutout to all those Labor party workers who are handing out how-to-votes, the candidates who are working their guts out, but they know that it’s going to be very, very tough. And we know that this election campaign has been dominated by really the sorts of issues that you get when a government’s been in for more than 10 years. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-28T04:31:18+00:00",
+      "published": "2026-11-28T04:46:33+00:00",
       "image": "https://i.guim.co.uk/img/media/bb2db059012c85c6edac6613a79e6cc7f16055f1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=033aba6c79bd77cdb16e282fc8422b86"
     },
     {
@@ -42,14 +50,6 @@
       "source": "BBC",
       "published": "2026-11-28T04:19:16+00:00",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faea/live/b54be270-eadc-11f1-81da-2ff518b71d00.jpg"
-    },
-    {
-      "title": "The split-second teamwork behind an F1 pit stop",
-      "summary": "Al Jazeera’s Joanna Gasiorowska stepped into the pit lane to find out just how hard it is to be in a F1 pit crew.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/the-split-second-teamwork-behind-an-f1-pit-stop?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-28T04:01:24+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/image-1795838476.jpg?resize=1920%2C1080&quality=80"
     }
   ],
   "feed_warnings": [
