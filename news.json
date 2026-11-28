@@ -1,55 +1,55 @@
 {
-  "updated_at": "2026-11-28T10:30:40.573025+00:00",
+  "updated_at": "2026-11-28T10:45:25.400340+00:00",
   "national": [
     {
-      "title": "Menkes Ungkap Luhut Jadi Pasien RS Harapan Kita: Tak Perlu Lagi ke Luar Negeri",
-      "summary": "Menkes Gunadi mengungkapkan Luhut Binsar Pandjaitan kini menjadi pasien di RS Harapan Kita. Luhut tak perlu lagi berobat ke luar negeri.",
-      "url": "https://news.detik.com/berita/d-8774326/menkes-ungkap-luhut-jadi-pasien-rs-harapan-kita-tak-perlu-lagi-ke-luar-negeri",
+      "title": "Puncak HUT PGRI, Walkot Tangerang Beberkan Program Dukungan untuk Guru",
+      "summary": "Pemkot Tangerang perkuat perhatian terhadap guru dengan insentif dan sekolah gratis. Wali Kota Sachrudin apresiasi HUT PGRI dan Hari Guru Nasional 2026.",
+      "url": "https://news.detik.com/berita/d-8774345/puncak-hut-pgri-walkot-tangerang-beberkan-program-dukungan-untuk-guru",
       "source": "Detik",
-      "published": "2026-11-28T10:22:21+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/28/menteri-kesehatan-budi-gunadi-sadikin-saat-peresmian-gedung-rs-harapan-kita-1795861289601_169.jpeg?w=360&q=90"
+      "published": "2026-11-28T10:40:05+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/28/pemkot-tangerang-1795862373927.jpeg?w=360&q=90"
     },
     {
-      "title": "Imigrasi Gagalkan Keberangkatan 39 WNI ke Rusia, Diduga Korban TPPO",
-      "summary": "Direktorat Jenderal Imigrasi menggagalkan keberangkatan 39 WNI yang diduga korban TPPO untuk jadi tentara bayaran Rusia.",
-      "url": "https://www.cnnindonesia.com/nasional/20261128155344-12-1432692/imigrasi-gagalkan-keberangkatan-39-wni-ke-rusia-diduga-korban-tppo",
-      "source": "CNN Indonesia",
-      "published": "2026-11-28T10:20:00+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2025/01/08/ilustrasi-human-trafficking-3_169.jpeg?w=360&q=90"
-    },
-    {
-      "title": "Prabowo apresiasi RS Harapan Kita yang mandiri secara keuangan",
-      "summary": "Presiden Prabowo Subianto berterima kasih kepada Rumah Sakit Jantung dan Pembuluh Darah (RSJPD) Harapan Kita atas ...",
-      "url": "https://www.antaranews.com/berita/5884995/prabowo-apresiasi-rs-harapan-kita-yang-mandiri-secara-keuangan",
+      "title": "Prabowo: Saya dulu tentara, tapi sebetulnya takut sama dokter",
+      "summary": "Presiden Prabowo Subianto mengaku takut kepada dokter dan gugup setiap melihat jarum suntik, meski sebagai mantan ...",
+      "url": "https://www.antaranews.com/berita/5885107/prabowo-saya-dulu-tentara-tapi-sebetulnya-takut-sama-dokter",
       "source": "ANTARA",
-      "published": "2026-11-28T10:06:31+00:00",
-      "image": "https://img.antaranews.com/cache/800x533/2026/11/28/pres-hakit.jpeg"
+      "published": "2026-11-28T10:38:01+00:00",
+      "image": "https://img.antaranews.com/cache/800x533/2026/11/28/rs-harkit-pres.jpg"
+    },
+    {
+      "title": "Profil Arif Kurniawan yang Disebut Istana Aktor Intelektual Makar",
+      "summary": "Pengusaha tambang nikel Arif Kurniawan disebut Istana sebagai aktor intelektual makar terhadap Presiden Prabowo.",
+      "url": "https://www.cnnindonesia.com/nasional/20261128162244-12-1432708/profil-arif-kurniawan-yang-disebut-istana-aktor-intelektual-makar",
+      "source": "CNN Indonesia",
+      "published": "2026-11-28T10:37:06+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2017/08/10/04c21fb8-c4c4-4ff9-9fe0-dacdb9f8a6ae_169.jpg?w=360&q=90"
     }
   ],
   "international": [
+    {
+      "title": "Two visions of Spain collide as voters weigh PM Sanchez’s record",
+      "summary": "Socialist PM Sanchez seeks re-election but polls suggest conservative PP and far-right Vox could reach majority.",
+      "url": "https://www.aljazeera.com/news/2026/11/28/two-visions-of-spain-collide-as-voters-weigh-sanchez-record?traffic_source=rss",
+      "source": "Al Jazeera",
+      "published": "2026-11-28T10:36:41+00:00",
+      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6b0a958205d5-1795855746.jpg?resize=1920%2C1440"
+    },
+    {
+      "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+      "summary": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC",
+      "published": "2026-11-28T10:34:58+00:00",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b215/live/7a8dcfc0-eacf-11f1-b107-c5fb3c6f82eb.jpg"
+    },
     {
       "title": "Victorian election 2026 live results: Ben Carroll projected to lose seat as Coalition wipes out Labor",
       "summary": "Follow live updates and results tonight after ABC says Labor has no path to victory, with Jess Wilson to become state’s 51st premier Full report: Ben Carroll concedes Victorian election to Jess Wilson, ending 12 years of Labor government Victoria election live results: votes tracker, map and seat counts Victorian election 2026 guide: what you need to know Check the parties’ key promises and policies See all of our Victorian state election coverage Get our daily political email , free app or daily news podcast Federal politicians largely absent from state election Just following on from the last post, it is notable that the prime minister, Anthony Albanese , did not do a press conference with the state premier, Ben Carroll , during the campaign, and the federal Liberal leader, Angus Taylor , did just one press conference with his state counterpart, Jess Wilson , during the campaign. I give a shoutout to all those Labor party workers who are handing out how-to-votes, the candidates who are working their guts out, but they know that it’s going to be very, very tough. And we know that this election campaign has been dominated by really the sorts of issues that you get when a government’s been in for more than 10 years. Continue reading...",
       "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
       "source": "The Guardian",
-      "published": "2026-11-28T10:19:36+00:00",
+      "published": "2026-11-28T10:34:08+00:00",
       "image": "https://i.guim.co.uk/img/media/bb2db059012c85c6edac6613a79e6cc7f16055f1/0_0_5000_4000/master/5000.jpg?width=140&quality=85&auto=format&fit=max&s=033aba6c79bd77cdb16e282fc8422b86"
-    },
-    {
-      "title": "Seven students killed and nearly 100 injured in explosion in Afghanistan, official says",
-      "summary": "A spokesman for Afghanistan's interior ministry says the blast was caused by carelessness at an explosives depot nearby.",
-      "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC",
-      "published": "2026-11-28T10:14:37+00:00",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb14/live/1c031d10-eb16-11f1-90b9-a9d17de9c0bd.png"
-    },
-    {
-      "title": "Several students killed in blast beside Afghan school",
-      "summary": "At least six students have been killed and 97 injured in an explosion beside a middle school in Asadabad, Afghanistan.",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/several-students-killed-in-blast-beside-afghan-school?traffic_source=rss",
-      "source": "Al Jazeera",
-      "published": "2026-11-28T10:05:26+00:00",
-      "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/Hurriyat_Radio_Pashto_-______________________________________________________________________UdX8dZ.mp4.00_00_01_02.Still001-1795860302.jpg?resize=1200%2C630"
     }
   ],
   "feed_warnings": []
