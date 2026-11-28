@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-11-28T14:30:43.481657+00:00",
+  "updated_at": "2026-11-28T14:45:24.757316+00:00",
   "national": [
     {
-      "title": "DPR dan Pemerintah Prioritaskan NIK Akses Tunggal 22 Layanan Publik",
-      "summary": "DPR dan pemerintah prioritaskan NIK sebagai identitas tunggal untuk 22 layanan publik dalam revisi UU Adminduk.",
-      "url": "https://www.cnnindonesia.com/nasional/20261128204048-20-1432776/dpr-dan-pemerintah-prioritaskan-nik-akses-tunggal-22-layanan-publik",
-      "source": "CNN Indonesia",
-      "published": "2026-11-28T14:20:15+00:00",
-      "image": "https://akcdn.detik.net.id/visual/2025/08/26/layanan-jemput-bola-ktp-el-dan-ikd-1756183349882_169.jpeg?w=360&q=90"
+      "title": "'Gerbang' di Margonda Pembatas Jabar dan Jakarta",
+      "summary": "Gapura perbatasan Jabar dan Jakarta di Jalan Margonda Raya telah selesai dibangun. Dilengkapi tempat duduk, dan lampu, proyek ini menelan biaya Rp 3 miliar.",
+      "url": "https://news.detik.com/berita/d-8774631/gerbang-di-margonda-pembatas-jabar-dan-jakarta",
+      "source": "Detik",
+      "published": "2026-11-28T14:38:24+00:00",
+      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/27/pemprov-jawa-barat-jabar-telah-menyelesaikan-pembangunan-gapura-perbatasan-antara-jabar-dan-dki-jakarta-devidetikcom-1795772472874_169.jpeg?w=360&q=90"
     },
     {
-      "title": "Batman Beraksi Atur Lalu Lintas di Jalanan Depok",
-      "summary": "Muhammad Yunus mengatur lalu lintas di Jalan Ir H Juanda, Depok, mengenakan kostum Batman. Aksi unik ini dilakukan untuk menghibur sekaligus cegah kecelakaan.",
-      "url": "https://news.detik.com/foto-news/d-8774266/batman-beraksi-atur-lalu-lintas-di-jalanan-depok",
-      "source": "Detik",
-      "published": "2026-11-28T14:00:58+00:00",
-      "image": "https://akcdn.detik.net.id/community/media/visual/2026/11/28/batman-beraksi-atur-lalu-lintas-di-jalanan-depok-1795859366507.jpeg?w=360&q=90"
+      "title": "Munarman Kaitkan Dalang Tragedi KM 50 dengan Kasus Penyadapan Prabowo",
+      "summary": "Dalang tragedi KM 50 pada 2020 disebut Advokat Munarman terkait penyadapan Presiden Prabowo Subianto.",
+      "url": "https://www.cnnindonesia.com/nasional/20261128211931-12-1432781/munarman-kaitkan-dalang-tragedi-km-50-dengan-kasus-penyadapan-prabowo",
+      "source": "CNN Indonesia",
+      "published": "2026-11-28T14:31:33+00:00",
+      "image": "https://akcdn.detik.net.id/visual/2026/11/28/munarman-tuntut-tragedi-km-50-diusut-tuntas-1795861642806_169.jpeg?w=360&q=90"
     },
     {
       "title": "Kongres pemilihan ketua umum PSSI digelar Januari 2027",
@@ -28,12 +28,12 @@
   ],
   "international": [
     {
-      "title": "Costa Rica bars UN rapporteur on Palestinian territories from entering the country",
-      "summary": "Francesca Albanese, leading critic of Israeli abuses in Gaza and West Bank, barred on ‘national security grounds’ Costa Rica barred entry to the UN special rapporteur on the Israel-occupied Palestinian territories, Francesca Albanese, earning the ire of the UN human rights chief. Albanese, an Italian national, went to Costa Rica to receive an honorary doctorate from the University of Costa Rica. She was stopped at the airport in San José and not allowed to enter the country, and was transferred to a hotel before she travelled to Mexico on Saturday. Continue reading...",
-      "url": "https://www.theguardian.com/world/2026/nov/28/costa-rica-bars-un-rapporteur-francesca-albanese-palestinian-territories",
+      "title": "High-security prisoner used soap to escape despite being handcuffed and chained to officer",
+      "summary": "Exclusive: Inmate from HMP Manchester now back in custody after 13 hours on the run A prisoner from one of England and Wales’s most dysfunctional high-security jails is believed to have used soap to help escape from officers while visiting a hospital for treatment. The 36-year-old detained at HMP Manchester managed to slip away despite being cuffed and chained to an officer, sources told the Guardian. He is believed to have lathered his metal cuff with liquid soap and slipped his hand out while being given privacy to use a bathroom. Continue reading...",
+      "url": "https://www.theguardian.com/society/2026/nov/28/high-security-prisoner-used-soap-to-escape-despite-being-handcuffed-and-chained-to-officer",
       "source": "The Guardian",
-      "published": "2026-11-28T14:11:53+00:00",
-      "image": "https://i.guim.co.uk/img/media/dd19625908432728ee2f877926ca5d47ee00d7e3/0_0_3271_2617/master/3271.jpg?width=140&quality=85&auto=format&fit=max&s=71e60ba4ef27595b14d950748ed6737d"
+      "published": "2026-11-28T14:22:04+00:00",
+      "image": "https://i.guim.co.uk/img/media/2c85d9947f76a75500e3598151cd19ae87eda3c1/311_0_6707_5368/master/6707.jpg?width=140&quality=85&auto=format&fit=max&s=72bdd976406801d5661c1afbfdde8f7f"
     },
     {
       "title": "Afghanistan explosion kills 10 students and injures more than 100, official says",
@@ -52,9 +52,5 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0855ffcdbc7-1795708415.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": [
-    "Detik: TimeoutError",
-    "Detik: no fresh stories",
-    "Detik: keeping previous story"
-  ]
+  "feed_warnings": []
 }
