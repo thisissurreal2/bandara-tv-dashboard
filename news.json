@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T14:45:24.757316+00:00",
+  "updated_at": "2026-11-28T15:00:40.175440+00:00",
   "national": [
     {
       "title": "'Gerbang' di Margonda Pembatas Jabar dan Jakarta",
@@ -52,5 +52,9 @@
       "image": "https://www.aljazeera.com/wp-content/uploads/2026/11/ap_6b0855ffcdbc7-1795708415.jpg?resize=1920%2C1440"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Detik: URLError",
+    "Detik: no fresh stories",
+    "Detik: keeping previous story"
+  ]
 }
